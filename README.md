@@ -6,7 +6,7 @@ Daily lists are the record. Weekly and monthly pages are stored as secondary sna
 
 ## What gets scraped
 
-Twelve pages, every four hours via [GitHub Actions](.github/workflows/trending.yml):
+Twelve pages, every six hours via [GitHub Actions](.github/workflows/trending.yml):
 
 | Page | Periods |
 | --- | --- |

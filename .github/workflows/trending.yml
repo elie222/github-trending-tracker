@@ -2,8 +2,8 @@ name: Trending scrape
 
 on:
   schedule:
-    # Six times a day, every four hours. Minute 17 avoids the top-of-hour stampede.
-    - cron: "17 */4 * * *"
+    # Four times a day, every six hours. Minute 17 avoids the top-of-hour stampede.
+    - cron: "17 */6 * * *"
   workflow_dispatch:
 
 permissions:
