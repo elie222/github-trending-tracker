@@ -1,0 +1,10 @@
+{
+  "developers": ["elie222"],
+  "repoOwners": ["elie222"],
+  "repoNames": ["inbox-zero", "rakazo"],
+  "backfill": {
+    "archiveRepo": "antonkomarev/github-trending-archive",
+    "developersSince": "2024-11-17",
+    "repositoriesSince": "2021-12-31"
+  }
+}
