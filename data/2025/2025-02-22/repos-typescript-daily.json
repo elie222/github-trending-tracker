@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 1,
+  "date": "2025-02-22",
+  "list": "repos",
+  "language": "typescript",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/typescript?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2025-02-22T00:00:00.000Z",
+      "scrapedAtPrecision": "day",
+      "source": "backfill",
+      "sourceUrl": "https://github.com/antonkomarev/github-trending-archive/blob/master/archive/repository/2025/2025-02-22/typescript.json",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "treetrum/amazon-kindle-bulk-downloader",
+          "url": "https://github.com/treetrum/amazon-kindle-bulk-downloader",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 2,
+          "name": "mastra-ai/mastra",
+          "url": "https://github.com/mastra-ai/mastra",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 3,
+          "name": "fastapi/full-stack-fastapi-template",
+          "url": "https://github.com/fastapi/full-stack-fastapi-template",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 4,
+          "name": "mountain-loop/yaak",
+          "url": "https://github.com/mountain-loop/yaak",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 5,
+          "name": "infiniflow/ragflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 6,
+          "name": "yarnpkg/berry",
+          "url": "https://github.com/yarnpkg/berry",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 7,
+          "name": "hcengineering/platform",
+          "url": "https://github.com/hcengineering/platform",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 8,
+          "name": "elie222/inbox-zero",
+          "url": "https://github.com/elie222/inbox-zero",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 9,
+          "name": "ant-design/x",
+          "url": "https://github.com/ant-design/x",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 10,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 11,
+          "name": "docmost/docmost",
+          "url": "https://github.com/docmost/docmost",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 12,
+          "name": "yamadashy/repomix",
+          "url": "https://github.com/yamadashy/repomix",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 13,
+          "name": "labring/sealos",
+          "url": "https://github.com/labring/sealos",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 14,
+          "name": "continuedev/continue",
+          "url": "https://github.com/continuedev/continue",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 15,
+          "name": "gitroomhq/postiz-app",
+          "url": "https://github.com/gitroomhq/postiz-app",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 16,
+          "name": "payloadcms/payload",
+          "url": "https://github.com/payloadcms/payload",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 17,
+          "name": "aws-samples/aws-genai-llm-chatbot",
+          "url": "https://github.com/aws-samples/aws-genai-llm-chatbot",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 18,
+          "name": "laurent22/joplin",
+          "url": "https://github.com/laurent22/joplin",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 19,
+          "name": "CopilotKit/CopilotKit",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 20,
+          "name": "Koenkk/zigbee-herdsman-converters",
+          "url": "https://github.com/Koenkk/zigbee-herdsman-converters",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 21,
+          "name": "langgenius/dify",
+          "url": "https://github.com/langgenius/dify",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        }
+      ]
+    }
+  ],
+  "best": [
+    {
+      "kind": "repo",
+      "key": "elie222/inbox-zero",
+      "url": "https://github.com/elie222/inbox-zero",
+      "bestRank": 8,
+      "scrapedAt": "2025-02-22T00:00:00.000Z",
+      "starsToday": null,
+      "featuredRepo": null
+    }
+  ]
+}

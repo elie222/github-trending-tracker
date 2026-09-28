@@ -1,0 +1,249 @@
+{
+  "schemaVersion": 1,
+  "date": "2025-04-21",
+  "list": "repos",
+  "language": "typescript",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/typescript?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2025-04-21T00:00:00.000Z",
+      "scrapedAtPrecision": "day",
+      "source": "backfill",
+      "sourceUrl": "https://github.com/antonkomarev/github-trending-archive/blob/master/archive/repository/2025/2025-04-21/typescript.json",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "nocobase/nocobase",
+          "url": "https://github.com/nocobase/nocobase",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 2,
+          "name": "elie222/inbox-zero",
+          "url": "https://github.com/elie222/inbox-zero",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 3,
+          "name": "wandb/openui",
+          "url": "https://github.com/wandb/openui",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 4,
+          "name": "docmost/docmost",
+          "url": "https://github.com/docmost/docmost",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 5,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 6,
+          "name": "bluesky-social/social-app",
+          "url": "https://github.com/bluesky-social/social-app",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 7,
+          "name": "discordjs/discord.js",
+          "url": "https://github.com/discordjs/discord.js",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 8,
+          "name": "yangshun/tech-interview-handbook",
+          "url": "https://github.com/yangshun/tech-interview-handbook",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 9,
+          "name": "Vendicated/Vencord",
+          "url": "https://github.com/Vendicated/Vencord",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 10,
+          "name": "assistant-ui/assistant-ui",
+          "url": "https://github.com/assistant-ui/assistant-ui",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 11,
+          "name": "immich-app/immich",
+          "url": "https://github.com/immich-app/immich",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 12,
+          "name": "David-patrick-chuks/Instagram-AI-Agent",
+          "url": "https://github.com/David-patrick-chuks/Instagram-AI-Agent",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 13,
+          "name": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 14,
+          "name": "lingodotdev/lingo.dev",
+          "url": "https://github.com/lingodotdev/lingo.dev",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 15,
+          "name": "solana-developers/program-examples",
+          "url": "https://github.com/solana-developers/program-examples",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 16,
+          "name": "oslook/cursor-ai-downloads",
+          "url": "https://github.com/oslook/cursor-ai-downloads",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 17,
+          "name": "FlowiseAI/Flowise",
+          "url": "https://github.com/FlowiseAI/Flowise",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 18,
+          "name": "better-auth/better-auth",
+          "url": "https://github.com/better-auth/better-auth",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 19,
+          "name": "monkeytypegame/monkeytype",
+          "url": "https://github.com/monkeytypegame/monkeytype",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 20,
+          "name": "zcaceres/markdownify-mcp",
+          "url": "https://github.com/zcaceres/markdownify-mcp",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        }
+      ]
+    }
+  ],
+  "best": [
+    {
+      "kind": "repo",
+      "key": "elie222/inbox-zero",
+      "url": "https://github.com/elie222/inbox-zero",
+      "bestRank": 2,
+      "scrapedAt": "2025-04-21T00:00:00.000Z",
+      "starsToday": null,
+      "featuredRepo": null
+    }
+  ]
+}

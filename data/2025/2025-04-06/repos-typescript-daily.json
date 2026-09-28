@@ -1,0 +1,227 @@
+{
+  "schemaVersion": 1,
+  "date": "2025-04-06",
+  "list": "repos",
+  "language": "typescript",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/typescript?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2025-04-06T00:00:00.000Z",
+      "scrapedAtPrecision": "day",
+      "source": "backfill",
+      "sourceUrl": "https://github.com/antonkomarev/github-trending-archive/blob/master/archive/repository/2025/2025-04-06/typescript.json",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 2,
+          "name": "liam-hq/liam",
+          "url": "https://github.com/liam-hq/liam",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 3,
+          "name": "kubernetes-sigs/headlamp",
+          "url": "https://github.com/kubernetes-sigs/headlamp",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 4,
+          "name": "maotoumao/MusicFree",
+          "url": "https://github.com/maotoumao/MusicFree",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 5,
+          "name": "firebase/genkit",
+          "url": "https://github.com/firebase/genkit",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 6,
+          "name": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 7,
+          "name": "Effect-TS/effect",
+          "url": "https://github.com/Effect-TS/effect",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 8,
+          "name": "directus/directus",
+          "url": "https://github.com/directus/directus",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 9,
+          "name": "elie222/inbox-zero",
+          "url": "https://github.com/elie222/inbox-zero",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 10,
+          "name": "supabase-community/supabase-mcp",
+          "url": "https://github.com/supabase-community/supabase-mcp",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 11,
+          "name": "aws-samples/generative-ai-use-cases",
+          "url": "https://github.com/aws-samples/generative-ai-use-cases",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 12,
+          "name": "t3-oss/create-t3-app",
+          "url": "https://github.com/t3-oss/create-t3-app",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 13,
+          "name": "softprops/action-gh-release",
+          "url": "https://github.com/softprops/action-gh-release",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 14,
+          "name": "bitwarden/clients",
+          "url": "https://github.com/bitwarden/clients",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 15,
+          "name": "open-metadata/OpenMetadata",
+          "url": "https://github.com/open-metadata/OpenMetadata",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 16,
+          "name": "MetaMask/metamask-extension",
+          "url": "https://github.com/MetaMask/metamask-extension",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 17,
+          "name": "baptisteArno/typebot.io",
+          "url": "https://github.com/baptisteArno/typebot.io",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 18,
+          "name": "stonith404/pingvin-share",
+          "url": "https://github.com/stonith404/pingvin-share",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        }
+      ]
+    }
+  ],
+  "best": [
+    {
+      "kind": "repo",
+      "key": "elie222/inbox-zero",
+      "url": "https://github.com/elie222/inbox-zero",
+      "bestRank": 9,
+      "scrapedAt": "2025-04-06T00:00:00.000Z",
+      "starsToday": null,
+      "featuredRepo": null
+    }
+  ]
+}

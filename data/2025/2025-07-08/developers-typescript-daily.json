@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "date": "2025-07-08",
+  "list": "developers",
+  "language": "typescript",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/developers/typescript?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2025-07-08T00:00:00.000Z",
+      "scrapedAtPrecision": "day",
+      "source": "backfill",
+      "sourceUrl": "https://github.com/antonkomarev/github-trending-archive/blob/master/archive/developer/2025/2025-07-08/typescript.json",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "elie222",
+          "name": null,
+          "url": "https://github.com/elie222",
+          "featuredRepo": null
+        },
+        {
+          "rank": 2,
+          "username": "dqbd",
+          "name": null,
+          "url": "https://github.com/dqbd",
+          "featuredRepo": null
+        },
+        {
+          "rank": 3,
+          "username": "th-ch",
+          "name": null,
+          "url": "https://github.com/th-ch",
+          "featuredRepo": null
+        },
+        {
+          "rank": 4,
+          "username": "idosal",
+          "name": null,
+          "url": "https://github.com/idosal",
+          "featuredRepo": null
+        },
+        {
+          "rank": 5,
+          "username": "charlesfrye",
+          "name": null,
+          "url": "https://github.com/charlesfrye",
+          "featuredRepo": null
+        },
+        {
+          "rank": 6,
+          "username": "azat-io",
+          "name": null,
+          "url": "https://github.com/azat-io",
+          "featuredRepo": null
+        },
+        {
+          "rank": 7,
+          "username": "1chooo",
+          "name": null,
+          "url": "https://github.com/1chooo",
+          "featuredRepo": null
+        },
+        {
+          "rank": 8,
+          "username": "canisminor1990",
+          "name": null,
+          "url": "https://github.com/canisminor1990",
+          "featuredRepo": null
+        },
+        {
+          "rank": 9,
+          "username": "IgnisDa",
+          "name": null,
+          "url": "https://github.com/IgnisDa",
+          "featuredRepo": null
+        },
+        {
+          "rank": 10,
+          "username": "thomasloven",
+          "name": null,
+          "url": "https://github.com/thomasloven",
+          "featuredRepo": null
+        },
+        {
+          "rank": 11,
+          "username": "xiongemi",
+          "name": null,
+          "url": "https://github.com/xiongemi",
+          "featuredRepo": null
+        },
+        {
+          "rank": 12,
+          "username": "pk910",
+          "name": null,
+          "url": "https://github.com/pk910",
+          "featuredRepo": null
+        },
+        {
+          "rank": 13,
+          "username": "ilyhalight",
+          "name": null,
+          "url": "https://github.com/ilyhalight",
+          "featuredRepo": null
+        },
+        {
+          "rank": 14,
+          "username": "fallenbagel",
+          "name": null,
+          "url": "https://github.com/fallenbagel",
+          "featuredRepo": null
+        },
+        {
+          "rank": 15,
+          "username": "kermanx",
+          "name": null,
+          "url": "https://github.com/kermanx",
+          "featuredRepo": null
+        },
+        {
+          "rank": 16,
+          "username": "Jas-SinghFSU",
+          "name": null,
+          "url": "https://github.com/Jas-SinghFSU",
+          "featuredRepo": null
+        },
+        {
+          "rank": 17,
+          "username": "domdomegg",
+          "name": null,
+          "url": "https://github.com/domdomegg",
+          "featuredRepo": null
+        },
+        {
+          "rank": 18,
+          "username": "DetachHead",
+          "name": null,
+          "url": "https://github.com/DetachHead",
+          "featuredRepo": null
+        },
+        {
+          "rank": 19,
+          "username": "redphx",
+          "name": null,
+          "url": "https://github.com/redphx",
+          "featuredRepo": null
+        },
+        {
+          "rank": 20,
+          "username": "tjx666",
+          "name": null,
+          "url": "https://github.com/tjx666",
+          "featuredRepo": null
+        },
+        {
+          "rank": 21,
+          "username": "Vinzent03",
+          "name": null,
+          "url": "https://github.com/Vinzent03",
+          "featuredRepo": null
+        },
+        {
+          "rank": 22,
+          "username": "KyleAMathews",
+          "name": null,
+          "url": "https://github.com/KyleAMathews",
+          "featuredRepo": null
+        },
+        {
+          "rank": 23,
+          "username": "spences10",
+          "name": null,
+          "url": "https://github.com/spences10",
+          "featuredRepo": null
+        },
+        {
+          "rank": 24,
+          "username": "krzysztofzuraw",
+          "name": null,
+          "url": "https://github.com/krzysztofzuraw",
+          "featuredRepo": null
+        },
+        {
+          "rank": 25,
+          "username": "blimmer",
+          "name": null,
+          "url": "https://github.com/blimmer",
+          "featuredRepo": null
+        }
+      ]
+    }
+  ],
+  "best": [
+    {
+      "kind": "developer",
+      "key": "elie222",
+      "url": "https://github.com/elie222",
+      "bestRank": 1,
+      "scrapedAt": "2025-07-08T00:00:00.000Z",
+      "starsToday": null,
+      "featuredRepo": null
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-07-28",
+  "list": "repos",
+  "language": "typescript",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/typescript?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-07-28T00:00:00.000Z",
+      "scrapedAtPrecision": "day",
+      "source": "backfill",
+      "sourceUrl": "https://github.com/antonkomarev/github-trending-archive/blob/master/archive/repository/2026/2026-07-28/typescript.json",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 2,
+          "name": "opengeos/GeoLibre",
+          "url": "https://github.com/opengeos/GeoLibre",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 3,
+          "name": "vudovn/ag-kit",
+          "url": "https://github.com/vudovn/ag-kit",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 4,
+          "name": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 5,
+          "name": "BuilderIO/agent-native",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 6,
+          "name": "CoreBunch/Instatic",
+          "url": "https://github.com/CoreBunch/Instatic",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 7,
+          "name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 8,
+          "name": "different-ai/openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 9,
+          "name": "777genius/agent-teams-ai",
+          "url": "https://github.com/777genius/agent-teams-ai",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 10,
+          "name": "Augani/openreel-video",
+          "url": "https://github.com/Augani/openreel-video",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 11,
+          "name": "elie222/inbox-zero",
+          "url": "https://github.com/elie222/inbox-zero",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 12,
+          "name": "immich-app/immich",
+          "url": "https://github.com/immich-app/immich",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 13,
+          "name": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 14,
+          "name": "hydralauncher/hydra",
+          "url": "https://github.com/hydralauncher/hydra",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 15,
+          "name": "google-labs-code/design.md",
+          "url": "https://github.com/google-labs-code/design.md",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 16,
+          "name": "EvanZhouDev/openai-oauth",
+          "url": "https://github.com/EvanZhouDev/openai-oauth",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 17,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 18,
+          "name": "lightningpixel/modly",
+          "url": "https://github.com/lightningpixel/modly",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 19,
+          "name": "seerr-team/seerr",
+          "url": "https://github.com/seerr-team/seerr",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 20,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        }
+      ]
+    }
+  ],
+  "best": [
+    {
+      "kind": "repo",
+      "key": "elie222/inbox-zero",
+      "url": "https://github.com/elie222/inbox-zero",
+      "bestRank": 11,
+      "scrapedAt": "2026-07-28T00:00:00.000Z",
+      "starsToday": null,
+      "featuredRepo": null
+    }
+  ]
+}

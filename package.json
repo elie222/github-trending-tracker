@@ -1,0 +1,24 @@
+{
+  "name": "github-trending-tracker",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Daily GitHub Trending tracker for elie222 and tracked repositories",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "scrape": "node --experimental-strip-types src/scrape.ts",
+    "backfill": "node --experimental-strip-types src/backfill.ts",
+    "history": "node --experimental-strip-types src/history-cli.ts",
+    "test": "node --experimental-strip-types --test test/*.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "typescript": "^5.8.3"
+  }
+}
