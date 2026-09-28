@@ -45,7 +45,10 @@ export interface SeriesStats {
   daysNumberOne: number;
   daysTop10: number;
   bestEver: number | null;
-  streak: StreakStats;
+  /** Consecutive days on the list at any rank. Unknown days do not break the run. */
+  onListStreak: StreakStats;
+  /** Consecutive days at rank 1. Unknown days do not break the run. */
+  numberOneStreak: StreakStats;
   asOf: string | null;
 }
 
@@ -234,10 +237,11 @@ function statsFor(
 
   const window = observationWindow(input.manifest, list, language, period, snapshots.map((item) => item.date));
   const listed = new Set(days.map((day) => day.date));
-  const streak =
-    window === null
-      ? emptyStreak()
-      : streakStats(listed, window.unobserved, window.from, window.to);
+  const numberOnes = new Set(days.filter((day) => day.rank === 1).map((day) => day.date));
+  const onListStreak =
+    window === null ? emptyStreak() : streakStats(listed, window.unobserved, window.from, window.to);
+  const numberOneStreak =
+    window === null ? emptyStreak() : streakStats(numberOnes, window.unobserved, window.from, window.to);
 
   return {
     list,
@@ -250,7 +254,8 @@ function statsFor(
     daysNumberOne: days.filter((day) => day.rank === 1).length,
     daysTop10: days.filter((day) => day.rank <= 10).length,
     bestEver: days.length ? Math.min(...days.map((day) => day.rank)) : null,
-    streak,
+    onListStreak,
+    numberOneStreak,
     asOf: window?.to ?? null,
   };
 }
@@ -391,7 +396,7 @@ export function renderHistory(report: Report): string {
   const secondaryHits = report.secondary.filter((item) => item.daysListed > 0);
   lines.push("## Weekly and monthly snapshots", "");
   lines.push(
-    "These periods are scraped and stored, but they are not part of the daily totals or streaks. The archive used for backfill has daily lists only, so this section fills in as live scrapes accumulate.",
+    "These periods are scraped and stored, but they are not part of the daily totals, on-list streaks, or #1 streaks. The archive used for backfill has daily lists only, so this section fills in as live scrapes accumulate.",
     "",
   );
   if (secondaryHits.length === 0) {
@@ -421,7 +426,7 @@ function intro(report: Report): string {
   return [
     `Daily GitHub Trending record for ${devs}. Repositories are every repo under ${owners}, and any repository named ${joinAnd(report.config.repoNames.map((name) => `\`${name}\``))}.`,
     "",
-    "Each UTC day keeps every scrape. History uses the **best rank** that day. Days with no archive file, or an empty archived list, are unknown and do not break streaks. A streak counts listed days only, so a date range can be longer than the day count when unknown days sit in the middle.",
+    "Each UTC day keeps every scrape. History uses the **best rank** that day. Days with no archive file, or an empty archived list, are unknown and do not break streaks. An on-list streak is consecutive days on the list at any rank. A #1 streak is consecutive days at rank 1. Both count those days only, so a date range can be longer than the day count when unknown days sit in the middle.",
     "",
     `Backfill source: [${report.config.backfill.archiveRepo}](https://github.com/${report.config.backfill.archiveRepo}). Developers since ${report.config.backfill.developersSince}. Repositories since ${report.config.backfill.repositoriesSince}. Languages: TypeScript and all languages. Backfilled rows are marked \`backfill\` (the timestamp is the archive's UTC date, not a clock time; star counts and featured repos are blank). Rows marked \`live\` were scraped by this repo.${allRepoNote}`,
   ].join("\n");
@@ -468,12 +473,12 @@ function todaySection(report: Report): string[] {
 
 function totalsTable(series: SeriesStats[]): string[] {
   const lines = [
-    "| Name | List | Days listed | Days #1 | Days top 10 | Best | Current streak | Longest streak |",
-    "| --- | --- | ---: | ---: | ---: | ---: | --- | --- |",
+    "| Name | List | Days listed | Days #1 | Days top 10 | Best | Current on-list streak | Longest on-list streak | Current #1 streak | Longest #1 streak |",
+    "| --- | --- | ---: | ---: | ---: | ---: | --- | --- | --- | --- |",
   ];
   for (const item of series) {
     lines.push(
-      `| ${md(item.key)} | ${md(seriesTitle(item.list, item.language, item.period))} | ${item.daysListed} | ${item.daysNumberOne} | ${item.daysTop10} | ${item.bestEver === null ? "—" : `#${item.bestEver}`} | ${formatStreak(item.streak, "current")} | ${formatStreak(item.streak, "longest")} |`,
+      `| ${md(item.key)} | ${md(seriesTitle(item.list, item.language, item.period))} | ${item.daysListed} | ${item.daysNumberOne} | ${item.daysTop10} | ${item.bestEver === null ? "—" : `#${item.bestEver}`} | ${formatStreak(item.onListStreak, "current")} | ${formatStreak(item.onListStreak, "longest")} | ${formatStreak(item.numberOneStreak, "current")} | ${formatStreak(item.numberOneStreak, "longest")} |`,
     );
   }
   return lines;
@@ -485,8 +490,11 @@ function seriesSection(item: SeriesStats): string[] {
   lines.push(
     `${item.daysListed} days listed, ${item.daysNumberOne} days at #1, ${item.daysTop10} days in the top 10. Best rank: ${item.bestEver === null ? "—" : `#${item.bestEver}`}.`,
   );
-  lines.push(`Current streak: ${formatStreak(item.streak, "current")}${item.asOf ? `, as of ${item.asOf}` : ""}.`);
-  lines.push(`Longest streak: ${formatStreak(item.streak, "longest")}.`);
+  const asOf = item.asOf ? `, as of ${item.asOf}` : "";
+  lines.push(`Current on-list streak: ${formatStreak(item.onListStreak, "current")}${asOf}.`);
+  lines.push(`Longest on-list streak: ${formatStreak(item.onListStreak, "longest")}.`);
+  lines.push(`Current #1 streak: ${formatStreak(item.numberOneStreak, "current")}${asOf}.`);
+  lines.push(`Longest #1 streak: ${formatStreak(item.numberOneStreak, "longest")}.`);
   const numberOnes = item.days.filter((day) => day.rank === 1).map((day) => day.date);
   if (numberOnes.length > 0) {
     lines.push(`Days at #1: ${numberOnes.join(", ")}.`);
@@ -548,7 +556,7 @@ export function formatStreak(streak: StreakStats, which: "current" | "longest"):
 
 export function renderReadmeSummary(report: Report): string {
   const lines = [
-    `Updated from the snapshots in [\`data/\`](data/). Full tables, #1 dates, and streaks are in [HISTORY.md](HISTORY.md).`,
+    `Updated from the snapshots in [\`data/\`](data/). Full tables, #1 dates, on-list streaks, and #1 streaks are in [HISTORY.md](HISTORY.md).`,
     "",
     ...todaySection(report),
     "",

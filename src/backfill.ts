@@ -109,7 +109,7 @@ export async function backfill(options: { root?: string; archive?: string; now?:
     note: [
       "Snapshot files are written only for UTC days a tracked developer or repository appeared.",
       "Each backfill scrape is source=backfill and points at the archive JSON.",
-      "Empty archive lists and missing dates are unobserved: they are not treated as an absence from the chart, and they do not break streaks.",
+      "Empty archive lists and missing dates are unobserved: they are not treated as an absence from the chart, and they do not break on-list streaks or #1 streaks.",
       allRepo
         ? `All-languages repository coverage in the archive runs ${firstObserved(allRepo)} through ${allRepo.through}.`
         : "",
