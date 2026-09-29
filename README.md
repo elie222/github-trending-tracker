@@ -77,11 +77,7 @@ Backfill comes from the public archive [antonkomarev/github-trending-archive](ht
 
 [`docs/`](docs/) is the public page for [trending.elie.tech](https://trending.elie.tech): the daily rank chart (TypeScript and all languages, 30D / 90D / 1Y / All), the six record cards, the calendar, repositories that trended, and `docs/og.png` (1200×630). Numbers come from the snapshots in `data/`, using the same best daily rank and the same rule for archive days: a missing or empty archive date stays unknown and is not drawn as a day off the list.
 
-`npm run history` and the scrape workflow regenerate `docs/trending.json`, `docs/og.png`, and the social tags in `docs/index.html` after they refresh `HISTORY.md`. `npm run site` rebuilds only the page.
-
-`vercel.json` publishes that directory as a static site: framework Other, no install, no build, output directory `docs`. Import this repository in Vercel with the root directory left as the repository root and the production branch set to `main`. Each scrape commit on `main` then redeploys the site. No Vercel token is stored in this repo.
-
-In the Vercel project, open Settings → Domains and add `trending.elie.tech`. In Cloudflare, on the `elie.tech` zone, add a CNAME named `trending` pointing at `cname.vercel-dns.com`. If the Vercel domain card shows a different target, use that target. Leave the Cloudflare proxy off (DNS only). Vercel issues the certificate. The Open Graph image URL in the page is `https://trending.elie.tech/og.png`.
+`npm run history` and the scrape workflow regenerate `docs/trending.json`, `docs/og.png`, and the social tags in `docs/index.html` after they refresh `HISTORY.md`. `npm run site` rebuilds only the page. `vercel.json` serves `docs/` as the static output, with no install and no build.
 
 ## Run locally
 
