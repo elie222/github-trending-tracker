@@ -79,7 +79,9 @@ Backfill comes from the public archive [antonkomarev/github-trending-archive](ht
 
 `npm run history` and the scrape workflow regenerate `docs/trending.json`, `docs/og.png`, and the social tags in `docs/index.html` after they refresh `HISTORY.md`. `npm run site` rebuilds only the page.
 
-To publish, serve the `docs/` directory as the site root. On GitHub Pages: Settings → Pages → Deploy from a branch → `main` → `/docs`. Each scrape commit on `main` then updates the site. When DNS is ready, add `docs/CNAME` containing `trending.elie.tech` and point the domain at GitHub Pages. The Open Graph image URL in the page is `https://trending.elie.tech/og.png`.
+`vercel.json` publishes that directory as a static site: framework Other, no install, no build, output directory `docs`. Import this repository in Vercel with the root directory left as the repository root and the production branch set to `main`. Each scrape commit on `main` then redeploys the site. No Vercel token is stored in this repo.
+
+In the Vercel project, open Settings → Domains and add `trending.elie.tech`. In Cloudflare, on the `elie.tech` zone, add a CNAME named `trending` pointing at `cname.vercel-dns.com`. If the Vercel domain card shows a different target, use that target. Leave the Cloudflare proxy off (DNS only). Vercel issues the certificate. The Open Graph image URL in the page is `https://trending.elie.tech/og.png`.
 
 ## Run locally
 
