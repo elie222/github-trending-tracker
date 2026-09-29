@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { matchesDeveloper, matchesRepo } from "./config.ts";
+import { writeSite } from "./site.ts";
 import { eachDate } from "./dates.ts";
 import { PROMINENT_DAILY, seriesKey, seriesTitle } from "./lists.ts";
 import { isDeveloperEntry } from "./snapshot.ts";
@@ -309,7 +310,7 @@ function bestDay(snapshot: Snapshot, match: (entry: TrendingEntry) => boolean): 
   };
 }
 
-function observationWindow(
+export function observationWindow(
   manifest: BackfillManifest | null,
   list: ListKind,
   language: Language,
@@ -593,4 +594,5 @@ export function writeHistoryFiles(root: string, report: Report): void {
   const readmePath = path.join(root, "README.md");
   const readme = fs.existsSync(readmePath) ? fs.readFileSync(readmePath, "utf8") : "# GitHub Trending tracker\n";
   fs.writeFileSync(readmePath, replaceMarkedSection(readme, "history-summary", renderReadmeSummary(report)));
+  writeSite(root, report);
 }

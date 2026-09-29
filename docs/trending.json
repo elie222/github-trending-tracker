@@ -1,0 +1,6192 @@
+{
+  "updatedAt": "2026-09-29T18:37:09.040Z",
+  "since": "2024-11-17",
+  "sinceLabel": "November 2024",
+  "sinceShort": "Nov 2024",
+  "developer": {
+    "login": "elie222",
+    "name": "Elie Steinbock",
+    "url": "https://github.com/elie222"
+  },
+  "repositoryUrl": "https://github.com/elie222/github-trending-tracker",
+  "days": [
+    {
+      "date": "2024-11-17",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-11-18",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-11-19",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-11-20",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-11-21",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-11-22",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-11-23",
+      "ts": 24,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-11-24",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-11-25",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-11-26",
+      "ts": 16,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-11-27",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-11-28",
+      "ts": 10,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-11-29",
+      "ts": 7,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-11-30",
+      "ts": 9,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-01",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-02",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-03",
+      "ts": 19,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-04",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-05",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-06",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-07",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-08",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-09",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-10",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-11",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-12",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-13",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-14",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-15",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-16",
+      "ts": 24,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-17",
+      "ts": 2,
+      "all": 21,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-18",
+      "ts": 4,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-19",
+      "ts": 3,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-20",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-21",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-22",
+      "ts": 19,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-23",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-24",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-25",
+      "ts": 5,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-26",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-27",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-28",
+      "ts": 12,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-29",
+      "ts": 3,
+      "all": 24,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-30",
+      "ts": 7,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2024-12-31",
+      "ts": 1,
+      "all": 6,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-01",
+      "ts": 17,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-02",
+      "ts": 2,
+      "all": 4,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-03",
+      "ts": 1,
+      "all": 8,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-04",
+      "ts": 1,
+      "all": 6,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-05",
+      "ts": 1,
+      "all": 8,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-06",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-07",
+      "ts": 5,
+      "all": 23,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-08",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-09",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-10",
+      "ts": 11,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-11",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-12",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-13",
+      "ts": 13,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-14",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-15",
+      "ts": 2,
+      "all": 19,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-16",
+      "ts": null,
+      "all": null,
+      "tsKnown": false,
+      "allKnown": false,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-17",
+      "ts": null,
+      "all": null,
+      "tsKnown": false,
+      "allKnown": false,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-18",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-19",
+      "ts": 1,
+      "all": 4,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-20",
+      "ts": 2,
+      "all": 15,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-21",
+      "ts": 1,
+      "all": 22,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-22",
+      "ts": 15,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-23",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-24",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-25",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-26",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-27",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-28",
+      "ts": 23,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-29",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-30",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-01-31",
+      "ts": 12,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-01",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-02",
+      "ts": 1,
+      "all": 9,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-03",
+      "ts": 3,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-04",
+      "ts": 14,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-05",
+      "ts": 4,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-06",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-07",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-08",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-09",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-10",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-11",
+      "ts": 5,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-12",
+      "ts": 2,
+      "all": 8,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-13",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-14",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-15",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-16",
+      "ts": 7,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-17",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-18",
+      "ts": 3,
+      "all": 23,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-19",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-20",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-21",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-22",
+      "ts": 1,
+      "all": 3,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-23",
+      "ts": 2,
+      "all": 18,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-24",
+      "ts": 2,
+      "all": 18,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-25",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-26",
+      "ts": 8,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-27",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-02-28",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-01",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-02",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-03",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-04",
+      "ts": 3,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-05",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-06",
+      "ts": 11,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-07",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-08",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-09",
+      "ts": 16,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-10",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-11",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-12",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-13",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-14",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-15",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-16",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-17",
+      "ts": 15,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-18",
+      "ts": 4,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-19",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-20",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-21",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-22",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-23",
+      "ts": 4,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-24",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-25",
+      "ts": 9,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-26",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-27",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-28",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-29",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-30",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-03-31",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-01",
+      "ts": 9,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-02",
+      "ts": 2,
+      "all": 10,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-03",
+      "ts": 1,
+      "all": 2,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-04",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-05",
+      "ts": 1,
+      "all": 2,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-06",
+      "ts": 1,
+      "all": 4,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-07",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-08",
+      "ts": 2,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-09",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-10",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-11",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-12",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-13",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-14",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-15",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-16",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-17",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-18",
+      "ts": 6,
+      "all": 25,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-19",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-20",
+      "ts": 1,
+      "all": 4,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-21",
+      "ts": 1,
+      "all": 3,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-22",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-23",
+      "ts": 2,
+      "all": 8,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-24",
+      "ts": 5,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-25",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-26",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-27",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-28",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-29",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-04-30",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-01",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-02",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-03",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-04",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-05",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-06",
+      "ts": 4,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-07",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-08",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-09",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-10",
+      "ts": 10,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-11",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-12",
+      "ts": 5,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-13",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-14",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-15",
+      "ts": 9,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-16",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-17",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-18",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-19",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-20",
+      "ts": 13,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-21",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-22",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-23",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-24",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-25",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-26",
+      "ts": 2,
+      "all": 15,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-27",
+      "ts": 3,
+      "all": 13,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-28",
+      "ts": 8,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-29",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-30",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-05-31",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-01",
+      "ts": 4,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-02",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-03",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-04",
+      "ts": 7,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-05",
+      "ts": 3,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-06",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-07",
+      "ts": 9,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-08",
+      "ts": 16,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-09",
+      "ts": 4,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-10",
+      "ts": 14,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-11",
+      "ts": 5,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-12",
+      "ts": 2,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-13",
+      "ts": 1,
+      "all": 7,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-14",
+      "ts": 1,
+      "all": 7,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-15",
+      "ts": 1,
+      "all": 7,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-16",
+      "ts": 1,
+      "all": 7,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-17",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-18",
+      "ts": 11,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-19",
+      "ts": 13,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-20",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-21",
+      "ts": 2,
+      "all": 10,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-22",
+      "ts": 9,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-23",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-24",
+      "ts": 9,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-25",
+      "ts": 1,
+      "all": 15,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-26",
+      "ts": 4,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-27",
+      "ts": 2,
+      "all": 21,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-28",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-29",
+      "ts": 22,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-06-30",
+      "ts": 5,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-01",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-02",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-03",
+      "ts": 21,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-04",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-05",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-06",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-07",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-08",
+      "ts": 1,
+      "all": 4,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-09",
+      "ts": 1,
+      "all": 7,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-10",
+      "ts": 1,
+      "all": 4,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-11",
+      "ts": 1,
+      "all": 2,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-12",
+      "ts": 1,
+      "all": 4,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-13",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-14",
+      "ts": 1,
+      "all": 3,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-15",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-16",
+      "ts": 10,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-17",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-18",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-19",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-20",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-21",
+      "ts": 21,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-22",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-23",
+      "ts": 17,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-24",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-25",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-26",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-27",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-28",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-29",
+      "ts": 7,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-30",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-07-31",
+      "ts": 10,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-01",
+      "ts": 1,
+      "all": 6,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-02",
+      "ts": 2,
+      "all": 12,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-03",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-04",
+      "ts": 1,
+      "all": 9,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-05",
+      "ts": 1,
+      "all": 6,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-06",
+      "ts": 10,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-07",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-08",
+      "ts": 1,
+      "all": 3,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-09",
+      "ts": 2,
+      "all": 3,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-10",
+      "ts": 11,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-11",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-12",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-13",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-14",
+      "ts": 13,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-15",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-16",
+      "ts": 10,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-17",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-18",
+      "ts": 17,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-19",
+      "ts": 4,
+      "all": 10,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-20",
+      "ts": 3,
+      "all": 6,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-21",
+      "ts": 3,
+      "all": 7,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-22",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-23",
+      "ts": 2,
+      "all": 5,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-24",
+      "ts": 2,
+      "all": 10,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-25",
+      "ts": 3,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-26",
+      "ts": 16,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-27",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-28",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-29",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-30",
+      "ts": 5,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-08-31",
+      "ts": 3,
+      "all": 8,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-01",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-02",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-03",
+      "ts": 1,
+      "all": 3,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-04",
+      "ts": 1,
+      "all": 6,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-05",
+      "ts": 9,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-06",
+      "ts": 5,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-07",
+      "ts": 19,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-08",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-09",
+      "ts": 1,
+      "all": 5,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-10",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-11",
+      "ts": 14,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-12",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-13",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-14",
+      "ts": 13,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-15",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-16",
+      "ts": 1,
+      "all": 5,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-17",
+      "ts": 4,
+      "all": 17,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-18",
+      "ts": 3,
+      "all": 13,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-19",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-20",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-21",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-22",
+      "ts": 5,
+      "all": 23,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-23",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-24",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-25",
+      "ts": 2,
+      "all": 2,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-26",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-27",
+      "ts": 9,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-28",
+      "ts": 8,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-29",
+      "ts": 7,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-09-30",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-01",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-02",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-03",
+      "ts": 4,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-04",
+      "ts": 4,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-05",
+      "ts": 1,
+      "all": 2,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-06",
+      "ts": 2,
+      "all": 19,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-07",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-08",
+      "ts": 1,
+      "all": 3,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-09",
+      "ts": 1,
+      "all": 3,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-10",
+      "ts": 25,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-11",
+      "ts": 5,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-12",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-13",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-14",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-15",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-16",
+      "ts": 13,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-17",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-18",
+      "ts": 18,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-19",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-20",
+      "ts": 4,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-21",
+      "ts": 3,
+      "all": 25,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-22",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-23",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-24",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-25",
+      "ts": 3,
+      "all": 13,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-26",
+      "ts": 18,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-27",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-28",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-29",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-30",
+      "ts": 13,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-10-31",
+      "ts": 12,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-01",
+      "ts": 1,
+      "all": 15,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-02",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-03",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-04",
+      "ts": 1,
+      "all": 4,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-05",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-06",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-07",
+      "ts": 1,
+      "all": 4,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-08",
+      "ts": 3,
+      "all": 17,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-09",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-10",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-11",
+      "ts": 8,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-12",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-13",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-14",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-15",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-16",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-17",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-18",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-19",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-20",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-21",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-22",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-23",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-24",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-25",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-26",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-27",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-28",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-29",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-11-30",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-01",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-02",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-03",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-04",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-05",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-06",
+      "ts": 2,
+      "all": 5,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-07",
+      "ts": 3,
+      "all": 13,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-08",
+      "ts": 21,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-09",
+      "ts": 7,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-10",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-11",
+      "ts": 1,
+      "all": 4,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-12",
+      "ts": 1,
+      "all": 4,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-13",
+      "ts": 19,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-14",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-15",
+      "ts": 2,
+      "all": 25,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-16",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-17",
+      "ts": 1,
+      "all": 2,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-18",
+      "ts": 4,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-19",
+      "ts": 2,
+      "all": 11,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-20",
+      "ts": 3,
+      "all": 16,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-21",
+      "ts": 15,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-22",
+      "ts": 3,
+      "all": 14,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-23",
+      "ts": 7,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-24",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-25",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-26",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-27",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-28",
+      "ts": 5,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-29",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-30",
+      "ts": 9,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2025-12-31",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-01",
+      "ts": 2,
+      "all": 16,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-02",
+      "ts": 1,
+      "all": 2,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-03",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-04",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-05",
+      "ts": 1,
+      "all": 3,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-06",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-07",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-08",
+      "ts": 11,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-09",
+      "ts": 13,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-10",
+      "ts": 13,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-11",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-12",
+      "ts": 19,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-13",
+      "ts": 8,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-14",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-15",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-16",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-17",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-18",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-19",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-20",
+      "ts": 6,
+      "all": 13,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-21",
+      "ts": 3,
+      "all": 9,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-22",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-23",
+      "ts": 12,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-24",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-25",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-26",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-27",
+      "ts": 23,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-28",
+      "ts": 16,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-29",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-30",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-01-31",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-01",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-02",
+      "ts": 11,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-03",
+      "ts": 12,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-04",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-05",
+      "ts": 10,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-06",
+      "ts": 11,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-07",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-08",
+      "ts": 13,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-09",
+      "ts": 7,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-10",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-11",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-12",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-13",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-14",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-15",
+      "ts": 4,
+      "all": 25,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-16",
+      "ts": 4,
+      "all": 17,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-17",
+      "ts": 1,
+      "all": 2,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-18",
+      "ts": 3,
+      "all": 7,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-19",
+      "ts": 2,
+      "all": 8,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-20",
+      "ts": 9,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-21",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-22",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-23",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-24",
+      "ts": 10,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-25",
+      "ts": 16,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-26",
+      "ts": 7,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-27",
+      "ts": 13,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-02-28",
+      "ts": 12,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-01",
+      "ts": 13,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-02",
+      "ts": 12,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-03",
+      "ts": 17,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-04",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-05",
+      "ts": 6,
+      "all": 20,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-06",
+      "ts": 1,
+      "all": 14,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-07",
+      "ts": 3,
+      "all": 19,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-08",
+      "ts": 17,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-09",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-10",
+      "ts": 19,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-11",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-12",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-13",
+      "ts": 22,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-14",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-15",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-16",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-17",
+      "ts": 6,
+      "all": 17,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-18",
+      "ts": 5,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-19",
+      "ts": 5,
+      "all": 16,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-20",
+      "ts": 5,
+      "all": 16,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-21",
+      "ts": 2,
+      "all": 5,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-22",
+      "ts": 6,
+      "all": 12,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-23",
+      "ts": 2,
+      "all": 10,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-24",
+      "ts": 13,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-25",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-26",
+      "ts": 12,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-27",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-28",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-29",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-30",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-03-31",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-01",
+      "ts": 17,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-02",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-03",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-04",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-05",
+      "ts": 15,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-06",
+      "ts": 4,
+      "all": 7,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-07",
+      "ts": 6,
+      "all": 13,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-08",
+      "ts": 7,
+      "all": 16,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-09",
+      "ts": 2,
+      "all": 7,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-10",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-11",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-12",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-13",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-14",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-15",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-16",
+      "ts": 24,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-17",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-18",
+      "ts": 14,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-19",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-20",
+      "ts": 23,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-21",
+      "ts": 19,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-22",
+      "ts": 2,
+      "all": 6,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-23",
+      "ts": 2,
+      "all": 7,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-24",
+      "ts": 3,
+      "all": 10,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-25",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-26",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-27",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-28",
+      "ts": 2,
+      "all": 9,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-29",
+      "ts": 2,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-04-30",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-01",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-02",
+      "ts": 14,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-03",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-04",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-05",
+      "ts": 22,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-06",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-07",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-08",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-09",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-10",
+      "ts": 14,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-11",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-12",
+      "ts": 16,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-13",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-14",
+      "ts": 10,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-15",
+      "ts": 14,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-16",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-17",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-18",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-19",
+      "ts": 22,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-20",
+      "ts": 12,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-21",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-22",
+      "ts": 17,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-23",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-24",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-25",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-26",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-27",
+      "ts": 1,
+      "all": 1,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-28",
+      "ts": 1,
+      "all": 3,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-29",
+      "ts": 12,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-30",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-05-31",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-01",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-02",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-03",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-04",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-05",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-06",
+      "ts": 15,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-07",
+      "ts": 17,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-08",
+      "ts": 23,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-09",
+      "ts": 2,
+      "all": 6,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-10",
+      "ts": 25,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-11",
+      "ts": 2,
+      "all": 15,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-12",
+      "ts": 3,
+      "all": 11,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-13",
+      "ts": 2,
+      "all": 11,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-14",
+      "ts": 4,
+      "all": 13,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-15",
+      "ts": 2,
+      "all": 10,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-16",
+      "ts": 8,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-17",
+      "ts": 7,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-18",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-19",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-20",
+      "ts": 23,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-21",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-22",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-23",
+      "ts": 14,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-24",
+      "ts": 14,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-25",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-26",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-27",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-28",
+      "ts": 25,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-29",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-06-30",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-01",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-02",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-03",
+      "ts": null,
+      "all": null,
+      "tsKnown": false,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-04",
+      "ts": 13,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-05",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-06",
+      "ts": 8,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-07",
+      "ts": 11,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-08",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-09",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-10",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-11",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-12",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-13",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-14",
+      "ts": 4,
+      "all": 22,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-15",
+      "ts": 3,
+      "all": 7,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-16",
+      "ts": 2,
+      "all": 7,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-17",
+      "ts": 3,
+      "all": 15,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-18",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-19",
+      "ts": 4,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-20",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-21",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-22",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-23",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-24",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-25",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-26",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-27",
+      "ts": 9,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-28",
+      "ts": 4,
+      "all": 15,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-29",
+      "ts": 2,
+      "all": 2,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-30",
+      "ts": 1,
+      "all": 4,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-07-31",
+      "ts": 2,
+      "all": 7,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-01",
+      "ts": 3,
+      "all": 8,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-02",
+      "ts": 3,
+      "all": 18,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-03",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-04",
+      "ts": 4,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-05",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-06",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-07",
+      "ts": 22,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-08",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-09",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-10",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-11",
+      "ts": 1,
+      "all": 9,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-12",
+      "ts": 12,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-13",
+      "ts": 1,
+      "all": 5,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-14",
+      "ts": 4,
+      "all": 12,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-15",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-16",
+      "ts": 23,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-17",
+      "ts": 7,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-18",
+      "ts": 4,
+      "all": 12,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-19",
+      "ts": 7,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-20",
+      "ts": 4,
+      "all": 7,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-21",
+      "ts": 12,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-22",
+      "ts": 9,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-23",
+      "ts": 9,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-24",
+      "ts": 18,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-25",
+      "ts": 4,
+      "all": 13,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-26",
+      "ts": 9,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-27",
+      "ts": 2,
+      "all": 8,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-28",
+      "ts": 20,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-29",
+      "ts": 10,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-30",
+      "ts": 12,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-08-31",
+      "ts": 9,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-01",
+      "ts": 13,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-02",
+      "ts": 11,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-03",
+      "ts": 17,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-04",
+      "ts": 10,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-05",
+      "ts": 4,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-06",
+      "ts": 12,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-07",
+      "ts": 8,
+      "all": 20,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-08",
+      "ts": 4,
+      "all": 15,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-09",
+      "ts": 5,
+      "all": 10,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-10",
+      "ts": 2,
+      "all": 7,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-11",
+      "ts": 4,
+      "all": 25,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-12",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-13",
+      "ts": 6,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-14",
+      "ts": 3,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-15",
+      "ts": 5,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-16",
+      "ts": 7,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-17",
+      "ts": 5,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-18",
+      "ts": 20,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-19",
+      "ts": 4,
+      "all": 6,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-20",
+      "ts": 12,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-21",
+      "ts": 4,
+      "all": 5,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-22",
+      "ts": 11,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-23",
+      "ts": 11,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-24",
+      "ts": 7,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-25",
+      "ts": 8,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-26",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-27",
+      "ts": 2,
+      "all": 9,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-28",
+      "ts": 1,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-09-29",
+      "ts": 9,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": "elie222/rakazo",
+      "allRepo": null
+    }
+  ],
+  "summary": {
+    "ts": {
+      "daysAtOne": 73,
+      "top10": 275,
+      "onList": 378,
+      "longestOneStreak": 8,
+      "longestOnListStreak": 27,
+      "currentStreak": 3,
+      "today": 9,
+      "todayKnown": true
+    },
+    "all": {
+      "daysAtOne": 23,
+      "top10": 107,
+      "onList": 162,
+      "longestOneStreak": 3,
+      "longestOnListStreak": 8,
+      "currentStreak": 0,
+      "today": null,
+      "todayKnown": true
+    }
+  },
+  "repos": [
+    {
+      "name": "inbox-zero",
+      "fullName": "elie222/inbox-zero",
+      "description": null,
+      "url": "https://github.com/elie222/inbox-zero",
+      "lists": [
+        {
+          "label": "#1 TypeScript repos",
+          "color": "yellow"
+        },
+        {
+          "label": "#2 All-language repos",
+          "color": "blue"
+        }
+      ]
+    }
+  ]
+}

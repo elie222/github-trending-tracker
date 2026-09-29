@@ -1,0 +1,296 @@
+/* Geist + Geist Mono, the same families the design loads from Google Fonts, self-hosted. */
+@font-face {
+  font-family: "Geist";
+  src: url("./fonts/geist-latin.woff2") format("woff2");
+  font-weight: 400 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Geist Mono";
+  src: url("./fonts/geist-mono-latin.woff2") format("woff2");
+  font-weight: 400 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* =========================================================
+   Inbox Zero — Foundational tokens
+   Palette + type sourced from apps/web/tailwind.config.js,
+   apps/web/styles/globals.css, and the "Inboxzero landing
+   page" Figma (node 965:1362 — LandingPageFinalDraft1).
+   ========================================================= */
+
+@font-face {
+  font-family: "Aeonik";
+  src: url("./fonts/aeonik-medium.woff") format("woff");
+  font-weight: 500 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  /* -----------------------------------------------------
+     Brand colors — primary
+     The product uses a punchy blue as the single
+     saturated brand color.
+     ----------------------------------------------------- */
+  --iz-blue-50:  #EFF6FF;
+  --iz-blue-100: #D8E9FF;
+  --iz-blue-150: #D6E8FC;
+  --iz-blue-200: #C3DEFC;
+  --iz-blue-600: #006EFF;   /* tailwind new-blue-600 */
+  --iz-blue-brand: #2563EB; /* hero logo gradient top, stat badges */
+  --iz-blue-soft: #5C89F8;  /* hero button gradient bottom */
+
+  /* Primary button gradient (hero CTA) */
+  --iz-btn-grad-top:    #2965EC;
+  --iz-btn-grad-bottom: #5C89F8;
+  --iz-btn-border-top:    #5989F0;
+  --iz-btn-border-bottom: #578AFA;
+  --iz-btn-shadow: 0 2px 10.1px 0 rgba(75, 131, 253, 0.20);
+
+  /* -----------------------------------------------------
+     Neutrals — near-greyscale headlines/body/background.
+     Inbox Zero ships a warm-white page (#FDFDFD) with
+     near-black headings and a cool gray subcopy color.
+     ----------------------------------------------------- */
+  --iz-page:       #FDFDFD;
+  --iz-white:      #FFFFFF;
+  --iz-ink:        #242424;   /* headings, logo wordmark */
+  --iz-body:       #3D3D3D;   /* dark paragraph text */
+  --iz-muted:      #848484;   /* default paragraph color */
+  --iz-muted-2:    #6D6E70;   /* secondary caption */
+  --iz-line:       #EFEFEF;   /* hairline borders */
+  --iz-line-2:     #E6E6E6;
+  --iz-surface:    #F7F7F7;   /* panel fill */
+  --iz-surface-2:  #F5F7F7;
+
+  /* shadcn / app UI (slate-based). Aliased with HSL
+     triplets so either `hsl(var(--x))` or `var(--x-hex)`
+     works depending on context. */
+  --background: 0 0% 100%; /* @kind color */
+  --foreground: 222.2 47.4% 11.2%; /* @kind color */
+  --muted: 210 40% 96.1%; /* @kind color */
+  --muted-foreground: 215.4 16.3% 46.9%; /* @kind color */
+  --popover: 0 0% 100%; /* @kind color */
+  --popover-foreground: 222.2 47.4% 11.2%; /* @kind color */
+  --card: 0 0% 100%; /* @kind color */
+  --card-foreground: 222.2 47.4% 11.2%; /* @kind color */
+  --border: 214.3 31.8% 91.4%; /* @kind color */
+  --input: 214.3 31.8% 91.4%; /* @kind color */
+  --primary: 222.2 47.4% 11.2%; /* @kind color */
+  --primary-foreground: 210 40% 98%; /* @kind color */
+  --secondary: 210 40% 96.1%; /* @kind color */
+  --secondary-foreground: 222.2 47.4% 11.2%; /* @kind color */
+  --accent: 210 40% 96.1%; /* @kind color */
+  --accent-foreground: 222.2 47.4% 11.2%; /* @kind color */
+  --destructive: 0 100% 50%; /* @kind color */
+  --destructive-foreground: 210 40% 98%; /* @kind color */
+  --ring: 215 20.2% 65.1%; /* @kind color */
+  --radius: 0.5rem; /* @kind radius */
+
+  /* -----------------------------------------------------
+     Accent palettes — used for persona badges, feature
+     cards, solutions dropdown (tailwind `new-*` scales).
+     Each family is 50/100/150/200/600 (or /500).
+     ----------------------------------------------------- */
+  --iz-purple-50:  #F3EAFE;
+  --iz-purple-100: #E7DAFF;
+  --iz-purple-200: #E1D5FC;
+  --iz-purple-300: #D7C3FC;
+  --iz-purple-600: #6410FF;
+
+  --iz-green-50:  #F3FFEF;
+  --iz-green-100: #E1FFD8;
+  --iz-green-150: #DDF4D3;
+  --iz-green-200: #CFF4C0;
+  --iz-green-500: #30A24B;
+  --iz-green-600: #17A34A;
+
+  --iz-indigo-50:  #EFF3FF;
+  --iz-indigo-100: #D9E2FF;
+  --iz-indigo-150: #D5DEFC;
+  --iz-indigo-200: #C2D0FC;
+  --iz-indigo-600: #124DFF;
+
+  --iz-pink-50:  #FFEEF8;
+  --iz-pink-100: #FFDAEC;
+  --iz-pink-150: #FDD3EB;
+  --iz-pink-200: #FDBFE0;
+  --iz-pink-500: #C942B2;
+
+  --iz-orange-50:  #FFF5EF;
+  --iz-orange-100: #FFE7DA;
+  --iz-orange-150: #FCE2D5;
+  --iz-orange-200: #FCD6C2;
+  --iz-orange-600: #E65707;
+
+  --iz-yellow-50:  #FFFBEF;
+  --iz-yellow-100: #FFF3DA;
+  --iz-yellow-150: #E7E0CB;
+  --iz-yellow-200: #E7DBB9;
+  --iz-yellow-500: #D8A40C;
+
+  --iz-brown-50:  #FEEDE0;
+  --iz-brown-100: #F8E0CC;
+  --iz-brown-150: #EFDFD3;
+  --iz-brown-200: #E9D1BE;
+  --iz-brown-500: #CC762F;
+
+  --iz-red-50:  #FFEEF0;
+  --iz-red-100: #FFDADB;
+  --iz-red-150: #FDD3D4;
+  --iz-red-200: #FCC0C0;
+  --iz-red-500: #C94244;
+
+  --iz-cyan-50:  #FEFFFF;
+  --iz-cyan-100: #E5F9FF;
+  --iz-cyan-200: #D0F4FF;
+  --iz-cyan-500: #49D1FA;
+
+  --iz-gray-50:  #FFFFFF;
+  --iz-gray-100: #F6F6F6;
+  --iz-gray-150: #EEEEEE;
+  --iz-gray-200: #E6E6E6;
+  --iz-gray-500: #8E8E8E;
+  --iz-gray-600: #525252;
+
+  /* -----------------------------------------------------
+     Radii, shadows, spacing
+     Buttons use unusual 13–14px radii (not tailwind
+     defaults); panels use 24–43px for the big hero.
+     ----------------------------------------------------- */
+  --iz-radius-sm: 6px;
+  --iz-radius:    8px;
+  --iz-radius-md: 13px;   /* buttons */
+  --iz-radius-lg: 14px;   /* gradient-border button wrap */
+  --iz-radius-xl: 24px;   /* navbar pill, cards */
+  --iz-radius-2xl: 43px;  /* hero video player */
+
+  --iz-shadow-xs: 0 1px 1px 0 rgba(207, 217, 249, 0.58);
+  --iz-shadow-sm: 0 2px 3.4px 0 rgba(207, 217, 249, 0.22);
+  --iz-shadow:    0 2px 16px 0 rgba(0, 0, 0, 0.03);
+  --iz-shadow-md: 0 2px 16px 0 rgba(0, 0, 0, 0.08);
+  --iz-shadow-lg: 0 10px 40px -10px rgba(0, 0, 0, 0.10);
+
+  /* -----------------------------------------------------
+     Typography
+     - Aeonik (local .woff) is the display face for
+       headings and the wordmark. Medium is the only
+       weight shipped.
+     - Geist is the body/UI face (sans-serif, 400-700).
+     - Geist Mono is the mono face for code + chips.
+     ----------------------------------------------------- */
+  --iz-font-display: "Aeonik", "Aeonik Pro", "Inter Tight",
+                     -apple-system, BlinkMacSystemFont, sans-serif;
+  --iz-font-body:    "Geist", "Inter", -apple-system,
+                     BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --iz-font-mono:    "Geist Mono", ui-monospace, "SF Mono",
+                     Menlo, monospace;
+
+  /* Type scale (matches new-landing heading classes) */
+  --iz-fs-hero:     60px;   /* desktop PageHeading md:text-6xl */
+  --iz-fs-hero-sm:  48px;
+  --iz-fs-hero-xs:  34px;   /* text-[34px] */
+  --iz-fs-h2:       40px;   /* md:text-[2.5rem] */
+  --iz-fs-h2-sm:    27.2px; /* text-[1.7rem] */
+  --iz-fs-h3:       24px;
+  --iz-fs-lead:     18px;
+  --iz-fs-body:     16px;
+  --iz-fs-sm:       14px;
+  --iz-fs-xs:       12px;
+
+  /* Line heights */
+  --iz-lh-tight:    1.1; /* @kind other */
+  --iz-lh-snug:     1.25; /* @kind other */
+  --iz-lh-normal:   1.5; /* @kind other */
+
+  /* Letter spacing — wordmark ships at -0.020em */
+  --iz-tracking-tight: -0.02em;
+}
+
+/* =========================================================
+   Semantic element styles — drop-in defaults for artifacts
+   ========================================================= */
+html, body {
+  background: var(--iz-page);
+  color: var(--iz-body);
+  font-family: var(--iz-font-body);
+  font-size: var(--iz-fs-body);
+  line-height: var(--iz-lh-normal);
+  -webkit-font-smoothing: antialiased;
+  font-variant-ligatures: none;
+}
+
+h1, .iz-h1 {
+  font-family: var(--iz-font-display);
+  font-weight: 500;
+  font-size: var(--iz-fs-hero);
+  line-height: var(--iz-lh-tight);
+  letter-spacing: var(--iz-tracking-tight);
+  color: var(--iz-ink);
+  margin: 0;
+}
+
+h2, .iz-h2 {
+  font-family: var(--iz-font-display);
+  font-weight: 500;
+  font-size: var(--iz-fs-h2);
+  line-height: var(--iz-lh-tight);
+  letter-spacing: var(--iz-tracking-tight);
+  color: var(--iz-ink);
+  margin: 0;
+}
+
+h3, .iz-h3 {
+  font-family: var(--iz-font-display);
+  font-weight: 500;
+  font-size: var(--iz-fs-h3);
+  line-height: var(--iz-lh-snug);
+  color: var(--iz-ink);
+  margin: 0;
+}
+
+p, .iz-p {
+  font-family: var(--iz-font-body);
+  color: var(--iz-muted);
+  font-size: var(--iz-fs-body);
+  line-height: var(--iz-lh-normal);
+  margin: 0;
+}
+
+.iz-lead {
+  font-size: var(--iz-fs-lead);
+  color: var(--iz-muted);
+}
+
+.iz-eyebrow {
+  font-family: var(--iz-font-body);
+  font-weight: 600;
+  font-size: var(--iz-fs-xs);
+  letter-spacing: 0.02em;
+  color: var(--iz-blue-brand);
+  text-transform: none; /* brand uses Title Case, not UPPER */
+}
+
+code, .iz-code {
+  font-family: var(--iz-font-mono);
+  font-size: 0.92em;
+  background: var(--iz-surface);
+  border: 1px solid var(--iz-line);
+  padding: 1px 6px;
+  border-radius: var(--iz-radius-sm);
+  color: var(--iz-ink);
+}
+
+/* Logo wordmark — always 500 weight, tight tracking */
+.iz-wordmark {
+  font-family: var(--iz-font-display);
+  font-weight: 700;
+  font-size: 24.8px;
+  line-height: 1;
+  letter-spacing: var(--iz-tracking-tight);
+  color: var(--iz-ink);
+}

@@ -73,6 +73,14 @@ The workflow uses the built-in `GITHUB_TOKEN` with `contents: write` (to commit 
 
 Backfill comes from the public archive [antonkomarev/github-trending-archive](https://github.com/antonkomarev/github-trending-archive): developers since 2024-11-17, repositories since 2021-12-31, TypeScript and all languages. Those dates are the archive's UTC scrape dates. The archive does not store star counts or featured repositories. All-languages repository files in that archive start later than the TypeScript repository files; the manifest records the gap. Missing or empty archive days are unknown and do not break on-list streaks or #1 streaks.
 
+## Showcase
+
+[`docs/`](docs/) is the public page for [trending.elie.tech](https://trending.elie.tech): the daily rank chart (TypeScript and all languages, 30D / 90D / 1Y / All), the six record cards, the calendar, repositories that trended, and `docs/og.png` (1200×630). Numbers come from the snapshots in `data/`, using the same best daily rank and the same rule for archive days: a missing or empty archive date stays unknown and is not drawn as a day off the list.
+
+`npm run history` and the scrape workflow regenerate `docs/trending.json`, `docs/og.png`, and the social tags in `docs/index.html` after they refresh `HISTORY.md`. `npm run site` rebuilds only the page.
+
+To publish, serve the `docs/` directory as the site root. On GitHub Pages: Settings → Pages → Deploy from a branch → `main` → `/docs`. Each scrape commit on `main` then updates the site. When DNS is ready, add `docs/CNAME` containing `trending.elie.tech` and point the domain at GitHub Pages. The Open Graph image URL in the page is `https://trending.elie.tech/og.png`.
+
 ## Run locally
 
 Requires Node.js 22 or newer.
