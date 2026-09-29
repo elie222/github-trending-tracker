@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-29",
+  "list": "repos",
+  "language": "typescript",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/typescript?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-09-29T01:10:48.882Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 92833,
+          "forks": 15896,
+          "starsToday": 3197,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+          "language": "TypeScript",
+          "stars": 1728,
+          "forks": 138,
+          "starsToday": 734,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "language": "TypeScript",
+          "stars": 21269,
+          "forks": 1804,
+          "starsToday": 1099,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "HelpCode-ai/anythingmcp",
+          "url": "https://github.com/HelpCode-ai/anythingmcp",
+          "description": "Turn any REST, SOAP, GraphQL, OData or SQL API into MCP tools for Claude & ChatGPT. Self-hosted. 265 connectors: SAP S/4HANA & Business One, ERP, e-commerce.",
+          "language": "TypeScript",
+          "stars": 566,
+          "forks": 71,
+          "starsToday": 81,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "language": "TypeScript",
+          "stars": 49729,
+          "forks": 4951,
+          "starsToday": 274,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "vercel-labs/scriptc",
+          "url": "https://github.com/vercel-labs/scriptc",
+          "description": "TypeScript-to-Native Compiler",
+          "language": "TypeScript",
+          "stars": 5616,
+          "forks": 147,
+          "starsToday": 317,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "alsk1992/CloddsBot",
+          "url": "https://github.com/alsk1992/CloddsBot",
+          "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+          "language": "TypeScript",
+          "stars": 2897,
+          "forks": 353,
+          "starsToday": 5,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "code-yeongyu/oh-my-openagent",
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+          "language": "TypeScript",
+          "stars": 69628,
+          "forks": 5735,
+          "starsToday": 66,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "satnaing/shadcn-admin",
+          "url": "https://github.com/satnaing/shadcn-admin",
+          "description": "Admin Dashboard UI built with Shadcn and Vite.",
+          "language": "TypeScript",
+          "stars": 14993,
+          "forks": 2290,
+          "starsToday": 279,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "mobile-next/mobile-mcp",
+          "url": "https://github.com/mobile-next/mobile-mcp",
+          "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+          "language": "TypeScript",
+          "stars": 8274,
+          "forks": 718,
+          "starsToday": 449,
+          "starsLabel": "today"
+        }
+      ]
+    }
+  ],
+  "best": []
+}

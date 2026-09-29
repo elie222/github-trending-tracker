@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-29",
+  "list": "repos",
+  "language": "all",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-09-29T01:10:48.882Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "language": "Python",
+          "stars": 44139,
+          "forks": 5102,
+          "starsToday": 3221,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 92833,
+          "forks": 15896,
+          "starsToday": 3197,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "language": "Python",
+          "stars": 40998,
+          "forks": 5537,
+          "starsToday": 4561,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "NawfalMotii79/PLFM_RADAR",
+          "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+          "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+          "language": "PLSQL",
+          "stars": 25766,
+          "forks": 5886,
+          "starsToday": 158,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "cs341-illinois/coursebook",
+          "url": "https://github.com/cs341-illinois/coursebook",
+          "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+          "language": "TeX",
+          "stars": 2519,
+          "forks": 238,
+          "starsToday": 195,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "byoungd/up",
+          "url": "https://github.com/byoungd/up",
+          "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+          "language": "JavaScript",
+          "stars": 64691,
+          "forks": 6514,
+          "starsToday": 327,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+          "language": "TypeScript",
+          "stars": 1728,
+          "forks": 138,
+          "starsToday": 734,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "language": "TypeScript",
+          "stars": 21269,
+          "forks": 1804,
+          "starsToday": 1099,
+          "starsLabel": "today"
+        }
+      ]
+    }
+  ],
+  "best": []
+}

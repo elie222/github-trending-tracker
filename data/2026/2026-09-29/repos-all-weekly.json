@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-29",
+  "list": "repos",
+  "language": "all",
+  "period": "weekly",
+  "pageUrl": "https://github.com/trending?since=weekly",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-09-29T01:10:48.882Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": null,
+          "language": "Python",
+          "stars": 38063,
+          "forks": 5482,
+          "starsToday": 2381,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 92833,
+          "forks": 15896,
+          "starsToday": 10518,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "language": "Python",
+          "stars": 40999,
+          "forks": 5537,
+          "starsToday": 15537,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "language": "JavaScript",
+          "stars": 22751,
+          "forks": 1324,
+          "starsToday": 3962,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 32077,
+          "forks": 3654,
+          "starsToday": 1200,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "Tencent/WeKnora",
+          "url": "https://github.com/Tencent/WeKnora",
+          "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+          "language": "Go",
+          "stars": 30954,
+          "forks": 4134,
+          "starsToday": 2509,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "description": "The React Framework",
+          "language": "JavaScript",
+          "stars": 142859,
+          "forks": 33379,
+          "starsToday": 544,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "language": "TypeScript",
+          "stars": 80731,
+          "forks": 5257,
+          "starsToday": 6151,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars": 50893,
+          "forks": 4647,
+          "starsToday": 1227,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 103470,
+          "forks": 30853,
+          "starsToday": 340,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "language": "Python",
+          "stars": 44139,
+          "forks": 5102,
+          "starsToday": 7972,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 60413,
+          "forks": 10401,
+          "starsToday": 5004,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+          "language": "HTML",
+          "stars": 26861,
+          "forks": 1867,
+          "starsToday": 1293,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "language": "Rust",
+          "stars": 8568,
+          "forks": 581,
+          "starsToday": 1110,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "FxEmbed/FxEmbed",
+          "url": "https://github.com/FxEmbed/FxEmbed",
+          "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+          "language": "TypeScript",
+          "stars": 5552,
+          "forks": 264,
+          "starsToday": 465,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 16,
+          "name": "TencentCloud/Octop",
+          "url": "https://github.com/TencentCloud/Octop",
+          "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+          "language": "Python",
+          "stars": 5526,
+          "forks": 676,
+          "starsToday": 970,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 17,
+          "name": "cloudflare/quiche",
+          "url": "https://github.com/cloudflare/quiche",
+          "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+          "language": "Rust",
+          "stars": 12690,
+          "forks": 1152,
+          "starsToday": 522,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 18,
+          "name": "elastic/elasticsearch",
+          "url": "https://github.com/elastic/elasticsearch",
+          "description": "Free and Open Source, Distributed, RESTful Search Engine",
+          "language": "Java",
+          "stars": 78058,
+          "forks": 26094,
+          "starsToday": 97,
+          "starsLabel": "this week"
+        }
+      ]
+    }
+  ],
+  "best": []
+}

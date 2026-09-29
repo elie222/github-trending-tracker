@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-29",
+  "list": "developers",
+  "language": "typescript",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/developers/typescript?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-09-29T01:10:48.882Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "PerryLink",
+          "name": "PerryLink",
+          "url": "https://github.com/PerryLink",
+          "featuredRepo": {
+            "name": "PerryLink/jevcore",
+            "url": "https://github.com/PerryLink/jevcore",
+            "description": "TypeSafe Jev for DeepSeek Harness, the Model Context Protocol, and plain Node: typed judgments instead of prose, offline by default."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "cv",
+          "name": "Carlos Villela",
+          "url": "https://github.com/cv",
+          "featuredRepo": {
+            "name": "cv/pit",
+            "url": "https://github.com/cv/pit",
+            "description": "Give Pi one typed tool instead of a toolbox."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "chenglou",
+          "name": "Cheng Lou",
+          "url": "https://github.com/chenglou",
+          "featuredRepo": {
+            "name": "chenglou/pretext",
+            "url": "https://github.com/chenglou/pretext",
+            "description": "Fast, accurate & comprehensive text measurement & layout"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "rynfar",
+          "name": "Trevor Walker",
+          "url": "https://github.com/rynfar",
+          "featuredRepo": {
+            "name": "rynfar/meridian",
+            "url": "https://github.com/rynfar/meridian",
+            "description": "Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview…"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "kingsword09",
+          "name": "Kingsword",
+          "url": "https://github.com/kingsword09",
+          "featuredRepo": {
+            "name": "kingsword09/zcode-cli",
+            "url": "https://github.com/kingsword09/zcode-cli",
+            "description": "Unofficial terminal client for the official agent runtime shipped with ZCode Desktop."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "chaitanyagiri",
+          "name": "Chaitanya Giri",
+          "url": "https://github.com/chaitanyagiri",
+          "featuredRepo": {
+            "name": "chaitanyagiri/munder-difflin",
+            "url": "https://github.com/chaitanyagiri/munder-difflin",
+            "description": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "Yeraze",
+          "name": "Randall Hand",
+          "url": "https://github.com/Yeraze",
+          "featuredRepo": {
+            "name": "Yeraze/meshmonitor",
+            "url": "https://github.com/Yeraze/meshmonitor",
+            "description": "Web tool for monitoring Mesh Node Deployment over TCP/HTTP"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "whyour",
+          "name": "whyour",
+          "url": "https://github.com/whyour",
+          "featuredRepo": {
+            "name": "whyour/qinglong",
+            "url": "https://github.com/whyour/qinglong",
+            "description": "支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "mrgoonie",
+          "name": "Duy /zuey/",
+          "url": "https://github.com/mrgoonie",
+          "featuredRepo": {
+            "name": "mrgoonie/multix-cli",
+            "url": "https://github.com/mrgoonie/multix-cli",
+            "description": "AI multimodal CLI — Gemini, MiniMax, OpenRouter, ffmpeg, ImageMagick, doc-to-md"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "frostney",
+          "name": "Johannes Stein",
+          "url": "https://github.com/frostney",
+          "featuredRepo": {
+            "name": "frostney/clean-code-review",
+            "url": "https://github.com/frostney/clean-code-review",
+            "description": "Every code file in a pull request, judged against Uncle Bob's Clean Code by TypeSafe's Jev, then reviewed by Luna. Built on eve and Next.js."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "patlux",
+          "name": "Patrick Wozniak",
+          "url": "https://github.com/patlux",
+          "featuredRepo": {
+            "name": "patlux/pi-commandcode-provider",
+            "url": "https://github.com/patlux/pi-commandcode-provider",
+            "description": "pi custom provider for the Command Code API — 18 models including Claude, GPT, DeepSeek, Kimi, GLM, MiniMax, and Qwen"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "artokun",
+          "name": "Arthur R Longbottom",
+          "url": "https://github.com/artokun",
+          "featuredRepo": {
+            "name": "artokun/comfyui-mcp",
+            "url": "https://github.com/artokun/comfyui-mcp",
+            "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs w…"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "RealKai42",
+          "name": "Kai",
+          "url": "https://github.com/RealKai42",
+          "featuredRepo": {
+            "name": "RealKai42/qwerty-learner",
+            "url": "https://github.com/RealKai42/qwerty-learner",
+            "description": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "callumalpass",
+          "name": "callumalpass",
+          "url": "https://github.com/callumalpass",
+          "featuredRepo": {
+            "name": "callumalpass/tasknotes",
+            "url": "https://github.com/callumalpass/tasknotes",
+            "description": "Task and time-tracking management with calendar integration for Obsidian"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "ColeMurray",
+          "name": "Cole Murray",
+          "url": "https://github.com/ColeMurray",
+          "featuredRepo": {
+            "name": "ColeMurray/background-agents",
+            "url": "https://github.com/ColeMurray/background-agents",
+            "description": "An open-source background agents coding system"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "szTheory",
+          "name": "szTheory",
+          "url": "https://github.com/szTheory",
+          "featuredRepo": {
+            "name": "szTheory/exifcleaner",
+            "url": "https://github.com/szTheory/exifcleaner",
+            "description": "Cross-platform desktop GUI app to clean image metadata"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "davideast",
+          "name": "David East",
+          "url": "https://github.com/davideast",
+          "featuredRepo": {
+            "name": "davideast/stitch-mcp",
+            "url": "https://github.com/davideast/stitch-mcp",
+            "description": "A CLI for moving AI-generated UI designs from Google’s Stitch platform into your development workflow."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "ryansolid",
+          "name": "Ryan Carniato",
+          "url": "https://github.com/ryansolid",
+          "featuredRepo": {
+            "name": "ryansolid/next-yak",
+            "url": "https://github.com/ryansolid/next-yak",
+            "description": "🦀 Zero-runtime CSS-in-JS powered by Rust. Write styled-components syntax, get build-time CSS extraction and full RSC compatibility"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "allenhutchison",
+          "name": "Allen Hutchison",
+          "url": "https://github.com/allenhutchison",
+          "featuredRepo": {
+            "name": "allenhutchison/obsidian-gemini",
+            "url": "https://github.com/allenhutchison/obsidian-gemini",
+            "description": "An obsidian plugin to interact with Google Gemini"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "scosman",
+          "name": "Steve Cosman",
+          "url": "https://github.com/scosman",
+          "featuredRepo": {
+            "name": "scosman/videowright",
+            "url": "https://github.com/scosman/videowright",
+            "description": "Build animated explainer videos with your coding agent"
+          }
+        }
+      ]
+    }
+  ],
+  "best": [
+    {
+      "kind": "developer",
+      "key": "elie222",
+      "url": "https://github.com/elie222",
+      "bestRank": 9,
+      "scrapedAt": "2026-09-29T01:10:48.882Z",
+      "starsToday": null,
+      "featuredRepo": "elie222/rakazo"
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-29",
+  "list": "developers",
+  "language": "all",
+  "period": "monthly",
+  "pageUrl": "https://github.com/trending/developers?since=monthly",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-09-29T01:10:48.882Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=monthly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "max-sixty",
+          "name": "Maximilian Roos",
+          "url": "https://github.com/max-sixty",
+          "featuredRepo": {
+            "name": "max-sixty/worktrunk",
+            "url": "https://github.com/max-sixty/worktrunk",
+            "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "rynfar",
+          "name": "Trevor Walker",
+          "url": "https://github.com/rynfar",
+          "featuredRepo": {
+            "name": "rynfar/meridian",
+            "url": "https://github.com/rynfar/meridian",
+            "description": "Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "tt-a1i",
+          "name": "tt-a1i",
+          "url": "https://github.com/tt-a1i",
+          "featuredRepo": {
+            "name": "tt-a1i/archify",
+            "url": "https://github.com/tt-a1i/archify",
+            "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "magnus919",
+          "name": "Magnus Hedemark",
+          "url": "https://github.com/magnus919",
+          "featuredRepo": {
+            "name": "magnus919/hermes-profiles",
+            "url": "https://github.com/magnus919/hermes-profiles",
+            "description": "Curated Hermes Agent profiles for specialist swarms — opinionated, Hermes-optimized, artifact-pyramid native"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "amir20",
+          "name": "Amir Raminfar",
+          "url": "https://github.com/amir20",
+          "featuredRepo": {
+            "name": "amir20/dozzle",
+            "url": "https://github.com/amir20/dozzle",
+            "description": "Realtime log viewer for containers. Supports Docker, Swarm and K8s."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/plannotator",
+            "url": "https://github.com/backnotprop/plannotator",
+            "description": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "chaitanyagiri",
+          "name": "Chaitanya Giri",
+          "url": "https://github.com/chaitanyagiri",
+          "featuredRepo": {
+            "name": "chaitanyagiri/munder-difflin",
+            "url": "https://github.com/chaitanyagiri/munder-difflin",
+            "description": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "emilk",
+          "name": "Emil Ernerfeldt",
+          "url": "https://github.com/emilk",
+          "featuredRepo": {
+            "name": "emilk/egui",
+            "url": "https://github.com/emilk/egui",
+            "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "cathrynlavery",
+          "name": "Cathryn Lavery",
+          "url": "https://github.com/cathrynlavery",
+          "featuredRepo": {
+            "name": "cathrynlavery/diagram-design",
+            "url": "https://github.com/cathrynlavery/diagram-design",
+            "description": "Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "abrignoni",
+          "name": "Brigs",
+          "url": "https://github.com/abrignoni",
+          "featuredRepo": {
+            "name": "abrignoni/iLEAPP",
+            "url": "https://github.com/abrignoni/iLEAPP",
+            "description": "iOS Logs, Events, And Plist Parser"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "yiliang114",
+          "name": "易良",
+          "url": "https://github.com/yiliang114",
+          "featuredRepo": {
+            "name": "yiliang114/open-ppt-skill",
+            "url": "https://github.com/yiliang114/open-ppt-skill",
+            "description": "非官方 Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Slides skill for AI agents — generate editable PPTD + PPTX with a lo…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "MakazhanAlpamys",
+          "name": "Alpamys Makazhan",
+          "url": "https://github.com/MakazhanAlpamys",
+          "featuredRepo": {
+            "name": "MakazhanAlpamys/Soup",
+            "url": "https://github.com/MakazhanAlpamys/Soup",
+            "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "dgtlmoon",
+          "name": "dgtlmoon",
+          "url": "https://github.com/dgtlmoon",
+          "featuredRepo": {
+            "name": "dgtlmoon/changedetection.io",
+            "url": "https://github.com/dgtlmoon/changedetection.io",
+            "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "christian-byrne",
+          "name": "Christian Byrne",
+          "url": "https://github.com/christian-byrne",
+          "featuredRepo": {
+            "name": "christian-byrne/audio-separation-nodes-comfyui",
+            "url": "https://github.com/christian-byrne/audio-separation-nodes-comfyui",
+            "description": "Separate stems (vocals, bass, drums, other) from audio. Recombine, tempo match, slice/crop audio"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "Git-on-my-level",
+          "name": "David Zhang",
+          "url": "https://github.com/Git-on-my-level",
+          "featuredRepo": {
+            "name": "Git-on-my-level/self-improving-agent-ecosystem",
+            "url": "https://github.com/Git-on-my-level/self-improving-agent-ecosystem",
+            "description": "Reference architecture, contracts, skills, and fixtures for safe evaluator-driven self-improving ecosystems."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "dhh",
+          "name": "David Heinemeier Hansson",
+          "url": "https://github.com/dhh",
+          "featuredRepo": {
+            "name": "dhh/omarchy-giants-theme",
+            "url": "https://github.com/dhh/omarchy-giants-theme",
+            "description": "Standing on the shoulders of giants — a warm sepia-on-paper dark theme for Omarchy"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "gtsteffaniak",
+          "name": "Graham Steffaniak",
+          "url": "https://github.com/gtsteffaniak",
+          "featuredRepo": {
+            "name": "gtsteffaniak/filebrowser",
+            "url": "https://github.com/gtsteffaniak/filebrowser",
+            "description": "📂 Web File Browser"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "henrygd",
+          "name": "hank",
+          "url": "https://github.com/henrygd",
+          "featuredRepo": {
+            "name": "henrygd/beszel",
+            "url": "https://github.com/henrygd/beszel",
+            "description": "Lightweight server monitoring with historical data, docker stats, and alerts."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "Cyan4973",
+          "name": "Yann Collet",
+          "url": "https://github.com/Cyan4973",
+          "featuredRepo": {
+            "name": "Cyan4973/xxHash",
+            "url": "https://github.com/Cyan4973/xxHash",
+            "description": "Extremely fast non-cryptographic hash algorithm"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "jtenniswood",
+          "name": "James Tenniswood",
+          "url": "https://github.com/jtenniswood",
+          "featuredRepo": {
+            "name": "jtenniswood/espcontrol",
+            "url": "https://github.com/jtenniswood/espcontrol",
+            "description": "Esphome based smart home control panel"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "0xAX",
+          "name": "Alex Kuleshov",
+          "url": "https://github.com/0xAX",
+          "featuredRepo": {
+            "name": "0xAX/linux-insides",
+            "url": "https://github.com/0xAX/linux-insides",
+            "description": "A book-in-progress about the Linux kernel and its insides."
+          }
+        }
+      ]
+    }
+  ],
+  "best": [
+    {
+      "kind": "developer",
+      "key": "elie222",
+      "url": "https://github.com/elie222",
+      "bestRank": 20,
+      "scrapedAt": "2026-09-29T01:10:48.882Z",
+      "starsToday": null,
+      "featuredRepo": "elie222/rakazo"
+    }
+  ]
+}
