@@ -392,6 +392,146 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-09-29T18:37:09.040Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 94245,
+          "forks": 16026,
+          "starsToday": 2412,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+          "language": "TypeScript",
+          "stars": 2270,
+          "forks": 165,
+          "starsToday": 733,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "description": "Self-hosted deployment platform",
+          "language": "TypeScript",
+          "stars": 13720,
+          "forks": 1226,
+          "starsToday": 436,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "language": "TypeScript",
+          "stars": 21747,
+          "forks": 1837,
+          "starsToday": 692,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "language": "TypeScript",
+          "stars": 49820,
+          "forks": 4965,
+          "starsToday": 109,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 54175,
+          "forks": 4936,
+          "starsToday": 312,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "vercel-labs/scriptc",
+          "url": "https://github.com/vercel-labs/scriptc",
+          "description": "TypeScript-to-Native Compiler",
+          "language": "TypeScript",
+          "stars": 5683,
+          "forks": 156,
+          "starsToday": 88,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "mobile-next/mobile-mcp",
+          "url": "https://github.com/mobile-next/mobile-mcp",
+          "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+          "language": "TypeScript",
+          "stars": 8394,
+          "forks": 731,
+          "starsToday": 204,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "cloudflare/vinext",
+          "url": "https://github.com/cloudflare/vinext",
+          "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
+          "language": "TypeScript",
+          "stars": 8975,
+          "forks": 420,
+          "starsToday": 91,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "cypress-io/cypress",
+          "url": "https://github.com/cypress-io/cypress",
+          "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+          "language": "TypeScript",
+          "stars": 51044,
+          "forks": 3648,
+          "starsToday": 19,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "VoltAgent/voltagent",
+          "url": "https://github.com/VoltAgent/voltagent",
+          "description": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework",
+          "language": "TypeScript",
+          "stars": 10703,
+          "forks": 1148,
+          "starsToday": 10,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "OpenCTI-Platform/opencti",
+          "url": "https://github.com/OpenCTI-Platform/opencti",
+          "description": "Open Cyber Threat Intelligence Platform",
+          "language": "TypeScript",
+          "stars": 10066,
+          "forks": 1463,
+          "starsToday": 6,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []

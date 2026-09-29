@@ -12,7 +12,7 @@ UTC day **2026-09-29**.
 
 | List | Result |
 | --- | --- |
-| TypeScript developers (daily) | **#9** elie222 · elie222/rakazo |
+| TypeScript developers (daily) | **#9** elie222 · latest scrape #21 · elie222/rakazo |
 | all languages developers (daily) | not listed |
 | TypeScript repositories (daily) | not listed |
 | all languages repositories (daily) | not listed |
@@ -731,6 +731,6 @@ These periods are scraped and stored, but they are not part of the daily totals,
 
 | List | Name | Date | Best rank |
 | --- | --- | --- | --- |
-| TypeScript developers (weekly) | elie222 | 2026-09-29 | #13 |
+| TypeScript developers (weekly) | elie222 | 2026-09-29 | #11 |
 | TypeScript developers (monthly) | elie222 | 2026-09-29 | #6 |
 | all languages developers (monthly) | elie222 | 2026-09-29 | #20 |
