@@ -373,6 +373,201 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-09-29T12:44:22.897Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 93944,
+          "forks": 15984,
+          "starsToday": 10518,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "language": "TypeScript",
+          "stars": 81257,
+          "forks": 5285,
+          "starsToday": 6151,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "FxEmbed/FxEmbed",
+          "url": "https://github.com/FxEmbed/FxEmbed",
+          "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+          "language": "TypeScript",
+          "stars": 5569,
+          "forks": 263,
+          "starsToday": 465,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "language": "TypeScript",
+          "stars": 21622,
+          "forks": 1828,
+          "starsToday": 6481,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "BuilderIO/agent-native",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "description": "A framework for building agentic apps",
+          "language": "TypeScript",
+          "stars": 6906,
+          "forks": 624,
+          "starsToday": 1167,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "Open-Dev-Society/OpenStock",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+          "language": "TypeScript",
+          "stars": 19472,
+          "forks": 2387,
+          "starsToday": 1968,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "mobile-next/mobile-mcp",
+          "url": "https://github.com/mobile-next/mobile-mcp",
+          "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+          "language": "TypeScript",
+          "stars": 8366,
+          "forks": 725,
+          "starsToday": 1419,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "vercel-labs/scriptc",
+          "url": "https://github.com/vercel-labs/scriptc",
+          "description": "TypeScript-to-Native Compiler",
+          "language": "TypeScript",
+          "stars": 5663,
+          "forks": 150,
+          "starsToday": 714,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+          "language": "TypeScript",
+          "stars": 38706,
+          "forks": 3865,
+          "starsToday": 966,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/claude-code-action",
+          "url": "https://github.com/anthropics/claude-code-action",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 9233,
+          "forks": 2176,
+          "starsToday": 308,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "browserbase/stagehand",
+          "url": "https://github.com/browserbase/stagehand",
+          "description": "The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.",
+          "language": "TypeScript",
+          "stars": 25458,
+          "forks": 1744,
+          "starsToday": 511,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "ahmedkhaleel2004/gitdiagram",
+          "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+          "description": "Free, simple, fast interactive diagrams and videos for any GitHub repository",
+          "language": "TypeScript",
+          "stars": 17467,
+          "forks": 1333,
+          "starsToday": 509,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "krillinai/OpenCreator",
+          "url": "https://github.com/krillinai/OpenCreator",
+          "description": "Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, video translation, and edits with Agents in one place.",
+          "language": "TypeScript",
+          "stars": 12505,
+          "forks": 1282,
+          "starsToday": 444,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "description": "Self-hosted deployment platform",
+          "language": "TypeScript",
+          "stars": 13578,
+          "forks": 1211,
+          "starsToday": 1149,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "NginxProxyManager/nginx-proxy-manager",
+          "url": "https://github.com/NginxProxyManager/nginx-proxy-manager",
+          "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface",
+          "language": "TypeScript",
+          "stars": 34268,
+          "forks": 3921,
+          "starsToday": 92,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 16,
+          "name": "remotion-dev/remotion",
+          "url": "https://github.com/remotion-dev/remotion",
+          "description": "🎥 Make videos programmatically with React",
+          "language": "TypeScript",
+          "stars": 61045,
+          "forks": 4712,
+          "starsToday": 1076,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 17,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 193269,
+          "forks": 43889,
+          "starsToday": 604,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": []
