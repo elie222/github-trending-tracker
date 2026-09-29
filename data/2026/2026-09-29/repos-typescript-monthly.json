@@ -211,6 +211,212 @@
           "starsLabel": "this month"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-09-29T06:47:58.266Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=monthly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "miuuyy/codex-chatgpt-web",
+          "url": "https://github.com/miuuyy/codex-chatgpt-web",
+          "description": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
+          "language": "TypeScript",
+          "stars": 12670,
+          "forks": 1000,
+          "starsToday": 10909,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 2,
+          "name": "THU-MAIC/OpenMAIC",
+          "url": "https://github.com/THU-MAIC/OpenMAIC",
+          "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+          "language": "TypeScript",
+          "stars": 39454,
+          "forks": 6126,
+          "starsToday": 18422,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 3,
+          "name": "tech-leads-club/agent-skills",
+          "url": "https://github.com/tech-leads-club/agent-skills",
+          "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+          "language": "TypeScript",
+          "stars": 7001,
+          "forks": 558,
+          "starsToday": 2012,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 4,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 8926,
+          "forks": 839,
+          "starsToday": 3216,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 5,
+          "name": "Tencent/BrowserSkill",
+          "url": "https://github.com/Tencent/BrowserSkill",
+          "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+          "language": "TypeScript",
+          "stars": 7819,
+          "forks": 553,
+          "starsToday": 6292,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 6,
+          "name": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "description": "Open source alternative to Semrush and Ahrefs",
+          "language": "TypeScript",
+          "stars": 21627,
+          "forks": 2769,
+          "starsToday": 7653,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 7,
+          "name": "melgarafael/DeskcommCRM",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+          "language": "TypeScript",
+          "stars": 4234,
+          "forks": 1045,
+          "starsToday": 3631,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 8,
+          "name": "FxEmbed/FxEmbed",
+          "url": "https://github.com/FxEmbed/FxEmbed",
+          "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+          "language": "TypeScript",
+          "stars": 5562,
+          "forks": 263,
+          "starsToday": 603,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 9,
+          "name": "ever-co/ever-gauzy",
+          "url": "https://github.com/ever-co/ever-gauzy",
+          "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+          "language": "TypeScript",
+          "stars": 8127,
+          "forks": 1196,
+          "starsToday": 4021,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 10,
+          "name": "Gitlawb/openclaude",
+          "url": "https://github.com/Gitlawb/openclaude",
+          "description": "runs anywhere. uses anything",
+          "language": "TypeScript",
+          "stars": 33565,
+          "forks": 9101,
+          "starsToday": 2891,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 11,
+          "name": "vercel-labs/json-render",
+          "url": "https://github.com/vercel-labs/json-render",
+          "description": "The Generative UI framework",
+          "language": "TypeScript",
+          "stars": 18395,
+          "forks": 975,
+          "starsToday": 2356,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 12,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 29498,
+          "forks": 4107,
+          "starsToday": 8207,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 13,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 53986,
+          "forks": 4922,
+          "starsToday": 11091,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 14,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars": 24192,
+          "forks": 1746,
+          "starsToday": 4067,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 15,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "language": "TypeScript",
+          "stars": 21448,
+          "forks": 1812,
+          "starsToday": 6924,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 16,
+          "name": "aipoch/open-science",
+          "url": "https://github.com/aipoch/open-science",
+          "description": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.",
+          "language": "TypeScript",
+          "stars": 5185,
+          "forks": 453,
+          "starsToday": 2221,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 17,
+          "name": "linshenkx/prompt-optimizer",
+          "url": "https://github.com/linshenkx/prompt-optimizer",
+          "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
+          "language": "TypeScript",
+          "stars": 35977,
+          "forks": 4176,
+          "starsToday": 2563,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 18,
+          "name": "mobile-next/mobile-mcp",
+          "url": "https://github.com/mobile-next/mobile-mcp",
+          "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+          "language": "TypeScript",
+          "stars": 8332,
+          "forks": 723,
+          "starsToday": 2156,
+          "starsLabel": "this month"
+        }
+      ]
     }
   ],
   "best": []
