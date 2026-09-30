@@ -174,6 +174,7 @@ test("committed snapshots drive the showcase without relabeling archive gaps", (
   assert.equal(page.summary.ts.top10, typescript.daysTop10);
   assert.equal(page.summary.ts.longestOneStreak, typescript.numberOneStreak.longest);
   assert.equal(page.summary.ts.currentStreak, typescript.onListStreak.current);
+  assert.equal(page.summary.ts.best, typescript.bestEver);
   assert.equal(page.summary.all.onList, all.daysListed);
   assert.equal(page.summary.all.daysAtOne, all.daysNumberOne);
   assert.ok(page.days.length > 600);
