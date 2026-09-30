@@ -75,7 +75,7 @@ Backfill comes from the public archive [antonkomarev/github-trending-archive](ht
 
 ## Showcase
 
-[`docs/`](docs/) is the public page for [trending.elie.tech](https://trending.elie.tech): the daily rank chart (TypeScript and all languages, 30D / 90D / 1Y / All), the six record cards, the calendar, repositories that trended, and `docs/og.png` (1200×630). Numbers come from the snapshots in `data/`, using the same best daily rank and the same rule for archive days: a missing or empty archive date stays unknown and is not drawn as a day off the list.
+[`docs/`](docs/) is the public page for [trending.elie.tech](https://trending.elie.tech): the headline, six stats, a chart that switches between month-by-month bars, total #1 days, and daily rank (TypeScript and all languages, 30D / 90D / 1Y / All), the calendar, repositories that trended, and `docs/og.png` (1200×630). Numbers come from the snapshots in `data/`, using the same best daily rank and the same rule for archive days: a missing or empty archive date stays unknown and is not drawn as a day off the list.
 
 `npm run history` and the scrape workflow regenerate `docs/trending.json`, `docs/og.png`, and the social tags in `docs/index.html` after they refresh `HISTORY.md`. `npm run site` rebuilds only the page. `vercel.json` serves `docs/` as the static output, with no install and no build.
 

@@ -17,6 +17,8 @@ export interface ShowcaseRank {
   longestOneStreak: number;
   longestOnListStreak: number;
   currentStreak: number;
+  /** Best rank ever, or null when the developer has never been listed. */
+  best: number | null;
   /** Best rank on `report.today`, or null when off the list or unknown. */
   today: number | null;
   todayKnown: boolean;
@@ -131,8 +133,7 @@ export function renderOgPng(data: ShowcaseData, root: string): Buffer {
 }
 
 export function renderMeta(data: ShowcaseData): string {
-  const days = data.summary.ts.daysAtOne;
-  const title = `#1 on GitHub Trending (TypeScript) on ${days} ${days === 1 ? "day" : "days"}`;
+  const title = heroTitle(data.summary.ts);
   const description = `${data.summary.ts.onList} days on the list · ${data.summary.ts.top10} in the top 10 · since ${data.sinceLabel}`;
   const image = `${SITE_ORIGIN}/og.png`;
   const page = `${SITE_ORIGIN}/`;
@@ -165,7 +166,7 @@ function renderOgSvg(data: ShowcaseData, fonts: string[]): string {
   const chartW = width - padX * 2;
   const chartH = 120;
   const chartY = height - padBottom - chartH;
-  const headline = `#1 on GitHub Trending (TypeScript) on ${data.summary.ts.daysAtOne} ${data.summary.ts.daysAtOne === 1 ? "day" : "days"}.`;
+  const headline = `${heroTitle(data.summary.ts)}.`;
   const words = headline.split(/\s+/).filter(Boolean);
   const phrases = ["0"];
   for (let start = 0; start < words.length; start += 1) {
@@ -386,9 +387,19 @@ function rankSummary(series: SeriesStats | undefined, today: DayStatus): Showcas
     longestOneStreak: series?.numberOneStreak.longest ?? 0,
     longestOnListStreak: series?.onListStreak.longest ?? 0,
     currentStreak: series?.onListStreak.current ?? 0,
+    best: series?.bestEver ?? null,
     today: today.known ? today.rank : null,
     todayKnown: today.known,
   };
+}
+
+function heroTitle(summary: ShowcaseRank): string {
+  if (summary.daysAtOne > 0) {
+    const word = summary.daysAtOne === 1 ? "day" : "days";
+    return `#1 on TypeScript Trending for ${summary.daysAtOne} ${word}`;
+  }
+  if (summary.best != null) return `#${summary.best} on TypeScript Trending`;
+  return "TypeScript Trending";
 }
 
 function trendingRepos(report: Report, descriptions: Map<string, string>): ShowcaseRepo[] {

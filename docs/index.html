@@ -5,20 +5,20 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- site-meta:start -->
 <title>trending.elie.tech</title>
-<meta name="description" content="#1 on GitHub Trending (TypeScript) on 73 days. 378 days on the list · 275 in the top 10 · since November 2024.">
+<meta name="description" content="#1 on TypeScript Trending for 73 days. 379 days on the list · 275 in the top 10 · since November 2024.">
 <link rel="canonical" href="https://trending.elie.tech/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="trending.elie.tech">
-<meta property="og:title" content="#1 on GitHub Trending (TypeScript) on 73 days">
-<meta property="og:description" content="378 days on the list · 275 in the top 10 · since November 2024">
+<meta property="og:title" content="#1 on TypeScript Trending for 73 days">
+<meta property="og:description" content="379 days on the list · 275 in the top 10 · since November 2024">
 <meta property="og:url" content="https://trending.elie.tech/">
 <meta property="og:image" content="https://trending.elie.tech/og.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="#1 on GitHub Trending (TypeScript) on 73 days">
+<meta property="og:image:alt" content="#1 on TypeScript Trending for 73 days">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="#1 on GitHub Trending (TypeScript) on 73 days">
-<meta name="twitter:description" content="378 days on the list · 275 in the top 10 · since November 2024">
+<meta name="twitter:title" content="#1 on TypeScript Trending for 73 days">
+<meta name="twitter:description" content="379 days on the list · 275 in the top 10 · since November 2024">
 <meta name="twitter:image" content="https://trending.elie.tech/og.png">
 <!-- site-meta:end -->
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%232563EB'/%3E%3Ccircle cx='16' cy='13' r='4' fill='%23D8A40C'/%3E%3C/svg%3E">
@@ -38,67 +38,50 @@
         <span class="live-wait" id="live-wait"></span>
         <span class="today-kicker">Today</span>
         <span class="today-rank" id="today-rank">…</span>
-        <span class="today-lang">TypeScript</span>
+        <span class="today-lang" id="today-lang">TypeScript</span>
       </div>
     </header>
 
-    <section class="hero">
-      <div class="hero-kicker">
-        <span class="badge badge-blue">GitHub Trending · Developers</span>
-        <span class="hero-who" id="hero-who">Elie Steinbock · @elie222</span>
-      </div>
-      <div id="hero-body">
-        <div class="skel skel-lg"></div>
-        <div class="skel skel-md"></div>
-        <div class="skel skel-sm"></div>
-      </div>
+    <section class="hero" id="hero">
+      <div class="skel skel-lg"></div>
+      <div class="skel skel-sm"></div>
     </section>
 
-    <section class="panel chart-card">
+    <section class="stats" id="stats" aria-label="Record"></section>
+
+    <section class="chart-block">
       <div class="chart-head">
-        <div class="chart-titles">
-          <h2>Daily rank</h2>
-          <span class="muted" id="chart-caption">Loading…</span>
-        </div>
+        <h2 id="chart-title">Month by month</h2>
         <div class="chart-controls">
-          <div class="seg" id="list-seg">
-            <button type="button" data-list="typescript" class="is-on">TypeScript</button>
-            <button type="button" data-list="all">All languages</button>
+          <div class="seg" id="mode-seg" data-key="mode">
+            <button type="button" data-value="monthly" class="is-on">By month</button>
+            <button type="button" data-value="cumulative">Total #1 days</button>
+            <button type="button" data-value="rank">Daily rank</button>
           </div>
-          <div class="seg seg-mono" id="range-seg">
-            <button type="button" data-range="30d">30D</button>
-            <button type="button" data-range="90d">90D</button>
-            <button type="button" data-range="1y">1Y</button>
-            <button type="button" data-range="all" class="is-on">All</button>
+          <div class="seg" id="list-seg" data-key="list">
+            <button type="button" data-value="typescript" class="is-on">TypeScript</button>
+            <button type="button" data-value="all">All languages</button>
+          </div>
+          <div class="seg seg-mono" id="range-seg" data-key="range">
+            <button type="button" data-value="30d">30D</button>
+            <button type="button" data-value="90d">90D</button>
+            <button type="button" data-value="1y">1Y</button>
+            <button type="button" data-value="all" class="is-on">All</button>
           </div>
         </div>
       </div>
       <div class="chart-stage" id="chart-stage">
         <div class="skel-chart" id="chart-skel"></div>
       </div>
-      <div class="legend">
-        <span class="legend-item"><span class="swatch gold-dot"></span>#1 day</span>
-        <span class="legend-item"><span class="swatch line-swatch"></span>Daily rank</span>
-        <span class="legend-item"><span class="swatch band-swatch"></span>Top 10</span>
-        <span>Gaps are days off the list</span>
-      </div>
+      <div class="legend" id="legend"></div>
     </section>
 
-    <section class="record">
-      <div class="section-head">
-        <h2>The record</h2>
-        <span class="muted" id="record-label">TypeScript developers list</span>
-      </div>
-      <div class="cards" id="cards"></div>
-    </section>
-
-    <section class="panel heat-card">
-      <div class="section-head">
-        <h2 id="heat-title">Every day since Nov 2024</h2>
-        <span class="muted heat-caption" id="heat-caption">Hover a day</span>
+    <section class="heat-block">
+      <div class="heat-head">
+        <h2>Every day</h2>
+        <span class="heat-caption" id="heat-caption"></span>
       </div>
       <div class="heat-scroll" id="heat-scroll"></div>
-      <div class="heat-legend" id="heat-legend"></div>
     </section>
 
     <section class="repos">
@@ -113,7 +96,7 @@
         <a href="https://github.com/elie222">github.com/elie222</a>
         <a href="https://elie.tech">elie.tech</a>
       </div>
-      <span class="footer-meta">Data updated every 6 hours · last update <time id="updated" datetime="">…</time> · <a class="source" id="source-link" href="https://github.com/elie222/github-trending-tracker">source</a></span>
+      <a class="updated" id="updated" href="https://github.com/elie222/github-trending-tracker">Updated …</a>
     </footer>
   </div>
 </div>
