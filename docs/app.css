@@ -601,6 +601,7 @@ button {
 
 @media (max-width: 860px) {
   .hero h1 {
+    font-size: clamp(20px, 6.2vw, 32px);
     white-space: normal;
     text-wrap: balance;
     overflow-wrap: break-word;
