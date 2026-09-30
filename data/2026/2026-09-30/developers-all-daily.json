@@ -830,6 +830,285 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-09-30T18:37:54.263Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "mvschwarz",
+          "name": "Mike Schwarz",
+          "url": "https://github.com/mvschwarz",
+          "featuredRepo": {
+            "name": "mvschwarz/openrig",
+            "url": "https://github.com/mvschwarz/openrig",
+            "description": "Multi-agent harness that runs Claude Code and Codex together as one system"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "probonopd",
+          "name": "probonopd",
+          "url": "https://github.com/probonopd",
+          "featuredRepo": {
+            "name": "probonopd/irdb",
+            "url": "https://github.com/probonopd/irdb",
+            "description": "One of the largest crowd-sourced, manufacturer-independent databases of infrared remote control codes on the web, and aspiring to become …"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "agoodkind",
+          "name": "Alex Goodkind",
+          "url": "https://github.com/agoodkind",
+          "featuredRepo": {
+            "name": "agoodkind/macos-smc-fan",
+            "url": "https://github.com/agoodkind/macos-smc-fan",
+            "description": "Research into SMC fan control on Apple Silicon (M1-M5). Documents the unlock mechanism and provides a working implementation for educatio…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "neubig",
+          "name": "Graham Neubig",
+          "url": "https://github.com/neubig",
+          "featuredRepo": {
+            "name": "neubig/lowresource-nlp-bootcamp-2020",
+            "url": "https://github.com/neubig/lowresource-nlp-bootcamp-2020",
+            "description": "The website for the CMU Language Technologies Institute low resource NLP bootcamp 2020"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "assafelovic",
+          "name": "Assaf Elovic",
+          "url": "https://github.com/assafelovic",
+          "featuredRepo": {
+            "name": "assafelovic/gpt-researcher",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "description": "An autonomous agent that conducts deep research on any data using any LLM providers"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/RuView",
+            "url": "https://github.com/ruvnet/RuView",
+            "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "yetone",
+          "name": "yetone",
+          "url": "https://github.com/yetone",
+          "featuredRepo": {
+            "name": "yetone/magpie",
+            "url": "https://github.com/yetone/magpie",
+            "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "penso",
+          "name": "Fabien Penso",
+          "url": "https://github.com/penso",
+          "featuredRepo": {
+            "name": "penso/herdr-gpui",
+            "url": "https://github.com/penso/herdr-gpui",
+            "description": "Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through yo…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/DeepSeek-Reasonix",
+            "url": "https://github.com/esengine/DeepSeek-Reasonix",
+            "description": "A reliable coding agent for complex software engineering tasks."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "mpfaffenberger",
+          "name": "Mike Pfaffenberger",
+          "url": "https://github.com/mpfaffenberger",
+          "featuredRepo": {
+            "name": "mpfaffenberger/code_puppy",
+            "url": "https://github.com/mpfaffenberger/code_puppy",
+            "description": "Agentic AI for writing code"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "teng-lin",
+          "name": "Teng Lin",
+          "url": "https://github.com/teng-lin",
+          "featuredRepo": {
+            "name": "teng-lin/notebooklm-py",
+            "url": "https://github.com/teng-lin/notebooklm-py",
+            "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilit…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "dalathegreat",
+          "name": "Daniel Öster",
+          "url": "https://github.com/dalathegreat",
+          "featuredRepo": {
+            "name": "dalathegreat/Battery-Emulator",
+            "url": "https://github.com/dalathegreat/Battery-Emulator",
+            "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "Th0rgal",
+          "name": "Thomas Marchand",
+          "url": "https://github.com/Th0rgal",
+          "featuredRepo": {
+            "name": "Th0rgal/open_oura",
+            "url": "https://github.com/Th0rgal/open_oura",
+            "description": "A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorith…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "DouweM",
+          "name": "Douwe Maan",
+          "url": "https://github.com/DouweM",
+          "featuredRepo": null
+        },
+        {
+          "rank": 15,
+          "username": "domenkozar",
+          "name": "Domen Kožar",
+          "url": "https://github.com/domenkozar",
+          "featuredRepo": {
+            "name": "domenkozar/agentaps",
+            "url": "https://github.com/domenkozar/agentaps",
+            "description": "A universal GUI for coding harnesses."
+          }
+        },
+        {
+          "rank": 16,
+          "username": "slavakurilyak",
+          "name": "Slava Kurilyak",
+          "url": "https://github.com/slavakurilyak",
+          "featuredRepo": {
+            "name": "slavakurilyak/awesome-ai-agents",
+            "url": "https://github.com/slavakurilyak/awesome-ai-agents",
+            "description": "Awesome list of 300+ agentic AI resources"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "MervinPraison",
+          "name": "Mervin Praison",
+          "url": "https://github.com/MervinPraison",
+          "featuredRepo": {
+            "name": "MervinPraison/PraisonAI",
+            "url": "https://github.com/MervinPraison/PraisonAI",
+            "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan,…"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "MakazhanAlpamys",
+          "name": "Alpamys Makazhan",
+          "url": "https://github.com/MakazhanAlpamys",
+          "featuredRepo": {
+            "name": "MakazhanAlpamys/Soup",
+            "url": "https://github.com/MakazhanAlpamys/Soup",
+            "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "unxed",
+          "name": "unxed",
+          "url": "https://github.com/unxed",
+          "featuredRepo": {
+            "name": "unxed/f4",
+            "url": "https://github.com/unxed/f4",
+            "description": "dual pane like a charm"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "abrignoni",
+          "name": "Brigs",
+          "url": "https://github.com/abrignoni",
+          "featuredRepo": {
+            "name": "abrignoni/iLEAPP",
+            "url": "https://github.com/abrignoni/iLEAPP",
+            "description": "iOS Logs, Events, And Plist Parser"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "zhuzilin",
+          "name": "Zilin Zhu",
+          "url": "https://github.com/zhuzilin",
+          "featuredRepo": {
+            "name": "zhuzilin/straw",
+            "url": "https://github.com/zhuzilin/straw",
+            "description": null
+          }
+        },
+        {
+          "rank": 22,
+          "username": "yairm210",
+          "name": "Yair Morgenstern",
+          "url": "https://github.com/yairm210",
+          "featuredRepo": {
+            "name": "yairm210/Unciv",
+            "url": "https://github.com/yairm210/Unciv",
+            "description": "Open-source Android/Desktop remake of Civ V"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "jakevdp",
+          "name": "Jake Vanderplas",
+          "url": "https://github.com/jakevdp",
+          "featuredRepo": {
+            "name": "jakevdp/PythonDataScienceHandbook",
+            "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+            "description": "Python Data Science Handbook: full text in Jupyter Notebooks"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "mattsse",
+          "name": "Matthias Seitz",
+          "url": "https://github.com/mattsse",
+          "featuredRepo": {
+            "name": "mattsse/chromiumoxide",
+            "url": "https://github.com/mattsse/chromiumoxide",
+            "description": "Chrome Devtools Protocol rust API"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        }
+      ]
     }
   ],
   "best": []

@@ -854,6 +854,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-09-30T18:37:54.263Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "mvschwarz",
+          "name": "Mike Schwarz",
+          "url": "https://github.com/mvschwarz",
+          "featuredRepo": {
+            "name": "mvschwarz/openrig",
+            "url": "https://github.com/mvschwarz/openrig",
+            "description": "Multi-agent harness that runs Claude Code and Codex together as one system"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "bradygaster",
+          "name": "Brady Gaster",
+          "url": "https://github.com/bradygaster",
+          "featuredRepo": {
+            "name": "bradygaster/squad",
+            "url": "https://github.com/bradygaster/squad",
+            "description": "Squad: AI agent teams for any project"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "kingsword09",
+          "name": "Kingsword",
+          "url": "https://github.com/kingsword09",
+          "featuredRepo": {
+            "name": "kingsword09/zcode-cli",
+            "url": "https://github.com/kingsword09/zcode-cli",
+            "description": "Unofficial terminal client for the official agent runtime shipped with ZCode Desktop."
+          }
+        },
+        {
+          "rank": 5,
+          "username": "mlightcad",
+          "name": "mlightcad",
+          "url": "https://github.com/mlightcad",
+          "featuredRepo": {
+            "name": "mlightcad/cad-viewer",
+            "url": "https://github.com/mlightcad/cad-viewer",
+            "description": "The world’s first fully web-based DXF/DWG viewer and editor that runs entirely in the browser — no backend server required."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "callumalpass",
+          "name": "callumalpass",
+          "url": "https://github.com/callumalpass",
+          "featuredRepo": {
+            "name": "callumalpass/tasknotes",
+            "url": "https://github.com/callumalpass/tasknotes",
+            "description": "Task and time-tracking management with calendar integration for Obsidian"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "whyour",
+          "name": "whyour",
+          "url": "https://github.com/whyour",
+          "featuredRepo": {
+            "name": "whyour/qinglong",
+            "url": "https://github.com/whyour/qinglong",
+            "description": "支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "gotalab",
+          "name": "Gota",
+          "url": "https://github.com/gotalab",
+          "featuredRepo": {
+            "name": "gotalab/cc-sdd",
+            "url": "https://github.com/gotalab/cc-sdd",
+            "description": "Turn approved specs into long-running autonomous implementation. A minimal, adaptable SDD harness with Agent Skills for Claude Code, Code…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "petebacondarwin",
+          "name": "Pete Bacon Darwin",
+          "url": "https://github.com/petebacondarwin",
+          "featuredRepo": {
+            "name": "petebacondarwin/tiered-publisher",
+            "url": "https://github.com/petebacondarwin/tiered-publisher",
+            "description": null
+          }
+        },
+        {
+          "rank": 11,
+          "username": "jarrodwatts",
+          "name": "Jarrod Watts",
+          "url": "https://github.com/jarrodwatts",
+          "featuredRepo": {
+            "name": "jarrodwatts/jev-trader",
+            "url": "https://github.com/jarrodwatts/jev-trader",
+            "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "chaitanyagiri",
+          "name": "Chaitanya Giri",
+          "url": "https://github.com/chaitanyagiri",
+          "featuredRepo": {
+            "name": "chaitanyagiri/munder-difflin",
+            "url": "https://github.com/chaitanyagiri/munder-difflin",
+            "description": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "kentcdodds",
+          "name": "Kent C. Dodds",
+          "url": "https://github.com/kentcdodds",
+          "featuredRepo": {
+            "name": "kentcdodds/kody",
+            "url": "https://github.com/kentcdodds/kody",
+            "description": "🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflar…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "scosman",
+          "name": "Steve Cosman",
+          "url": "https://github.com/scosman",
+          "featuredRepo": {
+            "name": "scosman/videowright",
+            "url": "https://github.com/scosman/videowright",
+            "description": "Build animated explainer videos with your coding agent"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "musistudio",
+          "name": "musi",
+          "url": "https://github.com/musistudio",
+          "featuredRepo": {
+            "name": "musistudio/claude-code-router",
+            "url": "https://github.com/musistudio/claude-code-router",
+            "description": "One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control."
+          }
+        },
+        {
+          "rank": 16,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "retorquere",
+          "name": "Protocol Sententiary",
+          "url": "https://github.com/retorquere",
+          "featuredRepo": {
+            "name": "retorquere/zotero-better-bibtex",
+            "url": "https://github.com/retorquere/zotero-better-bibtex",
+            "description": "Make Zotero effective for us LaTeX holdouts"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "SimonSiefke",
+          "name": "Simon Siefke",
+          "url": "https://github.com/SimonSiefke",
+          "featuredRepo": {
+            "name": "SimonSiefke/vscode-memory-leak-finder",
+            "url": "https://github.com/SimonSiefke/vscode-memory-leak-finder",
+            "description": "Find memory leaks in VS Code"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "ItzCrazyKns",
+          "name": "Kushagra Srivastava",
+          "url": "https://github.com/ItzCrazyKns",
+          "featuredRepo": {
+            "name": "ItzCrazyKns/Vane",
+            "url": "https://github.com/ItzCrazyKns/Vane",
+            "description": "Vane is an AI-powered answering engine."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "timoncool",
+          "name": "Ilya (Nerual Dreming) Timonin",
+          "url": "https://github.com/timoncool",
+          "featuredRepo": {
+            "name": "timoncool/YuE2-Studio",
+            "url": "https://github.com/timoncool/YuE2-Studio",
+            "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Wind…"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "nidhi-singh02",
+          "name": "Nidhi Singh",
+          "url": "https://github.com/nidhi-singh02",
+          "featuredRepo": {
+            "name": "nidhi-singh02/agent-router",
+            "url": "https://github.com/nidhi-singh02/agent-router",
+            "description": "CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. Powered by Jev and Herdr"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "ctate",
+          "name": "Chris Tate",
+          "url": "https://github.com/ctate",
+          "featuredRepo": {
+            "name": "ctate/3d-model-generator",
+            "url": "https://github.com/ctate/3d-model-generator",
+            "description": "Generate 3D models with AI"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "binaricat",
+          "name": "陈大猫",
+          "url": "https://github.com/binaricat",
+          "featuredRepo": {
+            "name": "binaricat/Netcatty",
+            "url": "https://github.com/binaricat/Netcatty",
+            "description": "SSH workspace, SFTP, and terminals in one"
+          }
+        }
+      ]
     }
   ],
   "best": [
@@ -861,8 +1144,8 @@
       "kind": "developer",
       "key": "elie222",
       "url": "https://github.com/elie222",
-      "bestRank": 21,
-      "scrapedAt": "2026-09-30T01:09:46.984Z",
+      "bestRank": 7,
+      "scrapedAt": "2026-09-30T18:37:54.263Z",
       "starsToday": null,
       "featuredRepo": "elie222/rakazo"
     }

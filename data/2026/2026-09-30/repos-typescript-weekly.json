@@ -568,6 +568,179 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-09-30T18:37:54.263Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 95175,
+          "forks": 16164,
+          "starsToday": 12941,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "language": "TypeScript",
+          "stars": 82226,
+          "forks": 5344,
+          "starsToday": 6242,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "FxEmbed/FxEmbed",
+          "url": "https://github.com/FxEmbed/FxEmbed",
+          "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+          "language": "TypeScript",
+          "stars": 5603,
+          "forks": 266,
+          "starsToday": 502,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "language": "TypeScript",
+          "stars": 22152,
+          "forks": 1868,
+          "starsToday": 6666,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/claude-code-action",
+          "url": "https://github.com/anthropics/claude-code-action",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 9267,
+          "forks": 2177,
+          "starsToday": 319,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "mobile-next/mobile-mcp",
+          "url": "https://github.com/mobile-next/mobile-mcp",
+          "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+          "language": "TypeScript",
+          "stars": 8456,
+          "forks": 743,
+          "starsToday": 1589,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "vercel-labs/scriptc",
+          "url": "https://github.com/vercel-labs/scriptc",
+          "description": "TypeScript-to-Native Compiler",
+          "language": "TypeScript",
+          "stars": 5845,
+          "forks": 158,
+          "starsToday": 793,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "vega-org/vega-app",
+          "url": "https://github.com/vega-org/vega-app",
+          "description": "A media streaming app for android.",
+          "language": "TypeScript",
+          "stars": 1470,
+          "forks": 204,
+          "starsToday": 119,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "description": "Self-hosted deployment platform",
+          "language": "TypeScript",
+          "stars": 14182,
+          "forks": 1269,
+          "starsToday": 1299,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "satnaing/shadcn-admin",
+          "url": "https://github.com/satnaing/shadcn-admin",
+          "description": "Admin Dashboard UI built with Shadcn and Vite.",
+          "language": "TypeScript",
+          "stars": 15422,
+          "forks": 2343,
+          "starsToday": 1062,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "ahmedkhaleel2004/gitdiagram",
+          "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+          "description": "Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.",
+          "language": "TypeScript",
+          "stars": 17595,
+          "forks": 1345,
+          "starsToday": 585,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "language": "TypeScript",
+          "stars": 49888,
+          "forks": 4976,
+          "starsToday": 565,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "Open-Dev-Society/OpenStock",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+          "language": "TypeScript",
+          "stars": 19503,
+          "forks": 2391,
+          "starsToday": 1227,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "remotion-dev/remotion",
+          "url": "https://github.com/remotion-dev/remotion",
+          "description": "🎥 Make videos programmatically with React",
+          "language": "TypeScript",
+          "stars": 61264,
+          "forks": 4732,
+          "starsToday": 1092,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+          "language": "TypeScript",
+          "stars": 456561,
+          "forks": 47855,
+          "starsToday": 696,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": []

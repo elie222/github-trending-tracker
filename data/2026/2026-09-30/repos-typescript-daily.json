@@ -458,6 +458,179 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-09-30T18:37:54.263Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+          "language": "TypeScript",
+          "stars": 2873,
+          "forks": 201,
+          "starsToday": 622,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars": 24398,
+          "forks": 1765,
+          "starsToday": 88,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 390926,
+          "forks": 82211,
+          "starsToday": 136,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 54595,
+          "forks": 4964,
+          "starsToday": 352,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 90762,
+          "forks": 11719,
+          "starsToday": 48,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "description": "Self-hosted deployment platform",
+          "language": "TypeScript",
+          "stars": 14182,
+          "forks": 1269,
+          "starsToday": 582,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "description": "🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.",
+          "language": "TypeScript",
+          "stars": 187066,
+          "forks": 9992,
+          "starsToday": 579,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 52810,
+          "forks": 5273,
+          "starsToday": 66,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+          "language": "TypeScript",
+          "stars": 60174,
+          "forks": 5924,
+          "starsToday": 82,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "homarr-labs/homarr",
+          "url": "https://github.com/homarr-labs/homarr",
+          "description": "A modern and easy to use dashboard. 40+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.",
+          "language": "TypeScript",
+          "stars": 4924,
+          "forks": 321,
+          "starsToday": 30,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "aipoch/open-science",
+          "url": "https://github.com/aipoch/open-science",
+          "description": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.",
+          "language": "TypeScript",
+          "stars": 5325,
+          "forks": 489,
+          "starsToday": 23,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "vercel/ai",
+          "url": "https://github.com/vercel/ai",
+          "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+          "language": "TypeScript",
+          "stars": 27056,
+          "forks": 5230,
+          "starsToday": 23,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "language": "TypeScript",
+          "stars": 148699,
+          "forks": 25109,
+          "starsToday": 123,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "cloudflare/vinext",
+          "url": "https://github.com/cloudflare/vinext",
+          "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
+          "language": "TypeScript",
+          "stars": 9032,
+          "forks": 425,
+          "starsToday": 65,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 15,
+          "name": "OpenHands/OpenHands",
+          "url": "https://github.com/OpenHands/OpenHands",
+          "description": "🙌 OpenHands: AI-Driven Development",
+          "language": "TypeScript",
+          "stars": 89624,
+          "forks": 11832,
+          "starsToday": 127,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []
