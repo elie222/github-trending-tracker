@@ -17,22 +17,30 @@ button {
 }
 
 .page {
+  container-type: inline-size;
   background: #fdfdfd;
   color: var(--iz-body);
   min-height: 100vh;
 }
 
 .wrap {
-  container-type: inline-size;
   max-width: 1080px;
   margin: 0 auto;
   padding: 20px 20px 36px;
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
+}
+
+.wrap > * + * {
+  margin-top: 40px;
+}
+
+.wrap > * {
+  min-width: 0;
+  max-width: 100%;
 }
 
 .top {
+  position: relative;
+  z-index: 2;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -40,12 +48,16 @@ button {
   flex-wrap: wrap;
   padding-bottom: 14px;
   border-bottom: 1px solid #efefef;
+  background: #fdfdfd;
 }
 
 .wordmark {
+  flex: 1 1 auto;
+  min-width: 0;
   font-family: var(--iz-font-mono);
   font-size: 13px;
   font-weight: 500;
+  line-height: 1.3;
   color: #242424;
 }
 
@@ -114,6 +126,8 @@ button {
 }
 
 .hero {
+  position: relative;
+  z-index: 1;
   display: flex;
   flex-direction: column;
   gap: 14px;
@@ -123,11 +137,13 @@ button {
 .hero h1 {
   font-family: var(--iz-font-display);
   font-weight: 500;
-  font-size: min(5.6cqw, 60px);
+  font-size: clamp(28px, 5.6vw, 60px);
   line-height: 1.05;
   letter-spacing: -0.03em;
   color: #242424;
   margin: 0;
+  min-width: 0;
+  max-width: 100%;
   white-space: nowrap;
 }
 
@@ -583,9 +599,10 @@ button {
   animation: izpulse 1.4s ease-in-out infinite;
 }
 
-@container (max-width: 720px) {
+@media (max-width: 860px) {
   .hero h1 {
     white-space: normal;
     text-wrap: balance;
+    overflow-wrap: break-word;
   }
 }
