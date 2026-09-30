@@ -555,6 +555,281 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-09-30T12:46:52.396Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "mvschwarz",
+          "name": "Mike Schwarz",
+          "url": "https://github.com/mvschwarz",
+          "featuredRepo": {
+            "name": "mvschwarz/openrig",
+            "url": "https://github.com/mvschwarz/openrig",
+            "description": "Multi-agent harness that runs Claude Code and Codex together as one system"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "unxed",
+          "name": "unxed",
+          "url": "https://github.com/unxed",
+          "featuredRepo": {
+            "name": "unxed/f4",
+            "url": "https://github.com/unxed/f4",
+            "description": "dual pane like a charm"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/RuView",
+            "url": "https://github.com/ruvnet/RuView",
+            "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "tt-a1i",
+          "name": "tt-a1i",
+          "url": "https://github.com/tt-a1i",
+          "featuredRepo": {
+            "name": "tt-a1i/archify",
+            "url": "https://github.com/tt-a1i/archify",
+            "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "dalathegreat",
+          "name": "Daniel Öster",
+          "url": "https://github.com/dalathegreat",
+          "featuredRepo": {
+            "name": "dalathegreat/Battery-Emulator",
+            "url": "https://github.com/dalathegreat/Battery-Emulator",
+            "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "nicoburns",
+          "name": "Nico Burns",
+          "url": "https://github.com/nicoburns",
+          "featuredRepo": {
+            "name": "nicoburns/blessed-rs",
+            "url": "https://github.com/nicoburns/blessed-rs",
+            "description": "A community guide to the Rust ecosystem"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "domenkozar",
+          "name": "Domen Kožar",
+          "url": "https://github.com/domenkozar",
+          "featuredRepo": {
+            "name": "domenkozar/agentaps",
+            "url": "https://github.com/domenkozar/agentaps",
+            "description": "A universal GUI for coding harnesses."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "teng-lin",
+          "name": "Teng Lin",
+          "url": "https://github.com/teng-lin",
+          "featuredRepo": {
+            "name": "teng-lin/notebooklm-py",
+            "url": "https://github.com/teng-lin/notebooklm-py",
+            "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilit…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/DeepSeek-Reasonix",
+            "url": "https://github.com/esengine/DeepSeek-Reasonix",
+            "description": "A reliable coding agent for complex software engineering tasks."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "abrignoni",
+          "name": "Brigs",
+          "url": "https://github.com/abrignoni",
+          "featuredRepo": {
+            "name": "abrignoni/iLEAPP",
+            "url": "https://github.com/abrignoni/iLEAPP",
+            "description": "iOS Logs, Events, And Plist Parser"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "noonghunna",
+          "name": "noonghunna",
+          "url": "https://github.com/noonghunna",
+          "featuredRepo": {
+            "name": "noonghunna/club-3090",
+            "url": "https://github.com/noonghunna/club-3090",
+            "description": "Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, llama.cpp, ik_llama) and model-agnostic. Currentl…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "probonopd",
+          "name": "probonopd",
+          "url": "https://github.com/probonopd",
+          "featuredRepo": {
+            "name": "probonopd/MiniDexed",
+            "url": "https://github.com/probonopd/MiniDexed",
+            "description": "Dexed FM synthesizer similar to 8x DX7 (TX816/TX802) running on a bare metal Raspberry Pi (without a Linux kernel or operating system)"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "ja7ad",
+          "name": "Javad Rajabzadeh",
+          "url": "https://github.com/ja7ad",
+          "featuredRepo": {
+            "name": "ja7ad/hydra",
+            "url": "https://github.com/ja7ad/hydra",
+            "description": "A fast, resilient, multi-source file retriever and download engine"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "agoodkind",
+          "name": "Alex Goodkind",
+          "url": "https://github.com/agoodkind",
+          "featuredRepo": {
+            "name": "agoodkind/macos-smc-fan",
+            "url": "https://github.com/agoodkind/macos-smc-fan",
+            "description": "Research into SMC fan control on Apple Silicon (M1-M5). Documents the unlock mechanism and provides a working implementation for educatio…"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "assafelovic",
+          "name": "Assaf Elovic",
+          "url": "https://github.com/assafelovic",
+          "featuredRepo": {
+            "name": "assafelovic/gpt-researcher",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "description": "An autonomous agent that conducts deep research on any data using any LLM providers"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "sv",
+          "name": "Sergey Vidyuk",
+          "url": "https://github.com/sv",
+          "featuredRepo": null
+        },
+        {
+          "rank": 17,
+          "username": "Th0rgal",
+          "name": "Thomas Marchand",
+          "url": "https://github.com/Th0rgal",
+          "featuredRepo": {
+            "name": "Th0rgal/open_oura",
+            "url": "https://github.com/Th0rgal/open_oura",
+            "description": "A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorith…"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "yairm210",
+          "name": "Yair Morgenstern",
+          "url": "https://github.com/yairm210",
+          "featuredRepo": {
+            "name": "yairm210/Unciv",
+            "url": "https://github.com/yairm210/Unciv",
+            "description": "Open-source Android/Desktop remake of Civ V"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "slavakurilyak",
+          "name": "Slava Kurilyak",
+          "url": "https://github.com/slavakurilyak",
+          "featuredRepo": {
+            "name": "slavakurilyak/awesome-ai-agents",
+            "url": "https://github.com/slavakurilyak/awesome-ai-agents",
+            "description": "Awesome list of 300+ agentic AI resources"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "ctate",
+          "name": "Chris Tate",
+          "url": "https://github.com/ctate",
+          "featuredRepo": {
+            "name": "ctate/3d-model-generator",
+            "url": "https://github.com/ctate/3d-model-generator",
+            "description": "Generate 3D models with AI"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "PastaPastaPasta",
+          "name": "PastaPastaPasta",
+          "url": "https://github.com/PastaPastaPasta",
+          "featuredRepo": {
+            "name": "PastaPastaPasta/dashhq",
+            "url": "https://github.com/PastaPastaPasta/dashhq",
+            "description": "The dashhq.org landing page: a map of the Dash Platform ecosystem"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "weblate",
+          "name": "Weblate (bot)",
+          "url": "https://github.com/weblate",
+          "featuredRepo": {
+            "name": "weblate/myna",
+            "url": "https://github.com/weblate/myna",
+            "description": "Myna is a lightweight speech-to-text application for Ubuntu Desktop."
+          }
+        },
+        {
+          "rank": 23,
+          "username": "davsclaus",
+          "name": "Claus Ibsen",
+          "url": "https://github.com/davsclaus",
+          "featuredRepo": null
+        },
+        {
+          "rank": 24,
+          "username": "MakazhanAlpamys",
+          "name": "Alpamys Makazhan",
+          "url": "https://github.com/MakazhanAlpamys",
+          "featuredRepo": {
+            "name": "MakazhanAlpamys/Soup",
+            "url": "https://github.com/MakazhanAlpamys/Soup",
+            "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
+          }
+        },
+        {
+          "rank": 25,
+          "username": "penso",
+          "name": "Fabien Penso",
+          "url": "https://github.com/penso",
+          "featuredRepo": {
+            "name": "penso/herdr-gpui",
+            "url": "https://github.com/penso/herdr-gpui",
+            "description": "Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through yo…"
+          }
+        }
+      ]
     }
   ],
   "best": []

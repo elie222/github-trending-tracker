@@ -461,6 +461,234 @@
           "starsLabel": "this month"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-09-30T12:46:52.396Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=monthly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars": 24304,
+          "forks": 1758,
+          "starsToday": 4077,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 2,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 95021,
+          "forks": 16131,
+          "starsToday": 14643,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 3,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 54422,
+          "forks": 4948,
+          "starsToday": 11262,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 4,
+          "name": "THU-MAIC/OpenMAIC",
+          "url": "https://github.com/THU-MAIC/OpenMAIC",
+          "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+          "language": "TypeScript",
+          "stars": 39634,
+          "forks": 6148,
+          "starsToday": 18126,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "language": "TypeScript",
+          "stars": 148653,
+          "forks": 25101,
+          "starsToday": 5891,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 6,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 9088,
+          "forks": 852,
+          "starsToday": 3072,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 7,
+          "name": "LibreChat-AI/LibreChat",
+          "url": "https://github.com/LibreChat-AI/LibreChat",
+          "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+          "language": "TypeScript",
+          "stars": 45150,
+          "forks": 9252,
+          "starsToday": 2899,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 8,
+          "name": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "description": "Open source alternative to Semrush and Ahrefs",
+          "language": "TypeScript",
+          "stars": 21843,
+          "forks": 2801,
+          "starsToday": 7379,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 9,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+          "language": "TypeScript",
+          "stars": 69596,
+          "forks": 7557,
+          "starsToday": 2869,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 10,
+          "name": "miuuyy/codex-chatgpt-web",
+          "url": "https://github.com/miuuyy/codex-chatgpt-web",
+          "description": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
+          "language": "TypeScript",
+          "stars": 12965,
+          "forks": 1023,
+          "starsToday": 10765,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 11,
+          "name": "OpenHands/OpenHands",
+          "url": "https://github.com/OpenHands/OpenHands",
+          "description": "🙌 OpenHands: AI-Driven Development",
+          "language": "TypeScript",
+          "stars": 89602,
+          "forks": 11827,
+          "starsToday": 4216,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 12,
+          "name": "alsk1992/CloddsBot",
+          "url": "https://github.com/alsk1992/CloddsBot",
+          "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+          "language": "TypeScript",
+          "stars": 2906,
+          "forks": 356,
+          "starsToday": 2153,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 13,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 193297,
+          "forks": 43961,
+          "starsToday": 4099,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 14,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "language": "TypeScript",
+          "stars": 22075,
+          "forks": 1864,
+          "starsToday": 7551,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 15,
+          "name": "Open-Dev-Society/OpenStock",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+          "language": "TypeScript",
+          "stars": 19496,
+          "forks": 2390,
+          "starsToday": 5393,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 16,
+          "name": "humanlayer/skills",
+          "url": "https://github.com/humanlayer/skills",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 4677,
+          "forks": 151,
+          "starsToday": 3971,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 17,
+          "name": "ever-co/ever-gauzy",
+          "url": "https://github.com/ever-co/ever-gauzy",
+          "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+          "language": "TypeScript",
+          "stars": 8136,
+          "forks": 1197,
+          "starsToday": 4030,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 18,
+          "name": "melgarafael/DeskcommCRM",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+          "language": "TypeScript",
+          "stars": 4284,
+          "forks": 1074,
+          "starsToday": 3682,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 19,
+          "name": "Tencent/BrowserSkill",
+          "url": "https://github.com/Tencent/BrowserSkill",
+          "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+          "language": "TypeScript",
+          "stars": 7942,
+          "forks": 561,
+          "starsToday": 6457,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 20,
+          "name": "tech-leads-club/agent-skills",
+          "url": "https://github.com/tech-leads-club/agent-skills",
+          "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+          "language": "TypeScript",
+          "stars": 7015,
+          "forks": 559,
+          "starsToday": 2070,
+          "starsLabel": "this month"
+        }
+      ]
     }
   ],
   "best": []
