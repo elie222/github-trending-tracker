@@ -1,0 +1,294 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-01",
+  "list": "developers",
+  "language": "all",
+  "period": "weekly",
+  "pageUrl": "https://github.com/trending/developers?since=weekly",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-01T01:16:52.931Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "maziyarpanahi",
+          "name": "Maziyar Panahi",
+          "url": "https://github.com/maziyarpanahi",
+          "featuredRepo": {
+            "name": "maziyarpanahi/openmed",
+            "url": "https://github.com/maziyarpanahi/openmed",
+            "description": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Appl…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "steve8708",
+          "name": "Steve Sewell",
+          "url": "https://github.com/steve8708",
+          "featuredRepo": {
+            "name": "steve8708/agents.md",
+            "url": "https://github.com/steve8708/agents.md",
+            "description": "AGENTS.md — a simple, open format for guiding coding agents"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "akitaonrails",
+          "name": "Fabio Akita",
+          "url": "https://github.com/akitaonrails",
+          "featuredRepo": {
+            "name": "akitaonrails/ai-memory",
+            "url": "https://github.com/akitaonrails/ai-memory",
+            "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "bdraco",
+          "name": "J. Nick Koston",
+          "url": "https://github.com/bdraco",
+          "featuredRepo": {
+            "name": "bdraco/esp-protocols",
+            "url": "https://github.com/bdraco/esp-protocols",
+            "description": "Collection of ESP-IDF components related to networking protocols"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "nicoloboschi",
+          "name": "Nicolò Boschi",
+          "url": "https://github.com/nicoloboschi",
+          "featuredRepo": {
+            "name": "nicoloboschi/my-skills",
+            "url": "https://github.com/nicoloboschi/my-skills",
+            "description": "Agent skills for software engineering work"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "weblate",
+          "name": "Weblate (bot)",
+          "url": "https://github.com/weblate",
+          "featuredRepo": {
+            "name": "weblate/myna",
+            "url": "https://github.com/weblate/myna",
+            "description": "Myna is a lightweight speech-to-text application for Ubuntu Desktop."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "DeusData",
+          "name": "Martin Vogel",
+          "url": "https://github.com/DeusData",
+          "featuredRepo": {
+            "name": "DeusData/codebase-memory-mcp",
+            "url": "https://github.com/DeusData/codebase-memory-mcp",
+            "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 la…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "jarrodwatts",
+          "name": "Jarrod Watts",
+          "url": "https://github.com/jarrodwatts",
+          "featuredRepo": {
+            "name": "jarrodwatts/jev-trader",
+            "url": "https://github.com/jarrodwatts/jev-trader",
+            "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "abrignoni",
+          "name": "Brigs",
+          "url": "https://github.com/abrignoni",
+          "featuredRepo": {
+            "name": "abrignoni/iLEAPP",
+            "url": "https://github.com/abrignoni/iLEAPP",
+            "description": "iOS Logs, Events, And Plist Parser"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "logan-markewich",
+          "name": "Logan",
+          "url": "https://github.com/logan-markewich",
+          "featuredRepo": {
+            "name": "logan-markewich/jeff",
+            "url": "https://github.com/logan-markewich/jeff",
+            "description": "A self-hosted drop-in replacement for TypeSafe's jev, powered by GliFormer."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "rakyll",
+          "name": "Jaana Dogan",
+          "url": "https://github.com/rakyll",
+          "featuredRepo": {
+            "name": "rakyll/hey",
+            "url": "https://github.com/rakyll/hey",
+            "description": "HTTP load generator, ApacheBench (ab) replacement"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "rynfar",
+          "name": "Trevor Walker",
+          "url": "https://github.com/rynfar",
+          "featuredRepo": {
+            "name": "rynfar/meridian",
+            "url": "https://github.com/rynfar/meridian",
+            "description": "Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "PerryLink",
+          "name": "PerryLink",
+          "url": "https://github.com/PerryLink",
+          "featuredRepo": {
+            "name": "PerryLink/dsh-industry-research",
+            "url": "https://github.com/PerryLink/dsh-industry-research",
+            "description": "Industry and company research domain pack for DeepSeek Harness: methodology skills, industry chain mapping, public-source policy/news tra…"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "magnus919",
+          "name": "Magnus Hedemark",
+          "url": "https://github.com/magnus919",
+          "featuredRepo": {
+            "name": "magnus919/hermes-profiles",
+            "url": "https://github.com/magnus919/hermes-profiles",
+            "description": "Curated Hermes Agent profiles for specialist swarms — opinionated, Hermes-optimized, artifact-pyramid native"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "dajiaohuang",
+          "name": "Wu Shuwen",
+          "url": "https://github.com/dajiaohuang",
+          "featuredRepo": {
+            "name": "dajiaohuang/shuiyuan-mcp",
+            "url": "https://github.com/dajiaohuang/shuiyuan-mcp",
+            "description": "Shuiyuan Discourse MCP with cookie login launchers"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "tobi",
+          "name": "Tobias Lütke",
+          "url": "https://github.com/tobi",
+          "featuredRepo": {
+            "name": "tobi/disktree",
+            "url": "https://github.com/tobi/disktree",
+            "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "MilosPaunovic",
+          "name": "Miloš Paunović",
+          "url": "https://github.com/MilosPaunovic",
+          "featuredRepo": {
+            "name": "MilosPaunovic/github-issue-toolkit",
+            "url": "https://github.com/MilosPaunovic/github-issue-toolkit",
+            "description": "GitHub Issue Toolkit: browser extension that shows custom issue field values, issue age and pull request badges on sub-issue lists and Pr…"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "ascorbic",
+          "name": "Matt Kane",
+          "url": "https://github.com/ascorbic",
+          "featuredRepo": {
+            "name": "ascorbic/unpic-img",
+            "url": "https://github.com/ascorbic/unpic-img",
+            "description": "Multi-framework responsive image component"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "bucanero",
+          "name": "Damián Parrino",
+          "url": "https://github.com/bucanero",
+          "featuredRepo": {
+            "name": "bucanero/apollo-ps4",
+            "url": "https://github.com/bucanero/apollo-ps4",
+            "description": "Apollo Save Tool (PS4)"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "isair",
+          "name": "Baris Sencan",
+          "url": "https://github.com/isair",
+          "featuredRepo": {
+            "name": "isair/jarvis",
+            "url": "https://github.com/isair/jarvis",
+            "description": "A 100% private AI voice assistant that lives on your computer (works offline). Talk naturally as if Jarvis is a third person in the room,…"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "mpfaffenberger",
+          "name": "Mike Pfaffenberger",
+          "url": "https://github.com/mpfaffenberger",
+          "featuredRepo": {
+            "name": "mpfaffenberger/code_puppy",
+            "url": "https://github.com/mpfaffenberger/code_puppy",
+            "description": "Agentic AI for writing code"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "ImChong",
+          "name": "Chong Liu",
+          "url": "https://github.com/ImChong",
+          "featuredRepo": {
+            "name": "ImChong/Robotics_Notebooks",
+            "url": "https://github.com/ImChong/Robotics_Notebooks",
+            "description": "机器人技术栈资料汇总"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "winsznx",
+          "name": "Tim",
+          "url": "https://github.com/winsznx",
+          "featuredRepo": {
+            "name": "winsznx/routedock",
+            "url": "https://github.com/winsznx/routedock",
+            "description": "Unified payment execution layer for Stellar x402, MPP charge, MPP session behind one client.pay() call"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "probonopd",
+          "name": "probonopd",
+          "url": "https://github.com/probonopd",
+          "featuredRepo": {
+            "name": "probonopd/MiniDexed",
+            "url": "https://github.com/probonopd/MiniDexed",
+            "description": "Dexed FM synthesizer similar to 8x DX7 (TX816/TX802) running on a bare metal Raspberry Pi (without a Linux kernel or operating system)"
+          }
+        }
+      ]
+    }
+  ],
+  "best": []
+}
