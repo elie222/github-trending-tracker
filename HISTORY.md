@@ -12,7 +12,7 @@ UTC day **2026-10-01**.
 
 | List | Result |
 | --- | --- |
-| TypeScript developers (daily) | **#7** elie222 · elie222/rakazo |
+| TypeScript developers (daily) | **#6** elie222 · elie222/rakazo |
 | all languages developers (daily) | not listed |
 | TypeScript repositories (daily) | not listed |
 | all languages repositories (daily) | not listed |
@@ -43,7 +43,7 @@ Days at #1: 2024-12-31, 2025-01-03, 2025-01-04, 2025-01-05, 2025-01-18, 2025-01-
 
 | Month | Days | #1 | Top 10 | Best |
 | --- | ---: | ---: | ---: | ---: |
-| 2026-10 | 1 | 0 | 1 | #7 |
+| 2026-10 | 1 | 0 | 1 | #6 |
 | 2026-09 | 28 | 1 | 20 | #1 |
 | 2026-08 | 24 | 2 | 17 | #1 |
 | 2026-07 | 16 | 1 | 14 | #1 |
@@ -70,7 +70,7 @@ Days at #1: 2024-12-31, 2025-01-03, 2025-01-04, 2025-01-05, 2025-01-18, 2025-01-
 
 | Date | Best rank | Featured repo | Source |
 | --- | ---: | --- | --- |
-| 2026-10-01 | #7 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
+| 2026-10-01 | #6 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-09-30 | #7 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-09-29 | #9 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-09-28 | #1 | — | backfill |
