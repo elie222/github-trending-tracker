@@ -288,6 +288,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-02T06:47:39.573Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "mvschwarz",
+          "name": "Mike Schwarz",
+          "url": "https://github.com/mvschwarz",
+          "featuredRepo": {
+            "name": "mvschwarz/openrig",
+            "url": "https://github.com/mvschwarz/openrig",
+            "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "kentcdodds",
+          "name": "Kent C. Dodds",
+          "url": "https://github.com/kentcdodds",
+          "featuredRepo": {
+            "name": "kentcdodds/kody",
+            "url": "https://github.com/kentcdodds/kody",
+            "description": "🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflar…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "chaitanyagiri",
+          "name": "Chaitanya Giri",
+          "url": "https://github.com/chaitanyagiri",
+          "featuredRepo": {
+            "name": "chaitanyagiri/munder-difflin",
+            "url": "https://github.com/chaitanyagiri/munder-difflin",
+            "description": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "JJLiebig",
+          "name": "JJ Liebig",
+          "url": "https://github.com/JJLiebig",
+          "featuredRepo": {
+            "name": "JJLiebig/anti-slop",
+            "url": "https://github.com/JJLiebig/anti-slop",
+            "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "bowenliang123",
+          "name": "Bowen Liang",
+          "url": "https://github.com/bowenliang123",
+          "featuredRepo": {
+            "name": "bowenliang123/dsh-context",
+            "url": "https://github.com/bowenliang123/dsh-context",
+            "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for …"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "maurodesouza",
+          "name": "Mauro de Souza",
+          "url": "https://github.com/maurodesouza",
+          "featuredRepo": {
+            "name": "maurodesouza/profile-readme-generator",
+            "url": "https://github.com/maurodesouza/profile-readme-generator",
+            "description": "🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile R…"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "abhiaiyer91",
+          "name": "Abhi Aiyer",
+          "url": "https://github.com/abhiaiyer91",
+          "featuredRepo": {
+            "name": "abhiaiyer91/wit",
+            "url": "https://github.com/abhiaiyer91/wit",
+            "description": "An exploration into rewriting git with typescript"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "wibus-wee",
+          "name": "Wibus Wu",
+          "url": "https://github.com/wibus-wee",
+          "featuredRepo": {
+            "name": "wibus-wee/cradle-app",
+            "url": "https://github.com/wibus-wee/cradle-app",
+            "description": "🔧 One layer above your AI tools. Your AI coding tools are brilliant. Managing them is a mess. Cradle is the command center that coordin…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "bradygaster",
+          "name": "Brady Gaster",
+          "url": "https://github.com/bradygaster",
+          "featuredRepo": {
+            "name": "bradygaster/squad",
+            "url": "https://github.com/bradygaster/squad",
+            "description": "Squad: AI agent teams for any project"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "sonofmagic",
+          "name": "ice breaker",
+          "url": "https://github.com/sonofmagic",
+          "featuredRepo": {
+            "name": "weapp-tailwindcss/weapp-tailwindcss",
+            "url": "https://github.com/weapp-tailwindcss/weapp-tailwindcss",
+            "description": "Bring Tailwind CSS to every platform! 把 Tailwind CSS 的原子化开发体验带到全端！"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "ColeMurray",
+          "name": "Cole Murray",
+          "url": "https://github.com/ColeMurray",
+          "featuredRepo": {
+            "name": "ColeMurray/background-agents",
+            "url": "https://github.com/ColeMurray/background-agents",
+            "description": "An open-source background agents coding system"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "hairyf",
+          "name": "Mao Mr",
+          "url": "https://github.com/hairyf",
+          "featuredRepo": {
+            "name": "hairyf/reause",
+            "url": "https://github.com/hairyf/reause",
+            "description": "A React port of VueUse — experimental 1:1 AI-mapped from upstream (submodule: source/vueuse)"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "jarrodwatts",
+          "name": "Jarrod Watts",
+          "url": "https://github.com/jarrodwatts",
+          "featuredRepo": {
+            "name": "jarrodwatts/jev-trader",
+            "url": "https://github.com/jarrodwatts/jev-trader",
+            "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "HaD0Yun",
+          "name": "Yun",
+          "url": "https://github.com/HaD0Yun",
+          "featuredRepo": {
+            "name": "HaD0Yun/Doyunha-Gopeak",
+            "url": "https://github.com/HaD0Yun/Doyunha-Gopeak",
+            "description": "GoPeak — The most comprehensive MCP server for Godot Engine. 95+ tools: scene management, GDScript LSP, DAP debugger, screenshot capture,…"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "ryansolid",
+          "name": "Ryan Carniato",
+          "url": "https://github.com/ryansolid",
+          "featuredRepo": {
+            "name": "ryansolid/next-yak",
+            "url": "https://github.com/ryansolid/next-yak",
+            "description": "🦀 Zero-runtime CSS-in-JS powered by Rust. Write styled-components syntax, get build-time CSS extraction and full RSC compatibility"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "mishushakov",
+          "name": "Mish Ushakov",
+          "url": "https://github.com/mishushakov",
+          "featuredRepo": {
+            "name": "mishushakov/llm-scraper",
+            "url": "https://github.com/mishushakov/llm-scraper",
+            "description": "Turn any webpage into structured data using LLMs"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "rogeriochaves",
+          "name": "Rogério Chaves",
+          "url": "https://github.com/rogeriochaves",
+          "featuredRepo": {
+            "name": "rogeriochaves/open-managed-agents",
+            "url": "https://github.com/rogeriochaves/open-managed-agents",
+            "description": "Self-hostable, open-source alternative to Claude Managed Agents. Multi-LLM support (Anthropic, OpenAI, Ollama), enterprise governance (or…"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "zts212653",
+          "name": "Lysander Su",
+          "url": "https://github.com/zts212653",
+          "featuredRepo": {
+            "name": "zts212653/clowder-ai",
+            "url": "https://github.com/zts212653/clowder-ai",
+            "description": "Build AI teams, not just agents. Hard rails, soft power, shared mission."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 25,
+          "username": "zsviczian",
+          "name": "zsviczian",
+          "url": "https://github.com/zsviczian",
+          "featuredRepo": {
+            "name": "zsviczian/obsidian-excalidraw-plugin",
+            "url": "https://github.com/zsviczian/obsidian-excalidraw-plugin",
+            "description": "A plugin to edit and view Excalidraw drawings in Obsidian"
+          }
+        }
+      ]
     }
   ],
   "best": [
