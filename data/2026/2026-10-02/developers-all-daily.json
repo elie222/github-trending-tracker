@@ -571,6 +571,281 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-02T18:36:27.620Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "mvschwarz",
+          "name": "Mike Schwarz",
+          "url": "https://github.com/mvschwarz",
+          "featuredRepo": {
+            "name": "mvschwarz/openrig",
+            "url": "https://github.com/mvschwarz/openrig",
+            "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "kentcdodds",
+          "name": "Kent C. Dodds",
+          "url": "https://github.com/kentcdodds",
+          "featuredRepo": {
+            "name": "kentcdodds/kody",
+            "url": "https://github.com/kentcdodds/kody",
+            "description": "🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflar…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "yairm210",
+          "name": "Yair Morgenstern",
+          "url": "https://github.com/yairm210",
+          "featuredRepo": {
+            "name": "yairm210/Unciv",
+            "url": "https://github.com/yairm210/Unciv",
+            "description": "Open-source Android/Desktop remake of Civ V"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "yeongseon",
+          "name": "Yeongseon Choe",
+          "url": "https://github.com/yeongseon",
+          "featuredRepo": null
+        },
+        {
+          "rank": 5,
+          "username": "hiyouga",
+          "name": "Yaowei Zheng",
+          "url": "https://github.com/hiyouga",
+          "featuredRepo": {
+            "name": "hiyouga/LlamaFactory",
+            "url": "https://github.com/hiyouga/LlamaFactory",
+            "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/RuView",
+            "url": "https://github.com/ruvnet/RuView",
+            "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "cathrynlavery",
+          "name": "Cathryn Lavery",
+          "url": "https://github.com/cathrynlavery",
+          "featuredRepo": {
+            "name": "cathrynlavery/diagram-design",
+            "url": "https://github.com/cathrynlavery/diagram-design",
+            "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No s…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "mattsse",
+          "name": "Matthias Seitz",
+          "url": "https://github.com/mattsse",
+          "featuredRepo": {
+            "name": "mattsse/chromiumoxide",
+            "url": "https://github.com/mattsse/chromiumoxide",
+            "description": "Chrome Devtools Protocol rust API"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "sdcb",
+          "name": "ZHOU Jie",
+          "url": "https://github.com/sdcb",
+          "featuredRepo": {
+            "name": "sdcb/SimdPaddleOCR",
+            "url": "https://github.com/sdcb/SimdPaddleOCR",
+            "description": "纯 C# PP-OCRv6 推理库：多平台手写 Kernel / GEMM 等算子、超高性能、低内存需求、超高准确率。 自带托管 ONNX 解释器，不依赖 Paddle Inference、ONNX Runtime 或 OpenCV 原生库。"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "MervinPraison",
+          "name": "Mervin Praison",
+          "url": "https://github.com/MervinPraison",
+          "featuredRepo": {
+            "name": "MervinPraison/PraisonAI",
+            "url": "https://github.com/MervinPraison/PraisonAI",
+            "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan,…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "cliffhall",
+          "name": "Cliff Hall",
+          "url": "https://github.com/cliffhall",
+          "featuredRepo": null
+        },
+        {
+          "rank": 14,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/DeepSeek-Reasonix",
+            "url": "https://github.com/esengine/DeepSeek-Reasonix",
+            "description": "A reliable coding agent for complex software engineering tasks."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design language that makes your AI harness better at design."
+          }
+        },
+        {
+          "rank": 16,
+          "username": "gkjohnson",
+          "name": "Garrett Johnson",
+          "url": "https://github.com/gkjohnson",
+          "featuredRepo": {
+            "name": "gkjohnson/three-gpu-pathtracer",
+            "url": "https://github.com/gkjohnson/three-gpu-pathtracer",
+            "description": "Path tracing renderer and utilities for three.js built on top of three-mesh-bvh."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "JustVugg",
+          "name": "Vincenzo Fornaro",
+          "url": "https://github.com/JustVugg",
+          "featuredRepo": {
+            "name": "JustVugg/colibri",
+            "url": "https://github.com/JustVugg/colibri",
+            "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "A-EDev",
+          "name": "AE",
+          "url": "https://github.com/A-EDev",
+          "featuredRepo": {
+            "name": "A-EDev/Flow",
+            "url": "https://github.com/A-EDev/Flow",
+            "description": "A modern, feature-rich YouTube and YouTube Music client with local recommendation for Android built with Jetpack Compose"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "Cyan4973",
+          "name": "Yann Collet",
+          "url": "https://github.com/Cyan4973",
+          "featuredRepo": {
+            "name": "Cyan4973/xxHash",
+            "url": "https://github.com/Cyan4973/xxHash",
+            "description": "Extremely fast non-cryptographic hash algorithm"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "chaitanyagiri",
+          "name": "Chaitanya Giri",
+          "url": "https://github.com/chaitanyagiri",
+          "featuredRepo": {
+            "name": "HarnessMD/munder-difflin",
+            "url": "https://github.com/HarnessMD/munder-difflin",
+            "description": "an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandb…"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "jakevdp",
+          "name": "Jake Vanderplas",
+          "url": "https://github.com/jakevdp",
+          "featuredRepo": {
+            "name": "jakevdp/PythonDataScienceHandbook",
+            "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+            "description": "Python Data Science Handbook: full text in Jupyter Notebooks"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "SaladDay",
+          "name": "SaladDay",
+          "url": "https://github.com/SaladDay",
+          "featuredRepo": {
+            "name": "SaladDay/cc-switch-cli",
+            "url": "https://github.com/SaladDay/cc-switch-cli",
+            "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
+          }
+        },
+        {
+          "rank": 23,
+          "username": "kunchenguid",
+          "name": "Kun Chen",
+          "url": "https://github.com/kunchenguid",
+          "featuredRepo": {
+            "name": "kunchenguid/firstmate",
+            "url": "https://github.com/kunchenguid/firstmate",
+            "description": "Talk to one agent. Ship with a crew."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "madeye",
+          "name": "Max Lv",
+          "url": "https://github.com/madeye",
+          "featuredRepo": {
+            "name": "madeye/ServerBox",
+            "url": "https://github.com/madeye/ServerBox",
+            "description": "ServerBox: turn a used Android phone into a Linux server, no root required. Alpine, Arch, Debian, Kali and Ubuntu with an always-on SSH s…"
+          }
+        }
+      ]
     }
   ],
   "best": []
