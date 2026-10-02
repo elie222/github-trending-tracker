@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-02",
+  "list": "repos",
+  "language": "all",
+  "period": "monthly",
+  "pageUrl": "https://github.com/trending?since=monthly",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-02T01:06:46.373Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=monthly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "bilawalsidhu/gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+          "language": "JavaScript",
+          "stars": 46188,
+          "forks": 9454,
+          "starsToday": 31240,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 2,
+          "name": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "language": "Go",
+          "stars": 43189,
+          "forks": 3109,
+          "starsToday": 21646,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars": 270720,
+          "forks": 40469,
+          "starsToday": 26450,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 4,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars": 52720,
+          "forks": 3033,
+          "starsToday": 26584,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 5,
+          "name": "Tencent/WeKnora",
+          "url": "https://github.com/Tencent/WeKnora",
+          "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+          "language": "Go",
+          "stars": 31666,
+          "forks": 4224,
+          "starsToday": 10740,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 6,
+          "name": "tt-a1i/archify",
+          "url": "https://github.com/tt-a1i/archify",
+          "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+          "language": "JavaScript",
+          "stars": 75833,
+          "forks": 5098,
+          "starsToday": 35068,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 7,
+          "name": "superdesigndev/treg",
+          "url": "https://github.com/superdesigndev/treg",
+          "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+          "language": "Python",
+          "stars": 3993,
+          "forks": 330,
+          "starsToday": 3249,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 8,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": null,
+          "language": "Python",
+          "stars": 38474,
+          "forks": 5535,
+          "starsToday": 3930,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 9,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 95852,
+          "forks": 16250,
+          "starsToday": 16130,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 10,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars": 24782,
+          "forks": 1784,
+          "starsToday": 4470,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 11,
+          "name": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "language": "Python",
+          "stars": 44325,
+          "forks": 5856,
+          "starsToday": 22416,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 12,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "language": "JavaScript",
+          "stars": 150517,
+          "forks": 8082,
+          "starsToday": 31160,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 13,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 55350,
+          "forks": 5019,
+          "starsToday": 11734,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 14,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "language": "TypeScript",
+          "stars": 148869,
+          "forks": 25134,
+          "starsToday": 5819,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 15,
+          "name": "fmtlib/fmt",
+          "url": "https://github.com/fmtlib/fmt",
+          "description": "A modern formatting library",
+          "language": "C++",
+          "stars": 25858,
+          "forks": 3077,
+          "starsToday": 2130,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 16,
+          "name": "TencentCloud/Octop",
+          "url": "https://github.com/TencentCloud/Octop",
+          "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+          "language": "Python",
+          "stars": 6246,
+          "forks": 785,
+          "starsToday": 4888,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 17,
+          "name": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+          "language": "Rust",
+          "stars": 27694,
+          "forks": 1949,
+          "starsToday": 5674,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 18,
+          "name": "THU-MAIC/OpenMAIC",
+          "url": "https://github.com/THU-MAIC/OpenMAIC",
+          "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+          "language": "TypeScript",
+          "stars": 39762,
+          "forks": 6165,
+          "starsToday": 11062,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 19,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 9323,
+          "forks": 883,
+          "starsToday": 2977,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 20,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+          "language": "Python",
+          "stars": 63052,
+          "forks": 8188,
+          "starsToday": 6436,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 21,
+          "name": "max-sixty/worktrunk",
+          "url": "https://github.com/max-sixty/worktrunk",
+          "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+          "language": "Rust",
+          "stars": 8615,
+          "forks": 307,
+          "starsToday": 1903,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 22,
+          "name": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+          "language": "Python",
+          "stars": 18967,
+          "forks": 1654,
+          "starsToday": 3423,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 23,
+          "name": "longbridge/gpui-kit",
+          "url": "https://github.com/longbridge/gpui-kit",
+          "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+          "language": "Rust",
+          "stars": 15519,
+          "forks": 959,
+          "starsToday": 1786,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 24,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 29982,
+          "forks": 4195,
+          "starsToday": 6611,
+          "starsLabel": "this month"
+        }
+      ]
+    }
+  ],
+  "best": []
+}

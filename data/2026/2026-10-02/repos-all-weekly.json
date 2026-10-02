@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-02",
+  "list": "repos",
+  "language": "all",
+  "period": "weekly",
+  "pageUrl": "https://github.com/trending?since=weekly",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-02T01:06:46.373Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 95852,
+          "forks": 16250,
+          "starsToday": 14335,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "language": "Python",
+          "stars": 44325,
+          "forks": 5856,
+          "starsToday": 17403,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "language": "Python",
+          "stars": 51393,
+          "forks": 5717,
+          "starsToday": 16114,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 62454,
+          "forks": 10684,
+          "starsToday": 6469,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": null,
+          "language": "Python",
+          "stars": 38474,
+          "forks": 5535,
+          "starsToday": 1270,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "description": "The React Framework",
+          "language": "JavaScript",
+          "stars": 142991,
+          "forks": 33559,
+          "starsToday": 624,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "language": "JavaScript",
+          "stars": 73681,
+          "forks": 4437,
+          "starsToday": 2704,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars": 51244,
+          "forks": 4672,
+          "starsToday": 1055,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "alirezarezvani/claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+          "language": "Python",
+          "stars": 27188,
+          "forks": 3839,
+          "starsToday": 743,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 32275,
+          "forks": 3666,
+          "starsToday": 601,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "TencentCloud/Octop",
+          "url": "https://github.com/TencentCloud/Octop",
+          "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+          "language": "Python",
+          "stars": 6246,
+          "forks": 785,
+          "starsToday": 1360,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "agent-substrate/substrate",
+          "url": "https://github.com/agent-substrate/substrate",
+          "description": "Agent Substrate: the core system",
+          "language": "Go",
+          "stars": 4110,
+          "forks": 490,
+          "starsToday": 365,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "tile-ai/tilelang",
+          "url": "https://github.com/tile-ai/tilelang",
+          "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+          "language": "Python",
+          "stars": 8114,
+          "forks": 815,
+          "starsToday": 481,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "anthropics/claude-code-action",
+          "url": "https://github.com/anthropics/claude-code-action",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 9335,
+          "forks": 2183,
+          "starsToday": 376,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "language": "TypeScript",
+          "stars": 22249,
+          "forks": 1869,
+          "starsToday": 5267,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 16,
+          "name": "FxEmbed/FxEmbed",
+          "url": "https://github.com/FxEmbed/FxEmbed",
+          "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+          "language": "TypeScript",
+          "stars": 5631,
+          "forks": 269,
+          "starsToday": 369,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 17,
+          "name": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+          "language": "Dart",
+          "stars": 179220,
+          "forks": 32737,
+          "starsToday": 147,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 18,
+          "name": "androoAGI/starnet",
+          "url": "https://github.com/androoAGI/starnet",
+          "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+          "language": "JavaScript",
+          "stars": 891,
+          "forks": 149,
+          "starsToday": 592,
+          "starsLabel": "this week"
+        }
+      ]
+    }
+  ],
+  "best": []
+}

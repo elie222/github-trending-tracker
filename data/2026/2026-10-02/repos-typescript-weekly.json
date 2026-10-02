@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-02",
+  "list": "repos",
+  "language": "typescript",
+  "period": "weekly",
+  "pageUrl": "https://github.com/trending/typescript?since=weekly",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-02T01:06:46.373Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 95852,
+          "forks": 16250,
+          "starsToday": 14335,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/claude-code-action",
+          "url": "https://github.com/anthropics/claude-code-action",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 9335,
+          "forks": 2183,
+          "starsToday": 376,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "language": "TypeScript",
+          "stars": 22249,
+          "forks": 1869,
+          "starsToday": 5267,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "FxEmbed/FxEmbed",
+          "url": "https://github.com/FxEmbed/FxEmbed",
+          "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+          "language": "TypeScript",
+          "stars": 5631,
+          "forks": 269,
+          "starsToday": 369,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "pablostanley/yoinks",
+          "url": "https://github.com/pablostanley/yoinks",
+          "description": "yoink any video from your terminal. no shady ads.",
+          "language": "TypeScript",
+          "stars": 2940,
+          "forks": 276,
+          "starsToday": 1069,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "mobile-next/mobile-mcp",
+          "url": "https://github.com/mobile-next/mobile-mcp",
+          "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+          "language": "TypeScript",
+          "stars": 8529,
+          "forks": 747,
+          "starsToday": 1685,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "description": "Self-hosted deployment platform",
+          "language": "TypeScript",
+          "stars": 14301,
+          "forks": 1277,
+          "starsToday": 1866,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "vercel-labs/scriptc",
+          "url": "https://github.com/vercel-labs/scriptc",
+          "description": "TypeScript-to-Native Compiler",
+          "language": "TypeScript",
+          "stars": 5885,
+          "forks": 163,
+          "starsToday": 948,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "language": "TypeScript",
+          "stars": 83192,
+          "forks": 5384,
+          "starsToday": 5804,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "satnaing/shadcn-admin",
+          "url": "https://github.com/satnaing/shadcn-admin",
+          "description": "Admin Dashboard UI built with Shadcn and Vite.",
+          "language": "TypeScript",
+          "stars": 15517,
+          "forks": 2350,
+          "starsToday": 1239,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "vega-org/vega-app",
+          "url": "https://github.com/vega-org/vega-app",
+          "description": "A app to Play, Stream or Cast Media for andorid.",
+          "language": "TypeScript",
+          "stars": 1474,
+          "forks": 204,
+          "starsToday": 72,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "language": "TypeScript",
+          "stars": 49923,
+          "forks": 4982,
+          "starsToday": 603,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 391165,
+          "forks": 82239,
+          "starsToday": 1183,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "ahmedkhaleel2004/gitdiagram",
+          "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+          "description": "Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.",
+          "language": "TypeScript",
+          "stars": 17694,
+          "forks": 1355,
+          "starsToday": 651,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+          "language": "TypeScript",
+          "stars": 456620,
+          "forks": 47868,
+          "starsToday": 669,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 16,
+          "name": "synthetic-sciences/openscience",
+          "url": "https://github.com/synthetic-sciences/openscience",
+          "description": "The open-source AI workbench for scientific research",
+          "language": "TypeScript",
+          "stars": 3887,
+          "forks": 517,
+          "starsToday": 256,
+          "starsLabel": "this week"
+        }
+      ]
+    }
+  ],
+  "best": []
+}

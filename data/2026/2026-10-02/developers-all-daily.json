@@ -1,0 +1,294 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-02",
+  "list": "developers",
+  "language": "all",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/developers?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-02T01:06:46.373Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "mvschwarz",
+          "name": "Mike Schwarz",
+          "url": "https://github.com/mvschwarz",
+          "featuredRepo": {
+            "name": "mvschwarz/openrig",
+            "url": "https://github.com/mvschwarz/openrig",
+            "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "hiyouga",
+          "name": "Yaowei Zheng",
+          "url": "https://github.com/hiyouga",
+          "featuredRepo": {
+            "name": "hiyouga/LlamaFactory",
+            "url": "https://github.com/hiyouga/LlamaFactory",
+            "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "kentcdodds",
+          "name": "Kent C. Dodds",
+          "url": "https://github.com/kentcdodds",
+          "featuredRepo": {
+            "name": "kentcdodds/kody",
+            "url": "https://github.com/kentcdodds/kody",
+            "description": "🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflar…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "unxed",
+          "name": "unxed",
+          "url": "https://github.com/unxed",
+          "featuredRepo": {
+            "name": "unxed/f4",
+            "url": "https://github.com/unxed/f4",
+            "description": "dual pane like a charm"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/DeepSeek-Reasonix",
+            "url": "https://github.com/esengine/DeepSeek-Reasonix",
+            "description": "A reliable coding agent for complex software engineering tasks."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "dalathegreat",
+          "name": "Daniel Öster",
+          "url": "https://github.com/dalathegreat",
+          "featuredRepo": {
+            "name": "dalathegreat/Battery-Emulator",
+            "url": "https://github.com/dalathegreat/Battery-Emulator",
+            "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "tt-a1i",
+          "name": "tt-a1i",
+          "url": "https://github.com/tt-a1i",
+          "featuredRepo": {
+            "name": "tt-a1i/archify",
+            "url": "https://github.com/tt-a1i/archify",
+            "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "yetone",
+          "name": "yetone",
+          "url": "https://github.com/yetone",
+          "featuredRepo": {
+            "name": "yetone/magpie",
+            "url": "https://github.com/yetone/magpie",
+            "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "mpfaffenberger",
+          "name": "Mike Pfaffenberger",
+          "url": "https://github.com/mpfaffenberger",
+          "featuredRepo": {
+            "name": "mpfaffenberger/code_puppy",
+            "url": "https://github.com/mpfaffenberger/code_puppy",
+            "description": "Agentic AI for writing code"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design language that makes your AI harness better at design."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "neubig",
+          "name": "Graham Neubig",
+          "url": "https://github.com/neubig",
+          "featuredRepo": {
+            "name": "neubig/lowresource-nlp-bootcamp-2020",
+            "url": "https://github.com/neubig/lowresource-nlp-bootcamp-2020",
+            "description": "The website for the CMU Language Technologies Institute low resource NLP bootcamp 2020"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "gkjohnson",
+          "name": "Garrett Johnson",
+          "url": "https://github.com/gkjohnson",
+          "featuredRepo": {
+            "name": "gkjohnson/three-gpu-pathtracer",
+            "url": "https://github.com/gkjohnson/three-gpu-pathtracer",
+            "description": "Path tracing renderer and utilities for three.js built on top of three-mesh-bvh."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "sdcb",
+          "name": "ZHOU Jie",
+          "url": "https://github.com/sdcb",
+          "featuredRepo": {
+            "name": "sdcb/SimdPaddleOCR",
+            "url": "https://github.com/sdcb/SimdPaddleOCR",
+            "description": "纯 C# PP-OCRv6 推理库：多平台手写 Kernel / GEMM 等算子、超高性能、低内存需求、超高准确率。 自带托管 ONNX 解释器，不依赖 Paddle Inference、ONNX Runtime 或 OpenCV 原生库。"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "chaitanyagiri",
+          "name": "Chaitanya Giri",
+          "url": "https://github.com/chaitanyagiri",
+          "featuredRepo": {
+            "name": "chaitanyagiri/munder-difflin",
+            "url": "https://github.com/chaitanyagiri/munder-difflin",
+            "description": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "MervinPraison",
+          "name": "Mervin Praison",
+          "url": "https://github.com/MervinPraison",
+          "featuredRepo": {
+            "name": "MervinPraison/PraisonAI",
+            "url": "https://github.com/MervinPraison/PraisonAI",
+            "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan,…"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "Cyan4973",
+          "name": "Yann Collet",
+          "url": "https://github.com/Cyan4973",
+          "featuredRepo": {
+            "name": "Cyan4973/xxHash",
+            "url": "https://github.com/Cyan4973/xxHash",
+            "description": "Extremely fast non-cryptographic hash algorithm"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "kunchenguid",
+          "name": "Kun Chen",
+          "url": "https://github.com/kunchenguid",
+          "featuredRepo": {
+            "name": "kunchenguid/firstmate",
+            "url": "https://github.com/kunchenguid/firstmate",
+            "description": "Talk to one agent. Ship with a crew."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "OutThisLife",
+          "name": "brooklyn!",
+          "url": "https://github.com/OutThisLife",
+          "featuredRepo": {
+            "name": "OutThisLife/crt-shader",
+            "url": "https://github.com/OutThisLife/crt-shader",
+            "description": "Multi-pass CRT reconstruction for WebGL, Three.js and React"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "PastaPastaPasta",
+          "name": "PastaPastaPasta",
+          "url": "https://github.com/PastaPastaPasta",
+          "featuredRepo": {
+            "name": "PastaPastaPasta/dashhq",
+            "url": "https://github.com/PastaPastaPasta/dashhq",
+            "description": "The dashhq.org landing page: a map of the Dash Platform ecosystem"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "xiaolai",
+          "name": "xiaolai",
+          "url": "https://github.com/xiaolai",
+          "featuredRepo": {
+            "name": "xiaolai/the-craft-of-selfteaching",
+            "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+            "description": "One has no future if one couldn't teach themself."
+          }
+        },
+        {
+          "rank": 23,
+          "username": "probonopd",
+          "name": "probonopd",
+          "url": "https://github.com/probonopd",
+          "featuredRepo": {
+            "name": "probonopd/irdb",
+            "url": "https://github.com/probonopd/irdb",
+            "description": "One of the largest crowd-sourced, manufacturer-independent databases of infrared remote control codes on the web, and aspiring to become …"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "t8y2",
+          "name": "t8y2",
+          "url": "https://github.com/t8y2",
+          "featuredRepo": {
+            "name": "t8y2/dbx",
+            "url": "https://github.com/t8y2/dbx",
+            "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Ser…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "amir20",
+          "name": "Amir Raminfar",
+          "url": "https://github.com/amir20",
+          "featuredRepo": {
+            "name": "amir20/dozzle",
+            "url": "https://github.com/amir20/dozzle",
+            "description": "Realtime log viewer for containers. Supports Docker, Swarm and K8s."
+          }
+        }
+      ]
+    }
+  ],
+  "best": []
+}

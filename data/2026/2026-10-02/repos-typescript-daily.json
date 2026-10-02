@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-02",
+  "list": "repos",
+  "language": "typescript",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/typescript?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-02T01:06:46.373Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+          "language": "TypeScript",
+          "stars": 3730,
+          "forks": 247,
+          "starsToday": 642,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 9323,
+          "forks": 883,
+          "starsToday": 150,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars": 24782,
+          "forks": 1784,
+          "starsToday": 362,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 55350,
+          "forks": 5019,
+          "starsToday": 627,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "earendil-works/pi",
+          "url": "https://github.com/earendil-works/pi",
+          "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+          "language": "TypeScript",
+          "stars": 111229,
+          "forks": 14133,
+          "starsToday": 298,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "pablostanley/yoinks",
+          "url": "https://github.com/pablostanley/yoinks",
+          "description": "yoink any video from your terminal. no shady ads.",
+          "language": "TypeScript",
+          "stars": 2940,
+          "forks": 276,
+          "starsToday": 361,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 90939,
+          "forks": 11745,
+          "starsToday": 190,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "language": "TypeScript",
+          "stars": 134712,
+          "forks": 20061,
+          "starsToday": 104,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "humanlayer/skills",
+          "url": "https://github.com/humanlayer/skills",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 4799,
+          "forks": 154,
+          "starsToday": 66,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by hundreds of contributors",
+          "language": "TypeScript",
+          "stars": 72093,
+          "forks": 10299,
+          "starsToday": 311,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "description": "Self-hosted deployment platform",
+          "language": "TypeScript",
+          "stars": 14301,
+          "forks": 1277,
+          "starsToday": 111,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 95129,
+          "forks": 8424,
+          "starsToday": 99,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "nyakang/nyaterm",
+          "url": "https://github.com/nyakang/nyaterm",
+          "description": "A modern remote terminal workspace",
+          "language": "TypeScript",
+          "stars": 1724,
+          "forks": 165,
+          "starsToday": 8,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "ag-ui-protocol/ag-ui",
+          "url": "https://github.com/ag-ui-protocol/ag-ui",
+          "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+          "language": "TypeScript",
+          "stars": 16215,
+          "forks": 1478,
+          "starsToday": 67,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 15,
+          "name": "cordiverse/cordis",
+          "url": "https://github.com/cordiverse/cordis",
+          "description": "Meta-Framework of Spatiotemporal Composability",
+          "language": "TypeScript",
+          "stars": 8945,
+          "forks": 559,
+          "starsToday": 18,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 16,
+          "name": "cloudflare/vinext",
+          "url": "https://github.com/cloudflare/vinext",
+          "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
+          "language": "TypeScript",
+          "stars": 9061,
+          "forks": 427,
+          "starsToday": 23,
+          "starsLabel": "today"
+        }
+      ]
+    }
+  ],
+  "best": []
+}
