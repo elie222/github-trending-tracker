@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-03",
+  "list": "repos",
+  "language": "typescript",
+  "period": "weekly",
+  "pageUrl": "https://github.com/trending/typescript?since=weekly",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-03T01:04:27.396Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 96310,
+          "forks": 16310,
+          "starsToday": 12825,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 55904,
+          "forks": 5037,
+          "starsToday": 2661,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/claude-code-action",
+          "url": "https://github.com/anthropics/claude-code-action",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 9375,
+          "forks": 2184,
+          "starsToday": 417,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "pablostanley/yoinks",
+          "url": "https://github.com/pablostanley/yoinks",
+          "description": "yoink any video from your terminal. no shady ads.",
+          "language": "TypeScript",
+          "stars": 3505,
+          "forks": 310,
+          "starsToday": 1415,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "language": "TypeScript",
+          "stars": 22305,
+          "forks": 1868,
+          "starsToday": 4208,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "mobile-next/mobile-mcp",
+          "url": "https://github.com/mobile-next/mobile-mcp",
+          "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+          "language": "TypeScript",
+          "stars": 8569,
+          "forks": 755,
+          "starsToday": 1648,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "description": "Self-hosted deployment platform",
+          "language": "TypeScript",
+          "stars": 14371,
+          "forks": 1282,
+          "starsToday": 1902,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "vercel-labs/scriptc",
+          "url": "https://github.com/vercel-labs/scriptc",
+          "description": "TypeScript-to-Native Compiler",
+          "language": "TypeScript",
+          "stars": 5901,
+          "forks": 166,
+          "starsToday": 880,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "satnaing/shadcn-admin",
+          "url": "https://github.com/satnaing/shadcn-admin",
+          "description": "Admin Dashboard UI built with Shadcn and Vite.",
+          "language": "TypeScript",
+          "stars": 15541,
+          "forks": 2349,
+          "starsToday": 1253,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "language": "TypeScript",
+          "stars": 49938,
+          "forks": 4981,
+          "starsToday": 600,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 391195,
+          "forks": 82223,
+          "starsToday": 1170,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "adewaskar/jarvis",
+          "url": "https://github.com/adewaskar/jarvis",
+          "description": "J.A.R.V.I.S for automating your daily tasks using Claude Code",
+          "language": "TypeScript",
+          "stars": 340,
+          "forks": 143,
+          "starsToday": 119,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "ahmedkhaleel2004/gitdiagram",
+          "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+          "description": "Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.",
+          "language": "TypeScript",
+          "stars": 17746,
+          "forks": 1359,
+          "starsToday": 654,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "FxEmbed/FxEmbed",
+          "url": "https://github.com/FxEmbed/FxEmbed",
+          "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+          "language": "TypeScript",
+          "stars": 5643,
+          "forks": 268,
+          "starsToday": 221,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "vega-org/vega-app",
+          "url": "https://github.com/vega-org/vega-app",
+          "description": "A app to Play, Stream or Cast Media for andorid.",
+          "language": "TypeScript",
+          "stars": 1483,
+          "forks": 204,
+          "starsToday": 71,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 16,
+          "name": "cloudflare/vinext",
+          "url": "https://github.com/cloudflare/vinext",
+          "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
+          "language": "TypeScript",
+          "stars": 9074,
+          "forks": 427,
+          "starsToday": 236,
+          "starsLabel": "this week"
+        }
+      ]
+    }
+  ],
+  "best": []
+}
