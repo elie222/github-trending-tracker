@@ -830,6 +830,281 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-03T19:03:15.619Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "mvschwarz",
+          "name": "Mike Schwarz",
+          "url": "https://github.com/mvschwarz",
+          "featuredRepo": {
+            "name": "mvschwarz/openrig",
+            "url": "https://github.com/mvschwarz/openrig",
+            "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "JustVugg",
+          "name": "Vincenzo Fornaro",
+          "url": "https://github.com/JustVugg",
+          "featuredRepo": {
+            "name": "JustVugg/colibri",
+            "url": "https://github.com/JustVugg/colibri",
+            "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "cathrynlavery",
+          "name": "Cathryn Lavery",
+          "url": "https://github.com/cathrynlavery",
+          "featuredRepo": {
+            "name": "cathrynlavery/diagram-design",
+            "url": "https://github.com/cathrynlavery/diagram-design",
+            "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No s…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "kentcdodds",
+          "name": "Kent C. Dodds",
+          "url": "https://github.com/kentcdodds",
+          "featuredRepo": {
+            "name": "kentcdodds/kody",
+            "url": "https://github.com/kentcdodds/kody",
+            "description": "🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflar…"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "maurodesouza",
+          "name": "Mauro de Souza",
+          "url": "https://github.com/maurodesouza",
+          "featuredRepo": {
+            "name": "maurodesouza/profile-readme-generator",
+            "url": "https://github.com/maurodesouza/profile-readme-generator",
+            "description": "🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile R…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "madeye",
+          "name": "Max Lv",
+          "url": "https://github.com/madeye",
+          "featuredRepo": {
+            "name": "madeye/ServerBox",
+            "url": "https://github.com/madeye/ServerBox",
+            "description": "ServerBox: turn a used Android phone into a Linux server, no root required. Alpine, Arch, Debian, Kali and Ubuntu with an always-on SSH s…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "hrydgard",
+          "name": "Henrik Rydgård",
+          "url": "https://github.com/hrydgard",
+          "featuredRepo": {
+            "name": "hrydgard/ppsspp",
+            "url": "https://github.com/hrydgard/ppsspp",
+            "description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJ…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "kim-em",
+          "name": "Kim Morrison",
+          "url": "https://github.com/kim-em",
+          "featuredRepo": {
+            "name": "kim-em/lean-zip",
+            "url": "https://github.com/kim-em/lean-zip",
+            "description": null
+          }
+        },
+        {
+          "rank": 10,
+          "username": "SaladDay",
+          "name": "SaladDay",
+          "url": "https://github.com/SaladDay",
+          "featuredRepo": {
+            "name": "SaladDay/cc-switch-cli",
+            "url": "https://github.com/SaladDay/cc-switch-cli",
+            "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "raullenchai",
+          "name": "Raullen Chai",
+          "url": "https://github.com/raullenchai",
+          "featuredRepo": {
+            "name": "raullenchai/Rapid-MLX",
+            "url": "https://github.com/raullenchai/Rapid-MLX",
+            "description": "Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server and Mac app for Apple Silicon, built on ML…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "akshaydeo",
+          "name": "Akshay Deo",
+          "url": "https://github.com/akshaydeo",
+          "featuredRepo": null
+        },
+        {
+          "rank": 13,
+          "username": "doitsujin",
+          "name": "Philip Rebohle",
+          "url": "https://github.com/doitsujin",
+          "featuredRepo": {
+            "name": "doitsujin/dxvk",
+            "url": "https://github.com/doitsujin/dxvk",
+            "description": "Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "amir20",
+          "name": "Amir Raminfar",
+          "url": "https://github.com/amir20",
+          "featuredRepo": {
+            "name": "amir20/dozzle",
+            "url": "https://github.com/amir20/dozzle",
+            "description": "Realtime log viewer for containers. Supports Docker, Swarm and K8s."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "krille-chan",
+          "name": "Krille-chan",
+          "url": "https://github.com/krille-chan",
+          "featuredRepo": {
+            "name": "krille-chan/fluffychat",
+            "url": "https://github.com/krille-chan/fluffychat",
+            "description": "The cutest instant messenger in the [matrix]"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "ColeMurray",
+          "name": "Cole Murray",
+          "url": "https://github.com/ColeMurray",
+          "featuredRepo": {
+            "name": "ColeMurray/background-agents",
+            "url": "https://github.com/ColeMurray/background-agents",
+            "description": "An open-source background agents coding system"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "agoodkind",
+          "name": "Alex Goodkind",
+          "url": "https://github.com/agoodkind",
+          "featuredRepo": {
+            "name": "agoodkind/mwan",
+            "url": "https://github.com/agoodkind/mwan",
+            "description": "Multi-WAN gateway daemon"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "metux",
+          "name": "Enrico Weigelt",
+          "url": "https://github.com/metux",
+          "featuredRepo": null
+        },
+        {
+          "rank": 19,
+          "username": "jtenniswood",
+          "name": "James Tenniswood",
+          "url": "https://github.com/jtenniswood",
+          "featuredRepo": {
+            "name": "jtenniswood/espcontrol",
+            "url": "https://github.com/jtenniswood/espcontrol",
+            "description": "Esphome based smart home control panel"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "atqamz",
+          "name": "Atqa Munzir",
+          "url": "https://github.com/atqamz",
+          "featuredRepo": {
+            "name": "atqamz/hand",
+            "url": "https://github.com/atqamz/hand",
+            "description": "Things getting out of hand? You may need second `hand`."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "dajiaohuang",
+          "name": "Wu Shuwen",
+          "url": "https://github.com/dajiaohuang",
+          "featuredRepo": {
+            "name": "dajiaohuang/awesome-generative-ai-apps",
+            "url": "https://github.com/dajiaohuang/awesome-generative-ai-apps",
+            "description": "50+ open-source generative AI apps you can clone, deploy, and monetize — image generators, video tools, virtual try-ons, AI SaaS template…"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/RuView",
+            "url": "https://github.com/ruvnet/RuView",
+            "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design language that makes your AI harness better at design."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "MervinPraison",
+          "name": "Mervin Praison",
+          "url": "https://github.com/MervinPraison",
+          "featuredRepo": {
+            "name": "MervinPraison/PraisonAI",
+            "url": "https://github.com/MervinPraison/PraisonAI",
+            "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan,…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "oschwartz10612",
+          "name": "Owen Schwartz",
+          "url": "https://github.com/oschwartz10612",
+          "featuredRepo": {
+            "name": "oschwartz10612/poppler-windows",
+            "url": "https://github.com/oschwartz10612/poppler-windows",
+            "description": "Download Poppler binaries packaged for Windows with dependencies"
+          }
+        }
+      ]
     }
   ],
   "best": []
