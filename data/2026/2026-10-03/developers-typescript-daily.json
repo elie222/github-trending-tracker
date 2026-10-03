@@ -288,6 +288,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-03T06:51:32.544Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "mvschwarz",
+          "name": "Mike Schwarz",
+          "url": "https://github.com/mvschwarz",
+          "featuredRepo": {
+            "name": "mvschwarz/openrig",
+            "url": "https://github.com/mvschwarz/openrig",
+            "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "kentcdodds",
+          "name": "Kent C. Dodds",
+          "url": "https://github.com/kentcdodds",
+          "featuredRepo": {
+            "name": "kentcdodds/kody",
+            "url": "https://github.com/kentcdodds/kody",
+            "description": "🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflar…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "chaitanyagiri",
+          "name": "Chaitanya Giri",
+          "url": "https://github.com/chaitanyagiri",
+          "featuredRepo": {
+            "name": "HarnessMD/munder-difflin",
+            "url": "https://github.com/HarnessMD/munder-difflin",
+            "description": "an open-source alternative to the dots, bots and muses of the world, run an office of claude code/codex like agents on your laptop, sandb…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "cv",
+          "name": "Carlos Villela",
+          "url": "https://github.com/cv",
+          "featuredRepo": {
+            "name": "cv/pit",
+            "url": "https://github.com/cv/pit",
+            "description": "Give Pi one typed tool instead of a toolbox."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "peaktwilight",
+          "name": "Peak Twilight",
+          "url": "https://github.com/peaktwilight",
+          "featuredRepo": {
+            "name": "peaktwilight/unfcked",
+            "url": "https://github.com/peaktwilight/unfcked",
+            "description": "Your vibe-coded app has problems. This finds all of them. 45+ checks, zero config, no API keys."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "bradygaster",
+          "name": "Brady Gaster",
+          "url": "https://github.com/bradygaster",
+          "featuredRepo": {
+            "name": "bradygaster/squad",
+            "url": "https://github.com/bradygaster/squad",
+            "description": "Squad: AI agent teams for any project"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "benvinegar",
+          "name": "Ben Vinegar",
+          "url": "https://github.com/benvinegar",
+          "featuredRepo": {
+            "name": "benvinegar/counterscale",
+            "url": "https://github.com/benvinegar/counterscale",
+            "description": "Scalable web analytics you run yourself on Cloudflare"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "jarrodwatts",
+          "name": "Jarrod Watts",
+          "url": "https://github.com/jarrodwatts",
+          "featuredRepo": {
+            "name": "jarrodwatts/jev-trader",
+            "url": "https://github.com/jarrodwatts/jev-trader",
+            "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC."
+          }
+        },
+        {
+          "rank": 13,
+          "username": "ItzCrazyKns",
+          "name": "Kushagra Srivastava",
+          "url": "https://github.com/ItzCrazyKns",
+          "featuredRepo": {
+            "name": "ItzCrazyKns/Vane",
+            "url": "https://github.com/ItzCrazyKns/Vane",
+            "description": "Vane is an AI-powered answering engine."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "olaservo",
+          "name": "Ola Hungerford",
+          "url": "https://github.com/olaservo",
+          "featuredRepo": {
+            "name": "olaservo/skilljack-mcp",
+            "url": "https://github.com/olaservo/skilljack-mcp",
+            "description": "MCP server that discovers and serves Agent Skills."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "ColeMurray",
+          "name": "Cole Murray",
+          "url": "https://github.com/ColeMurray",
+          "featuredRepo": {
+            "name": "ColeMurray/background-agents",
+            "url": "https://github.com/ColeMurray/background-agents",
+            "description": "An open-source background agents coding system"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "kingsword09",
+          "name": "Kingsword",
+          "url": "https://github.com/kingsword09",
+          "featuredRepo": {
+            "name": "kingsword09/zcode-cli",
+            "url": "https://github.com/kingsword09/zcode-cli",
+            "description": "Unofficial terminal client for the official agent runtime shipped with ZCode Desktop."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "maurodesouza",
+          "name": "Mauro de Souza",
+          "url": "https://github.com/maurodesouza",
+          "featuredRepo": {
+            "name": "maurodesouza/profile-readme-generator",
+            "url": "https://github.com/maurodesouza/profile-readme-generator",
+            "description": "🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile R…"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "charliermarsh",
+          "name": "Charlie Marsh",
+          "url": "https://github.com/charliermarsh",
+          "featuredRepo": {
+            "name": "charliermarsh/trellis",
+            "url": "https://github.com/charliermarsh/trellis",
+            "description": "Write Dockerfiles and CI pipelines in TypeScript."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "jtpio",
+          "name": "Jeremy Tuloup",
+          "url": "https://github.com/jtpio",
+          "featuredRepo": {
+            "name": "jtpio/xtralab",
+            "url": "https://github.com/jtpio/xtralab",
+            "description": "Agent-ready JupyterLab with opinionated extras"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "patlux",
+          "name": "Patrick Wozniak",
+          "url": "https://github.com/patlux",
+          "featuredRepo": {
+            "name": "patlux/pi-commandcode-provider",
+            "url": "https://github.com/patlux/pi-commandcode-provider",
+            "description": "pi custom provider for the Command Code API — 18 models including Claude, GPT, DeepSeek, Kimi, GLM, MiniMax, and Qwen"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "dzianisv",
+          "name": "Den",
+          "url": "https://github.com/dzianisv",
+          "featuredRepo": {
+            "name": "dzianisv/opencode-mobile",
+            "url": "https://github.com/dzianisv/opencode-mobile",
+            "description": "OpenCode Mobile — open-source Android client for the OpenCode AI coding agent. Run AI coding sessions from your phone against your self-h…"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "rynfar",
+          "name": "Trevor Walker",
+          "url": "https://github.com/rynfar",
+          "featuredRepo": {
+            "name": "rynfar/meridian",
+            "url": "https://github.com/rynfar/meridian",
+            "description": "Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview…"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "narumiruna",
+          "name": "なるみ",
+          "url": "https://github.com/narumiruna",
+          "featuredRepo": {
+            "name": "narumiruna/pi-extensions",
+            "url": "https://github.com/narumiruna/pi-extensions",
+            "description": "A monorepo of Pi Coding Agent extensions"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "jamiepine",
+          "name": "Jamie Pine",
+          "url": "https://github.com/jamiepine",
+          "featuredRepo": {
+            "name": "jamiepine/voicebox",
+            "url": "https://github.com/jamiepine/voicebox",
+            "description": "The open-source AI voice studio. Clone, dictate, create."
+          }
+        },
+        {
+          "rank": 25,
+          "username": "puemos",
+          "name": "Shy Alter",
+          "url": "https://github.com/puemos",
+          "featuredRepo": {
+            "name": "puemos/hls-downloader",
+            "url": "https://github.com/puemos/hls-downloader",
+            "description": "Web Extension for sniffing and downloading HTTP Live streams (HLS)"
+          }
+        }
+      ]
     }
   ],
   "best": [

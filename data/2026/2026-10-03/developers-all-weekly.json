@@ -280,6 +280,281 @@
           "featuredRepo": null
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-03T06:51:32.544Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "tobi",
+          "name": "Tobias Lütke",
+          "url": "https://github.com/tobi",
+          "featuredRepo": {
+            "name": "tobi/disktree",
+            "url": "https://github.com/tobi/disktree",
+            "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "MakazhanAlpamys",
+          "name": "Alpamys Makazhan",
+          "url": "https://github.com/MakazhanAlpamys",
+          "featuredRepo": {
+            "name": "MakazhanAlpamys/Soup",
+            "url": "https://github.com/MakazhanAlpamys/Soup",
+            "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "abrignoni",
+          "name": "Brigs",
+          "url": "https://github.com/abrignoni",
+          "featuredRepo": {
+            "name": "abrignoni/iLEAPP",
+            "url": "https://github.com/abrignoni/iLEAPP",
+            "description": "iOS Logs, Events, And Plist Parser"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "jarrodwatts",
+          "name": "Jarrod Watts",
+          "url": "https://github.com/jarrodwatts",
+          "featuredRepo": {
+            "name": "jarrodwatts/jev-trader",
+            "url": "https://github.com/jarrodwatts/jev-trader",
+            "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC."
+          }
+        },
+        {
+          "rank": 5,
+          "username": "mpfaffenberger",
+          "name": "Mike Pfaffenberger",
+          "url": "https://github.com/mpfaffenberger",
+          "featuredRepo": {
+            "name": "mpfaffenberger/code_puppy",
+            "url": "https://github.com/mpfaffenberger/code_puppy",
+            "description": "Agentic AI for writing code"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "weblate",
+          "name": "Weblate (bot)",
+          "url": "https://github.com/weblate",
+          "featuredRepo": {
+            "name": "weblate/myna",
+            "url": "https://github.com/weblate/myna",
+            "description": "Myna is a lightweight speech-to-text application for Ubuntu Desktop."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "yairm210",
+          "name": "Yair Morgenstern",
+          "url": "https://github.com/yairm210",
+          "featuredRepo": {
+            "name": "yairm210/Unciv",
+            "url": "https://github.com/yairm210/Unciv",
+            "description": "Open-source Android/Desktop remake of Civ V"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "Ikalus1988",
+          "name": "Ikalus1988",
+          "url": "https://github.com/Ikalus1988",
+          "featuredRepo": {
+            "name": "Ikalus1988/MisakaNet",
+            "url": "https://github.com/Ikalus1988/MisakaNet",
+            "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. | ht…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "assafelovic",
+          "name": "Assaf Elovic",
+          "url": "https://github.com/assafelovic",
+          "featuredRepo": {
+            "name": "assafelovic/gpt-researcher",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "description": "An autonomous agent that conducts deep research on any data using any LLM providers"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "bdraco",
+          "name": "J. Nick Koston",
+          "url": "https://github.com/bdraco",
+          "featuredRepo": {
+            "name": "bdraco/python-isal",
+            "url": "https://github.com/bdraco/python-isal",
+            "description": "Faster zlib and gzip compatible compression and decompression by providing python bindings for the isa-l library."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "dalathegreat",
+          "name": "Daniel Öster",
+          "url": "https://github.com/dalathegreat",
+          "featuredRepo": {
+            "name": "dalathegreat/Battery-Emulator",
+            "url": "https://github.com/dalathegreat/Battery-Emulator",
+            "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "rynfar",
+          "name": "Trevor Walker",
+          "url": "https://github.com/rynfar",
+          "featuredRepo": {
+            "name": "rynfar/meridian",
+            "url": "https://github.com/rynfar/meridian",
+            "description": "Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "hiyouga",
+          "name": "Yaowei Zheng",
+          "url": "https://github.com/hiyouga",
+          "featuredRepo": {
+            "name": "hiyouga/LlamaFactory",
+            "url": "https://github.com/hiyouga/LlamaFactory",
+            "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "rakyll",
+          "name": "Jaana Dogan",
+          "url": "https://github.com/rakyll",
+          "featuredRepo": {
+            "name": "rakyll/hey",
+            "url": "https://github.com/rakyll/hey",
+            "description": "HTTP load generator, ApacheBench (ab) replacement"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "irvinebroque",
+          "name": "Brendan Irvine-Broque",
+          "url": "https://github.com/irvinebroque",
+          "featuredRepo": null
+        },
+        {
+          "rank": 16,
+          "username": "probonopd",
+          "name": "probonopd",
+          "url": "https://github.com/probonopd",
+          "featuredRepo": {
+            "name": "probonopd/MiniDexed",
+            "url": "https://github.com/probonopd/MiniDexed",
+            "description": "Dexed FM synthesizer similar to 8x DX7 (TX816/TX802) running on a bare metal Raspberry Pi (without a Linux kernel or operating system)"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "ascorbic",
+          "name": "Matt Kane",
+          "url": "https://github.com/ascorbic",
+          "featuredRepo": {
+            "name": "ascorbic/unpic-img",
+            "url": "https://github.com/ascorbic/unpic-img",
+            "description": "Multi-framework responsive image component"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design language that makes your AI harness better at design."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "kunchenguid",
+          "name": "Kun Chen",
+          "url": "https://github.com/kunchenguid",
+          "featuredRepo": {
+            "name": "kunchenguid/firstmate",
+            "url": "https://github.com/kunchenguid/firstmate",
+            "description": "Talk to one agent. Ship with a crew."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "HansKristian-Work",
+          "name": "Hans-Kristian Arntzen",
+          "url": "https://github.com/HansKristian-Work",
+          "featuredRepo": {
+            "name": "HansKristian-Work/vkd3d-proton",
+            "url": "https://github.com/HansKristian-Work/vkd3d-proton",
+            "description": "Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "bucanero",
+          "name": "Damián Parrino",
+          "url": "https://github.com/bucanero",
+          "featuredRepo": {
+            "name": "bucanero/apollo-ps4",
+            "url": "https://github.com/bucanero/apollo-ps4",
+            "description": "Apollo Save Tool (PS4)"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "webdevcody",
+          "name": "Web Dev Cody",
+          "url": "https://github.com/webdevcody",
+          "featuredRepo": {
+            "name": "webdevcody/jevs-fly",
+            "url": "https://github.com/webdevcody/jevs-fly",
+            "description": null
+          }
+        },
+        {
+          "rank": 24,
+          "username": "jniebuhr",
+          "name": "Jochen Niebuhr",
+          "url": "https://github.com/jniebuhr",
+          "featuredRepo": {
+            "name": "jniebuhr/gaggimate",
+            "url": "https://github.com/jniebuhr/gaggimate",
+            "description": "This project upgrades a Gaggia espresso machine with smart controls to improve your coffee-making experience. By adding a display and cus…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "enliven17",
+          "name": "cankat",
+          "url": "https://github.com/enliven17",
+          "featuredRepo": null
+        }
+      ]
     }
   ],
   "best": []
