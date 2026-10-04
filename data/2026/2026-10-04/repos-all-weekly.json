@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-04",
+  "list": "repos",
+  "language": "all",
+  "period": "weekly",
+  "pageUrl": "https://github.com/trending?since=weekly",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-04T01:35:14.839Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 96758,
+          "forks": 16385,
+          "starsToday": 10722,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "language": "Python",
+          "stars": 45118,
+          "forks": 5897,
+          "starsToday": 14507,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "language": "Python",
+          "stars": 52611,
+          "forks": 5864,
+          "starsToday": 16775,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "language": "JavaScript",
+          "stars": 75333,
+          "forks": 4516,
+          "starsToday": 3311,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 63175,
+          "forks": 10803,
+          "starsToday": 5059,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 56318,
+          "forks": 5061,
+          "starsToday": 3011,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "description": "The React Framework",
+          "language": "JavaScript",
+          "stars": 143085,
+          "forks": 33778,
+          "starsToday": 678,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "Effect-TS/effect",
+          "url": "https://github.com/Effect-TS/effect",
+          "description": "Build production-ready applications in TypeScript",
+          "language": "TypeScript",
+          "stars": 16825,
+          "forks": 814,
+          "starsToday": 466,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "alirezarezvani/claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+          "language": "Python",
+          "stars": 27489,
+          "forks": 3873,
+          "starsToday": 948,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+          "language": "Dart",
+          "stars": 179308,
+          "forks": 32938,
+          "starsToday": 266,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "language": "Python",
+          "stars": 89836,
+          "forks": 7904,
+          "starsToday": 3952,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "TencentCloud/Octop",
+          "url": "https://github.com/TencentCloud/Octop",
+          "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+          "language": "Python",
+          "stars": 6602,
+          "forks": 813,
+          "starsToday": 1476,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "tile-ai/tilelang",
+          "url": "https://github.com/tile-ai/tilelang",
+          "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+          "language": "Python",
+          "stars": 8292,
+          "forks": 835,
+          "starsToday": 800,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "longbridge/gpui-kit",
+          "url": "https://github.com/longbridge/gpui-kit",
+          "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+          "language": "Rust",
+          "stars": 15848,
+          "forks": 975,
+          "starsToday": 960,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 103698,
+          "forks": 31261,
+          "starsToday": 346,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 16,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+          "language": "Python",
+          "stars": 128267,
+          "forks": 20068,
+          "starsToday": 2324,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 17,
+          "name": "pablostanley/yoinks",
+          "url": "https://github.com/pablostanley/yoinks",
+          "description": "yoink any video from your terminal. no shady ads.",
+          "language": "TypeScript",
+          "stars": 3870,
+          "forks": 338,
+          "starsToday": 1917,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 18,
+          "name": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+          "language": "C++",
+          "stars": 3261,
+          "forks": 276,
+          "starsToday": 1820,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 19,
+          "name": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "description": "Useful tool to track location or mobile number",
+          "language": "Python",
+          "stars": 16843,
+          "forks": 2299,
+          "starsToday": 1638,
+          "starsLabel": "this week"
+        }
+      ]
+    }
+  ],
+  "best": []
+}

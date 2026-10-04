@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-04",
+  "list": "repos",
+  "language": "all",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-04T01:35:14.839Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "language": "JavaScript",
+          "stars": 153450,
+          "forks": 8235,
+          "starsToday": 1281,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "language": "JavaScript",
+          "stars": 75333,
+          "forks": 4516,
+          "starsToday": 699,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars": 272271,
+          "forks": 40655,
+          "starsToday": 897,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "Effect-TS/effect",
+          "url": "https://github.com/Effect-TS/effect",
+          "description": "Build production-ready applications in TypeScript",
+          "language": "TypeScript",
+          "stars": 16825,
+          "forks": 814,
+          "starsToday": 302,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+          "language": "Go",
+          "stars": 109542,
+          "forks": 6336,
+          "starsToday": 507,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "language": "Python",
+          "stars": 89836,
+          "forks": 7904,
+          "starsToday": 1696,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 24707,
+          "forks": 6444,
+          "starsToday": 252,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 95595,
+          "forks": 8460,
+          "starsToday": 79,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "cloudflare/cloudflare-os",
+          "url": "https://github.com/cloudflare/cloudflare-os",
+          "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+          "language": "TypeScript",
+          "stars": 10575,
+          "forks": 1283,
+          "starsToday": 85,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 100849,
+          "forks": 10597,
+          "starsToday": 252,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 294922,
+          "forks": 26355,
+          "starsToday": 577,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 275379,
+          "forks": 23107,
+          "starsToday": 751,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars": 25253,
+          "forks": 1807,
+          "starsToday": 256,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "earendil-works/pi",
+          "url": "https://github.com/earendil-works/pi",
+          "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+          "language": "TypeScript",
+          "stars": 112166,
+          "forks": 14229,
+          "starsToday": 408,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 15,
+          "name": "getsentry/sentry",
+          "url": "https://github.com/getsentry/sentry",
+          "description": "Developer-first error tracking and performance monitoring",
+          "language": "Python",
+          "stars": 45207,
+          "forks": 4898,
+          "starsToday": 214,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 16,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "language": "TypeScript",
+          "stars": 149229,
+          "forks": 25370,
+          "starsToday": 128,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 17,
+          "name": "jamwithai/production-agentic-rag-course",
+          "url": "https://github.com/jamwithai/production-agentic-rag-course",
+          "description": null,
+          "language": "Python",
+          "stars": 9408,
+          "forks": 2071,
+          "starsToday": 193,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 18,
+          "name": "meituan-longcat/LongCat-Video",
+          "url": "https://github.com/meituan-longcat/LongCat-Video",
+          "description": null,
+          "language": "Python",
+          "stars": 8751,
+          "forks": 1525,
+          "starsToday": 44,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 19,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 91632,
+          "forks": 9057,
+          "starsToday": 232,
+          "starsLabel": "today"
+        }
+      ]
+    }
+  ],
+  "best": []
+}
