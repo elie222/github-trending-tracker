@@ -288,6 +288,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-04T08:23:35.748Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "mvschwarz",
+          "name": "Mike Schwarz",
+          "url": "https://github.com/mvschwarz",
+          "featuredRepo": {
+            "name": "mvschwarz/openrig",
+            "url": "https://github.com/mvschwarz/openrig",
+            "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "kentcdodds",
+          "name": "Kent C. Dodds",
+          "url": "https://github.com/kentcdodds",
+          "featuredRepo": {
+            "name": "kentcdodds/kody",
+            "url": "https://github.com/kentcdodds/kody",
+            "description": "🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflar…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "maurodesouza",
+          "name": "Mauro de Souza",
+          "url": "https://github.com/maurodesouza",
+          "featuredRepo": {
+            "name": "maurodesouza/profile-readme-generator",
+            "url": "https://github.com/maurodesouza/profile-readme-generator",
+            "description": "🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile R…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "ColeMurray",
+          "name": "Cole Murray",
+          "url": "https://github.com/ColeMurray",
+          "featuredRepo": {
+            "name": "ColeMurray/background-agents",
+            "url": "https://github.com/ColeMurray/background-agents",
+            "description": "An open-source background agents coding system"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "narumiruna",
+          "name": "なるみ",
+          "url": "https://github.com/narumiruna",
+          "featuredRepo": {
+            "name": "narumiruna/pi-extensions",
+            "url": "https://github.com/narumiruna/pi-extensions",
+            "description": "A monorepo of Pi Coding Agent extensions"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "ghostwriternr",
+          "name": "Naresh",
+          "url": "https://github.com/ghostwriternr",
+          "featuredRepo": {
+            "name": "ghostwriternr/sandbox-connection-close-repro",
+            "url": "https://github.com/ghostwriternr/sandbox-connection-close-repro",
+            "description": "Repro and Worker-side workaround for Connection: close on Cloudflare Sandbox egress"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "jarrodwatts",
+          "name": "Jarrod Watts",
+          "url": "https://github.com/jarrodwatts",
+          "featuredRepo": {
+            "name": "jarrodwatts/jev-trader",
+            "url": "https://github.com/jarrodwatts/jev-trader",
+            "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "Huxpro",
+          "name": "Xuan Huang (黄玄)",
+          "url": "https://github.com/Huxpro",
+          "featuredRepo": {
+            "name": "Huxpro/vue-lynx",
+            "url": "https://github.com/Huxpro/vue-lynx",
+            "description": "Vue on Lynx"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "bradygaster",
+          "name": "Brady Gaster",
+          "url": "https://github.com/bradygaster",
+          "featuredRepo": {
+            "name": "bradygaster/squad",
+            "url": "https://github.com/bradygaster/squad",
+            "description": "Squad: AI agent teams for any project"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "rynfar",
+          "name": "Trevor Walker",
+          "url": "https://github.com/rynfar",
+          "featuredRepo": {
+            "name": "rynfar/meridian",
+            "url": "https://github.com/rynfar/meridian",
+            "description": "Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview…"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "smontlouis",
+          "name": "Montlouis-Calixte Stéphane",
+          "url": "https://github.com/smontlouis",
+          "featuredRepo": {
+            "name": "smontlouis/bible-strong-avatar-lab",
+            "url": "https://github.com/smontlouis/bible-strong-avatar-lab",
+            "description": null
+          }
+        },
+        {
+          "rank": 16,
+          "username": "JJLiebig",
+          "name": "JJ Liebig",
+          "url": "https://github.com/JJLiebig",
+          "featuredRepo": {
+            "name": "JJLiebig/anti-slop",
+            "url": "https://github.com/JJLiebig/anti-slop",
+            "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "mr-raj12",
+          "name": "Mrityunjay Raj",
+          "url": "https://github.com/mr-raj12",
+          "featuredRepo": {
+            "name": "mr-raj12/stream-mypi",
+            "url": "https://github.com/mr-raj12/stream-mypi",
+            "description": null
+          }
+        },
+        {
+          "rank": 18,
+          "username": "dannote",
+          "name": "Danila Poyarkov",
+          "url": "https://github.com/dannote",
+          "featuredRepo": {
+            "name": "dannote/figma-use",
+            "url": "https://github.com/dannote/figma-use",
+            "description": "Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 1…"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "can1357",
+          "name": "Can Bölük",
+          "url": "https://github.com/can1357",
+          "featuredRepo": {
+            "name": "can1357/oh-my-pi",
+            "url": "https://github.com/can1357/oh-my-pi",
+            "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "w3cj",
+          "name": "CJ",
+          "url": "https://github.com/w3cj",
+          "featuredRepo": {
+            "name": "w3cj/how-llms-work",
+            "url": "https://github.com/w3cj/how-llms-work",
+            "description": "An interactive app that walks through every stage of the LLM pipeline, from pattern matching to training a transformer from scratch, with…"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "dmmulroy",
+          "name": "Dillon Mulroy",
+          "url": "https://github.com/dmmulroy",
+          "featuredRepo": {
+            "name": "dmmulroy/anti-slop",
+            "url": "https://github.com/dmmulroy/anti-slop",
+            "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "chenglou",
+          "name": "Cheng Lou",
+          "url": "https://github.com/chenglou",
+          "featuredRepo": {
+            "name": "chenglou/pretext",
+            "url": "https://github.com/chenglou/pretext",
+            "description": "Fast, accurate & comprehensive text measurement & layout"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "Yeraze",
+          "name": "Randall Hand",
+          "url": "https://github.com/Yeraze",
+          "featuredRepo": {
+            "name": "Yeraze/meshmonitor",
+            "url": "https://github.com/Yeraze/meshmonitor",
+            "description": "Web tool for monitoring Mesh Node Deployment over TCP/HTTP"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "kevincodex1",
+          "name": "Kevin Codex",
+          "url": "https://github.com/kevincodex1",
+          "featuredRepo": {
+            "name": "kevincodex1/gstack",
+            "url": "https://github.com/kevincodex1/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "kolkov",
+          "name": "Andrey Kolkov",
+          "url": "https://github.com/kolkov",
+          "featuredRepo": {
+            "name": "kolkov/angular-editor",
+            "url": "https://github.com/kolkov/angular-editor",
+            "description": "Native WYSIWYG/Rich Text editor for Angular 20+ with Markdown support, custom sanitization, and reactive toolbar"
+          }
+        }
+      ]
     }
   ],
   "best": [
