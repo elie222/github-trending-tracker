@@ -276,6 +276,277 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-05T07:06:19.093Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "frankbria",
+          "name": "Frank Bria",
+          "url": "https://github.com/frankbria",
+          "featuredRepo": {
+            "name": "frankbria/ralph-claude-code",
+            "url": "https://github.com/frankbria/ralph-claude-code",
+            "description": "Autonomous AI development loop for Claude Code with intelligent exit detection"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "ColeMurray",
+          "name": "Cole Murray",
+          "url": "https://github.com/ColeMurray",
+          "featuredRepo": {
+            "name": "ColeMurray/background-agents",
+            "url": "https://github.com/ColeMurray/background-agents",
+            "description": "An open-source background agents coding system"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "raullenchai",
+          "name": "Raullen Chai",
+          "url": "https://github.com/raullenchai",
+          "featuredRepo": {
+            "name": "raullenchai/Rapid-MLX",
+            "url": "https://github.com/raullenchai/Rapid-MLX",
+            "description": "Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server and Mac app for Apple Silicon, built on ML…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "JustVugg",
+          "name": "Vincenzo Fornaro",
+          "url": "https://github.com/JustVugg",
+          "featuredRepo": {
+            "name": "JustVugg/colibri",
+            "url": "https://github.com/JustVugg/colibri",
+            "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "madeye",
+          "name": "Max Lv",
+          "url": "https://github.com/madeye",
+          "featuredRepo": {
+            "name": "madeye/ServerBox",
+            "url": "https://github.com/madeye/ServerBox",
+            "description": "ServerBox: turn a used Android phone into a Linux server, no root required. Alpine, Arch, Debian, Kali and Ubuntu with an always-on SSH s…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "xXJSONDeruloXx",
+          "name": "Kurt Himebauch",
+          "url": "https://github.com/xXJSONDeruloXx",
+          "featuredRepo": {
+            "name": "xXJSONDeruloXx/decky-lsfg-vk",
+            "url": "https://github.com/xXJSONDeruloXx/decky-lsfg-vk",
+            "description": "Decky plugin to streamline installation and usage of lsfg-vk; the Lossless Scaling compatibility layer for linux"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "hrydgard",
+          "name": "Henrik Rydgård",
+          "url": "https://github.com/hrydgard",
+          "featuredRepo": {
+            "name": "hrydgard/ppsspp",
+            "url": "https://github.com/hrydgard/ppsspp",
+            "description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJ…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "cathrynlavery",
+          "name": "Cathryn Lavery",
+          "url": "https://github.com/cathrynlavery",
+          "featuredRepo": {
+            "name": "cathrynlavery/diagram-design",
+            "url": "https://github.com/cathrynlavery/diagram-design",
+            "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No s…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "poteto",
+          "name": "lauren",
+          "url": "https://github.com/poteto",
+          "featuredRepo": {
+            "name": "poteto/hiring-without-whiteboards",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "kim-em",
+          "name": "Kim Morrison",
+          "url": "https://github.com/kim-em",
+          "featuredRepo": {
+            "name": "kim-em/lean-zip",
+            "url": "https://github.com/kim-em/lean-zip",
+            "description": null
+          }
+        },
+        {
+          "rank": 12,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "doitsujin",
+          "name": "Philip Rebohle",
+          "url": "https://github.com/doitsujin",
+          "featuredRepo": {
+            "name": "doitsujin/dxvk",
+            "url": "https://github.com/doitsujin/dxvk",
+            "description": "Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "chrox",
+          "name": "Huang Xin",
+          "url": "https://github.com/chrox",
+          "featuredRepo": null
+        },
+        {
+          "rank": 15,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "A-EDev",
+          "name": "AE",
+          "url": "https://github.com/A-EDev",
+          "featuredRepo": {
+            "name": "A-EDev/Flow",
+            "url": "https://github.com/A-EDev/Flow",
+            "description": "A modern, feature-rich YouTube and YouTube Music client with local recommendation for Android built with Jetpack Compose"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "akshaydeo",
+          "name": "Akshay Deo",
+          "url": "https://github.com/akshaydeo",
+          "featuredRepo": null
+        },
+        {
+          "rank": 18,
+          "username": "ldm0",
+          "name": "Donough Liu",
+          "url": "https://github.com/ldm0",
+          "featuredRepo": {
+            "name": "ldm0/keyed-lock",
+            "url": "https://github.com/ldm0/keyed-lock",
+            "description": null
+          }
+        },
+        {
+          "rank": 19,
+          "username": "Yeraze",
+          "name": "Randall Hand",
+          "url": "https://github.com/Yeraze",
+          "featuredRepo": {
+            "name": "Yeraze/meshmonitor",
+            "url": "https://github.com/Yeraze/meshmonitor",
+            "description": "Web tool for monitoring Mesh Node Deployment over TCP/HTTP"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "Wirasm",
+          "name": "Rasmus Widing",
+          "url": "https://github.com/Wirasm",
+          "featuredRepo": {
+            "name": "Wirasm/prp",
+            "url": "https://github.com/Wirasm/prp",
+            "description": "Prompts, workflows and more for agentic engineering"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design language that makes your AI harness better at design."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "bradygaster",
+          "name": "Brady Gaster",
+          "url": "https://github.com/bradygaster",
+          "featuredRepo": {
+            "name": "bradygaster/squad",
+            "url": "https://github.com/bradygaster/squad",
+            "description": "Squad: AI agent teams for any project"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "isair",
+          "name": "Baris Sencan",
+          "url": "https://github.com/isair",
+          "featuredRepo": {
+            "name": "isair/jarvis",
+            "url": "https://github.com/isair/jarvis",
+            "description": "A 100% private AI voice assistant that lives on your computer (works offline). Talk naturally as if Jarvis is a third person in the room,…"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "yorch",
+          "name": "Jorge Barnaby",
+          "url": "https://github.com/yorch",
+          "featuredRepo": null
+        },
+        {
+          "rank": 25,
+          "username": "dashhuang",
+          "name": "Dash",
+          "url": "https://github.com/dashhuang",
+          "featuredRepo": {
+            "name": "dashhuang/DisplayFill",
+            "url": "https://github.com/dashhuang/DisplayFill",
+            "description": null
+          }
+        }
+      ]
     }
   ],
   "best": []

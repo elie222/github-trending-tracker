@@ -189,6 +189,190 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-05T07:06:19.093Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 97296,
+          "forks": 16462,
+          "starsToday": 8732,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 56904,
+          "forks": 5104,
+          "starsToday": 3096,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "Effect-TS/effect",
+          "url": "https://github.com/Effect-TS/effect",
+          "description": "Build production-ready applications in TypeScript",
+          "language": "TypeScript",
+          "stars": 17000,
+          "forks": 821,
+          "starsToday": 702,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 25302,
+          "forks": 6533,
+          "starsToday": 1304,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "pablostanley/yoinks",
+          "url": "https://github.com/pablostanley/yoinks",
+          "description": "yoink any video from your terminal. no shady ads.",
+          "language": "TypeScript",
+          "stars": 4464,
+          "forks": 391,
+          "starsToday": 2361,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+          "language": "TypeScript",
+          "stars": 5032,
+          "forks": 365,
+          "starsToday": 4251,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "language": "TypeScript",
+          "stars": 22370,
+          "forks": 1870,
+          "starsToday": 2418,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "description": "Self-hosted deployment platform",
+          "language": "TypeScript",
+          "stars": 14508,
+          "forks": 1290,
+          "starsToday": 1949,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "mobile-next/mobile-mcp",
+          "url": "https://github.com/mobile-next/mobile-mcp",
+          "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+          "language": "TypeScript",
+          "stars": 8658,
+          "forks": 769,
+          "starsToday": 899,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 9840,
+          "forks": 927,
+          "starsToday": 994,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "language": "TypeScript",
+          "stars": 50046,
+          "forks": 4999,
+          "starsToday": 634,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars": 25431,
+          "forks": 1821,
+          "starsToday": 1291,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "LuxAlgo/Vela",
+          "url": "https://github.com/LuxAlgo/Vela",
+          "description": "Fast, extensible financial charts for the web. The open-source core of Vela by LuxAlgo.",
+          "language": "TypeScript",
+          "stars": 966,
+          "forks": 181,
+          "starsToday": 523,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "vercel-labs/scriptc",
+          "url": "https://github.com/vercel-labs/scriptc",
+          "description": "TypeScript-to-Native Compiler",
+          "language": "TypeScript",
+          "stars": 5921,
+          "forks": 170,
+          "starsToday": 636,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "Comfy-Org/workflow_templates",
+          "url": "https://github.com/Comfy-Org/workflow_templates",
+          "description": "ComfyUI template workflows",
+          "language": "TypeScript",
+          "stars": 1247,
+          "forks": 235,
+          "starsToday": 229,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 16,
+          "name": "yikart/AiToEarn",
+          "url": "https://github.com/yikart/AiToEarn",
+          "description": "Let's use AI to Earn!",
+          "language": "TypeScript",
+          "stars": 26304,
+          "forks": 4176,
+          "starsToday": 397,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": []
