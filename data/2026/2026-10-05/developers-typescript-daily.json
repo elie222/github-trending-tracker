@@ -571,6 +571,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-05T12:45:38.673Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "ColeMurray",
+          "name": "Cole Murray",
+          "url": "https://github.com/ColeMurray",
+          "featuredRepo": {
+            "name": "ColeMurray/background-agents",
+            "url": "https://github.com/ColeMurray/background-agents",
+            "description": "An open-source background agents coding system"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "Yeraze",
+          "name": "Randall Hand",
+          "url": "https://github.com/Yeraze",
+          "featuredRepo": {
+            "name": "Yeraze/meshmonitor",
+            "url": "https://github.com/Yeraze/meshmonitor",
+            "description": "Web tool for monitoring Mesh Node Deployment over TCP/HTTP"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "bradygaster",
+          "name": "Brady Gaster",
+          "url": "https://github.com/bradygaster",
+          "featuredRepo": {
+            "name": "bradygaster/squad",
+            "url": "https://github.com/bradygaster/squad",
+            "description": "Squad: AI agent teams for any project"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "lfnovo",
+          "name": "Luis Novo",
+          "url": "https://github.com/lfnovo",
+          "featuredRepo": {
+            "name": "lfnovo/open-notebook",
+            "url": "https://github.com/lfnovo/open-notebook",
+            "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "jamiepine",
+          "name": "Jamie Pine",
+          "url": "https://github.com/jamiepine",
+          "featuredRepo": {
+            "name": "jamiepine/voicebox",
+            "url": "https://github.com/jamiepine/voicebox",
+            "description": "The open-source AI voice studio. Clone, dictate, create."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "jarrodwatts",
+          "name": "Jarrod Watts",
+          "url": "https://github.com/jarrodwatts",
+          "featuredRepo": {
+            "name": "jarrodwatts/jev-trader",
+            "url": "https://github.com/jarrodwatts/jev-trader",
+            "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "mrzmyr",
+          "name": "Moritz Meyer",
+          "url": "https://github.com/mrzmyr",
+          "featuredRepo": {
+            "name": "mrzmyr/eve-mocks",
+            "url": "https://github.com/mrzmyr/eve-mocks",
+            "description": "Mocks for eve agents"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "adrianhajdin",
+          "name": "Adrian Hajdin - JS Mastery",
+          "url": "https://github.com/adrianhajdin",
+          "featuredRepo": {
+            "name": "adrianhajdin/cartograph",
+            "url": "https://github.com/adrianhajdin/cartograph",
+            "description": "Cartograph turns any GitHub repo into an interactive dependency map by parsing real code to analyze structure, trace imports, calculate b…"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "mvschwarz",
+          "name": "Mike Schwarz",
+          "url": "https://github.com/mvschwarz",
+          "featuredRepo": {
+            "name": "mvschwarz/openrig",
+            "url": "https://github.com/mvschwarz/openrig",
+            "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
+          }
+        },
+        {
+          "rank": 13,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "maurodesouza",
+          "name": "Mauro de Souza",
+          "url": "https://github.com/maurodesouza",
+          "featuredRepo": {
+            "name": "maurodesouza/profile-readme-generator",
+            "url": "https://github.com/maurodesouza/profile-readme-generator",
+            "description": "🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile R…"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "kentcdodds",
+          "name": "Kent C. Dodds",
+          "url": "https://github.com/kentcdodds",
+          "featuredRepo": {
+            "name": "kentcdodds/kody",
+            "url": "https://github.com/kentcdodds/kody",
+            "description": "🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflar…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/outreachr",
+            "url": "https://github.com/lalalune/outreachr",
+            "description": "Local-first, open-source investor fundraising CRM for founders"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "ilbertt",
+          "name": "Luca Bertelli",
+          "url": "https://github.com/ilbertt",
+          "featuredRepo": {
+            "name": "ilbertt/nibrun",
+            "url": "https://github.com/ilbertt/nibrun",
+            "description": "Upload a binary. Get a server."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "id774",
+          "name": "id774",
+          "url": "https://github.com/id774",
+          "featuredRepo": {
+            "name": "id774/spa-reference",
+            "url": "https://github.com/id774/spa-reference",
+            "description": "A public reference implementation of a transactional business SPA built with React, TypeScript, NestJS, and AWS."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "romankurnovskii",
+          "name": "Roman",
+          "url": "https://github.com/romankurnovskii",
+          "featuredRepo": {
+            "name": "romankurnovskii/BrewMate",
+            "url": "https://github.com/romankurnovskii/BrewMate",
+            "description": "Homebrew GUI apps manager"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "cprussin",
+          "name": "Connor Prussin",
+          "url": "https://github.com/cprussin",
+          "featuredRepo": {
+            "name": "cprussin/domicile",
+            "url": "https://github.com/cprussin/domicile",
+            "description": "Wayland windows as DOM elements. Chromium as the compositor. May God have mercy on our souls."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "callumalpass",
+          "name": "callumalpass",
+          "url": "https://github.com/callumalpass",
+          "featuredRepo": {
+            "name": "callumalpass/tasknotes",
+            "url": "https://github.com/callumalpass/tasknotes",
+            "description": "Task and time-tracking management with calendar integration for Obsidian"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "zts212653",
+          "name": "Lysander Su",
+          "url": "https://github.com/zts212653",
+          "featuredRepo": {
+            "name": "zts212653/clowder-ai",
+            "url": "https://github.com/zts212653/clowder-ai",
+            "description": "Build AI teams, not just agents. Hard rails, soft power, shared mission."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "abhi1693",
+          "name": "Abhimanyu Saharan",
+          "url": "https://github.com/abhi1693",
+          "featuredRepo": {
+            "name": "abhi1693/openclaw-mission-control",
+            "url": "https://github.com/abhi1693/openclaw-mission-control",
+            "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway."
+          }
+        },
+        {
+          "rank": 25,
+          "username": "tanem",
+          "name": "Tane Morgan",
+          "url": "https://github.com/tanem",
+          "featuredRepo": {
+            "name": "tanem/react-nprogress",
+            "url": "https://github.com/tanem/react-nprogress",
+            "description": "⌛ A React primitive for building slim progress bars."
+          }
+        }
+      ]
     }
   ],
   "best": [

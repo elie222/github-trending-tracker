@@ -439,6 +439,245 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-05T12:45:38.673Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "language": "JavaScript",
+          "stars": 76790,
+          "forks": 4581,
+          "starsToday": 4242,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 97399,
+          "forks": 16477,
+          "starsToday": 8732,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "language": "Python",
+          "stars": 45728,
+          "forks": 5920,
+          "starsToday": 10623,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 57032,
+          "forks": 5112,
+          "starsToday": 3096,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "language": "Python",
+          "stars": 53444,
+          "forks": 5957,
+          "starsToday": 14689,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "language": "Python",
+          "stars": 91442,
+          "forks": 8030,
+          "starsToday": 4789,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "Effect-TS/effect",
+          "url": "https://github.com/Effect-TS/effect",
+          "description": "Build production-ready applications in TypeScript",
+          "language": "TypeScript",
+          "stars": 17015,
+          "forks": 823,
+          "starsToday": 702,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "language": "JavaScript",
+          "stars": 155558,
+          "forks": 8363,
+          "starsToday": 7948,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "Gaurav-Gosain/tuios",
+          "url": "https://github.com/Gaurav-Gosain/tuios",
+          "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
+          "language": "Go",
+          "stars": 4751,
+          "forks": 208,
+          "starsToday": 708,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 25402,
+          "forks": 6560,
+          "starsToday": 1304,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 64327,
+          "forks": 11038,
+          "starsToday": 4904,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "alirezarezvani/claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+          "language": "Python",
+          "stars": 27657,
+          "forks": 3894,
+          "starsToday": 1024,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "cloudflare/cloudflare-os",
+          "url": "https://github.com/cloudflare/cloudflare-os",
+          "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+          "language": "TypeScript",
+          "stars": 10826,
+          "forks": 1301,
+          "starsToday": 655,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "tile-ai/tilelang",
+          "url": "https://github.com/tile-ai/tilelang",
+          "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+          "language": "Python",
+          "stars": 8401,
+          "forks": 846,
+          "starsToday": 839,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 9877,
+          "forks": 931,
+          "starsToday": 994,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 16,
+          "name": "TencentCloud/Octop",
+          "url": "https://github.com/TencentCloud/Octop",
+          "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+          "language": "Python",
+          "stars": 6845,
+          "forks": 847,
+          "starsToday": 1496,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 17,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+          "language": "Python",
+          "stars": 128544,
+          "forks": 20105,
+          "starsToday": 2291,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 18,
+          "name": "caddyserver/caddy",
+          "url": "https://github.com/caddyserver/caddy",
+          "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+          "language": "Go",
+          "stars": 76815,
+          "forks": 5059,
+          "starsToday": 358,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 19,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "language": "Shell",
+          "stars": 156958,
+          "forks": 25337,
+          "starsToday": 1866,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 20,
+          "name": "pablostanley/yoinks",
+          "url": "https://github.com/pablostanley/yoinks",
+          "description": "yoink any video from your terminal. no shady ads.",
+          "language": "TypeScript",
+          "stars": 4532,
+          "forks": 401,
+          "starsToday": 2361,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 21,
+          "name": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+          "language": "TypeScript",
+          "stars": 5089,
+          "forks": 372,
+          "starsToday": 4251,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": []
