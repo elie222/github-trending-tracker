@@ -513,6 +513,157 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-05T18:38:39.544Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "tester-army/e2e",
+          "url": "https://github.com/tester-army/e2e",
+          "description": "Next generation e2e testing framework for web and mobile apps.",
+          "language": "TypeScript",
+          "stars": 4398,
+          "forks": 185,
+          "starsToday": 1430,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 96528,
+          "forks": 8520,
+          "starsToday": 534,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "michael-denyer/pstack-claude",
+          "url": "https://github.com/michael-denyer/pstack-claude",
+          "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+          "language": "JavaScript",
+          "stars": 1384,
+          "forks": 149,
+          "starsToday": 222,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "Give your agent CAD superpowers.",
+          "language": "Python",
+          "stars": 17278,
+          "forks": 1761,
+          "starsToday": 456,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 25522,
+          "forks": 6580,
+          "starsToday": 487,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+          "language": "C++",
+          "stars": 4750,
+          "forks": 360,
+          "starsToday": 994,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "language": "Python",
+          "stars": 91722,
+          "forks": 8054,
+          "starsToday": 1156,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+          "language": "Python",
+          "stars": 63835,
+          "forks": 8114,
+          "starsToday": 758,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "caddyserver/caddy",
+          "url": "https://github.com/caddyserver/caddy",
+          "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+          "language": "Go",
+          "stars": 76989,
+          "forks": 5069,
+          "starsToday": 526,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "DuarteSantos8/openGym",
+          "url": "https://github.com/DuarteSantos8/openGym",
+          "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+          "language": "JavaScript",
+          "stars": 3937,
+          "forks": 625,
+          "starsToday": 1444,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "cloudflare/cloudflare-os",
+          "url": "https://github.com/cloudflare/cloudflare-os",
+          "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+          "language": "TypeScript",
+          "stars": 10928,
+          "forks": 1304,
+          "starsToday": 102,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "Stremio/stremio-web",
+          "url": "https://github.com/Stremio/stremio-web",
+          "description": "Stremio - Freedom to Stream",
+          "language": "JavaScript",
+          "stars": 14219,
+          "forks": 1624,
+          "starsToday": 111,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "language": "Shell",
+          "stars": 157133,
+          "forks": 25358,
+          "starsToday": 595,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []
