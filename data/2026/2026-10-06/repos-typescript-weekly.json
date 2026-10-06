@@ -373,6 +373,223 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-06T12:42:34.431Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+          "language": "TypeScript",
+          "stars": 5368,
+          "forks": 396,
+          "starsToday": 3776,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 57624,
+          "forks": 5149,
+          "starsToday": 3342,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 10040,
+          "forks": 949,
+          "starsToday": 1042,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 96896,
+          "forks": 8542,
+          "starsToday": 1759,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "pablostanley/yoinks",
+          "url": "https://github.com/pablostanley/yoinks",
+          "description": "yoink any video from your terminal. no shady ads.",
+          "language": "TypeScript",
+          "stars": 4743,
+          "forks": 417,
+          "starsToday": 2741,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 97889,
+          "forks": 16541,
+          "starsToday": 6030,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 92854,
+          "forks": 9125,
+          "starsToday": 1840,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "description": "Self-hosted deployment platform",
+          "language": "TypeScript",
+          "stars": 14560,
+          "forks": 1295,
+          "starsToday": 1279,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "LuxAlgo/Vela",
+          "url": "https://github.com/LuxAlgo/Vela",
+          "description": "Fast, extensible financial charts for the web. The open-source core of Vela by LuxAlgo.",
+          "language": "TypeScript",
+          "stars": 1012,
+          "forks": 188,
+          "starsToday": 565,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "Effect-TS/effect",
+          "url": "https://github.com/Effect-TS/effect",
+          "description": "Build production-ready applications in TypeScript",
+          "language": "TypeScript",
+          "stars": 17079,
+          "forks": 831,
+          "starsToday": 791,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 25781,
+          "forks": 6639,
+          "starsToday": 1674,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "breferrari/obsidian-mind",
+          "url": "https://github.com/breferrari/obsidian-mind",
+          "description": "A self-organizing Obsidian vault that gives AI coding agents persistent memory.",
+          "language": "TypeScript",
+          "stars": 4906,
+          "forks": 551,
+          "starsToday": 237,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "cloudflare/cloudflare-os",
+          "url": "https://github.com/cloudflare/cloudflare-os",
+          "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+          "language": "TypeScript",
+          "stars": 11164,
+          "forks": 1320,
+          "starsToday": 663,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "mrifqidaffaaditya/WA-AKG",
+          "url": "https://github.com/mrifqidaffaaditya/WA-AKG",
+          "description": "A self-hosted WhatsApp Gateway & Dashboard built with Next.js 15, Baileys, and Prisma. Manage multi-session accounts, schedule messages, create auto-replies, and integrate via Webhooks.",
+          "language": "TypeScript",
+          "stars": 483,
+          "forks": 161,
+          "starsToday": 147,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "yikart/AiToEarn",
+          "url": "https://github.com/yikart/AiToEarn",
+          "description": "Let's use AI to Earn!",
+          "language": "TypeScript",
+          "stars": 26336,
+          "forks": 4191,
+          "starsToday": 391,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 16,
+          "name": "Comfy-Org/workflow_templates",
+          "url": "https://github.com/Comfy-Org/workflow_templates",
+          "description": "ComfyUI template workflows",
+          "language": "TypeScript",
+          "stars": 1248,
+          "forks": 236,
+          "starsToday": 172,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 17,
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description": "基本稳定可用 A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+          "language": "TypeScript",
+          "stars": 576,
+          "forks": 57,
+          "starsToday": 206,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 18,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 31114,
+          "forks": 4355,
+          "starsToday": 1634,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 19,
+          "name": "hicccc77/WeFlow",
+          "url": "https://github.com/hicccc77/WeFlow",
+          "description": "WeFlow - 一个本地的微信聊天记录导出和年度报告应用",
+          "language": "TypeScript",
+          "stars": 14757,
+          "forks": 568,
+          "starsToday": 203,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": []
