@@ -571,6 +571,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-07T12:45:12.675Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/outreachr",
+            "url": "https://github.com/lalalune/outreachr",
+            "description": "Local-first, open-source investor fundraising CRM for founders"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "narumiruna",
+          "name": "なるみ",
+          "url": "https://github.com/narumiruna",
+          "featuredRepo": {
+            "name": "narumiruna/pi-extensions",
+            "url": "https://github.com/narumiruna/pi-extensions",
+            "description": "A monorepo of Pi Coding Agent extensions"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "ColeMurray",
+          "name": "Cole Murray",
+          "url": "https://github.com/ColeMurray",
+          "featuredRepo": {
+            "name": "ColeMurray/background-agents",
+            "url": "https://github.com/ColeMurray/background-agents",
+            "description": "An open-source background agents coding system"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "lfnovo",
+          "name": "Luis Novo",
+          "url": "https://github.com/lfnovo",
+          "featuredRepo": {
+            "name": "lfnovo/open-notebook",
+            "url": "https://github.com/lfnovo/open-notebook",
+            "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "Chuloo",
+          "name": "William",
+          "url": "https://github.com/Chuloo",
+          "featuredRepo": {
+            "name": "Chuloo/mural",
+            "url": "https://github.com/Chuloo/mural",
+            "description": "The language app you eventually delete. A native iPhone companion for learning through conversation."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "kgoedecke",
+          "name": "Kevin Goedecke",
+          "url": "https://github.com/kgoedecke",
+          "featuredRepo": {
+            "name": "kgoedecke/doop",
+            "url": "https://github.com/kgoedecke/doop",
+            "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "perminder-klair",
+          "name": "Parminder Klair",
+          "url": "https://github.com/perminder-klair",
+          "featuredRepo": {
+            "name": "perminder-klair/subwave",
+            "url": "https://github.com/perminder-klair/subwave",
+            "description": "Personal internet radio: Agentic AI DJ"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "bradygaster",
+          "name": "Brady Gaster",
+          "url": "https://github.com/bradygaster",
+          "featuredRepo": {
+            "name": "bradygaster/squad",
+            "url": "https://github.com/bradygaster/squad",
+            "description": "Squad: AI agent teams for any project"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "mlightcad",
+          "name": "mlightcad",
+          "url": "https://github.com/mlightcad",
+          "featuredRepo": {
+            "name": "mlightcad/cad-viewer",
+            "url": "https://github.com/mlightcad/cad-viewer",
+            "description": "The world’s first fully web-based DXF/DWG viewer and editor that runs entirely in the browser — no backend server required."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "jamiepine",
+          "name": "Jamie Pine",
+          "url": "https://github.com/jamiepine",
+          "featuredRepo": {
+            "name": "jamiepine/voicebox",
+            "url": "https://github.com/jamiepine/voicebox",
+            "description": "The open-source AI voice studio. Clone, dictate, create."
+          }
+        },
+        {
+          "rank": 16,
+          "username": "firsttris",
+          "name": "Tristan Teufel",
+          "url": "https://github.com/firsttris",
+          "featuredRepo": {
+            "name": "firsttris/vscode-jest-runner",
+            "url": "https://github.com/firsttris/vscode-jest-runner",
+            "description": "Run and debug Jest, Vitest, Rstest, Node.js, Bun, Deno and Playwright tests with ease, right from your editor."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "adrianhajdin",
+          "name": "Adrian Hajdin - JS Mastery",
+          "url": "https://github.com/adrianhajdin",
+          "featuredRepo": {
+            "name": "adrianhajdin/cartograph",
+            "url": "https://github.com/adrianhajdin/cartograph",
+            "description": "Cartograph turns any GitHub repo into an interactive dependency map by parsing real code to analyze structure, trace imports, calculate b…"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "ravidsrk",
+          "name": "Ravindra Kumar",
+          "url": "https://github.com/ravidsrk",
+          "featuredRepo": {
+            "name": "ravidsrk/slop-detect",
+            "url": "https://github.com/ravidsrk/slop-detect",
+            "description": "Score any landing page against the 27-pattern AI-design-slop fingerprint. Detect Cursor / v0 / Lovable / Bolt templates — and get a fix p…"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "jarrodwatts",
+          "name": "Jarrod Watts",
+          "url": "https://github.com/jarrodwatts",
+          "featuredRepo": {
+            "name": "jarrodwatts/jev-trader",
+            "url": "https://github.com/jarrodwatts/jev-trader",
+            "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "JonnyBurger",
+          "name": "Jonny Burger",
+          "url": "https://github.com/JonnyBurger",
+          "featuredRepo": {
+            "name": "JonnyBurger/remotion-f1",
+            "url": "https://github.com/JonnyBurger/remotion-f1",
+            "description": "F1 motion graphics in JavaScript"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "ItzCrazyKns",
+          "name": "Kushagra Srivastava",
+          "url": "https://github.com/ItzCrazyKns",
+          "featuredRepo": {
+            "name": "ItzCrazyKns/Vane",
+            "url": "https://github.com/ItzCrazyKns/Vane",
+            "description": "Vane is an AI-powered answering engine."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "maurodesouza",
+          "name": "Mauro de Souza",
+          "url": "https://github.com/maurodesouza",
+          "featuredRepo": {
+            "name": "maurodesouza/profile-readme-generator",
+            "url": "https://github.com/maurodesouza/profile-readme-generator",
+            "description": "🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile R…"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "mvschwarz",
+          "name": "Mike Schwarz",
+          "url": "https://github.com/mvschwarz",
+          "featuredRepo": {
+            "name": "mvschwarz/openrig",
+            "url": "https://github.com/mvschwarz/openrig",
+            "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "allenhutchison",
+          "name": "Allen Hutchison",
+          "url": "https://github.com/allenhutchison",
+          "featuredRepo": {
+            "name": "allenhutchison/obsidian-gemini",
+            "url": "https://github.com/allenhutchison/obsidian-gemini",
+            "description": "An obsidian plugin to interact with Google Gemini"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "Rel1cx",
+          "name": "REL1CX",
+          "url": "https://github.com/Rel1cx",
+          "featuredRepo": {
+            "name": "Rel1cx/eslint-react",
+            "url": "https://github.com/Rel1cx/eslint-react",
+            "description": "Composable ESLint rules for React and friends."
+          }
+        }
+      ]
     }
   ],
   "best": [
