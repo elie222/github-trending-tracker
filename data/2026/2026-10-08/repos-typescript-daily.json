@@ -307,6 +307,201 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-08T12:44:56.511Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 19482,
+          "forks": 2052,
+          "starsToday": 7744,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 98093,
+          "forks": 8620,
+          "starsToday": 662,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 31951,
+          "forks": 4446,
+          "starsToday": 508,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "language": "TypeScript",
+          "stars": 88037,
+          "forks": 13434,
+          "starsToday": 94,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "tester-army/e2e",
+          "url": "https://github.com/tester-army/e2e",
+          "description": "Next generation e2e testing framework for web and mobile apps.",
+          "language": "TypeScript",
+          "stars": 8014,
+          "forks": 367,
+          "starsToday": 1137,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "reconurge/flowsint",
+          "url": "https://github.com/reconurge/flowsint",
+          "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+          "language": "TypeScript",
+          "stars": 9538,
+          "forks": 1164,
+          "starsToday": 215,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "Vincentwei1021/video-shotcraft",
+          "url": "https://github.com/Vincentwei1021/video-shotcraft",
+          "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
+          "language": "TypeScript",
+          "stars": 10820,
+          "forks": 962,
+          "starsToday": 264,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "Gimanh/taskview-community",
+          "url": "https://github.com/Gimanh/taskview-community",
+          "description": "TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.",
+          "language": "TypeScript",
+          "stars": 1266,
+          "forks": 114,
+          "starsToday": 37,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "ItzCrazyKns/Vane",
+          "url": "https://github.com/ItzCrazyKns/Vane",
+          "description": "Vane is an AI-powered answering engine.",
+          "language": "TypeScript",
+          "stars": 37133,
+          "forks": 4121,
+          "starsToday": 51,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "dyad-sh/dyad",
+          "url": "https://github.com/dyad-sh/dyad",
+          "description": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+          "language": "TypeScript",
+          "stars": 21764,
+          "forks": 2701,
+          "starsToday": 46,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "thebuggeddev/anatomy",
+          "url": "https://github.com/thebuggeddev/anatomy",
+          "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+          "language": "TypeScript",
+          "stars": 3432,
+          "forks": 918,
+          "starsToday": 24,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "invoke-ai/InvokeAI",
+          "url": "https://github.com/invoke-ai/InvokeAI",
+          "description": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.",
+          "language": "TypeScript",
+          "stars": 28450,
+          "forks": 3005,
+          "starsToday": 49,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "DmNote-App/DmNote",
+          "url": "https://github.com/DmNote-App/DmNote",
+          "description": "Make it yours. A customizable key viewer for DJMAX RESPECT V and any game.",
+          "language": "TypeScript",
+          "stars": 2730,
+          "forks": 94,
+          "starsToday": 307,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "description": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.",
+          "language": "TypeScript",
+          "stars": 9216,
+          "forks": 697,
+          "starsToday": 26,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 15,
+          "name": "videojs/video.js",
+          "url": "https://github.com/videojs/video.js",
+          "description": "Video.js v10 - open source media player framework for HTML and React.",
+          "language": "TypeScript",
+          "stars": 39910,
+          "forks": 7477,
+          "starsToday": 4,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 16,
+          "name": "davidmonterocrespo24/velxio",
+          "url": "https://github.com/davidmonterocrespo24/velxio",
+          "description": "Emulate Arduino, ESP32 & Raspberry Pi. in your browser. Write code, compile, and run on 19 real boards — Arduino Uno, ESP32, ESP32-C3, Raspberry Pi Pico, Raspberry Pi 3, and more. No hardware, no cloud, no limits.. Discord: https://discord.gg/3mARjJrh4E",
+          "language": "TypeScript",
+          "stars": 3107,
+          "forks": 319,
+          "starsToday": 36,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 17,
+          "name": "openai/codex-security",
+          "url": "https://github.com/openai/codex-security",
+          "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "language": "TypeScript",
+          "stars": 11021,
+          "forks": 853,
+          "starsToday": 25,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []
