@@ -284,6 +284,285 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-08T06:50:05.112Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "krille-chan",
+          "name": "Krille-chan",
+          "url": "https://github.com/krille-chan",
+          "featuredRepo": {
+            "name": "krille-chan/fluffychat",
+            "url": "https://github.com/krille-chan/fluffychat",
+            "description": "The cutest instant messenger in the [matrix]"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "tontinton",
+          "name": "Tony Solomonik",
+          "url": "https://github.com/tontinton",
+          "featuredRepo": {
+            "name": "tontinton/maki",
+            "url": "https://github.com/tontinton/maki",
+            "description": "An efficient AI coding agent extendable by neovim-like Lua plugins"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "narumiruna",
+          "name": "なるみ",
+          "url": "https://github.com/narumiruna",
+          "featuredRepo": {
+            "name": "narumiruna/pi-extensions",
+            "url": "https://github.com/narumiruna/pi-extensions",
+            "description": "A monorepo of Pi Coding Agent extensions"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "raullenchai",
+          "name": "Raullen Chai",
+          "url": "https://github.com/raullenchai",
+          "featuredRepo": {
+            "name": "raullenchai/Rapid-MLX",
+            "url": "https://github.com/raullenchai/Rapid-MLX",
+            "description": "Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused o…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "LalitMaganti",
+          "name": "Lalit Maganti",
+          "url": "https://github.com/LalitMaganti",
+          "featuredRepo": {
+            "name": "LalitMaganti/syntaqlite",
+            "url": "https://github.com/LalitMaganti/syntaqlite",
+            "description": "A fast parser, formatter, static analyzer, and language server for SQLite SQL."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "wcandillon",
+          "name": "William Candillon",
+          "url": "https://github.com/wcandillon",
+          "featuredRepo": {
+            "name": "wcandillon/react-native-skia",
+            "url": "https://github.com/wcandillon/react-native-skia",
+            "description": "High-performance React Native Graphics using Skia"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "isair",
+          "name": "Baris Sencan",
+          "url": "https://github.com/isair",
+          "featuredRepo": {
+            "name": "isair/jarvis",
+            "url": "https://github.com/isair/jarvis",
+            "description": "A 100% private AI voice assistant that lives on your computer (works offline). Talk naturally as if Jarvis is a third person in the room,…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "emilk",
+          "name": "Emil Ernerfeldt",
+          "url": "https://github.com/emilk",
+          "featuredRepo": {
+            "name": "emilk/egui",
+            "url": "https://github.com/emilk/egui",
+            "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "4ian",
+          "name": "Florian Rival",
+          "url": "https://github.com/4ian",
+          "featuredRepo": {
+            "name": "4ian/GDevelop",
+            "url": "https://github.com/4ian/GDevelop",
+            "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "henryiii",
+          "name": "Henry Schreiner",
+          "url": "https://github.com/henryiii",
+          "featuredRepo": {
+            "name": "henryiii/validate-pyproject-schema-store",
+            "url": "https://github.com/henryiii/validate-pyproject-schema-store",
+            "description": "Daily automatic mirror of SchemaStore for validate-pyproject"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "abrignoni",
+          "name": "Brigs",
+          "url": "https://github.com/abrignoni",
+          "featuredRepo": {
+            "name": "abrignoni/iLEAPP",
+            "url": "https://github.com/abrignoni/iLEAPP",
+            "description": "iOS Logs, Events, And Plist Parser"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "N0zoM1z0",
+          "name": "Ysopwnable",
+          "url": "https://github.com/N0zoM1z0",
+          "featuredRepo": {
+            "name": "N0zoM1z0/th04",
+            "url": "https://github.com/N0zoM1z0/th04",
+            "description": "Source reconstruction of 東方幻想郷 ～ Lotus Land Story"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "igorls",
+          "name": "Igor Lins e Silva",
+          "url": "https://github.com/igorls",
+          "featuredRepo": {
+            "name": "igorls/ninfer",
+            "url": "https://github.com/igorls/ninfer",
+            "description": "High-performance single-GPU inference for selected model checkpoints and GPUs."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "Wei-Shaw",
+          "name": "Wesley Liddick",
+          "url": "https://github.com/Wei-Shaw",
+          "featuredRepo": {
+            "name": "Wei-Shaw/sub2api",
+            "url": "https://github.com/Wei-Shaw/sub2api",
+            "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "ZhuLinsen",
+          "name": "zhulinsen",
+          "url": "https://github.com/ZhuLinsen",
+          "featuredRepo": {
+            "name": "ZhuLinsen/daily_stock_analysis",
+            "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+            "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time…"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/outreachr",
+            "url": "https://github.com/lalalune/outreachr",
+            "description": "Local-first, open-source investor fundraising CRM for founders"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "lfnovo",
+          "name": "Luis Novo",
+          "url": "https://github.com/lfnovo",
+          "featuredRepo": {
+            "name": "lfnovo/open-notebook",
+            "url": "https://github.com/lfnovo/open-notebook",
+            "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design language that makes your AI harness better at design."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "nstarman",
+          "name": "Nathaniel Starkman",
+          "url": "https://github.com/nstarman",
+          "featuredRepo": null
+        },
+        {
+          "rank": 23,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "ColeMurray",
+          "name": "Cole Murray",
+          "url": "https://github.com/ColeMurray",
+          "featuredRepo": {
+            "name": "ColeMurray/background-agents",
+            "url": "https://github.com/ColeMurray/background-agents",
+            "description": "An open-source background agents coding system"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "0x676e67",
+          "name": "0x676e67",
+          "url": "https://github.com/0x676e67",
+          "featuredRepo": {
+            "name": "0x676e67/wreq-python",
+            "url": "https://github.com/0x676e67/wreq-python",
+            "description": "An ergonomic, privacy-aware Python HTTP Client"
+          }
+        }
+      ]
     }
   ],
   "best": [

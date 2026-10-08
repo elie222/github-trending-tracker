@@ -288,6 +288,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-08T06:50:05.112Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "narumiruna",
+          "name": "なるみ",
+          "url": "https://github.com/narumiruna",
+          "featuredRepo": {
+            "name": "narumiruna/pi-extensions",
+            "url": "https://github.com/narumiruna/pi-extensions",
+            "description": "A monorepo of Pi Coding Agent extensions"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "wcandillon",
+          "name": "William Candillon",
+          "url": "https://github.com/wcandillon",
+          "featuredRepo": {
+            "name": "wcandillon/react-native-skia",
+            "url": "https://github.com/wcandillon/react-native-skia",
+            "description": "High-performance React Native Graphics using Skia"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/outreachr",
+            "url": "https://github.com/lalalune/outreachr",
+            "description": "Local-first, open-source investor fundraising CRM for founders"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "lfnovo",
+          "name": "Luis Novo",
+          "url": "https://github.com/lfnovo",
+          "featuredRepo": {
+            "name": "lfnovo/open-notebook",
+            "url": "https://github.com/lfnovo/open-notebook",
+            "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "ColeMurray",
+          "name": "Cole Murray",
+          "url": "https://github.com/ColeMurray",
+          "featuredRepo": {
+            "name": "ColeMurray/background-agents",
+            "url": "https://github.com/ColeMurray/background-agents",
+            "description": "An open-source background agents coding system"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "rauchg",
+          "name": "Guillermo Rauch",
+          "url": "https://github.com/rauchg",
+          "featuredRepo": {
+            "name": "rauchg/gdp-ts",
+            "url": "https://github.com/rauchg/gdp-ts",
+            "description": null
+          }
+        },
+        {
+          "rank": 11,
+          "username": "Chuloo",
+          "name": "William",
+          "url": "https://github.com/Chuloo",
+          "featuredRepo": {
+            "name": "Chuloo/mural",
+            "url": "https://github.com/Chuloo/mural",
+            "description": "The language app you eventually delete. A native iPhone companion for learning through conversation."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "jarrodwatts",
+          "name": "Jarrod Watts",
+          "url": "https://github.com/jarrodwatts",
+          "featuredRepo": {
+            "name": "jarrodwatts/jev-trader",
+            "url": "https://github.com/jarrodwatts/jev-trader",
+            "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC."
+          }
+        },
+        {
+          "rank": 13,
+          "username": "jamiepine",
+          "name": "Jamie Pine",
+          "url": "https://github.com/jamiepine",
+          "featuredRepo": {
+            "name": "jamiepine/voicebox",
+            "url": "https://github.com/jamiepine/voicebox",
+            "description": "The open-source AI voice studio. Clone, dictate, create."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "theCodeDrift",
+          "name": "Jakob Heuser",
+          "url": "https://github.com/theCodeDrift",
+          "featuredRepo": {
+            "name": "theCodeDrift/seamux",
+            "url": "https://github.com/theCodeDrift/seamux",
+            "description": "Smooth sailing for your multi-agent CMUX world"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "adrianhajdin",
+          "name": "Adrian Hajdin - JS Mastery",
+          "url": "https://github.com/adrianhajdin",
+          "featuredRepo": {
+            "name": "adrianhajdin/cartograph",
+            "url": "https://github.com/adrianhajdin/cartograph",
+            "description": "Cartograph turns any GitHub repo into an interactive dependency map by parsing real code to analyze structure, trace imports, calculate b…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "joelhooks",
+          "name": "Joel Hooks",
+          "url": "https://github.com/joelhooks",
+          "featuredRepo": {
+            "name": "joelhooks/rat-stack",
+            "url": "https://github.com/joelhooks/rat-stack",
+            "description": "🐀 Agentic TypeScript scaffold: Effect 4, XState 6 + @xstate/effect, Alchemy infra, varlock config, and a fence that makes cheating uncomf…"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "sadmann7",
+          "name": "Sadman Sakib",
+          "url": "https://github.com/sadmann7",
+          "featuredRepo": {
+            "name": "sadmann7/tablecn",
+            "url": "https://github.com/sadmann7/tablecn",
+            "description": "Data table and data grid components built with shadcn/ui, featuring sorting, filtering, pagination, infinite scrolling, and real-time col…"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "zsviczian",
+          "name": "zsviczian",
+          "url": "https://github.com/zsviczian",
+          "featuredRepo": {
+            "name": "zsviczian/obsidian-excalidraw-plugin",
+            "url": "https://github.com/zsviczian/obsidian-excalidraw-plugin",
+            "description": "A plugin to edit and view Excalidraw drawings in Obsidian"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "dabit3",
+          "name": "Nader Dabit",
+          "url": "https://github.com/dabit3",
+          "featuredRepo": {
+            "name": "dabit3/jev-experiments",
+            "url": "https://github.com/dabit3/jev-experiments",
+            "description": null
+          }
+        },
+        {
+          "rank": 20,
+          "username": "bradygaster",
+          "name": "Brady Gaster",
+          "url": "https://github.com/bradygaster",
+          "featuredRepo": {
+            "name": "bradygaster/squad",
+            "url": "https://github.com/bradygaster/squad",
+            "description": "Squad: AI agent teams for any project"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "wibus-wee",
+          "name": "Wibus Wu",
+          "url": "https://github.com/wibus-wee",
+          "featuredRepo": {
+            "name": "wibus-wee/huihua",
+            "url": "https://github.com/wibus-wee/huihua",
+            "description": "One API for Coding Agent session data."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "omercnet",
+          "name": "Omer Cohen",
+          "url": "https://github.com/omercnet",
+          "featuredRepo": {
+            "name": "omercnet/paseo-plugins",
+            "url": "https://github.com/omercnet/paseo-plugins",
+            "description": "Paseo plugins maintained in one monorepo"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "firsttris",
+          "name": "Tristan Teufel",
+          "url": "https://github.com/firsttris",
+          "featuredRepo": {
+            "name": "firsttris/namarr",
+            "url": "https://github.com/firsttris/namarr",
+            "description": "The self-hosted renamer for movies, series and anime."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "evereq",
+          "name": "Ruslan Konviser",
+          "url": "https://github.com/evereq",
+          "featuredRepo": {
+            "name": "evereq/github-profile-trophy",
+            "url": "https://github.com/evereq/github-profile-trophy",
+            "description": "🏆 Add dynamically generated GitHub Stat Trophies on your readme"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "atom2ueki",
+          "name": "Tony Li",
+          "url": "https://github.com/atom2ueki",
+          "featuredRepo": {
+            "name": "atom2ueki/openscad-cli",
+            "url": "https://github.com/atom2ueki/openscad-cli",
+            "description": "cli to make 3d model via openscad core engine"
+          }
+        }
+      ]
     }
   ],
   "best": [
