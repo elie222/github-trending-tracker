@@ -601,6 +601,212 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-08T18:38:21.372Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+          "language": "TypeScript",
+          "stars": 6068,
+          "forks": 446,
+          "starsToday": 2912,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 59070,
+          "forks": 5267,
+          "starsToday": 3908,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 10360,
+          "forks": 984,
+          "starsToday": 1109,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 98291,
+          "forks": 8628,
+          "starsToday": 2607,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "pablostanley/yoinks",
+          "url": "https://github.com/pablostanley/yoinks",
+          "description": "yoink any video from your terminal. no shady ads.",
+          "language": "TypeScript",
+          "stars": 5327,
+          "forks": 458,
+          "starsToday": 2732,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 26354,
+          "forks": 6838,
+          "starsToday": 2119,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 93220,
+          "forks": 9151,
+          "starsToday": 2235,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "Effect-TS/effect",
+          "url": "https://github.com/Effect-TS/effect",
+          "description": "Build production-ready applications in TypeScript",
+          "language": "TypeScript",
+          "stars": 17166,
+          "forks": 840,
+          "starsToday": 896,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "cloudflare/cloudflare-os",
+          "url": "https://github.com/cloudflare/cloudflare-os",
+          "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+          "language": "TypeScript",
+          "stars": 11279,
+          "forks": 1344,
+          "starsToday": 1061,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 32063,
+          "forks": 4457,
+          "starsToday": 1844,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "mrifqidaffaaditya/WA-AKG",
+          "url": "https://github.com/mrifqidaffaaditya/WA-AKG",
+          "description": "A self-hosted WhatsApp Gateway & Dashboard built with Next.js 15, Baileys, and Prisma. Manage multi-session accounts, schedule messages, create auto-replies, and integrate via Webhooks.",
+          "language": "TypeScript",
+          "stars": 506,
+          "forks": 169,
+          "starsToday": 154,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "LuxAlgo/Vela",
+          "url": "https://github.com/LuxAlgo/Vela",
+          "description": "Fast, extensible financial charts for the web. The open-source core of Vela by LuxAlgo.",
+          "language": "TypeScript",
+          "stars": 1082,
+          "forks": 200,
+          "starsToday": 589,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "chthollyphile/folia-major",
+          "url": "https://github.com/chthollyphile/folia-major",
+          "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
+          "language": "TypeScript",
+          "stars": 3913,
+          "forks": 288,
+          "starsToday": 639,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "AtomicBot-ai/atomic-agent",
+          "url": "https://github.com/AtomicBot-ai/atomic-agent",
+          "description": "Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp.",
+          "language": "TypeScript",
+          "stars": 3067,
+          "forks": 255,
+          "starsToday": 562,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "yikart/AiToEarn",
+          "url": "https://github.com/yikart/AiToEarn",
+          "description": "Let's use AI to Earn!",
+          "language": "TypeScript",
+          "stars": 26401,
+          "forks": 4211,
+          "starsToday": 407,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 16,
+          "name": "breferrari/obsidian-mind",
+          "url": "https://github.com/breferrari/obsidian-mind",
+          "description": "A self-organizing Obsidian vault that gives AI coding agents persistent memory.",
+          "language": "TypeScript",
+          "stars": 4956,
+          "forks": 556,
+          "starsToday": 179,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 17,
+          "name": "nanobrowser/nanobrowser",
+          "url": "https://github.com/nanobrowser/nanobrowser",
+          "description": "Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.",
+          "language": "TypeScript",
+          "stars": 14009,
+          "forks": 1482,
+          "starsToday": 165,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 18,
+          "name": "hieunc229/mailflare",
+          "url": "https://github.com/hieunc229/mailflare",
+          "description": "Email for professionals and teams",
+          "language": "TypeScript",
+          "stars": 4713,
+          "forks": 627,
+          "starsToday": 834,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": []

@@ -414,6 +414,113 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-08T18:38:21.372Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+          "language": "C++",
+          "stars": 14511,
+          "forks": 1143,
+          "starsToday": 4640,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "language": "HTML",
+          "stars": 46027,
+          "forks": 2939,
+          "starsToday": 1163,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 22030,
+          "forks": 2383,
+          "starsToday": 7744,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 280809,
+          "forks": 23540,
+          "starsToday": 1770,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 98291,
+          "forks": 8628,
+          "starsToday": 662,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "EpicGames/raddebugger",
+          "url": "https://github.com/EpicGames/raddebugger",
+          "description": "A native, user-mode, multi-process, graphical debugger.",
+          "language": "C",
+          "stars": 8058,
+          "forks": 390,
+          "starsToday": 283,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 27407,
+          "forks": 3188,
+          "starsToday": 309,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "storytold/artcraft",
+          "url": "https://github.com/storytold/artcraft",
+          "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+          "language": "Rust",
+          "stars": 7087,
+          "forks": 939,
+          "starsToday": 2510,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "liquidslr/system-design-notes",
+          "url": "https://github.com/liquidslr/system-design-notes",
+          "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+          "language": null,
+          "stars": 24441,
+          "forks": 4588,
+          "starsToday": 398,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []
