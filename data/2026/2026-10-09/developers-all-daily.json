@@ -547,6 +547,277 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-09T12:42:25.197Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "emilk",
+          "name": "Emil Ernerfeldt",
+          "url": "https://github.com/emilk",
+          "featuredRepo": {
+            "name": "emilk/egui",
+            "url": "https://github.com/emilk/egui",
+            "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "narumiruna",
+          "name": "なるみ",
+          "url": "https://github.com/narumiruna",
+          "featuredRepo": {
+            "name": "narumiruna/pi-extensions",
+            "url": "https://github.com/narumiruna/pi-extensions",
+            "description": "A monorepo of Pi Coding Agent extensions"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "abrignoni",
+          "name": "Brigs",
+          "url": "https://github.com/abrignoni",
+          "featuredRepo": {
+            "name": "abrignoni/iLEAPP",
+            "url": "https://github.com/abrignoni/iLEAPP",
+            "description": "iOS Logs, Events, And Plist Parser"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "wcandillon",
+          "name": "William Candillon",
+          "url": "https://github.com/wcandillon",
+          "featuredRepo": {
+            "name": "wcandillon/react-native-skia",
+            "url": "https://github.com/wcandillon/react-native-skia",
+            "description": "High-performance React Native Graphics using Skia"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "Chuloo",
+          "name": "William",
+          "url": "https://github.com/Chuloo",
+          "featuredRepo": {
+            "name": "Chuloo/mural",
+            "url": "https://github.com/Chuloo/mural",
+            "description": "The language app you eventually delete. A native iPhone companion for learning through conversation."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "krille-chan",
+          "name": "Krille-chan",
+          "url": "https://github.com/krille-chan",
+          "featuredRepo": {
+            "name": "krille-chan/fluffychat",
+            "url": "https://github.com/krille-chan/fluffychat",
+            "description": "The cutest instant messenger in the [matrix]"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "henryiii",
+          "name": "Henry Schreiner",
+          "url": "https://github.com/henryiii",
+          "featuredRepo": {
+            "name": "henryiii/level-up-your-python",
+            "url": "https://github.com/henryiii/level-up-your-python",
+            "description": "Course over intermediate Python"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "chrisgervang",
+          "name": "Chris Gervang",
+          "url": "https://github.com/chrisgervang",
+          "featuredRepo": null
+        },
+        {
+          "rank": 11,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "maschwenk",
+          "name": "Max Schwenk",
+          "url": "https://github.com/maschwenk",
+          "featuredRepo": {
+            "name": "maschwenk/tsrs",
+            "url": "https://github.com/maschwenk/tsrs",
+            "description": "Rust port of the TypeScript 7 type checker"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "LalitMaganti",
+          "name": "Lalit Maganti",
+          "url": "https://github.com/LalitMaganti",
+          "featuredRepo": {
+            "name": "LalitMaganti/syntaqlite",
+            "url": "https://github.com/LalitMaganti/syntaqlite",
+            "description": "A fast parser, formatter, static analyzer, and language server for SQLite SQL."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "tontinton",
+          "name": "Tony Solomonik",
+          "url": "https://github.com/tontinton",
+          "featuredRepo": {
+            "name": "tontinton/maki",
+            "url": "https://github.com/tontinton/maki",
+            "description": "An efficient AI coding agent extendable by neovim-like Lua plugins"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "futurepaul",
+          "name": "Paul Miller",
+          "url": "https://github.com/futurepaul",
+          "featuredRepo": null
+        },
+        {
+          "rank": 17,
+          "username": "doobidoo",
+          "name": "Henry Krupp",
+          "url": "https://github.com/doobidoo",
+          "featuredRepo": {
+            "name": "doobidoo/mcp-memory-service",
+            "url": "https://github.com/doobidoo/mcp-memory-service",
+            "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous con…"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design language that makes your AI harness better at design."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "dhh",
+          "name": "David Heinemeier Hansson",
+          "url": "https://github.com/dhh",
+          "featuredRepo": {
+            "name": "dhh/omarchy-giants-theme",
+            "url": "https://github.com/dhh/omarchy-giants-theme",
+            "description": "Standing on the shoulders of giants — a warm sepia-on-paper dark theme for Omarchy"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "metux",
+          "name": "Enrico Weigelt",
+          "url": "https://github.com/metux",
+          "featuredRepo": null
+        },
+        {
+          "rank": 21,
+          "username": "omercnet",
+          "name": "Omer Cohen",
+          "url": "https://github.com/omercnet",
+          "featuredRepo": {
+            "name": "omercnet/awesome-paseo-plugins",
+            "url": "https://github.com/omercnet/awesome-paseo-plugins",
+            "description": "Awesome list of Paseo plugins"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "poteto",
+          "name": "lauren",
+          "url": "https://github.com/poteto",
+          "featuredRepo": {
+            "name": "poteto/hiring-without-whiteboards",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "kgoedecke",
+          "name": "Kevin Goedecke",
+          "url": "https://github.com/kgoedecke",
+          "featuredRepo": {
+            "name": "kgoedecke/doop",
+            "url": "https://github.com/kgoedecke/doop",
+            "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "brendanjryan",
+          "name": "Brendan Ryan",
+          "url": "https://github.com/brendanjryan",
+          "featuredRepo": {
+            "name": "brendanjryan/k8split",
+            "url": "https://github.com/brendanjryan/k8split",
+            "description": "A CLI for splitting multidocument yaml files into discrete documents."
+          }
+        },
+        {
+          "rank": 25,
+          "username": "4ian",
+          "name": "Florian Rival",
+          "url": "https://github.com/4ian",
+          "featuredRepo": {
+            "name": "4ian/GDevelop",
+            "url": "https://github.com/4ian/GDevelop",
+            "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone."
+          }
+        }
+      ]
     }
   ],
   "best": []

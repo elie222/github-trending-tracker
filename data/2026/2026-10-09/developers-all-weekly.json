@@ -549,6 +549,278 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-09T12:42:25.197Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "Ikalus1988",
+          "name": "Ikalus1988",
+          "url": "https://github.com/Ikalus1988",
+          "featuredRepo": {
+            "name": "Ikalus1988/MisakaNet",
+            "url": "https://github.com/Ikalus1988/MisakaNet",
+            "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. | ht…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "mvschwarz",
+          "name": "Mike Schwarz",
+          "url": "https://github.com/mvschwarz",
+          "featuredRepo": {
+            "name": "mvschwarz/openrig",
+            "url": "https://github.com/mvschwarz/openrig",
+            "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "raullenchai",
+          "name": "Raullen Chai",
+          "url": "https://github.com/raullenchai",
+          "featuredRepo": {
+            "name": "raullenchai/Rapid-MLX",
+            "url": "https://github.com/raullenchai/Rapid-MLX",
+            "description": "Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused o…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "lfnovo",
+          "name": "Luis Novo",
+          "url": "https://github.com/lfnovo",
+          "featuredRepo": {
+            "name": "lfnovo/open-notebook",
+            "url": "https://github.com/lfnovo/open-notebook",
+            "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design language that makes your AI harness better at design."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "maurodesouza",
+          "name": "Mauro de Souza",
+          "url": "https://github.com/maurodesouza",
+          "featuredRepo": {
+            "name": "maurodesouza/profile-readme-generator",
+            "url": "https://github.com/maurodesouza/profile-readme-generator",
+            "description": "🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile R…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "frankbria",
+          "name": "Frank Bria",
+          "url": "https://github.com/frankbria",
+          "featuredRepo": {
+            "name": "frankbria/ralph-claude-code",
+            "url": "https://github.com/frankbria/ralph-claude-code",
+            "description": "Autonomous AI development loop for Claude Code with intelligent exit detection"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "yetone",
+          "name": "yetone",
+          "url": "https://github.com/yetone",
+          "featuredRepo": {
+            "name": "yetone/magpie",
+            "url": "https://github.com/yetone/magpie",
+            "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "ekmett",
+          "name": "Edward Kmett",
+          "url": "https://github.com/ekmett",
+          "featuredRepo": {
+            "name": "ekmett/thc",
+            "url": "https://github.com/ekmett/thc",
+            "description": "The Turbo Haskell Compiler"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "chenrui333",
+          "name": "Rui Chen",
+          "url": "https://github.com/chenrui333",
+          "featuredRepo": {
+            "name": "chenrui333/jev-docs",
+            "url": "https://github.com/chenrui333/jev-docs",
+            "description": "Community-maintained history of Jev / TypeSafe System One APIs, SDKs, agent guidance, and engineering best practices."
+          }
+        },
+        {
+          "rank": 13,
+          "username": "penso",
+          "name": "Fabien Penso",
+          "url": "https://github.com/penso",
+          "featuredRepo": {
+            "name": "penso/herdr-gpui",
+            "url": "https://github.com/penso/herdr-gpui",
+            "description": "Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and ag…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "isamu",
+          "name": "isamu arimoto",
+          "url": "https://github.com/isamu",
+          "featuredRepo": {
+            "name": "isamu/SafePeek",
+            "url": "https://github.com/isamu/SafePeek",
+            "description": null
+          }
+        },
+        {
+          "rank": 15,
+          "username": "doitsujin",
+          "name": "Philip Rebohle",
+          "url": "https://github.com/doitsujin",
+          "featuredRepo": {
+            "name": "doitsujin/dxvk",
+            "url": "https://github.com/doitsujin/dxvk",
+            "description": "Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "cliffhall",
+          "name": "Cliff Hall",
+          "url": "https://github.com/cliffhall",
+          "featuredRepo": {
+            "name": "cliffhall/mcp-ext-apps",
+            "url": "https://github.com/cliffhall/mcp-ext-apps",
+            "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "krille-chan",
+          "name": "Krille-chan",
+          "url": "https://github.com/krille-chan",
+          "featuredRepo": {
+            "name": "krille-chan/fluffychat",
+            "url": "https://github.com/krille-chan/fluffychat",
+            "description": "The cutest instant messenger in the [matrix]"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "kantorcodes",
+          "name": "Michael Kantor",
+          "url": "https://github.com/kantorcodes",
+          "featuredRepo": {
+            "name": "kantorcodes/skawld-sdk",
+            "url": "https://github.com/kantorcodes/skawld-sdk",
+            "description": "Skawld Agent Core & SDK"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "isair",
+          "name": "Baris Sencan",
+          "url": "https://github.com/isair",
+          "featuredRepo": {
+            "name": "isair/jarvis",
+            "url": "https://github.com/isair/jarvis",
+            "description": "A 100% private AI voice assistant that lives on your computer (works offline). Talk naturally as if Jarvis is a third person in the room,…"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "xXJSONDeruloXx",
+          "name": "Kurt Himebauch",
+          "url": "https://github.com/xXJSONDeruloXx",
+          "featuredRepo": {
+            "name": "xXJSONDeruloXx/decky-lsfg-vk",
+            "url": "https://github.com/xXJSONDeruloXx/decky-lsfg-vk",
+            "description": "Decky plugin to streamline installation and usage of lsfg-vk; the Lossless Scaling compatibility layer for linux"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "tontinton",
+          "name": "Tony Solomonik",
+          "url": "https://github.com/tontinton",
+          "featuredRepo": {
+            "name": "tontinton/maki",
+            "url": "https://github.com/tontinton/maki",
+            "description": "An efficient AI coding agent extendable by neovim-like Lua plugins"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "wcandillon",
+          "name": "William Candillon",
+          "url": "https://github.com/wcandillon",
+          "featuredRepo": {
+            "name": "wcandillon/react-native-skia",
+            "url": "https://github.com/wcandillon/react-native-skia",
+            "description": "High-performance React Native Graphics using Skia"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "webdevcody",
+          "name": "Web Dev Cody",
+          "url": "https://github.com/webdevcody",
+          "featuredRepo": {
+            "name": "webdevcody/survive-the-night-fps",
+            "url": "https://github.com/webdevcody/survive-the-night-fps",
+            "description": "Co-op horror survival FPS - scavenge by day, board up by night, fix the car and escape. three.js client, authoritative Node uWebSockets.j…"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "Wirasm",
+          "name": "Rasmus Widing",
+          "url": "https://github.com/Wirasm",
+          "featuredRepo": {
+            "name": "Wirasm/prp",
+            "url": "https://github.com/Wirasm/prp",
+            "description": "Prompts, workflows and more for agentic engineering"
+          }
+        }
+      ]
     }
   ],
   "best": []
