@@ -524,6 +524,135 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-09T18:36:15.625Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 41015,
+          "forks": 6398,
+          "starsToday": 15335,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "Vincentwei1021/video-shotcraft",
+          "url": "https://github.com/Vincentwei1021/video-shotcraft",
+          "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
+          "language": "TypeScript",
+          "stars": 11018,
+          "forks": 984,
+          "starsToday": 161,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "VERT-sh/VERT",
+          "url": "https://github.com/VERT-sh/VERT",
+          "description": "The next-generation file converter. Open source, fully local* and free forever.",
+          "language": "TypeScript",
+          "stars": 15803,
+          "forks": 844,
+          "starsToday": 45,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "PurpleDoubleD/locally-uncensored",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored",
+          "description": "The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required.",
+          "language": "TypeScript",
+          "stars": 2114,
+          "forks": 341,
+          "starsToday": 70,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "ibelick/ui-skills",
+          "url": "https://github.com/ibelick/ui-skills",
+          "description": "Skills for Design Engineers",
+          "language": "TypeScript",
+          "stars": 9553,
+          "forks": 441,
+          "starsToday": 47,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 98931,
+          "forks": 8669,
+          "starsToday": 838,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "apify/crawlee",
+          "url": "https://github.com/apify/crawlee",
+          "description": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+          "language": "TypeScript",
+          "stars": 26084,
+          "forks": 1697,
+          "starsToday": 26,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "thesysdev/openui",
+          "url": "https://github.com/thesysdev/openui",
+          "description": "The Open Standard for Generative UI",
+          "language": "TypeScript",
+          "stars": 10553,
+          "forks": 713,
+          "starsToday": 363,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "cartesiancs/map3d",
+          "url": "https://github.com/cartesiancs/map3d",
+          "description": "🗺️ Generate City 3D map with R3F. Include building and road information.",
+          "language": "TypeScript",
+          "stars": 2569,
+          "forks": 418,
+          "starsToday": 27,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "makecindy/cindy",
+          "url": "https://github.com/makecindy/cindy",
+          "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+          "language": "TypeScript",
+          "stars": 2969,
+          "forks": 456,
+          "starsToday": 24,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "alsk1992/CloddsBot",
+          "url": "https://github.com/alsk1992/CloddsBot",
+          "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+          "language": "TypeScript",
+          "stars": 2943,
+          "forks": 347,
+          "starsToday": 27,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []
