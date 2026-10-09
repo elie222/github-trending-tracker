@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-09",
+  "list": "repos",
+  "language": "all",
+  "period": "weekly",
+  "pageUrl": "https://github.com/trending?since=weekly",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-09T01:11:43.221Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+          "language": "C++",
+          "stars": 15814,
+          "forks": 1249,
+          "starsToday": 10243,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+          "language": "TypeScript",
+          "stars": 6157,
+          "forks": 449,
+          "starsToday": 2693,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 59208,
+          "forks": 5274,
+          "starsToday": 3996,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "EpicGames/raddebugger",
+          "url": "https://github.com/EpicGames/raddebugger",
+          "description": "A native, user-mode, multi-process, graphical debugger.",
+          "language": "C",
+          "stars": 8114,
+          "forks": 391,
+          "starsToday": 448,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 10401,
+          "forks": 986,
+          "starsToday": 1109,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 98481,
+          "forks": 8637,
+          "starsToday": 3153,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 281106,
+          "forks": 23561,
+          "starsToday": 7448,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "language": "Python",
+          "stars": 94158,
+          "forks": 8234,
+          "starsToday": 6987,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "Give your agent CAD superpowers.",
+          "language": "Python",
+          "stars": 18476,
+          "forks": 1834,
+          "starsToday": 1898,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "DuarteSantos8/openGym",
+          "url": "https://github.com/DuarteSantos8/openGym",
+          "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+          "language": "JavaScript",
+          "stars": 8027,
+          "forks": 1023,
+          "starsToday": 6086,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "pablostanley/yoinks",
+          "url": "https://github.com/pablostanley/yoinks",
+          "description": "yoink any video from your terminal. no shady ads.",
+          "language": "TypeScript",
+          "stars": 5398,
+          "forks": 460,
+          "starsToday": 2706,
+          "starsLabel": "this week"
+        }
+      ]
+    }
+  ],
+  "best": []
+}

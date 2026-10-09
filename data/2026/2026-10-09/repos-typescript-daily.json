@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-09",
+  "list": "repos",
+  "language": "typescript",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/typescript?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-09T01:11:43.221Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 26730,
+          "forks": 3028,
+          "starsToday": 7738,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 98481,
+          "forks": 8637,
+          "starsToday": 670,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 32169,
+          "forks": 4466,
+          "starsToday": 518,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "language": "TypeScript",
+          "stars": 88068,
+          "forks": 13437,
+          "starsToday": 89,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "tester-army/e2e",
+          "url": "https://github.com/tester-army/e2e",
+          "description": "Next generation e2e testing framework for web and mobile apps.",
+          "language": "TypeScript",
+          "stars": 8175,
+          "forks": 382,
+          "starsToday": 962,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "reconurge/flowsint",
+          "url": "https://github.com/reconurge/flowsint",
+          "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+          "language": "TypeScript",
+          "stars": 9558,
+          "forks": 1174,
+          "starsToday": 69,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "Vincentwei1021/video-shotcraft",
+          "url": "https://github.com/Vincentwei1021/video-shotcraft",
+          "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
+          "language": "TypeScript",
+          "stars": 10895,
+          "forks": 969,
+          "starsToday": 241,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "Gimanh/taskview-community",
+          "url": "https://github.com/Gimanh/taskview-community",
+          "description": "TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task managers.",
+          "language": "TypeScript",
+          "stars": 1277,
+          "forks": 117,
+          "starsToday": 25,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "ItzCrazyKns/Vane",
+          "url": "https://github.com/ItzCrazyKns/Vane",
+          "description": "Vane is an AI-powered answering engine.",
+          "language": "TypeScript",
+          "stars": 37161,
+          "forks": 4125,
+          "starsToday": 44,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "dyad-sh/dyad",
+          "url": "https://github.com/dyad-sh/dyad",
+          "description": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+          "language": "TypeScript",
+          "stars": 21779,
+          "forks": 2707,
+          "starsToday": 37,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "thebuggeddev/anatomy",
+          "url": "https://github.com/thebuggeddev/anatomy",
+          "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+          "language": "TypeScript",
+          "stars": 3437,
+          "forks": 918,
+          "starsToday": 6,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "invoke-ai/InvokeAI",
+          "url": "https://github.com/invoke-ai/InvokeAI",
+          "description": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.",
+          "language": "TypeScript",
+          "stars": 28479,
+          "forks": 3010,
+          "starsToday": 41,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "DmNote-App/DmNote",
+          "url": "https://github.com/DmNote-App/DmNote",
+          "description": "Make it yours. A customizable key viewer for DJMAX RESPECT V and any game.",
+          "language": "TypeScript",
+          "stars": 2752,
+          "forks": 106,
+          "starsToday": 263,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "description": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.",
+          "language": "TypeScript",
+          "stars": 9231,
+          "forks": 698,
+          "starsToday": 27,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 15,
+          "name": "videojs/video.js",
+          "url": "https://github.com/videojs/video.js",
+          "description": "Video.js v10 - open source media player framework for HTML and React.",
+          "language": "TypeScript",
+          "stars": 39914,
+          "forks": 7478,
+          "starsToday": 4,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 16,
+          "name": "davidmonterocrespo24/velxio",
+          "url": "https://github.com/davidmonterocrespo24/velxio",
+          "description": "Emulate Arduino, ESP32 & Raspberry Pi. in your browser. Write code, compile, and run on 19 real boards — Arduino Uno, ESP32, ESP32-C3, Raspberry Pi Pico, Raspberry Pi 3, and more. No hardware, no cloud, no limits.. Discord: https://discord.gg/3mARjJrh4E",
+          "language": "TypeScript",
+          "stars": 3119,
+          "forks": 320,
+          "starsToday": 43,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 17,
+          "name": "openai/codex-security",
+          "url": "https://github.com/openai/codex-security",
+          "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "language": "TypeScript",
+          "stars": 11035,
+          "forks": 856,
+          "starsToday": 30,
+          "starsLabel": "today"
+        }
+      ]
+    }
+  ],
+  "best": []
+}
