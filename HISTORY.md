@@ -12,8 +12,8 @@ UTC day **2026-10-10**.
 
 | List | Result |
 | --- | --- |
-| TypeScript developers (daily) | **#4** elie222 · elie222/rakazo |
-| all languages developers (daily) | **#14** elie222 · elie222/rakazo |
+| TypeScript developers (daily) | **#3** elie222 · elie222/rakazo |
+| all languages developers (daily) | **#13** elie222 · elie222/rakazo |
 | TypeScript repositories (daily) | not listed |
 | all languages repositories (daily) | not listed |
 
@@ -43,7 +43,7 @@ Days at #1: 2024-12-31, 2025-01-03, 2025-01-04, 2025-01-05, 2025-01-18, 2025-01-
 
 | Month | Days | #1 | Top 10 | Best |
 | --- | ---: | ---: | ---: | ---: |
-| 2026-10 | 10 | 0 | 9 | #4 |
+| 2026-10 | 10 | 0 | 9 | #3 |
 | 2026-09 | 28 | 1 | 20 | #1 |
 | 2026-08 | 24 | 2 | 17 | #1 |
 | 2026-07 | 16 | 1 | 14 | #1 |
@@ -70,7 +70,7 @@ Days at #1: 2024-12-31, 2025-01-03, 2025-01-04, 2025-01-05, 2025-01-18, 2025-01-
 
 | Date | Best rank | Featured repo | Source |
 | --- | ---: | --- | --- |
-| 2026-10-10 | #4 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
+| 2026-10-10 | #3 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-10-09 | #4 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-10-08 | #8 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-10-07 | #8 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
@@ -471,7 +471,7 @@ Days at #1: 2025-01-18, 2025-02-20, 2025-02-21, 2025-04-04, 2025-04-22, 2025-06-
 
 | Month | Days | #1 | Top 10 | Best |
 | --- | ---: | ---: | ---: | ---: |
-| 2026-10 | 4 | 0 | 0 | #14 |
+| 2026-10 | 4 | 0 | 0 | #13 |
 | 2026-09 | 8 | 0 | 5 | #5 |
 | 2026-08 | 9 | 0 | 5 | #5 |
 | 2026-07 | 8 | 0 | 5 | #2 |
@@ -496,7 +496,7 @@ Days at #1: 2025-01-18, 2025-02-20, 2025-02-21, 2025-04-04, 2025-04-22, 2025-06-
 
 | Date | Best rank | Featured repo | Source |
 | --- | ---: | --- | --- |
-| 2026-10-10 | #14 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
+| 2026-10-10 | #13 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-10-09 | #14 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-10-08 | #23 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-10-07 | #23 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |

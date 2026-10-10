@@ -830,6 +830,281 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-10T18:34:58.258Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "emilk",
+          "name": "Emil Ernerfeldt",
+          "url": "https://github.com/emilk",
+          "featuredRepo": {
+            "name": "emilk/egui",
+            "url": "https://github.com/emilk/egui",
+            "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "tt-a1i",
+          "name": "tt-a1i",
+          "url": "https://github.com/tt-a1i",
+          "featuredRepo": {
+            "name": "tt-a1i/archify",
+            "url": "https://github.com/tt-a1i/archify",
+            "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "Astro-Han",
+          "name": "AstroHan",
+          "url": "https://github.com/Astro-Han",
+          "featuredRepo": {
+            "name": "Astro-Han/karpathy-llm-wiki",
+            "url": "https://github.com/Astro-Han/karpathy-llm-wiki",
+            "description": "Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, a…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "N0zoM1z0",
+          "name": "Ysopwnable",
+          "url": "https://github.com/N0zoM1z0",
+          "featuredRepo": {
+            "name": "N0zoM1z0/dx-ball",
+            "url": "https://github.com/N0zoM1z0/dx-ball",
+            "description": "Reconstructing DX-Ball 1.07 with REA, backed by original-x86 differential tests and pinned MSVC byte-exact oracles."
+          }
+        },
+        {
+          "rank": 5,
+          "username": "echelon",
+          "name": "Brandon Thomas",
+          "url": "https://github.com/echelon",
+          "featuredRepo": {
+            "name": "echelon/arpabet.rs",
+            "url": "https://github.com/echelon/arpabet.rs",
+            "description": "Rust library for speech synthesis using CMUdict"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "momo5502",
+          "name": "Maurice Heumann",
+          "url": "https://github.com/momo5502",
+          "featuredRepo": {
+            "name": "momo5502/sogen",
+            "url": "https://github.com/momo5502/sogen",
+            "description": "🪅 Windows & Linux userspace emulator"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "SaladDay",
+          "name": "SaladDay",
+          "url": "https://github.com/SaladDay",
+          "featuredRepo": {
+            "name": "SaladDay/cc-switch-cli",
+            "url": "https://github.com/SaladDay/cc-switch-cli",
+            "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "LmeSzinc",
+          "name": "LmeSzinc",
+          "url": "https://github.com/LmeSzinc",
+          "featuredRepo": {
+            "name": "LmeSzinc/AzurLaneAutoScript",
+            "url": "https://github.com/LmeSzinc/AzurLaneAutoScript",
+            "description": "Azur Lane bot (CN/EN/JP/TW) 碧蓝航线脚本 | 无缝委托科研，全自动大世界"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "punkpeye",
+          "name": "Frank Fiegel",
+          "url": "https://github.com/punkpeye",
+          "featuredRepo": {
+            "name": "punkpeye/awesome-remote-mcp-servers",
+            "url": "https://github.com/punkpeye/awesome-remote-mcp-servers",
+            "description": "A collection of remote MCP servers."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "Calcium-Ion",
+          "name": "Calcium-Ion",
+          "url": "https://github.com/Calcium-Ion",
+          "featuredRepo": {
+            "name": "Calcium-Ion/moejs",
+            "url": "https://github.com/Calcium-Ion/moejs",
+            "description": "A pure-Go JavaScript runtime built for running many small plugin sandboxes fast."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "wcandillon",
+          "name": "William Candillon",
+          "url": "https://github.com/wcandillon",
+          "featuredRepo": {
+            "name": "wcandillon/react-native-skia",
+            "url": "https://github.com/wcandillon/react-native-skia",
+            "description": "High-performance React Native Graphics using Skia"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "kentcdodds",
+          "name": "Kent C. Dodds",
+          "url": "https://github.com/kentcdodds",
+          "featuredRepo": {
+            "name": "kentcdodds/kody",
+            "url": "https://github.com/kentcdodds/kody",
+            "description": "🐨 Your agents' cloud — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host."
+          }
+        },
+        {
+          "rank": 13,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "Chuloo",
+          "name": "William",
+          "url": "https://github.com/Chuloo",
+          "featuredRepo": {
+            "name": "Chuloo/mural",
+            "url": "https://github.com/Chuloo/mural",
+            "description": "The language app you eventually delete. A native iPhone companion for learning through conversation."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "tmchow",
+          "name": "Trevin Chow",
+          "url": "https://github.com/tmchow",
+          "featuredRepo": {
+            "name": "tmchow/illo-skill",
+            "url": "https://github.com/tmchow/illo-skill",
+            "description": "illo skill — an AI agent skill that turns ideas and articles into original print-style editorial illustrations, starring a recurring masc…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "Aetf",
+          "name": "Aetf",
+          "url": "https://github.com/Aetf",
+          "featuredRepo": {
+            "name": "Aetf/kmscon",
+            "url": "https://github.com/Aetf/kmscon",
+            "description": "Linux KMS/DRM based virtual Console Emulator"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "Cyan4973",
+          "name": "Yann Collet",
+          "url": "https://github.com/Cyan4973",
+          "featuredRepo": {
+            "name": "Cyan4973/xxHash",
+            "url": "https://github.com/Cyan4973/xxHash",
+            "description": "Extremely fast non-cryptographic hash algorithm"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "wangzitian0",
+          "name": "wangzitian0",
+          "url": "https://github.com/wangzitian0",
+          "featuredRepo": null
+        },
+        {
+          "rank": 20,
+          "username": "gplanchat",
+          "name": "Grégory PLANCHAT",
+          "url": "https://github.com/gplanchat",
+          "featuredRepo": {
+            "name": "gplanchat/durable-dev",
+            "url": "https://github.com/gplanchat/durable-dev",
+            "description": "Durable execution for PHP: workflows that survive deploys, restarts and crashes, and resume where they stopped. Symfony, Laravel, Sylius …"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "korjavin",
+          "name": "Korjavin Ivan",
+          "url": "https://github.com/korjavin",
+          "featuredRepo": {
+            "name": "korjavin/german-conjuctions-trainer",
+            "url": "https://github.com/korjavin/german-conjuctions-trainer",
+            "description": "Self-hosted German grammar trainer: AI-generated sentence-building exercises, spaced repetition and podcast mode. Bring your own LLM (Cla…"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "hypery11",
+          "name": "hypery11",
+          "url": "https://github.com/hypery11",
+          "featuredRepo": {
+            "name": "hypery11/flipper-tesla-fsd",
+            "url": "https://github.com/hypery11/flipper-tesla-fsd",
+            "description": "Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, CAN captu…"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "poteto",
+          "name": "lauren",
+          "url": "https://github.com/poteto",
+          "featuredRepo": {
+            "name": "poteto/hiring-without-whiteboards",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "trieloff",
+          "name": "Lars Trieloff",
+          "url": "https://github.com/trieloff",
+          "featuredRepo": null
+        }
+      ]
     }
   ],
   "best": [
@@ -837,8 +1112,8 @@
       "kind": "developer",
       "key": "elie222",
       "url": "https://github.com/elie222",
-      "bestRank": 14,
-      "scrapedAt": "2026-10-10T01:09:20.648Z",
+      "bestRank": 13,
+      "scrapedAt": "2026-10-10T18:34:58.258Z",
       "starsToday": null,
       "featuredRepo": "elie222/rakazo"
     }

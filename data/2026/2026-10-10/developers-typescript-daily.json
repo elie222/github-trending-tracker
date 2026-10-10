@@ -854,6 +854,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-10T18:34:58.258Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "wcandillon",
+          "name": "William Candillon",
+          "url": "https://github.com/wcandillon",
+          "featuredRepo": {
+            "name": "wcandillon/react-native-skia",
+            "url": "https://github.com/wcandillon/react-native-skia",
+            "description": "High-performance React Native Graphics using Skia"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "kentcdodds",
+          "name": "Kent C. Dodds",
+          "url": "https://github.com/kentcdodds",
+          "featuredRepo": {
+            "name": "kentcdodds/kody",
+            "url": "https://github.com/kentcdodds/kody",
+            "description": "🐨 Your agents' cloud — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "Chuloo",
+          "name": "William",
+          "url": "https://github.com/Chuloo",
+          "featuredRepo": {
+            "name": "Chuloo/mural",
+            "url": "https://github.com/Chuloo/mural",
+            "description": "The language app you eventually delete. A native iPhone companion for learning through conversation."
+          }
+        },
+        {
+          "rank": 5,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "mlightcad",
+          "name": "mlightcad",
+          "url": "https://github.com/mlightcad",
+          "featuredRepo": {
+            "name": "mlightcad/cad-viewer",
+            "url": "https://github.com/mlightcad/cad-viewer",
+            "description": "The world’s first fully web-based DXF/DWG viewer and editor that runs entirely in the browser — no backend server required."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "kgoedecke",
+          "name": "Kevin Goedecke",
+          "url": "https://github.com/kgoedecke",
+          "featuredRepo": {
+            "name": "kgoedecke/doop",
+            "url": "https://github.com/kgoedecke/doop",
+            "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "narumiruna",
+          "name": "なるみ",
+          "url": "https://github.com/narumiruna",
+          "featuredRepo": {
+            "name": "narumiruna/pi-extensions",
+            "url": "https://github.com/narumiruna/pi-extensions",
+            "description": "A monorepo of Pi Coding Agent extensions"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "ThariqS",
+          "name": "Thariq Shihipar",
+          "url": "https://github.com/ThariqS",
+          "featuredRepo": {
+            "name": "ThariqS/ai-newtab",
+            "url": "https://github.com/ThariqS/ai-newtab",
+            "description": "Claude generates a daily new tab page based on your browser history."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "ZaynJarvis",
+          "name": "Zayn Jarvis",
+          "url": "https://github.com/ZaynJarvis",
+          "featuredRepo": {
+            "name": "ZaynJarvis/aesthetics",
+            "url": "https://github.com/ZaynJarvis/aesthetics",
+            "description": "A public workbook of design styles, aesthetics, and image-generation prompts."
+          }
+        },
+        {
+          "rank": 13,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "binaricat",
+          "name": "陈大猫",
+          "url": "https://github.com/binaricat",
+          "featuredRepo": {
+            "name": "binaricat/Netcatty",
+            "url": "https://github.com/binaricat/Netcatty",
+            "description": "SSH workspace, SFTP, and terminals in one"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "dzianisv",
+          "name": "Den",
+          "url": "https://github.com/dzianisv",
+          "featuredRepo": {
+            "name": "dzianisv/opencode-mobile",
+            "url": "https://github.com/dzianisv/opencode-mobile",
+            "description": "OpenCode Mobile — open-source Android client for the OpenCode AI coding agent. Run AI coding sessions from your phone against your self-h…"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "jem-computer",
+          "name": "Jem",
+          "url": "https://github.com/jem-computer",
+          "featuredRepo": {
+            "name": "jem-computer/bb-live",
+            "url": "https://github.com/jem-computer/bb-live",
+            "description": "A persistent voice channel for your BB workspace"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "samanhappy",
+          "name": "Saman",
+          "url": "https://github.com/samanhappy",
+          "featuredRepo": {
+            "name": "samanhappy/mcphub",
+            "url": "https://github.com/samanhappy/mcphub",
+            "description": "Self-hosted MCP gateway and control plane for connecting, controlling, and operating MCP servers."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "llun",
+          "name": "Maythee Anegboonlap",
+          "url": "https://github.com/llun",
+          "featuredRepo": {
+            "name": "llun/activities.next",
+            "url": "https://github.com/llun/activities.next",
+            "description": "A Next.JS ActivityPub server."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "JimLiu",
+          "name": "Jim Liu 宝玉",
+          "url": "https://github.com/JimLiu",
+          "featuredRepo": {
+            "name": "JimLiu/baoyu-skills",
+            "url": "https://github.com/JimLiu/baoyu-skills",
+            "description": null
+          }
+        },
+        {
+          "rank": 21,
+          "username": "jakearchibald",
+          "name": "Jake Archibald",
+          "url": "https://github.com/jakearchibald",
+          "featuredRepo": {
+            "name": "jakearchibald/idb",
+            "url": "https://github.com/jakearchibald/idb",
+            "description": "IndexedDB, but with promises"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "aaronjmars",
+          "name": "Aaron Elijah Mars",
+          "url": "https://github.com/aaronjmars",
+          "featuredRepo": {
+            "name": "aaronjmars/web3-research-mcp",
+            "url": "https://github.com/aaronjmars/web3-research-mcp",
+            "description": "Local MCP server for deep crypto token research across CoinGecko, DeFiLlama and web search. Free, no API key."
+          }
+        },
+        {
+          "rank": 23,
+          "username": "callumalpass",
+          "name": "callumalpass",
+          "url": "https://github.com/callumalpass",
+          "featuredRepo": {
+            "name": "callumalpass/tasknotes",
+            "url": "https://github.com/callumalpass/tasknotes",
+            "description": "Task and time-tracking management with calendar integration for Obsidian"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "obviyus",
+          "name": "Ayaan Zaidi",
+          "url": "https://github.com/obviyus",
+          "featuredRepo": {
+            "name": "obviyus/HamVerBot",
+            "url": "https://github.com/obviyus/HamVerBot",
+            "description": "#f1's favourite F1 bot"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "ascorbic",
+          "name": "Matt Kane",
+          "url": "https://github.com/ascorbic",
+          "featuredRepo": {
+            "name": "ascorbic/cirrus",
+            "url": "https://github.com/ascorbic/cirrus",
+            "description": "A single-user ATProto PDS that runs on a Cloudflare Worker"
+          }
+        }
+      ]
     }
   ],
   "best": [
@@ -861,8 +1144,8 @@
       "kind": "developer",
       "key": "elie222",
       "url": "https://github.com/elie222",
-      "bestRank": 4,
-      "scrapedAt": "2026-10-10T01:09:20.648Z",
+      "bestRank": 3,
+      "scrapedAt": "2026-10-10T18:34:58.258Z",
       "starsToday": null,
       "featuredRepo": "elie222/rakazo"
     }

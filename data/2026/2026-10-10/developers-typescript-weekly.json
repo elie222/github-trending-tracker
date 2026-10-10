@@ -854,6 +854,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-10T18:34:58.258Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "mvschwarz",
+          "name": "Mike Schwarz",
+          "url": "https://github.com/mvschwarz",
+          "featuredRepo": {
+            "name": "mvschwarz/openrig",
+            "url": "https://github.com/mvschwarz/openrig",
+            "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "wcandillon",
+          "name": "William Candillon",
+          "url": "https://github.com/wcandillon",
+          "featuredRepo": {
+            "name": "wcandillon/react-native-skia",
+            "url": "https://github.com/wcandillon/react-native-skia",
+            "description": "High-performance React Native Graphics using Skia"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "lfnovo",
+          "name": "Luis Novo",
+          "url": "https://github.com/lfnovo",
+          "featuredRepo": {
+            "name": "lfnovo/open-notebook",
+            "url": "https://github.com/lfnovo/open-notebook",
+            "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "maurodesouza",
+          "name": "Mauro de Souza",
+          "url": "https://github.com/maurodesouza",
+          "featuredRepo": {
+            "name": "maurodesouza/profile-readme-generator",
+            "url": "https://github.com/maurodesouza/profile-readme-generator",
+            "description": "🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile R…"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "kantorcodes",
+          "name": "Michael Kantor",
+          "url": "https://github.com/kantorcodes",
+          "featuredRepo": {
+            "name": "kantorcodes/skawld-sdk",
+            "url": "https://github.com/kantorcodes/skawld-sdk",
+            "description": "Skawld Agent Core & SDK"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "narumiruna",
+          "name": "なるみ",
+          "url": "https://github.com/narumiruna",
+          "featuredRepo": {
+            "name": "narumiruna/pi-extensions",
+            "url": "https://github.com/narumiruna/pi-extensions",
+            "description": "A monorepo of Pi Coding Agent extensions"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "kgoedecke",
+          "name": "Kevin Goedecke",
+          "url": "https://github.com/kgoedecke",
+          "featuredRepo": {
+            "name": "kgoedecke/doop",
+            "url": "https://github.com/kgoedecke/doop",
+            "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "Yeraze",
+          "name": "Randall Hand",
+          "url": "https://github.com/Yeraze",
+          "featuredRepo": {
+            "name": "Yeraze/meshmonitor",
+            "url": "https://github.com/Yeraze/meshmonitor",
+            "description": "Web tool for monitoring Mesh Node Deployment over TCP/HTTP"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "ThariqS",
+          "name": "Thariq Shihipar",
+          "url": "https://github.com/ThariqS",
+          "featuredRepo": {
+            "name": "ThariqS/ai-newtab",
+            "url": "https://github.com/ThariqS/ai-newtab",
+            "description": "Claude generates a daily new tab page based on your browser history."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "kingsword09",
+          "name": "Kingsword",
+          "url": "https://github.com/kingsword09",
+          "featuredRepo": {
+            "name": "kingsword09/zcode-cli",
+            "url": "https://github.com/kingsword09/zcode-cli",
+            "description": "Unofficial terminal client for the official agent runtime shipped with ZCode Desktop."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "bradygaster",
+          "name": "Brady Gaster",
+          "url": "https://github.com/bradygaster",
+          "featuredRepo": {
+            "name": "bradygaster/squad",
+            "url": "https://github.com/bradygaster/squad",
+            "description": "Squad: AI agent teams for any project"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "brophdawg11",
+          "name": "Matt Brophy",
+          "url": "https://github.com/brophdawg11",
+          "featuredRepo": {
+            "name": "brophdawg11/remix-jam-2026-demos",
+            "url": "https://github.com/brophdawg11/remix-jam-2026-demos",
+            "description": "Demos from Remix Jam 2026"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "dmmulroy",
+          "name": "Dillon Mulroy",
+          "url": "https://github.com/dmmulroy",
+          "featuredRepo": {
+            "name": "dmmulroy/anti-slop",
+            "url": "https://github.com/dmmulroy/anti-slop",
+            "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "callumalpass",
+          "name": "callumalpass",
+          "url": "https://github.com/callumalpass",
+          "featuredRepo": {
+            "name": "callumalpass/tasknotes",
+            "url": "https://github.com/callumalpass/tasknotes",
+            "description": "Task and time-tracking management with calendar integration for Obsidian"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "ItzCrazyKns",
+          "name": "Kushagra Srivastava",
+          "url": "https://github.com/ItzCrazyKns",
+          "featuredRepo": {
+            "name": "ItzCrazyKns/Vane",
+            "url": "https://github.com/ItzCrazyKns/Vane",
+            "description": "Vane is an AI-powered answering engine."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "aaronjmars",
+          "name": "Aaron Elijah Mars",
+          "url": "https://github.com/aaronjmars",
+          "featuredRepo": {
+            "name": "aaronjmars/web3-research-mcp",
+            "url": "https://github.com/aaronjmars/web3-research-mcp",
+            "description": "Local MCP server for deep crypto token research across CoinGecko, DeFiLlama and web search. Free, no API key."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "JonnyBurger",
+          "name": "Jonny Burger",
+          "url": "https://github.com/JonnyBurger",
+          "featuredRepo": {
+            "name": "JonnyBurger/remotion-f1",
+            "url": "https://github.com/JonnyBurger/remotion-f1",
+            "description": "F1 motion graphics in JavaScript"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "PaulKinlan",
+          "name": "Paul Kinlan",
+          "url": "https://github.com/PaulKinlan",
+          "featuredRepo": {
+            "name": "PaulKinlan/chrome-agent-platform",
+            "url": "https://github.com/PaulKinlan/chrome-agent-platform",
+            "description": "Chrome as the agent platform: NTP agent hub orchestrating the web via WebMCP, with sites-as-sub-agents, OPFS memory, alarms, and co-do WA…"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "mrzmyr",
+          "name": "Moritz Meyer",
+          "url": "https://github.com/mrzmyr",
+          "featuredRepo": {
+            "name": "mrzmyr/eve-mocks",
+            "url": "https://github.com/mrzmyr/eve-mocks",
+            "description": "Mocks for eve agents"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "roblourens",
+          "name": "roblourens",
+          "url": "https://github.com/roblourens",
+          "featuredRepo": {
+            "name": "roblourens/dap-cli",
+            "url": "https://github.com/roblourens/dap-cli",
+            "description": null
+          }
+        },
+        {
+          "rank": 25,
+          "username": "jarrodwatts",
+          "name": "Jarrod Watts",
+          "url": "https://github.com/jarrodwatts",
+          "featuredRepo": {
+            "name": "jarrodwatts/jev-trader",
+            "url": "https://github.com/jarrodwatts/jev-trader",
+            "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC."
+          }
+        }
+      ]
     }
   ],
   "best": [

@@ -392,6 +392,135 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-10T18:34:58.258Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 67548,
+          "forks": 14245,
+          "starsToday": 25784,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars": 26192,
+          "forks": 1884,
+          "starsToday": 178,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "angular/angular",
+          "url": "https://github.com/angular/angular",
+          "description": "Deliver web apps with confidence 🚀",
+          "language": "TypeScript",
+          "stars": 101025,
+          "forks": 29908,
+          "starsToday": 9,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "remotion-dev/remotion",
+          "url": "https://github.com/remotion-dev/remotion",
+          "description": "🎥 Make videos programmatically with React",
+          "language": "TypeScript",
+          "stars": 63040,
+          "forks": 4949,
+          "starsToday": 288,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "zenbu-labs/terminal-browser",
+          "url": "https://github.com/zenbu-labs/terminal-browser",
+          "description": "A browser inside your terminal",
+          "language": "TypeScript",
+          "stars": 3780,
+          "forks": 180,
+          "starsToday": 26,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 193520,
+          "forks": 44961,
+          "starsToday": 43,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "Vincentwei1021/video-shotcraft",
+          "url": "https://github.com/Vincentwei1021/video-shotcraft",
+          "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
+          "language": "TypeScript",
+          "stars": 11157,
+          "forks": 994,
+          "starsToday": 143,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "appwrite/appwrite",
+          "url": "https://github.com/appwrite/appwrite",
+          "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+          "language": "TypeScript",
+          "stars": 57624,
+          "forks": 5776,
+          "starsToday": 11,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "language": "TypeScript",
+          "stars": 150029,
+          "forks": 26058,
+          "starsToday": 195,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "Yeachan-Heo/oh-my-claudecode",
+          "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+          "description": "Teams-first Multi-agent orchestration for Claude Code",
+          "language": "TypeScript",
+          "stars": 39768,
+          "forks": 3560,
+          "starsToday": 44,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "immich-app/immich",
+          "url": "https://github.com/immich-app/immich",
+          "description": "High performance self-hosted photo and video management solution.",
+          "language": "TypeScript",
+          "stars": 115954,
+          "forks": 7176,
+          "starsToday": 97,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []
