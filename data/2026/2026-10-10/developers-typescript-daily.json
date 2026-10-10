@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-10",
+  "list": "developers",
+  "language": "typescript",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/developers/typescript?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-10T01:09:20.648Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "wcandillon",
+          "name": "William Candillon",
+          "url": "https://github.com/wcandillon",
+          "featuredRepo": {
+            "name": "wcandillon/react-native-skia",
+            "url": "https://github.com/wcandillon/react-native-skia",
+            "description": "High-performance React Native Graphics using Skia"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 5,
+          "username": "ctate",
+          "name": "Chris Tate",
+          "url": "https://github.com/ctate",
+          "featuredRepo": {
+            "name": "ctate/3d-model-generator",
+            "url": "https://github.com/ctate/3d-model-generator",
+            "description": "Generate 3D models with AI"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "Chuloo",
+          "name": "William",
+          "url": "https://github.com/Chuloo",
+          "featuredRepo": {
+            "name": "Chuloo/mural",
+            "url": "https://github.com/Chuloo/mural",
+            "description": "The language app you eventually delete. A native iPhone companion for learning through conversation."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "narumiruna",
+          "name": "なるみ",
+          "url": "https://github.com/narumiruna",
+          "featuredRepo": {
+            "name": "narumiruna/pi-extensions",
+            "url": "https://github.com/narumiruna/pi-extensions",
+            "description": "A monorepo of Pi Coding Agent extensions"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "binaricat",
+          "name": "陈大猫",
+          "url": "https://github.com/binaricat",
+          "featuredRepo": {
+            "name": "binaricat/Netcatty",
+            "url": "https://github.com/binaricat/Netcatty",
+            "description": "SSH workspace, SFTP, and terminals in one"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "mlightcad",
+          "name": "mlightcad",
+          "url": "https://github.com/mlightcad",
+          "featuredRepo": {
+            "name": "mlightcad/cad-viewer",
+            "url": "https://github.com/mlightcad/cad-viewer",
+            "description": "The world’s first fully web-based DXF/DWG viewer and editor that runs entirely in the browser — no backend server required."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "chenzl25",
+          "name": "Dylan",
+          "url": "https://github.com/chenzl25",
+          "featuredRepo": {
+            "name": "chenzl25/bergpilot",
+            "url": "https://github.com/chenzl25/bergpilot",
+            "description": "Observability and maintenance for Apache Iceberg tables, in a single Rust service. No JVM, no Spark."
+          }
+        },
+        {
+          "rank": 13,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "Anionex",
+          "name": "anionex",
+          "url": "https://github.com/Anionex",
+          "featuredRepo": {
+            "name": "Anionex/banana-slides",
+            "url": "https://github.com/Anionex/banana-slides",
+            "description": "一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on n…"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "baseballyama",
+          "name": "Yuichiro Yamashita",
+          "url": "https://github.com/baseballyama",
+          "featuredRepo": {
+            "name": "baseballyama/vite-devtools-svelte",
+            "url": "https://github.com/baseballyama/vite-devtools-svelte",
+            "description": "Svelte 5 DevTools for Vite: component and reactivity inspection with MCP access, standalone or in the Vite DevTools dock."
+          }
+        },
+        {
+          "rank": 16,
+          "username": "melgarafael",
+          "name": "Rafael Melgaço",
+          "url": "https://github.com/melgarafael",
+          "featuredRepo": {
+            "name": "melgarafael/DeskcommCRM",
+            "url": "https://github.com/melgarafael/DeskcommCRM",
+            "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any…"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "kgoedecke",
+          "name": "Kevin Goedecke",
+          "url": "https://github.com/kgoedecke",
+          "featuredRepo": {
+            "name": "kgoedecke/doop",
+            "url": "https://github.com/kgoedecke/doop",
+            "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "aaronjmars",
+          "name": "Aaron Elijah Mars",
+          "url": "https://github.com/aaronjmars",
+          "featuredRepo": {
+            "name": "aaronjmars/web3-research-mcp",
+            "url": "https://github.com/aaronjmars/web3-research-mcp",
+            "description": "Local MCP server for deep crypto token research across CoinGecko, DeFiLlama and web search. Free, no API key."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "whyour",
+          "name": "whyour",
+          "url": "https://github.com/whyour",
+          "featuredRepo": {
+            "name": "whyour/qinglong",
+            "url": "https://github.com/whyour/qinglong",
+            "description": "支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "gmegidish",
+          "name": "Gil Megidish",
+          "url": "https://github.com/gmegidish",
+          "featuredRepo": {
+            "name": "gmegidish/mobile-mcp",
+            "url": "https://github.com/gmegidish/mobile-mcp",
+            "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "ZaynJarvis",
+          "name": "Zayn Jarvis",
+          "url": "https://github.com/ZaynJarvis",
+          "featuredRepo": {
+            "name": "ZaynJarvis/aesthetics",
+            "url": "https://github.com/ZaynJarvis/aesthetics",
+            "description": "A public workbook of design styles, aesthetics, and image-generation prompts."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "aurorascharff",
+          "name": "Aurora Scharff",
+          "url": "https://github.com/aurorascharff",
+          "featuredRepo": {
+            "name": "aurorascharff/next16-mail",
+            "url": "https://github.com/aurorascharff/next16-mail",
+            "description": "A Gmail-style demo exploring Cache Components, Partial Prefetching, and the navigation() API with Next.js 16.4, React 19, Tailwind CSS v4…"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "yigitkonur",
+          "name": "Yigit Konur",
+          "url": "https://github.com/yigitkonur",
+          "featuredRepo": {
+            "name": "yigitkonur/cli-continues",
+            "url": "https://github.com/yigitkonur/cli-continues",
+            "description": "resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "cv",
+          "name": "Carlos Villela",
+          "url": "https://github.com/cv",
+          "featuredRepo": {
+            "name": "cv/pit",
+            "url": "https://github.com/cv/pit",
+            "description": "Give Pi one typed tool instead of a toolbox."
+          }
+        },
+        {
+          "rank": 25,
+          "username": "louistrue",
+          "name": "Louis Trümpler",
+          "url": "https://github.com/louistrue",
+          "featuredRepo": {
+            "name": "louistrue/ids-flow",
+            "url": "https://github.com/louistrue/ids-flow",
+            "description": "Visual editor for creating and validating buildingSMART IDS specifications with drag-and-drop interface and real-time XML export"
+          }
+        }
+      ]
+    }
+  ],
+  "best": [
+    {
+      "kind": "developer",
+      "key": "elie222",
+      "url": "https://github.com/elie222",
+      "bestRank": 4,
+      "scrapedAt": "2026-10-10T01:09:20.648Z",
+      "starsToday": null,
+      "featuredRepo": "elie222/rakazo"
+    }
+  ]
+}
