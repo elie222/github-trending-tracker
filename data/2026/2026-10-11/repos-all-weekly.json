@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-11",
+  "list": "repos",
+  "language": "all",
+  "period": "weekly",
+  "pageUrl": "https://github.com/trending?since=weekly",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-11T01:14:51.992Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+          "language": "C++",
+          "stars": 26914,
+          "forks": 2265,
+          "starsToday": 21365,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 284523,
+          "forks": 23813,
+          "starsToday": 9179,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "EpicGames/raddebugger",
+          "url": "https://github.com/EpicGames/raddebugger",
+          "description": "A native, user-mode, multi-process, graphical debugger.",
+          "language": "C",
+          "stars": 8331,
+          "forks": 404,
+          "starsToday": 740,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 99266,
+          "forks": 8695,
+          "starsToday": 4035,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 60375,
+          "forks": 5392,
+          "starsToday": 4081,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+          "language": "TypeScript",
+          "stars": 6736,
+          "forks": 498,
+          "starsToday": 2068,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 10761,
+          "forks": 1026,
+          "starsToday": 1110,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "Give your agent CAD superpowers.",
+          "language": "Python",
+          "stars": 18995,
+          "forks": 1872,
+          "starsToday": 2369,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+          "language": "Dart",
+          "stars": 179528,
+          "forks": 33601,
+          "starsToday": 263,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 26824,
+          "forks": 7031,
+          "starsToday": 2367,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+          "language": "TypeScript",
+          "stars": 786,
+          "forks": 74,
+          "starsToday": 259,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "DuarteSantos8/openGym",
+          "url": "https://github.com/DuarteSantos8/openGym",
+          "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+          "language": "JavaScript",
+          "stars": 9249,
+          "forks": 1148,
+          "starsToday": 7369,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "tester-army/e2e",
+          "url": "https://github.com/tester-army/e2e",
+          "description": "Next generation e2e testing framework for web and mobile apps.",
+          "language": "TypeScript",
+          "stars": 8732,
+          "forks": 423,
+          "starsToday": 6564,
+          "starsLabel": "this week"
+        }
+      ]
+    }
+  ],
+  "best": []
+}
