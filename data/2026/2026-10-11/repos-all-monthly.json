@@ -777,6 +777,256 @@
           "starsLabel": "this month"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-11T18:35:57.472Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=monthly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "language": "Go",
+          "stars": 46118,
+          "forks": 3346,
+          "starsToday": 23947,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 2,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "language": "Python",
+          "stars": 58415,
+          "forks": 6556,
+          "starsToday": 35194,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": null,
+          "language": "Python",
+          "stars": 39365,
+          "forks": 5584,
+          "starsToday": 4607,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 4,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 100231,
+          "forks": 16890,
+          "starsToday": 19499,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 5,
+          "name": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "language": "Python",
+          "stars": 48351,
+          "forks": 5996,
+          "starsToday": 24928,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 6,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars": 277033,
+          "forks": 41329,
+          "starsToday": 22474,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 29076,
+          "forks": 3300,
+          "starsToday": 4750,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 8,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "language": "TypeScript",
+          "stars": 150192,
+          "forks": 26205,
+          "starsToday": 6240,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 9,
+          "name": "Tencent/WeKnora",
+          "url": "https://github.com/Tencent/WeKnora",
+          "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+          "language": "Go",
+          "stars": 33157,
+          "forks": 4416,
+          "starsToday": 11234,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 10,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 60804,
+          "forks": 5439,
+          "starsToday": 11826,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 11,
+          "name": "TencentCloud/Octop",
+          "url": "https://github.com/TencentCloud/Octop",
+          "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+          "language": "Python",
+          "stars": 8640,
+          "forks": 1058,
+          "starsToday": 7002,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 12,
+          "name": "agent-substrate/substrate",
+          "url": "https://github.com/agent-substrate/substrate",
+          "description": "Agent Substrate: the core system",
+          "language": "Go",
+          "stars": 4841,
+          "forks": 548,
+          "starsToday": 2956,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 13,
+          "name": "NVIDIA/OpenShell",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+          "language": "Rust",
+          "stars": 15807,
+          "forks": 1763,
+          "starsToday": 7234,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 14,
+          "name": "JustVugg/colibri",
+          "url": "https://github.com/JustVugg/colibri",
+          "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+          "language": "C",
+          "stars": 41192,
+          "forks": 4535,
+          "starsToday": 13894,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 15,
+          "name": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+          "language": "Rust",
+          "stars": 29374,
+          "forks": 2083,
+          "starsToday": 6950,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 16,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 104873,
+          "forks": 10943,
+          "starsToday": 11706,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 17,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 33246,
+          "forks": 4597,
+          "starsToday": 7700,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 18,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars": 26626,
+          "forks": 1915,
+          "starsToday": 4285,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 19,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 10864,
+          "forks": 1038,
+          "starsToday": 3579,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 20,
+          "name": "bilawalsidhu/gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+          "language": "JavaScript",
+          "stars": 51245,
+          "forks": 10309,
+          "starsToday": 27862,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 21,
+          "name": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "description": "Ghidra is a software reverse engineering (SRE) framework",
+          "language": "Java",
+          "stars": 83266,
+          "forks": 9257,
+          "starsToday": 7897,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 22,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "language": "Python",
+          "stars": 95881,
+          "forks": 8395,
+          "starsToday": 16725,
+          "starsLabel": "this month"
+        }
+      ]
     }
   ],
   "best": []
