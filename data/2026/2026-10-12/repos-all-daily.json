@@ -197,6 +197,113 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-12T13:02:31.474Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 133956,
+          "forks": 29971,
+          "starsToday": 45495,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "bilawalsidhu/gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+          "language": "JavaScript",
+          "stars": 52731,
+          "forks": 10500,
+          "starsToday": 1903,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars": 26849,
+          "forks": 1926,
+          "starsToday": 485,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "storytold/artcraft",
+          "url": "https://github.com/storytold/artcraft",
+          "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+          "language": "Rust",
+          "stars": 20067,
+          "forks": 3266,
+          "starsToday": 4106,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "open-webui/open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+          "language": "Python",
+          "stars": 154472,
+          "forks": 22615,
+          "starsToday": 142,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "language": "HTML",
+          "stars": 51774,
+          "forks": 3265,
+          "starsToday": 2100,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "description": "AirLLM 70B inference with single 4GB GPU",
+          "language": "Jupyter Notebook",
+          "stars": 37036,
+          "forks": 3846,
+          "starsToday": 886,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/BitNet",
+          "url": "https://github.com/microsoft/BitNet",
+          "description": "Official inference framework for 1-bit LLMs",
+          "language": "C++",
+          "stars": 40748,
+          "forks": 3799,
+          "starsToday": 195,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+          "language": "Python",
+          "stars": 58353,
+          "forks": 9262,
+          "starsToday": 506,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []

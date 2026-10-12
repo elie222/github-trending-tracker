@@ -285,6 +285,135 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-12T13:02:31.474Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+          "language": "C++",
+          "stars": 31733,
+          "forks": 2722,
+          "starsToday": 25151,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "tester-army/e2e",
+          "url": "https://github.com/tester-army/e2e",
+          "description": "Next generation e2e testing framework for web and mobile apps.",
+          "language": "TypeScript",
+          "stars": 9344,
+          "forks": 450,
+          "starsToday": 6440,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 287276,
+          "forks": 24103,
+          "starsToday": 10330,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 61437,
+          "forks": 5499,
+          "starsToday": 4223,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 99952,
+          "forks": 8766,
+          "starsToday": 3803,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+          "language": "Dart",
+          "stars": 179885,
+          "forks": 33836,
+          "starsToday": 680,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 10995,
+          "forks": 1059,
+          "starsToday": 1140,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "Give your agent CAD superpowers.",
+          "language": "Python",
+          "stars": 19493,
+          "forks": 1918,
+          "starsToday": 2508,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+          "language": "TypeScript",
+          "stars": 7116,
+          "forks": 538,
+          "starsToday": 2028,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 133962,
+          "forks": 29971,
+          "starsToday": 126976,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "DuarteSantos8/openGym",
+          "url": "https://github.com/DuarteSantos8/openGym",
+          "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+          "language": "JavaScript",
+          "stars": 10113,
+          "forks": 1250,
+          "starsToday": 7383,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": []
