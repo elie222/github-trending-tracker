@@ -1,0 +1,296 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-12",
+  "list": "developers",
+  "language": "all",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/developers?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-12T01:17:19.901Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "SaladDay",
+          "name": "SaladDay",
+          "url": "https://github.com/SaladDay",
+          "featuredRepo": {
+            "name": "SaladDay/cc-switch-cli",
+            "url": "https://github.com/SaladDay/cc-switch-cli",
+            "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "N0zoM1z0",
+          "name": "Ysopwnable",
+          "url": "https://github.com/N0zoM1z0",
+          "featuredRepo": {
+            "name": "N0zoM1z0/dx-ball",
+            "url": "https://github.com/N0zoM1z0/dx-ball",
+            "description": "Reconstructing DX-Ball 1.07 with REA, backed by original-x86 differential tests and pinned MSVC byte-exact oracles."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "Cyan4973",
+          "name": "Yann Collet",
+          "url": "https://github.com/Cyan4973",
+          "featuredRepo": {
+            "name": "Cyan4973/xxHash",
+            "url": "https://github.com/Cyan4973/xxHash",
+            "description": "Extremely fast non-cryptographic hash algorithm"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "echelon",
+          "name": "Brandon Thomas",
+          "url": "https://github.com/echelon",
+          "featuredRepo": {
+            "name": "echelon/arpabet.rs",
+            "url": "https://github.com/echelon/arpabet.rs",
+            "description": "Rust library for speech synthesis using CMUdict"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "Calcium-Ion",
+          "name": "Calcium-Ion",
+          "url": "https://github.com/Calcium-Ion",
+          "featuredRepo": {
+            "name": "Calcium-Ion/moejs",
+            "url": "https://github.com/Calcium-Ion/moejs",
+            "description": "A pure-Go JavaScript runtime built for running many small plugin sandboxes fast."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "maziyarpanahi",
+          "name": "Maziyar Panahi",
+          "url": "https://github.com/maziyarpanahi",
+          "featuredRepo": {
+            "name": "maziyarpanahi/openmed",
+            "url": "https://github.com/maziyarpanahi/openmed",
+            "description": "Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed P…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "punkpeye",
+          "name": "Frank Fiegel",
+          "url": "https://github.com/punkpeye",
+          "featuredRepo": {
+            "name": "punkpeye/awesome-mcp-servers",
+            "url": "https://github.com/punkpeye/awesome-mcp-servers",
+            "description": "A collection of MCP servers."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "TimeToBuildBob",
+          "name": "Bob",
+          "url": "https://github.com/TimeToBuildBob",
+          "featuredRepo": null
+        },
+        {
+          "rank": 12,
+          "username": "hypery11",
+          "name": "hypery11",
+          "url": "https://github.com/hypery11",
+          "featuredRepo": {
+            "name": "hypery11/flipper-tesla-fsd",
+            "url": "https://github.com/hypery11/flipper-tesla-fsd",
+            "description": "Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, CAN captu…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "obviyus",
+          "name": "Ayaan Zaidi",
+          "url": "https://github.com/obviyus",
+          "featuredRepo": {
+            "name": "obviyus/codex-changelog",
+            "url": "https://github.com/obviyus/codex-changelog",
+            "description": null
+          }
+        },
+        {
+          "rank": 14,
+          "username": "emilk",
+          "name": "Emil Ernerfeldt",
+          "url": "https://github.com/emilk",
+          "featuredRepo": {
+            "name": "emilk/egui",
+            "url": "https://github.com/emilk/egui",
+            "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "Astro-Han",
+          "name": "AstroHan",
+          "url": "https://github.com/Astro-Han",
+          "featuredRepo": {
+            "name": "Astro-Han/karpathy-llm-wiki",
+            "url": "https://github.com/Astro-Han/karpathy-llm-wiki",
+            "description": "Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, a…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "binaricat",
+          "name": "陈大猫",
+          "url": "https://github.com/binaricat",
+          "featuredRepo": {
+            "name": "binaricat/Netcatty",
+            "url": "https://github.com/binaricat/Netcatty",
+            "description": "SSH workspace, SFTP, and terminals in one"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "yetone",
+          "name": "yetone",
+          "url": "https://github.com/yetone",
+          "featuredRepo": {
+            "name": "yetone/magpie",
+            "url": "https://github.com/yetone/magpie",
+            "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "nilaoda",
+          "name": "nilaoda",
+          "url": "https://github.com/nilaoda",
+          "featuredRepo": {
+            "name": "nilaoda/N_m3u8DL-RE",
+            "url": "https://github.com/nilaoda/N_m3u8DL-RE",
+            "description": "Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "ja7ad",
+          "name": "Javad Rajabzadeh",
+          "url": "https://github.com/ja7ad",
+          "featuredRepo": {
+            "name": "ja7ad/hydra",
+            "url": "https://github.com/ja7ad/hydra",
+            "description": "A fast, resilient, multi-source file retriever and download engine"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "hiyouga",
+          "name": "Yaowei Zheng",
+          "url": "https://github.com/hiyouga",
+          "featuredRepo": {
+            "name": "hiyouga/LlamaFactory",
+            "url": "https://github.com/hiyouga/LlamaFactory",
+            "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "isair",
+          "name": "Baris Sencan",
+          "url": "https://github.com/isair",
+          "featuredRepo": {
+            "name": "isair/jarvis",
+            "url": "https://github.com/isair/jarvis",
+            "description": "A 100% private AI voice assistant that lives on your computer (works offline). Talk naturally as if Jarvis is a third person in the room,…"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "poteto",
+          "name": "lauren",
+          "url": "https://github.com/poteto",
+          "featuredRepo": {
+            "name": "poteto/hiring-without-whiteboards",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "momo5502",
+          "name": "Maurice Heumann",
+          "url": "https://github.com/momo5502",
+          "featuredRepo": {
+            "name": "momo5502/sogen",
+            "url": "https://github.com/momo5502/sogen",
+            "description": "🪅 Windows & Linux userspace emulator"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "MagMueller",
+          "name": "Magnus Müller",
+          "url": "https://github.com/MagMueller",
+          "featuredRepo": null
+        },
+        {
+          "rank": 25,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Skills and principles for rigorous AI-assisted engineering"
+          }
+        }
+      ]
+    }
+  ],
+  "best": [
+    {
+      "kind": "developer",
+      "key": "elie222",
+      "url": "https://github.com/elie222",
+      "bestRank": 9,
+      "scrapedAt": "2026-10-12T01:17:19.901Z",
+      "starsToday": null,
+      "featuredRepo": "elie222/rakazo"
+    }
+  ]
+}

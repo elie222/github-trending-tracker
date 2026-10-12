@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-12",
+  "list": "repos",
+  "language": "typescript",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/typescript?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-12T01:17:19.901Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 105862,
+          "forks": 23328,
+          "starsToday": 25599,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars": 26686,
+          "forks": 1918,
+          "starsToday": 485,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "langgenius/dify",
+          "url": "https://github.com/langgenius/dify",
+          "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+          "language": "TypeScript",
+          "stars": 158168,
+          "forks": 25005,
+          "starsToday": 79,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 391702,
+          "forks": 82363,
+          "starsToday": 164,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "CopilotKit/OpenIntelligentUI",
+          "url": "https://github.com/CopilotKit/OpenIntelligentUI",
+          "description": "Open-Source Generative UI Framework",
+          "language": "TypeScript",
+          "stars": 2667,
+          "forks": 305,
+          "starsToday": 278,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "chthollyphile/folia-major",
+          "url": "https://github.com/chthollyphile/folia-major",
+          "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
+          "language": "TypeScript",
+          "stars": 4998,
+          "forks": 423,
+          "starsToday": 555,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "agalwood/Motrix",
+          "url": "https://github.com/agalwood/Motrix",
+          "description": "A full-featured download manager.",
+          "language": "TypeScript",
+          "stars": 56486,
+          "forks": 5062,
+          "starsToday": 158,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "getnao/nao",
+          "url": "https://github.com/getnao/nao",
+          "description": "👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone",
+          "language": "TypeScript",
+          "stars": 1907,
+          "forks": 282,
+          "starsToday": 20,
+          "starsLabel": "today"
+        }
+      ]
+    }
+  ],
+  "best": []
+}
