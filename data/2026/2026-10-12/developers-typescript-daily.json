@@ -288,6 +288,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-12T07:07:57.646Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "obviyus",
+          "name": "Ayaan Zaidi",
+          "url": "https://github.com/obviyus",
+          "featuredRepo": {
+            "name": "obviyus/codex-changelog",
+            "url": "https://github.com/obviyus/codex-changelog",
+            "description": null
+          }
+        },
+        {
+          "rank": 5,
+          "username": "binaricat",
+          "name": "陈大猫",
+          "url": "https://github.com/binaricat",
+          "featuredRepo": {
+            "name": "binaricat/Netcatty",
+            "url": "https://github.com/binaricat/Netcatty",
+            "description": "SSH workspace, SFTP, and terminals in one"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "kentcdodds",
+          "name": "Kent C. Dodds",
+          "url": "https://github.com/kentcdodds",
+          "featuredRepo": {
+            "name": "kentcdodds/kody",
+            "url": "https://github.com/kentcdodds/kody",
+            "description": "🐨 Your agents' cloud — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "chenglou",
+          "name": "Cheng Lou",
+          "url": "https://github.com/chenglou",
+          "featuredRepo": {
+            "name": "chenglou/pretext",
+            "url": "https://github.com/chenglou/pretext",
+            "description": "Fast, accurate & comprehensive text measurement & layout"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "llun",
+          "name": "Maythee Anegboonlap",
+          "url": "https://github.com/llun",
+          "featuredRepo": {
+            "name": "llun/activities.next",
+            "url": "https://github.com/llun/activities.next",
+            "description": "A Next.JS ActivityPub server."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "timoncool",
+          "name": "Ilya (Nerual Dreming) Timonin",
+          "url": "https://github.com/timoncool",
+          "featuredRepo": {
+            "name": "timoncool/YuE2-Studio",
+            "url": "https://github.com/timoncool/YuE2-Studio",
+            "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Wind…"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "arvinxx",
+          "name": "Arvin Xu",
+          "url": "https://github.com/arvinxx",
+          "featuredRepo": {
+            "name": "arvinxx/power-yuque",
+            "url": "https://github.com/arvinxx/power-yuque",
+            "description": "语雀的增强插件"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/outreachr",
+            "url": "https://github.com/lalalune/outreachr",
+            "description": "Local-first, open-source investor fundraising CRM for founders"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "idootop",
+          "name": "Del Wang",
+          "url": "https://github.com/idootop",
+          "featuredRepo": {
+            "name": "idootop/mi-gpt",
+            "url": "https://github.com/idootop/mi-gpt",
+            "description": "🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "ctate",
+          "name": "Chris Tate",
+          "url": "https://github.com/ctate",
+          "featuredRepo": {
+            "name": "ctate/3d-model-generator",
+            "url": "https://github.com/ctate/3d-model-generator",
+            "description": "Generate 3D models with AI"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "ItzCrazyKns",
+          "name": "Kushagra Srivastava",
+          "url": "https://github.com/ItzCrazyKns",
+          "featuredRepo": {
+            "name": "ItzCrazyKns/Vane",
+            "url": "https://github.com/ItzCrazyKns/Vane",
+            "description": "Vane is an AI-powered answering engine."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "johnhenry",
+          "name": "John Henry",
+          "url": "https://github.com/johnhenry",
+          "featuredRepo": {
+            "name": "johnhenry/ecmanim",
+            "url": "https://github.com/johnhenry/ecmanim",
+            "description": "A JavaScript port of manim (Mathematical Animation Engine). Runs in Node (MP4 via ffmpeg) and the browser (canvas + WebM). Bézier VMobjec…"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "HamedMP",
+          "name": "hamed",
+          "url": "https://github.com/HamedMP",
+          "featuredRepo": {
+            "name": "HamedMP/matrix-os",
+            "url": "https://github.com/HamedMP/matrix-os",
+            "description": "The operating system that builds itself"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "JimLiu",
+          "name": "Jim Liu 宝玉",
+          "url": "https://github.com/JimLiu",
+          "featuredRepo": {
+            "name": "JimLiu/baoyu-skills",
+            "url": "https://github.com/JimLiu/baoyu-skills",
+            "description": null
+          }
+        },
+        {
+          "rank": 21,
+          "username": "wcandillon",
+          "name": "William Candillon",
+          "url": "https://github.com/wcandillon",
+          "featuredRepo": {
+            "name": "wcandillon/react-native-skia",
+            "url": "https://github.com/wcandillon/react-native-skia",
+            "description": "High-performance React Native Graphics using Skia"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "MistEO",
+          "name": "MistEO",
+          "url": "https://github.com/MistEO",
+          "featuredRepo": {
+            "name": "MistEO/MXU",
+            "url": "https://github.com/MistEO/MXU",
+            "description": "MaaFramework Next UI"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "mavam",
+          "name": "Matthias Vallentin",
+          "url": "https://github.com/mavam",
+          "featuredRepo": {
+            "name": "mavam/pi-agents",
+            "url": "https://github.com/mavam/pi-agents",
+            "description": "Durable, named agents for Pi: delegate tasks, compose agents into graphs, and watch them work."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "egdev6",
+          "name": "Quique",
+          "url": "https://github.com/egdev6",
+          "featuredRepo": {
+            "name": "egdev6/engram-monitor",
+            "url": "https://github.com/egdev6/engram-monitor",
+            "description": "Dashboard for monitoring and exploring Engram memory: sessions, observations, prompts, and stats"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "ThariqS",
+          "name": "Thariq Shihipar",
+          "url": "https://github.com/ThariqS",
+          "featuredRepo": {
+            "name": "ThariqS/ai-newtab",
+            "url": "https://github.com/ThariqS/ai-newtab",
+            "description": "Claude generates a daily new tab page based on your browser history."
+          }
+        }
+      ]
     }
   ],
   "best": [
