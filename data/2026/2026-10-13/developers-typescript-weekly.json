@@ -288,6 +288,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-13T06:53:22.986Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "TheVicky1",
+          "name": "Vicky Patel",
+          "url": "https://github.com/TheVicky1",
+          "featuredRepo": {
+            "name": "TheVicky1/Pact_OS",
+            "url": "https://github.com/TheVicky1/Pact_OS",
+            "description": "Personal Productivity & Accountability OS -Turn Intent Into Discipline with server-authoritative commitments, time-blocked planning, and …"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "mvschwarz",
+          "name": "Mike Schwarz",
+          "url": "https://github.com/mvschwarz",
+          "featuredRepo": {
+            "name": "mvschwarz/openrig",
+            "url": "https://github.com/mvschwarz/openrig",
+            "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 5,
+          "username": "wcandillon",
+          "name": "William Candillon",
+          "url": "https://github.com/wcandillon",
+          "featuredRepo": {
+            "name": "wcandillon/react-native-skia",
+            "url": "https://github.com/wcandillon/react-native-skia",
+            "description": "High-performance React Native Graphics using Skia"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "narumiruna",
+          "name": "なるみ",
+          "url": "https://github.com/narumiruna",
+          "featuredRepo": {
+            "name": "narumiruna/pi-extensions",
+            "url": "https://github.com/narumiruna/pi-extensions",
+            "description": "A monorepo of Pi Coding Agent extensions"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "timoncool",
+          "name": "Ilya (Nerual Dreming) Timonin",
+          "url": "https://github.com/timoncool",
+          "featuredRepo": {
+            "name": "timoncool/YuE2-Studio",
+            "url": "https://github.com/timoncool/YuE2-Studio",
+            "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Wind…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "mlightcad",
+          "name": "mlightcad",
+          "url": "https://github.com/mlightcad",
+          "featuredRepo": {
+            "name": "mlightcad/cad-viewer",
+            "url": "https://github.com/mlightcad/cad-viewer",
+            "description": "The world’s first fully web-based DXF/DWG viewer and editor that runs entirely in the browser — no backend server required."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "kgoedecke",
+          "name": "Kevin Goedecke",
+          "url": "https://github.com/kgoedecke",
+          "featuredRepo": {
+            "name": "kgoedecke/doop",
+            "url": "https://github.com/kgoedecke/doop",
+            "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "irvinebroque",
+          "name": "Brendan Irvine-Broque",
+          "url": "https://github.com/irvinebroque",
+          "featuredRepo": {
+            "name": "irvinebroque/poppy-demo",
+            "url": "https://github.com/irvinebroque/poppy-demo",
+            "description": null
+          }
+        },
+        {
+          "rank": 12,
+          "username": "ThariqS",
+          "name": "Thariq Shihipar",
+          "url": "https://github.com/ThariqS",
+          "featuredRepo": {
+            "name": "ThariqS/ai-newtab",
+            "url": "https://github.com/ThariqS/ai-newtab",
+            "description": "Claude generates a daily new tab page based on your browser history."
+          }
+        },
+        {
+          "rank": 13,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "Menci",
+          "name": "Menci",
+          "url": "https://github.com/Menci",
+          "featuredRepo": {
+            "name": "Menci/Floway",
+            "url": "https://github.com/Menci/Floway",
+            "description": "Serverless LLM API gateway for you and your agents."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "SebConejo",
+          "name": "Sébastien Conejo",
+          "url": "https://github.com/SebConejo",
+          "featuredRepo": {
+            "name": "SebConejo/free-ai-tools",
+            "url": "https://github.com/SebConejo/free-ai-tools",
+            "description": "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "ItzCrazyKns",
+          "name": "Kushagra Srivastava",
+          "url": "https://github.com/ItzCrazyKns",
+          "featuredRepo": {
+            "name": "ItzCrazyKns/Vane",
+            "url": "https://github.com/ItzCrazyKns/Vane",
+            "description": "Vane is an AI-powered answering engine."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "kantorcodes",
+          "name": "Michael Kantor",
+          "url": "https://github.com/kantorcodes",
+          "featuredRepo": {
+            "name": "kantorcodes/skawld-sdk",
+            "url": "https://github.com/kantorcodes/skawld-sdk",
+            "description": "Skawld Agent Core & SDK"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "adrianhajdin",
+          "name": "Adrian Hajdin - JS Mastery",
+          "url": "https://github.com/adrianhajdin",
+          "featuredRepo": {
+            "name": "adrianhajdin/cartograph",
+            "url": "https://github.com/adrianhajdin/cartograph",
+            "description": "Cartograph turns any GitHub repo into an interactive dependency map by parsing real code to analyze structure, trace imports, calculate b…"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "dmmulroy",
+          "name": "Dillon Mulroy",
+          "url": "https://github.com/dmmulroy",
+          "featuredRepo": {
+            "name": "dmmulroy/anti-slop",
+            "url": "https://github.com/dmmulroy/anti-slop",
+            "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "llun",
+          "name": "Maythee Anegboonlap",
+          "url": "https://github.com/llun",
+          "featuredRepo": {
+            "name": "llun/activities.next",
+            "url": "https://github.com/llun/activities.next",
+            "description": "A Next.JS ActivityPub server."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "DavideCarvalho",
+          "name": "Davi de Carvalho",
+          "url": "https://github.com/DavideCarvalho",
+          "featuredRepo": {
+            "name": "DavideCarvalho/agora",
+            "url": "https://github.com/DavideCarvalho/agora",
+            "description": "Agora — libraries for the AdonisJS ecosystem. Central docs hub (Fumadocs)."
+          }
+        },
+        {
+          "rank": 23,
+          "username": "PaulKinlan",
+          "name": "Paul Kinlan",
+          "url": "https://github.com/PaulKinlan",
+          "featuredRepo": {
+            "name": "PaulKinlan/chrome-agent-platform",
+            "url": "https://github.com/PaulKinlan/chrome-agent-platform",
+            "description": "Chrome as the agent platform: NTP agent hub orchestrating the web via WebMCP, with sites-as-sub-agents, OPFS memory, alarms, and co-do WA…"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "roblourens",
+          "name": "roblourens",
+          "url": "https://github.com/roblourens",
+          "featuredRepo": {
+            "name": "roblourens/dap-cli",
+            "url": "https://github.com/roblourens/dap-cli",
+            "description": null
+          }
+        },
+        {
+          "rank": 25,
+          "username": "brophdawg11",
+          "name": "Matt Brophy",
+          "url": "https://github.com/brophdawg11",
+          "featuredRepo": {
+            "name": "brophdawg11/remix-jam-2026-demos",
+            "url": "https://github.com/brophdawg11/remix-jam-2026-demos",
+            "description": "Demos from Remix Jam 2026"
+          }
+        }
+      ]
     }
   ],
   "best": [
