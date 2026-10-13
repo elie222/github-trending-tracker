@@ -571,6 +571,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-13T12:47:10.473Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "kentcdodds",
+          "name": "Kent C. Dodds",
+          "url": "https://github.com/kentcdodds",
+          "featuredRepo": {
+            "name": "kentcdodds/kody",
+            "url": "https://github.com/kentcdodds/kody",
+            "description": "🐨 Your agents' cloud — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/outreachr",
+            "url": "https://github.com/lalalune/outreachr",
+            "description": "Local-first, open-source investor fundraising CRM for founders"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "DavideCarvalho",
+          "name": "Davi de Carvalho",
+          "url": "https://github.com/DavideCarvalho",
+          "featuredRepo": {
+            "name": "DavideCarvalho/nestjs-agent",
+            "url": "https://github.com/DavideCarvalho/nestjs-agent",
+            "description": "Governed, durable-backed AI agent (chat + tool-calling) for NestJS — part of the Aviary ecosystem"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "zsviczian",
+          "name": "zsviczian",
+          "url": "https://github.com/zsviczian",
+          "featuredRepo": {
+            "name": "zsviczian/obsidian-excalidraw-plugin",
+            "url": "https://github.com/zsviczian/obsidian-excalidraw-plugin",
+            "description": "A plugin to edit and view Excalidraw drawings in Obsidian"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "timoncool",
+          "name": "Ilya (Nerual Dreming) Timonin",
+          "url": "https://github.com/timoncool",
+          "featuredRepo": {
+            "name": "timoncool/YuE2-Studio",
+            "url": "https://github.com/timoncool/YuE2-Studio",
+            "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Wind…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "mlightcad",
+          "name": "mlightcad",
+          "url": "https://github.com/mlightcad",
+          "featuredRepo": {
+            "name": "mlightcad/cad-viewer",
+            "url": "https://github.com/mlightcad/cad-viewer",
+            "description": "The world’s first fully web-based DXF/DWG viewer and editor that runs entirely in the browser — no backend server required."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "chenglou",
+          "name": "Cheng Lou",
+          "url": "https://github.com/chenglou",
+          "featuredRepo": {
+            "name": "chenglou/pretext",
+            "url": "https://github.com/chenglou/pretext",
+            "description": "Fast, accurate & comprehensive text measurement & layout"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "gmegidish",
+          "name": "Gil Megidish",
+          "url": "https://github.com/gmegidish",
+          "featuredRepo": {
+            "name": "gmegidish/mobile-mcp",
+            "url": "https://github.com/gmegidish/mobile-mcp",
+            "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "arvinxx",
+          "name": "Arvin Xu",
+          "url": "https://github.com/arvinxx",
+          "featuredRepo": {
+            "name": "arvinxx/power-yuque",
+            "url": "https://github.com/arvinxx/power-yuque",
+            "description": "语雀的增强插件"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "AshishKumar4",
+          "name": "Ashish Kumar Singh",
+          "url": "https://github.com/AshishKumar4",
+          "featuredRepo": {
+            "name": "AshishKumar4/armada",
+            "url": "https://github.com/AshishKumar4/armada",
+            "description": "Fast, mappable compute on Cloudflare Containers"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "moritzwilksch",
+          "name": "Moritz Wilksch",
+          "url": "https://github.com/moritzwilksch",
+          "featuredRepo": {
+            "name": "moritzwilksch/diffle",
+            "url": "https://github.com/moritzwilksch/diffle",
+            "description": "A keyboard-first diff viewer with LSP support and GitHub integration."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "pngwn",
+          "name": "pngwn",
+          "url": "https://github.com/pngwn",
+          "featuredRepo": {
+            "name": "pngwn/twinkleplop",
+            "url": "https://github.com/pngwn/twinkleplop",
+            "description": "Syntax highlighter and code authoring toolkit"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "Menci",
+          "name": "Menci",
+          "url": "https://github.com/Menci",
+          "featuredRepo": {
+            "name": "Menci/Floway",
+            "url": "https://github.com/Menci/Floway",
+            "description": "Serverless LLM API gateway for you and your agents."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "dsherret",
+          "name": "David Sherret",
+          "url": "https://github.com/dsherret",
+          "featuredRepo": {
+            "name": "dsherret/ts-morph",
+            "url": "https://github.com/dsherret/ts-morph",
+            "description": "TypeScript Compiler API wrapper for static analysis and programmatic code changes."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "std-microblock",
+          "name": "MicroBlock",
+          "url": "https://github.com/std-microblock",
+          "featuredRepo": {
+            "name": "std-microblock/crossgram",
+            "url": "https://github.com/std-microblock/crossgram",
+            "description": "使用 Telegram 客户端在任何平台上聊天 | Bring any chat platform to Telegram clients."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "dreamhunter2333",
+          "name": "Dream Hunter",
+          "url": "https://github.com/dreamhunter2333",
+          "featuredRepo": {
+            "name": "dreamhunter2333/cloudflare_temp_email",
+            "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+            "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "redphx",
+          "name": "redphx",
+          "url": "https://github.com/redphx",
+          "featuredRepo": {
+            "name": "redphx/better-xcloud",
+            "url": "https://github.com/redphx/better-xcloud",
+            "description": "Userscript to improve Xbox Cloud Gaming (xCloud) and Remote Play experiences on web browsers"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "louistrue",
+          "name": "Louis Trümpler",
+          "url": "https://github.com/louistrue",
+          "featuredRepo": {
+            "name": "louistrue/ids-flow",
+            "url": "https://github.com/louistrue/ids-flow",
+            "description": "Visual editor for creating and validating buildingSMART IDS specifications with drag-and-drop interface and real-time XML export"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "joelhooks",
+          "name": "Joel Hooks",
+          "url": "https://github.com/joelhooks",
+          "featuredRepo": {
+            "name": "joelhooks/rat-stack",
+            "url": "https://github.com/joelhooks/rat-stack",
+            "description": "🐀 Agentic TypeScript scaffold: Effect 4, XState 6 + @xstate/effect, Alchemy infra, varlock config, and a fence that makes cheating uncomf…"
+          }
+        }
+      ]
     }
   ],
   "best": [
