@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-13",
+  "list": "developers",
+  "language": "all",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/developers?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-13T01:13:09.508Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "maziyarpanahi",
+          "name": "Maziyar Panahi",
+          "url": "https://github.com/maziyarpanahi",
+          "featuredRepo": {
+            "name": "maziyarpanahi/openmed",
+            "url": "https://github.com/maziyarpanahi/openmed",
+            "description": "Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed P…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "N0zoM1z0",
+          "name": "Ysopwnable",
+          "url": "https://github.com/N0zoM1z0",
+          "featuredRepo": {
+            "name": "N0zoM1z0/dx-ball",
+            "url": "https://github.com/N0zoM1z0/dx-ball",
+            "description": "Reconstructing DX-Ball 1.07 with REA, backed by original-x86 differential tests and pinned MSVC byte-exact oracles."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "kentcdodds",
+          "name": "Kent C. Dodds",
+          "url": "https://github.com/kentcdodds",
+          "featuredRepo": {
+            "name": "kentcdodds/kody",
+            "url": "https://github.com/kentcdodds/kody",
+            "description": "🐨 Your agents' cloud — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/RuView",
+            "url": "https://github.com/ruvnet/RuView",
+            "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "SaladDay",
+          "name": "SaladDay",
+          "url": "https://github.com/SaladDay",
+          "featuredRepo": {
+            "name": "SaladDay/cc-switch-cli",
+            "url": "https://github.com/SaladDay/cc-switch-cli",
+            "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "echelon",
+          "name": "Brandon Thomas",
+          "url": "https://github.com/echelon",
+          "featuredRepo": {
+            "name": "echelon/arpabet.rs",
+            "url": "https://github.com/echelon/arpabet.rs",
+            "description": "Rust library for speech synthesis using CMUdict"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "jorgemanrubia",
+          "name": "Jorge Manrubia",
+          "url": "https://github.com/jorgemanrubia",
+          "featuredRepo": {
+            "name": "jorgemanrubia/omacharts",
+            "url": "https://github.com/jorgemanrubia/omacharts",
+            "description": "Fast, beautiful charting software for Omarchy"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "yschimke",
+          "name": "Yuri Schimke",
+          "url": "https://github.com/yschimke",
+          "featuredRepo": null
+        },
+        {
+          "rank": 10,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "poteto",
+          "name": "lauren",
+          "url": "https://github.com/poteto",
+          "featuredRepo": {
+            "name": "poteto/hiring-without-whiteboards",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/outreachr",
+            "url": "https://github.com/lalalune/outreachr",
+            "description": "Local-first, open-source investor fundraising CRM for founders"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/DeepSeek-Reasonix",
+            "url": "https://github.com/esengine/DeepSeek-Reasonix",
+            "description": "A reliable coding agent for complex software engineering tasks."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "Cyan4973",
+          "name": "Yann Collet",
+          "url": "https://github.com/Cyan4973",
+          "featuredRepo": {
+            "name": "Cyan4973/xxHash",
+            "url": "https://github.com/Cyan4973/xxHash",
+            "description": "Extremely fast non-cryptographic hash algorithm"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "Calcium-Ion",
+          "name": "Calcium-Ion",
+          "url": "https://github.com/Calcium-Ion",
+          "featuredRepo": {
+            "name": "Calcium-Ion/moejs",
+            "url": "https://github.com/Calcium-Ion/moejs",
+            "description": "A pure-Go JavaScript runtime built for running many small plugin sandboxes fast."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "soulteary",
+          "name": "Su Yang",
+          "url": "https://github.com/soulteary",
+          "featuredRepo": {
+            "name": "soulteary/forever-coolshell",
+            "url": "https://github.com/soulteary/forever-coolshell",
+            "description": "酷壳 - CoolShell 电子存档，🕯️ 谨纪念和保存陈皓先生的公开的技术分享内容，感恩皓叔对中文互联网，尤其是技术领域无私的分享。"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "noonghunna",
+          "name": "noonghunna",
+          "url": "https://github.com/noonghunna",
+          "featuredRepo": {
+            "name": "noonghunna/club-3090",
+            "url": "https://github.com/noonghunna/club-3090",
+            "description": "Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, sglang, llama.cpp and other custom engines) and m…"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "lvyufeng",
+          "name": "nate.river",
+          "url": "https://github.com/lvyufeng",
+          "featuredRepo": {
+            "name": "lvyufeng/RelicLLM",
+            "url": "https://github.com/lvyufeng/RelicLLM",
+            "description": "Multi-GPU inference engine for large language models on older hardware (RTX 2080 Ti, Ascend 910B)"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "omercnet",
+          "name": "Omer Cohen",
+          "url": "https://github.com/omercnet",
+          "featuredRepo": {
+            "name": "omercnet/awesome-paseo-plugins",
+            "url": "https://github.com/omercnet/awesome-paseo-plugins",
+            "description": "Awesome list of Paseo plugins"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "isair",
+          "name": "Baris Sencan",
+          "url": "https://github.com/isair",
+          "featuredRepo": {
+            "name": "isair/jarvis",
+            "url": "https://github.com/isair/jarvis",
+            "description": "A 100% private AI voice assistant that lives on your computer (works offline). Talk naturally as if Jarvis is a third person in the room,…"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "momo5502",
+          "name": "Maurice Heumann",
+          "url": "https://github.com/momo5502",
+          "featuredRepo": {
+            "name": "momo5502/sogen",
+            "url": "https://github.com/momo5502/sogen",
+            "description": "🪅 Windows & Linux userspace emulator"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "yairm210",
+          "name": "Yair Morgenstern",
+          "url": "https://github.com/yairm210",
+          "featuredRepo": {
+            "name": "yairm210/Unciv",
+            "url": "https://github.com/yairm210/Unciv",
+            "description": "Open-source Android/Desktop remake of Civ V"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "DavideCarvalho",
+          "name": "Davi de Carvalho",
+          "url": "https://github.com/DavideCarvalho",
+          "featuredRepo": {
+            "name": "DavideCarvalho/nestjs-agent",
+            "url": "https://github.com/DavideCarvalho/nestjs-agent",
+            "description": "Governed, durable-backed AI agent (chat + tool-calling) for NestJS — part of the Aviary ecosystem"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "wszqkzqk",
+          "name": "wszqkzqk",
+          "url": "https://github.com/wszqkzqk",
+          "featuredRepo": {
+            "name": "wszqkzqk/PvZ-Portable",
+            "url": "https://github.com/wszqkzqk/PvZ-Portable",
+            "description": "A cross-platform reimplementation of Plants vs. Zombies by the community. Aiming to bring 100% authentic experience of GOTY edition."
+          }
+        }
+      ]
+    }
+  ],
+  "best": [
+    {
+      "kind": "developer",
+      "key": "elie222",
+      "url": "https://github.com/elie222",
+      "bestRank": 10,
+      "scrapedAt": "2026-10-13T01:13:09.508Z",
+      "starsToday": null,
+      "featuredRepo": "elie222/rakazo"
+    }
+  ]
+}

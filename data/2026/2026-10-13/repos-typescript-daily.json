@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-13",
+  "list": "repos",
+  "language": "typescript",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/typescript?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-13T01:13:09.508Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 158239,
+          "forks": 36705,
+          "starsToday": 45327,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars": 27302,
+          "forks": 1945,
+          "starsToday": 246,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 391806,
+          "forks": 82382,
+          "starsToday": 181,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+          "language": "TypeScript",
+          "stars": 39725,
+          "forks": 3987,
+          "starsToday": 213,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "breferrari/obsidian-mind",
+          "url": "https://github.com/breferrari/obsidian-mind",
+          "description": "A self-organizing Obsidian vault that gives AI coding agents persistent memory.",
+          "language": "TypeScript",
+          "stars": 5258,
+          "forks": 593,
+          "starsToday": 69,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 100972,
+          "forks": 16976,
+          "starsToday": 633,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "CopilotKit/OpenIntelligentUI",
+          "url": "https://github.com/CopilotKit/OpenIntelligentUI",
+          "description": "Open-Source Generative UI Framework",
+          "language": "TypeScript",
+          "stars": 2892,
+          "forks": 328,
+          "starsToday": 250,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+          "language": "TypeScript",
+          "stars": 1094,
+          "forks": 91,
+          "starsToday": 216,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 34117,
+          "forks": 4676,
+          "starsToday": 548,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "chthollyphile/folia-major",
+          "url": "https://github.com/chthollyphile/folia-major",
+          "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
+          "language": "TypeScript",
+          "stars": 5508,
+          "forks": 499,
+          "starsToday": 556,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "rmyndharis/OpenWA",
+          "url": "https://github.com/rmyndharis/OpenWA",
+          "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+          "language": "TypeScript",
+          "stars": 15384,
+          "forks": 3604,
+          "starsToday": 168,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "agalwood/Motrix",
+          "url": "https://github.com/agalwood/Motrix",
+          "description": "A full-featured download manager.",
+          "language": "TypeScript",
+          "stars": 56593,
+          "forks": 5071,
+          "starsToday": 113,
+          "starsLabel": "today"
+        }
+      ]
+    }
+  ],
+  "best": []
+}
