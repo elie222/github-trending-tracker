@@ -568,6 +568,179 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-13T18:39:18.977Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "tester-army/e2e",
+          "url": "https://github.com/tester-army/e2e",
+          "description": "Next generation e2e testing framework for web and mobile apps.",
+          "language": "TypeScript",
+          "stars": 10007,
+          "forks": 485,
+          "starsToday": 5582,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 62528,
+          "forks": 5605,
+          "starsToday": 4482,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 100373,
+          "forks": 8797,
+          "starsToday": 3762,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 11192,
+          "forks": 1086,
+          "starsToday": 1144,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 200268,
+          "forks": 48974,
+          "starsToday": 130471,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 34570,
+          "forks": 4715,
+          "starsToday": 3029,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+          "language": "TypeScript",
+          "stars": 1158,
+          "forks": 99,
+          "starsToday": 502,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 27362,
+          "forks": 7241,
+          "starsToday": 1716,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+          "language": "TypeScript",
+          "stars": 7386,
+          "forks": 559,
+          "starsToday": 2056,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "DmNote-App/DmNote",
+          "url": "https://github.com/DmNote-App/DmNote",
+          "description": "Make it yours. A customizable key viewer for DJMAX RESPECT V and any game.",
+          "language": "TypeScript",
+          "stars": 3609,
+          "forks": 218,
+          "starsToday": 1338,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "remotion-dev/remotion",
+          "url": "https://github.com/remotion-dev/remotion",
+          "description": "🎥 Make videos programmatically with React",
+          "language": "TypeScript",
+          "stars": 63829,
+          "forks": 5030,
+          "starsToday": 1686,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "invoke-ai/InvokeAI",
+          "url": "https://github.com/invoke-ai/InvokeAI",
+          "description": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.",
+          "language": "TypeScript",
+          "stars": 28611,
+          "forks": 3040,
+          "starsToday": 246,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "breferrari/obsidian-mind",
+          "url": "https://github.com/breferrari/obsidian-mind",
+          "description": "A self-organizing Obsidian vault that gives AI coding agents persistent memory.",
+          "language": "TypeScript",
+          "stars": 5293,
+          "forks": 603,
+          "starsToday": 351,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "AtomicBot-ai/atomic-agent",
+          "url": "https://github.com/AtomicBot-ai/atomic-agent",
+          "description": "Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp.",
+          "language": "TypeScript",
+          "stars": 3298,
+          "forks": 269,
+          "starsToday": 542,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "Vincentwei1021/video-shotcraft",
+          "url": "https://github.com/Vincentwei1021/video-shotcraft",
+          "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
+          "language": "TypeScript",
+          "stars": 11708,
+          "forks": 1044,
+          "starsToday": 1125,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": []

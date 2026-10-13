@@ -480,6 +480,201 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-13T18:39:18.977Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 200265,
+          "forks": 48974,
+          "starsToday": 54706,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars": 28026,
+          "forks": 1986,
+          "starsToday": 978,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "vercel-labs/skills",
+          "url": "https://github.com/vercel-labs/skills",
+          "description": "The open agent skills tool - npx skills",
+          "language": "TypeScript",
+          "stars": 34333,
+          "forks": 2938,
+          "starsToday": 187,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "description": "Open source alternative to Semrush and Ahrefs",
+          "language": "TypeScript",
+          "stars": 23446,
+          "forks": 3094,
+          "starsToday": 203,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+          "language": "TypeScript",
+          "stars": 39860,
+          "forks": 4005,
+          "starsToday": 179,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "krillinai/OpenCreator",
+          "url": "https://github.com/krillinai/OpenCreator",
+          "description": "Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.",
+          "language": "TypeScript",
+          "stars": 12892,
+          "forks": 1368,
+          "starsToday": 134,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 62528,
+          "forks": 5605,
+          "starsToday": 831,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 34570,
+          "forks": 4715,
+          "starsToday": 786,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "nab138/iloader",
+          "url": "https://github.com/nab138/iloader",
+          "description": "User friendly sideloader",
+          "language": "TypeScript",
+          "stars": 3912,
+          "forks": 280,
+          "starsToday": 42,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "apify/apify-mcp-server",
+          "url": "https://github.com/apify/apify-mcp-server",
+          "description": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.",
+          "language": "TypeScript",
+          "stars": 10984,
+          "forks": 328,
+          "starsToday": 207,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+          "language": "TypeScript",
+          "stars": 1158,
+          "forks": 99,
+          "starsToday": 80,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "Tencent/teamai-cli",
+          "url": "https://github.com/Tencent/teamai-cli",
+          "description": "Make Every Team AI Native",
+          "language": "TypeScript",
+          "stars": 5421,
+          "forks": 422,
+          "starsToday": 36,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "rmyndharis/OpenWA",
+          "url": "https://github.com/rmyndharis/OpenWA",
+          "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+          "language": "TypeScript",
+          "stars": 15433,
+          "forks": 3614,
+          "starsToday": 70,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "supabase/agent-skills",
+          "url": "https://github.com/supabase/agent-skills",
+          "description": "Agent Skills to help developers using AI agents with Supabase",
+          "language": "TypeScript",
+          "stars": 2811,
+          "forks": 236,
+          "starsToday": 26,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 15,
+          "name": "CopilotKit/OpenIntelligentUI",
+          "url": "https://github.com/CopilotKit/OpenIntelligentUI",
+          "description": "Open-Source Generative UI Framework",
+          "language": "TypeScript",
+          "stars": 3021,
+          "forks": 343,
+          "starsToday": 174,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 16,
+          "name": "Twigpine/openclaude",
+          "url": "https://github.com/Twigpine/openclaude",
+          "description": "runs anywhere. uses anything",
+          "language": "TypeScript",
+          "stars": 33825,
+          "forks": 9116,
+          "starsToday": 64,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 17,
+          "name": "rohitg00/agentmemory",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+          "language": "TypeScript",
+          "stars": 29384,
+          "forks": 2588,
+          "starsToday": 49,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []

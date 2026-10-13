@@ -381,6 +381,124 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-13T18:39:18.977Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+          "language": "C++",
+          "stars": 34741,
+          "forks": 3006,
+          "starsToday": 27263,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 289312,
+          "forks": 24294,
+          "starsToday": 11139,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "tester-army/e2e",
+          "url": "https://github.com/tester-army/e2e",
+          "description": "Next generation e2e testing framework for web and mobile apps.",
+          "language": "TypeScript",
+          "stars": 10007,
+          "forks": 485,
+          "starsToday": 5582,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "EpicGames/raddebugger",
+          "url": "https://github.com/EpicGames/raddebugger",
+          "description": "A native, user-mode, multi-process, graphical debugger.",
+          "language": "C",
+          "stars": 8470,
+          "forks": 411,
+          "starsToday": 845,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 62528,
+          "forks": 5605,
+          "starsToday": 4482,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 100373,
+          "forks": 8797,
+          "starsToday": 3762,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 11192,
+          "forks": 1086,
+          "starsToday": 1144,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "Give your agent CAD superpowers.",
+          "language": "Python",
+          "stars": 19922,
+          "forks": 1955,
+          "starsToday": 2441,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+          "language": "Dart",
+          "stars": 180088,
+          "forks": 33969,
+          "starsToday": 806,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "language": "HTML",
+          "stars": 53837,
+          "forks": 3419,
+          "starsToday": 9237,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": []
