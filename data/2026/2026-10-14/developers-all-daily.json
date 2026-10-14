@@ -280,6 +280,281 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-14T12:40:16.474Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "yetone",
+          "name": "yetone",
+          "url": "https://github.com/yetone",
+          "featuredRepo": {
+            "name": "yetone/magpie",
+            "url": "https://github.com/yetone/magpie",
+            "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "N0zoM1z0",
+          "name": "Ysopwnable",
+          "url": "https://github.com/N0zoM1z0",
+          "featuredRepo": {
+            "name": "N0zoM1z0/dx-ball",
+            "url": "https://github.com/N0zoM1z0/dx-ball",
+            "description": "Reconstructing DX-Ball 1.07 with REA, backed by original-x86 differential tests and pinned MSVC byte-exact oracles."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "echelon",
+          "name": "Brandon Thomas",
+          "url": "https://github.com/echelon",
+          "featuredRepo": {
+            "name": "echelon/mac-spaces-labels",
+            "url": "https://github.com/echelon/mac-spaces-labels",
+            "description": "label mac spaces"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "maziyarpanahi",
+          "name": "Maziyar Panahi",
+          "url": "https://github.com/maziyarpanahi",
+          "featuredRepo": {
+            "name": "maziyarpanahi/openmed",
+            "url": "https://github.com/maziyarpanahi/openmed",
+            "description": "Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed P…"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "Cyan4973",
+          "name": "Yann Collet",
+          "url": "https://github.com/Cyan4973",
+          "featuredRepo": {
+            "name": "Cyan4973/xxHash",
+            "url": "https://github.com/Cyan4973/xxHash",
+            "description": "Extremely fast non-cryptographic hash algorithm"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "wszqkzqk",
+          "name": "wszqkzqk",
+          "url": "https://github.com/wszqkzqk",
+          "featuredRepo": {
+            "name": "wszqkzqk/PvZ-Portable",
+            "url": "https://github.com/wszqkzqk/PvZ-Portable",
+            "description": "A cross-platform reimplementation of Plants vs. Zombies by the community. Aiming to bring 100% authentic experience of GOTY edition."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "SaladDay",
+          "name": "SaladDay",
+          "url": "https://github.com/SaladDay",
+          "featuredRepo": {
+            "name": "SaladDay/cc-switch-cli",
+            "url": "https://github.com/SaladDay/cc-switch-cli",
+            "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "momo5502",
+          "name": "Maurice Heumann",
+          "url": "https://github.com/momo5502",
+          "featuredRepo": {
+            "name": "momo5502/sogen",
+            "url": "https://github.com/momo5502/sogen",
+            "description": "🪅 Windows & Linux userspace emulator"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "akshaydeo",
+          "name": "Akshay Deo",
+          "url": "https://github.com/akshaydeo",
+          "featuredRepo": {
+            "name": "akshaydeo/strip",
+            "url": "https://github.com/akshaydeo/strip",
+            "description": "Strip function calls during builds from your Go code"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "poteto",
+          "name": "lauren",
+          "url": "https://github.com/poteto",
+          "featuredRepo": {
+            "name": "poteto/hiring-without-whiteboards",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "ja7ad",
+          "name": "Javad Rajabzadeh",
+          "url": "https://github.com/ja7ad",
+          "featuredRepo": {
+            "name": "ja7ad/hydra",
+            "url": "https://github.com/ja7ad/hydra",
+            "description": "A fast, resilient, multi-source file retriever and download engine"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "hypery11",
+          "name": "hypery11",
+          "url": "https://github.com/hypery11",
+          "featuredRepo": {
+            "name": "hypery11/flipper-tesla-fsd",
+            "url": "https://github.com/hypery11/flipper-tesla-fsd",
+            "description": "Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, CAN captu…"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 16,
+          "username": "kane50613",
+          "name": "Kane Wang",
+          "url": "https://github.com/kane50613",
+          "featuredRepo": {
+            "name": "kane50613/takumi",
+            "url": "https://github.com/kane50613/takumi",
+            "description": "Render OG images and paged PDFs from JSX, HTML, and CSS. No headless browser. Runs on Node.js, Cloudflare Workers, browsers, and Rust."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "soulteary",
+          "name": "Su Yang",
+          "url": "https://github.com/soulteary",
+          "featuredRepo": {
+            "name": "soulteary/forever-coolshell",
+            "url": "https://github.com/soulteary/forever-coolshell",
+            "description": "酷壳 - CoolShell 电子存档，🕯️ 谨纪念和保存陈皓先生的公开的技术分享内容，感恩皓叔对中文互联网，尤其是技术领域无私的分享。"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "isair",
+          "name": "Baris Sencan",
+          "url": "https://github.com/isair",
+          "featuredRepo": {
+            "name": "isair/jarvis",
+            "url": "https://github.com/isair/jarvis",
+            "description": "Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or O…"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/DeepSeek-Reasonix",
+            "url": "https://github.com/esengine/DeepSeek-Reasonix",
+            "description": "A reliable coding agent for complex software engineering tasks."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "mpfaffenberger",
+          "name": "Mike Pfaffenberger",
+          "url": "https://github.com/mpfaffenberger",
+          "featuredRepo": {
+            "name": "mpfaffenberger/code_puppy",
+            "url": "https://github.com/mpfaffenberger/code_puppy",
+            "description": "Agentic AI for writing code"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "bdraco",
+          "name": "J. Nick Koston",
+          "url": "https://github.com/bdraco",
+          "featuredRepo": null
+        },
+        {
+          "rank": 22,
+          "username": "hiyouga",
+          "name": "Yaowei Zheng",
+          "url": "https://github.com/hiyouga",
+          "featuredRepo": {
+            "name": "hiyouga/LlamaFactory",
+            "url": "https://github.com/hiyouga/LlamaFactory",
+            "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "yeongseon",
+          "name": "Yeongseon Choe",
+          "url": "https://github.com/yeongseon",
+          "featuredRepo": null
+        },
+        {
+          "rank": 24,
+          "username": "teng-lin",
+          "name": "Teng Lin",
+          "url": "https://github.com/teng-lin",
+          "featuredRepo": {
+            "name": "teng-lin/notebooklm-py",
+            "url": "https://github.com/teng-lin/notebooklm-py",
+            "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capa…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "noonghunna",
+          "name": "noonghunna",
+          "url": "https://github.com/noonghunna",
+          "featuredRepo": {
+            "name": "noonghunna/club-3090",
+            "url": "https://github.com/noonghunna/club-3090",
+            "description": "Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, sglang, llama.cpp and other custom engines) and m…"
+          }
+        }
+      ]
     }
   ],
   "best": [

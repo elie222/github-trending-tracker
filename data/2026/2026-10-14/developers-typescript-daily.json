@@ -288,6 +288,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-14T12:40:16.474Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "timoncool",
+          "name": "Ilya (Nerual Dreming) Timonin",
+          "url": "https://github.com/timoncool",
+          "featuredRepo": {
+            "name": "timoncool/YuE2-Studio",
+            "url": "https://github.com/timoncool/YuE2-Studio",
+            "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Wind…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "JimLiu",
+          "name": "Jim Liu 宝玉",
+          "url": "https://github.com/JimLiu",
+          "featuredRepo": {
+            "name": "JimLiu/baocut",
+            "url": "https://github.com/JimLiu/baocut",
+            "description": "BaoCut: an AI video agent with an editable timeline. Transcribe, subtitle, translate, dub, cut and animate."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "mlightcad",
+          "name": "mlightcad",
+          "url": "https://github.com/mlightcad",
+          "featuredRepo": {
+            "name": "mlightcad/cad-viewer",
+            "url": "https://github.com/mlightcad/cad-viewer",
+            "description": "The world’s first fully web-based DXF/DWG viewer and editor that runs entirely in the browser — no backend server required."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "louistrue",
+          "name": "Louis Trümpler",
+          "url": "https://github.com/louistrue",
+          "featuredRepo": {
+            "name": "louistrue/ids-flow",
+            "url": "https://github.com/louistrue/ids-flow",
+            "description": "Visual editor for creating and validating buildingSMART IDS specifications with drag-and-drop interface and real-time XML export"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "whyour",
+          "name": "whyour",
+          "url": "https://github.com/whyour",
+          "featuredRepo": {
+            "name": "whyour/qinglong",
+            "url": "https://github.com/whyour/qinglong",
+            "description": "支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "Gilbert09",
+          "name": "Tom Owers",
+          "url": "https://github.com/Gilbert09",
+          "featuredRepo": {
+            "name": "Gilbert09/talyn",
+            "url": "https://github.com/Gilbert09/talyn",
+            "description": "Mission control for your GitHub pull requests, powered by cloud coding agents. Talyn triages every PR worst-first, then sends an AI agent…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "irvinebroque",
+          "name": "Brendan Irvine-Broque",
+          "url": "https://github.com/irvinebroque",
+          "featuredRepo": {
+            "name": "irvinebroque/poppy-demo",
+            "url": "https://github.com/irvinebroque/poppy-demo",
+            "description": null
+          }
+        },
+        {
+          "rank": 14,
+          "username": "zts212653",
+          "name": "Lysander Su",
+          "url": "https://github.com/zts212653",
+          "featuredRepo": {
+            "name": "zts212653/clowder-ai",
+            "url": "https://github.com/zts212653/clowder-ai",
+            "description": "Build AI teams, not just agents. Hard rails, soft power, shared mission."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "zereight",
+          "name": "zereight",
+          "url": "https://github.com/zereight",
+          "featuredRepo": {
+            "name": "zereight/gitlab-mcp",
+            "url": "https://github.com/zereight/gitlab-mcp",
+            "description": "First gitlab mcp for you, building together"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "Fausto95",
+          "name": "Faustino Kialungila",
+          "url": "https://github.com/Fausto95",
+          "featuredRepo": {
+            "name": "Fausto95/lucent",
+            "url": "https://github.com/Fausto95/lucent",
+            "description": "Write React Native native modules in TypeScript. Lucent compiles a checked subset to C++ and calls it through JSI: no Swift or Kotlin to …"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "benvinegar",
+          "name": "Ben Vinegar",
+          "url": "https://github.com/benvinegar",
+          "featuredRepo": {
+            "name": "benvinegar/counterscale",
+            "url": "https://github.com/benvinegar/counterscale",
+            "description": "Scalable web analytics you run yourself on Cloudflare"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "ZaynJarvis",
+          "name": "Zayn Jarvis",
+          "url": "https://github.com/ZaynJarvis",
+          "featuredRepo": {
+            "name": "ZaynJarvis/aesthetics",
+            "url": "https://github.com/ZaynJarvis/aesthetics",
+            "description": "A public workbook of design styles, aesthetics, and image-generation prompts."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "kentcdodds",
+          "name": "Kent C. Dodds",
+          "url": "https://github.com/kentcdodds",
+          "featuredRepo": {
+            "name": "kentcdodds/kody",
+            "url": "https://github.com/kentcdodds/kody",
+            "description": "🐨 Your agents' cloud — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "dbuezas",
+          "name": "David Buezas",
+          "url": "https://github.com/dbuezas",
+          "featuredRepo": {
+            "name": "dbuezas/lovelace-plotly-graph-card",
+            "url": "https://github.com/dbuezas/lovelace-plotly-graph-card",
+            "description": "Highly customisable Lovelace card to plot interactive graphs. Brings scrolling, zooming, and much more!"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "Krzysztof-Cieslak",
+          "name": "Krzysztof Cieślak",
+          "url": "https://github.com/Krzysztof-Cieslak",
+          "featuredRepo": {
+            "name": "Krzysztof-Cieslak/jev-agent-control",
+            "url": "https://github.com/Krzysztof-Cieslak/jev-agent-control",
+            "description": "OpenCode V2 agent routing and autonomous handoffs powered by Jev"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "chenglou",
+          "name": "Cheng Lou",
+          "url": "https://github.com/chenglou",
+          "featuredRepo": {
+            "name": "chenglou/pretext",
+            "url": "https://github.com/chenglou/pretext",
+            "description": "Fast, accurate & comprehensive text measurement & layout"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "cv",
+          "name": "Carlos Villela",
+          "url": "https://github.com/cv",
+          "featuredRepo": {
+            "name": "cv/pi-ssh-remote",
+            "url": "https://github.com/cv/pi-ssh-remote",
+            "description": "Pi extension that redirects all file operations and commands to a remote host via SSH"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "mattzcarey",
+          "name": "Matt",
+          "url": "https://github.com/mattzcarey",
+          "featuredRepo": {
+            "name": "mattzcarey/shippie",
+            "url": "https://github.com/mattzcarey/shippie",
+            "description": "extendable code review and QA agent 🚢"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "vimtor",
+          "name": "Victor Navarro",
+          "url": "https://github.com/vimtor",
+          "featuredRepo": {
+            "name": "vimtor/opencode-plugins",
+            "url": "https://github.com/vimtor/opencode-plugins",
+            "description": "My personal OpenCode plugins."
+          }
+        }
+      ]
     }
   ],
   "best": [
