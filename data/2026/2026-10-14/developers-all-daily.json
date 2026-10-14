@@ -555,6 +555,277 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-14T18:37:22.227Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "richiemcilroy",
+          "name": "Richie McIlroy",
+          "url": "https://github.com/richiemcilroy",
+          "featuredRepo": {
+            "name": "richiemcilroy/Tov",
+            "url": "https://github.com/richiemcilroy/Tov",
+            "description": "A TypeScript-shaped language built for coding agents. It compiles to small, fast native binaries."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "frankbria",
+          "name": "Frank Bria",
+          "url": "https://github.com/frankbria",
+          "featuredRepo": {
+            "name": "frankbria/ralph-claude-code",
+            "url": "https://github.com/frankbria/ralph-claude-code",
+            "description": "Autonomous AI development loop for Claude Code with intelligent exit detection"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "N0zoM1z0",
+          "name": "Ysopwnable",
+          "url": "https://github.com/N0zoM1z0",
+          "featuredRepo": {
+            "name": "N0zoM1z0/dx-ball",
+            "url": "https://github.com/N0zoM1z0/dx-ball",
+            "description": "Reconstructing DX-Ball 1.07 with REA, backed by original-x86 differential tests and pinned MSVC byte-exact oracles."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "MakazhanAlpamys",
+          "name": "Alpamys Makazhan",
+          "url": "https://github.com/MakazhanAlpamys",
+          "featuredRepo": {
+            "name": "MakazhanAlpamys/Soup",
+            "url": "https://github.com/MakazhanAlpamys/Soup",
+            "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
+          }
+        },
+        {
+          "rank": 5,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "noonghunna",
+          "name": "noonghunna",
+          "url": "https://github.com/noonghunna",
+          "featuredRepo": {
+            "name": "noonghunna/club-3090",
+            "url": "https://github.com/noonghunna/club-3090",
+            "description": "Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, sglang, llama.cpp and other custom engines) and m…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "jamiepine",
+          "name": "Jamie Pine",
+          "url": "https://github.com/jamiepine",
+          "featuredRepo": {
+            "name": "jamiepine/voicebox",
+            "url": "https://github.com/jamiepine/voicebox",
+            "description": "The open-source AI voice studio. Clone, dictate, create."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "maziyarpanahi",
+          "name": "Maziyar Panahi",
+          "url": "https://github.com/maziyarpanahi",
+          "featuredRepo": {
+            "name": "maziyarpanahi/openmed",
+            "url": "https://github.com/maziyarpanahi/openmed",
+            "description": "Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed P…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "zhaochenyang20",
+          "name": "赵晨阳",
+          "url": "https://github.com/zhaochenyang20",
+          "featuredRepo": {
+            "name": "zhaochenyang20/Awesome-ML-SYS-Tutorial",
+            "url": "https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial",
+            "description": "My learning notes for ML SYS."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "yetone",
+          "name": "yetone",
+          "url": "https://github.com/yetone",
+          "featuredRepo": {
+            "name": "yetone/magpie",
+            "url": "https://github.com/yetone/magpie",
+            "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "jorgemanrubia",
+          "name": "Jorge Manrubia",
+          "url": "https://github.com/jorgemanrubia",
+          "featuredRepo": {
+            "name": "jorgemanrubia/omacharts",
+            "url": "https://github.com/jorgemanrubia/omacharts",
+            "description": "Fast, beautiful charting software for Omarchy"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "teng-lin",
+          "name": "Teng Lin",
+          "url": "https://github.com/teng-lin",
+          "featuredRepo": {
+            "name": "teng-lin/notebooklm-py",
+            "url": "https://github.com/teng-lin/notebooklm-py",
+            "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capa…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "akitaonrails",
+          "name": "Fabio Akita",
+          "url": "https://github.com/akitaonrails",
+          "featuredRepo": {
+            "name": "akitaonrails/ai-memory",
+            "url": "https://github.com/akitaonrails/ai-memory",
+            "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/RuView",
+            "url": "https://github.com/ruvnet/RuView",
+            "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "yeongseon",
+          "name": "Yeongseon Choe",
+          "url": "https://github.com/yeongseon",
+          "featuredRepo": null
+        },
+        {
+          "rank": 18,
+          "username": "hiyouga",
+          "name": "Yaowei Zheng",
+          "url": "https://github.com/hiyouga",
+          "featuredRepo": {
+            "name": "hiyouga/LlamaFactory",
+            "url": "https://github.com/hiyouga/LlamaFactory",
+            "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "dentiny",
+          "name": "dentiny",
+          "url": "https://github.com/dentiny",
+          "featuredRepo": {
+            "name": "dentiny/duckdb-object-storage",
+            "url": "https://github.com/dentiny/duckdb-object-storage",
+            "description": "DuckDB over object storage"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "isair",
+          "name": "Baris Sencan",
+          "url": "https://github.com/isair",
+          "featuredRepo": {
+            "name": "isair/jarvis",
+            "url": "https://github.com/isair/jarvis",
+            "description": "Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or O…"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "mpfaffenberger",
+          "name": "Mike Pfaffenberger",
+          "url": "https://github.com/mpfaffenberger",
+          "featuredRepo": {
+            "name": "mpfaffenberger/code_puppy",
+            "url": "https://github.com/mpfaffenberger/code_puppy",
+            "description": "Agentic AI for writing code"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "kzndotsh",
+          "name": "Logan Honeycutt",
+          "url": "https://github.com/kzndotsh",
+          "featuredRepo": null
+        },
+        {
+          "rank": 23,
+          "username": "ankit",
+          "name": "Ankit Ahuja",
+          "url": "https://github.com/ankit",
+          "featuredRepo": {
+            "name": "ankit/stylebot",
+            "url": "https://github.com/ankit/stylebot",
+            "description": "Restyle any website"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "leecalcote",
+          "name": "Lee Calcote",
+          "url": "https://github.com/leecalcote",
+          "featuredRepo": null
+        },
+        {
+          "rank": 25,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/DeepSeek-Reasonix",
+            "url": "https://github.com/esengine/DeepSeek-Reasonix",
+            "description": "A reliable coding agent for complex software engineering tasks."
+          }
+        }
+      ]
     }
   ],
   "best": [

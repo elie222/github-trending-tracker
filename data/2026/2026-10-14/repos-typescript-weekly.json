@@ -362,6 +362,190 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-14T18:37:22.227Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 236380,
+          "forks": 58966,
+          "starsToday": 183758,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 63541,
+          "forks": 5699,
+          "starsToday": 4732,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "tester-army/e2e",
+          "url": "https://github.com/tester-army/e2e",
+          "description": "Next generation e2e testing framework for web and mobile apps.",
+          "language": "TypeScript",
+          "stars": 10434,
+          "forks": 508,
+          "starsToday": 4426,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 100709,
+          "forks": 8825,
+          "starsToday": 3587,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+          "language": "TypeScript",
+          "stars": 1253,
+          "forks": 108,
+          "starsToday": 572,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 11355,
+          "forks": 1107,
+          "starsToday": 1141,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "chthollyphile/folia-major",
+          "url": "https://github.com/chthollyphile/folia-major",
+          "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
+          "language": "TypeScript",
+          "stars": 6246,
+          "forks": 601,
+          "starsToday": 2387,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "vercel-labs/skills",
+          "url": "https://github.com/vercel-labs/skills",
+          "description": "The open agent skills tool - npx skills",
+          "language": "TypeScript",
+          "stars": 34910,
+          "forks": 2974,
+          "starsToday": 1561,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 35177,
+          "forks": 4775,
+          "starsToday": 3412,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars": 28942,
+          "forks": 2033,
+          "starsToday": 3121,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "breferrari/obsidian-mind",
+          "url": "https://github.com/breferrari/obsidian-mind",
+          "description": "A self-organizing Obsidian vault that gives AI coding agents persistent memory.",
+          "language": "TypeScript",
+          "stars": 5312,
+          "forks": 605,
+          "starsToday": 384,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "remotion-dev/remotion",
+          "url": "https://github.com/remotion-dev/remotion",
+          "description": "🎥 Make videos programmatically with React",
+          "language": "TypeScript",
+          "stars": 64083,
+          "forks": 5055,
+          "starsToday": 1702,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "invoke-ai/InvokeAI",
+          "url": "https://github.com/invoke-ai/InvokeAI",
+          "description": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.",
+          "language": "TypeScript",
+          "stars": 28641,
+          "forks": 3048,
+          "starsToday": 271,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "Vincentwei1021/video-shotcraft",
+          "url": "https://github.com/Vincentwei1021/video-shotcraft",
+          "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
+          "language": "TypeScript",
+          "stars": 11911,
+          "forks": 1067,
+          "starsToday": 1264,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "hicccc77/WeFlow",
+          "url": "https://github.com/hicccc77/WeFlow",
+          "description": "WeFlow - 一个本地的微信聊天记录导出和年度报告应用",
+          "language": "TypeScript",
+          "stars": 15110,
+          "forks": 681,
+          "starsToday": 329,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 16,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 27550,
+          "forks": 7333,
+          "starsToday": 1574,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": []
