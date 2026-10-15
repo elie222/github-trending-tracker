@@ -761,3 +761,4 @@ These periods are scraped and stored, but they are not part of the daily totals,
 | TypeScript developers (weekly) | elie222 | 2026-10-15 | #11 |
 | TypeScript developers (monthly) | elie222 | 2026-10-15 | #8 |
 | all languages developers (monthly) | elie222 | 2026-10-06 | #25 |
+| TypeScript repositories (monthly) | elie222/rakazo | 2026-10-15 | #21 |
