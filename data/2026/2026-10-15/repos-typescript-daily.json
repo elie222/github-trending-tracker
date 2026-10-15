@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-15",
+  "list": "repos",
+  "language": "typescript",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/typescript?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-15T00:57:40.846Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 242193,
+          "forks": 60315,
+          "starsToday": 41034,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars": 29127,
+          "forks": 2045,
+          "starsToday": 947,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+          "language": "TypeScript",
+          "stars": 74683,
+          "forks": 8889,
+          "starsToday": 146,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 53550,
+          "forks": 6623,
+          "starsToday": 85,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "vercel-labs/skills",
+          "url": "https://github.com/vercel-labs/skills",
+          "description": "The open agent skills tool - npx skills",
+          "language": "TypeScript",
+          "stars": 34951,
+          "forks": 2978,
+          "starsToday": 658,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "vuejs/core",
+          "url": "https://github.com/vuejs/core",
+          "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+          "language": "TypeScript",
+          "stars": 54629,
+          "forks": 9256,
+          "starsToday": 78,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 63706,
+          "forks": 5717,
+          "starsToday": 1089,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "krillinai/OpenCreator",
+          "url": "https://github.com/krillinai/OpenCreator",
+          "description": "Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.",
+          "language": "TypeScript",
+          "stars": 13065,
+          "forks": 1400,
+          "starsToday": 95,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 94461,
+          "forks": 9289,
+          "starsToday": 301,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "nestjs/nest",
+          "url": "https://github.com/nestjs/nest",
+          "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",
+          "language": "TypeScript",
+          "stars": 76849,
+          "forks": 8583,
+          "starsToday": 55,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+          "language": "TypeScript",
+          "stars": 111558,
+          "forks": 16841,
+          "starsToday": 97,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "language": "TypeScript",
+          "stars": 92506,
+          "forks": 5899,
+          "starsToday": 919,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+          "language": "TypeScript",
+          "stars": 40162,
+          "forks": 4048,
+          "starsToday": 274,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 193613,
+          "forks": 45500,
+          "starsToday": 169,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 15,
+          "name": "apify/apify-mcp-server",
+          "url": "https://github.com/apify/apify-mcp-server",
+          "description": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.",
+          "language": "TypeScript",
+          "stars": 11250,
+          "forks": 345,
+          "starsToday": 233,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 16,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 213541,
+          "forks": 28646,
+          "starsToday": 320,
+          "starsLabel": "today"
+        }
+      ]
+    }
+  ],
+  "best": []
+}

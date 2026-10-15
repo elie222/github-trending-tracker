@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-15",
+  "list": "repos",
+  "language": "all",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-15T00:57:40.846Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 242196,
+          "forks": 60316,
+          "starsToday": 41034,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "language": "Python",
+          "stars": 66366,
+          "forks": 7317,
+          "starsToday": 3538,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars": 29127,
+          "forks": 2045,
+          "starsToday": 947,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+          "language": "Shell",
+          "stars": 95456,
+          "forks": 10517,
+          "starsToday": 52,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+          "language": "Python",
+          "stars": 49339,
+          "forks": 4422,
+          "starsToday": 163,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars": 52502,
+          "forks": 4774,
+          "starsToday": 103,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "ifixai-ai/iFixAi",
+          "url": "https://github.com/ifixai-ai/iFixAi",
+          "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+          "language": "Python",
+          "stars": 27415,
+          "forks": 1503,
+          "starsToday": 2109,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+          "language": "Go",
+          "stars": 29474,
+          "forks": 4426,
+          "starsToday": 1025,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "rust-lang/rust",
+          "url": "https://github.com/rust-lang/rust",
+          "description": "Empowering everyone to build reliable and efficient software.",
+          "language": "Rust",
+          "stars": 120035,
+          "forks": 18701,
+          "starsToday": 207,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "xtool-org/xtool",
+          "url": "https://github.com/xtool-org/xtool",
+          "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+          "language": "Swift",
+          "stars": 10833,
+          "forks": 490,
+          "starsToday": 1502,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "ntdevlabs/tiny11builder",
+          "url": "https://github.com/ntdevlabs/tiny11builder",
+          "description": "WinUI app for building smaller, customized Windows 11 images.",
+          "language": "C#",
+          "stars": 20227,
+          "forks": 1556,
+          "starsToday": 139,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "description": "Ghidra is a software reverse engineering (SRE) framework",
+          "language": "Java",
+          "stars": 87513,
+          "forks": 9769,
+          "starsToday": 1008,
+          "starsLabel": "today"
+        }
+      ]
+    }
+  ],
+  "best": []
+}
