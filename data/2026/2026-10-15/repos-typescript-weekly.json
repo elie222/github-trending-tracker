@@ -546,6 +546,179 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-15T18:35:20.189Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 265586,
+          "forks": 66749,
+          "starsToday": 214837,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 64373,
+          "forks": 5785,
+          "starsToday": 5123,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+          "language": "TypeScript",
+          "stars": 1352,
+          "forks": 114,
+          "starsToday": 628,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 11576,
+          "forks": 1133,
+          "starsToday": 1155,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "tester-army/e2e",
+          "url": "https://github.com/tester-army/e2e",
+          "description": "Next generation e2e testing framework for web and mobile apps.",
+          "language": "TypeScript",
+          "stars": 10746,
+          "forks": 526,
+          "starsToday": 3505,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "vercel-labs/skills",
+          "url": "https://github.com/vercel-labs/skills",
+          "description": "The open agent skills tool - npx skills",
+          "language": "TypeScript",
+          "stars": 35088,
+          "forks": 2990,
+          "starsToday": 1604,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "remotion-dev/remotion",
+          "url": "https://github.com/remotion-dev/remotion",
+          "description": "🎥 Make videos programmatically with React",
+          "language": "TypeScript",
+          "stars": 64354,
+          "forks": 5079,
+          "starsToday": 1803,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "chthollyphile/folia-major",
+          "url": "https://github.com/chthollyphile/folia-major",
+          "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
+          "language": "TypeScript",
+          "stars": 6565,
+          "forks": 647,
+          "starsToday": 2504,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 100978,
+          "forks": 8840,
+          "starsToday": 3371,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars": 29701,
+          "forks": 2072,
+          "starsToday": 3297,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "SegFault42/HeliosGen",
+          "url": "https://github.com/SegFault42/HeliosGen",
+          "description": "🏆 Self Hosted Gen AI desktop app. Free alternative to Higgsfield, OpenArt, Freepik....",
+          "language": "TypeScript",
+          "stars": 3081,
+          "forks": 345,
+          "starsToday": 722,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "breferrari/obsidian-mind",
+          "url": "https://github.com/breferrari/obsidian-mind",
+          "description": "A self-organizing Obsidian vault that gives AI coding agents persistent memory.",
+          "language": "TypeScript",
+          "stars": 5329,
+          "forks": 606,
+          "starsToday": 388,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 35679,
+          "forks": 4825,
+          "starsToday": 3708,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "hicccc77/WeFlow",
+          "url": "https://github.com/hicccc77/WeFlow",
+          "description": "WeFlow - 一个本地的微信聊天记录导出和年度报告应用",
+          "language": "TypeScript",
+          "stars": 15148,
+          "forks": 692,
+          "starsToday": 333,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+          "language": "TypeScript",
+          "stars": 29241,
+          "forks": 2844,
+          "starsToday": 1469,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": []
