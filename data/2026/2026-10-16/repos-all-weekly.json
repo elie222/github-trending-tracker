@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-16",
+  "list": "repos",
+  "language": "all",
+  "period": "weekly",
+  "pageUrl": "https://github.com/trending?since=weekly",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-16T00:57:31.814Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 270285,
+          "forks": 67802,
+          "starsToday": 239477,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+          "language": "C++",
+          "stars": 38682,
+          "forks": 3442,
+          "starsToday": 25174,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 292854,
+          "forks": 24549,
+          "starsToday": 12147,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 64563,
+          "forks": 5801,
+          "starsToday": 5318,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "language": "HTML",
+          "stars": 55920,
+          "forks": 3534,
+          "starsToday": 10237,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "description": "Ghidra is a software reverse engineering (SRE) framework",
+          "language": "Java",
+          "stars": 88758,
+          "forks": 9902,
+          "starsToday": 6614,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+          "language": "TypeScript",
+          "stars": 1380,
+          "forks": 116,
+          "starsToday": 659,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "Give your agent CAD superpowers.",
+          "language": "Python",
+          "stars": 20709,
+          "forks": 2049,
+          "starsToday": 2244,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "twostraws/SwiftUI-Agent-Skill",
+          "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+          "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+          "language": null,
+          "stars": 6096,
+          "forks": 221,
+          "starsToday": 900,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "DuarteSantos8/openGym",
+          "url": "https://github.com/DuarteSantos8/openGym",
+          "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+          "language": "JavaScript",
+          "stars": 12350,
+          "forks": 1514,
+          "starsToday": 4471,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 11643,
+          "forks": 1136,
+          "starsToday": 1214,
+          "starsLabel": "this week"
+        }
+      ]
+    }
+  ],
+  "best": []
+}

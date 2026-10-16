@@ -1,0 +1,290 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-16",
+  "list": "developers",
+  "language": "all",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/developers?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-16T00:57:31.814Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "richiemcilroy",
+          "name": "Richie McIlroy",
+          "url": "https://github.com/richiemcilroy",
+          "featuredRepo": {
+            "name": "richiemcilroy/Tov",
+            "url": "https://github.com/richiemcilroy/Tov",
+            "description": "A TypeScript-shaped language built for coding agents. It compiles to small, fast native binaries."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "100yenadmin",
+          "name": "EVA",
+          "url": "https://github.com/100yenadmin",
+          "featuredRepo": {
+            "name": "100yenadmin/fish-audio-hermes",
+            "url": "https://github.com/100yenadmin/fish-audio-hermes",
+            "description": "Official Fish Audio plugin for Hermes Agent: expressive text-to-speech, speech-to-text, voice library, cloning and voice design."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "teng-lin",
+          "name": "Teng Lin",
+          "url": "https://github.com/teng-lin",
+          "featuredRepo": {
+            "name": "teng-lin/notebooklm-py",
+            "url": "https://github.com/teng-lin/notebooklm-py",
+            "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capa…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "MakazhanAlpamys",
+          "name": "Alpamys Makazhan",
+          "url": "https://github.com/MakazhanAlpamys",
+          "featuredRepo": {
+            "name": "MakazhanAlpamys/Soup",
+            "url": "https://github.com/MakazhanAlpamys/Soup",
+            "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
+          }
+        },
+        {
+          "rank": 5,
+          "username": "unxed",
+          "name": "unxed",
+          "url": "https://github.com/unxed",
+          "featuredRepo": {
+            "name": "unxed/dn",
+            "url": "https://github.com/unxed/dn",
+            "description": "DN revitalization"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "frankbria",
+          "name": "Frank Bria",
+          "url": "https://github.com/frankbria",
+          "featuredRepo": {
+            "name": "frankbria/ralph-claude-code",
+            "url": "https://github.com/frankbria/ralph-claude-code",
+            "description": "Autonomous AI development loop for Claude Code with intelligent exit detection"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "poteto",
+          "name": "lauren",
+          "url": "https://github.com/poteto",
+          "featuredRepo": {
+            "name": "poteto/hiring-without-whiteboards",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "N0zoM1z0",
+          "name": "Ysopwnable",
+          "url": "https://github.com/N0zoM1z0",
+          "featuredRepo": {
+            "name": "N0zoM1z0/dx-ball",
+            "url": "https://github.com/N0zoM1z0/dx-ball",
+            "description": "Reconstructing DX-Ball 1.07 with REA, backed by original-x86 differential tests and pinned MSVC byte-exact oracles."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "penso",
+          "name": "Fabien Penso",
+          "url": "https://github.com/penso",
+          "featuredRepo": {
+            "name": "penso/herdr-gpui",
+            "url": "https://github.com/penso/herdr-gpui",
+            "description": "Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and ag…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "zhaochenyang20",
+          "name": "赵晨阳",
+          "url": "https://github.com/zhaochenyang20",
+          "featuredRepo": {
+            "name": "zhaochenyang20/Awesome-ML-SYS-Tutorial",
+            "url": "https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial",
+            "description": "My learning notes for ML SYS."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "gmegidish",
+          "name": "Gil Megidish",
+          "url": "https://github.com/gmegidish",
+          "featuredRepo": {
+            "name": "gmegidish/alleycat-disassembly",
+            "url": "https://github.com/gmegidish/alleycat-disassembly",
+            "description": "AI-powered disassembly of Alley Cat (msdos) by Bill Williams 1983"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "mpfaffenberger",
+          "name": "Mike Pfaffenberger",
+          "url": "https://github.com/mpfaffenberger",
+          "featuredRepo": {
+            "name": "mpfaffenberger/code_puppy",
+            "url": "https://github.com/mpfaffenberger/code_puppy",
+            "description": "Agentic AI for writing code"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "noonghunna",
+          "name": "noonghunna",
+          "url": "https://github.com/noonghunna",
+          "featuredRepo": {
+            "name": "noonghunna/club-3090",
+            "url": "https://github.com/noonghunna/club-3090",
+            "description": "Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, sglang, llama.cpp and other custom engines) and m…"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/DeepSeek-Reasonix",
+            "url": "https://github.com/esengine/DeepSeek-Reasonix",
+            "description": "A reliable coding agent for complex software engineering tasks."
+          }
+        },
+        {
+          "rank": 16,
+          "username": "jjyaoao",
+          "name": "Sizhou Chen",
+          "url": "https://github.com/jjyaoao",
+          "featuredRepo": {
+            "name": "jjyaoao/HelloAgents",
+            "url": "https://github.com/jjyaoao/HelloAgents",
+            "description": "A agent framework based on the tutorial hello-agents"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "ImChong",
+          "name": "Chong Liu",
+          "url": "https://github.com/ImChong",
+          "featuredRepo": {
+            "name": "ImChong/Robotics_Notebooks",
+            "url": "https://github.com/ImChong/Robotics_Notebooks",
+            "description": "机器人技术栈资料汇总"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design language that makes your AI harness better at design."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "hiyouga",
+          "name": "Yaowei Zheng",
+          "url": "https://github.com/hiyouga",
+          "featuredRepo": {
+            "name": "hiyouga/LlamaFactory",
+            "url": "https://github.com/hiyouga/LlamaFactory",
+            "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "TimeToBuildBob",
+          "name": "Bob",
+          "url": "https://github.com/TimeToBuildBob",
+          "featuredRepo": null
+        },
+        {
+          "rank": 23,
+          "username": "yetone",
+          "name": "yetone",
+          "url": "https://github.com/yetone",
+          "featuredRepo": {
+            "name": "yetone/magpie",
+            "url": "https://github.com/yetone/magpie",
+            "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "nwparker",
+          "name": "Neil",
+          "url": "https://github.com/nwparker",
+          "featuredRepo": {
+            "name": "nwparker/orca",
+            "url": "https://github.com/nwparker/orca",
+            "description": "Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription."
+          }
+        },
+        {
+          "rank": 25,
+          "username": "timoncool",
+          "name": "Ilya (Nerual Dreming) Timonin",
+          "url": "https://github.com/timoncool",
+          "featuredRepo": {
+            "name": "timoncool/YuE2-Studio",
+            "url": "https://github.com/timoncool/YuE2-Studio",
+            "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Wind…"
+          }
+        }
+      ]
+    }
+  ],
+  "best": []
+}
