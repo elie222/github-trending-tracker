@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T06:40:52.131Z",
+  "updatedAt": "2026-10-17T12:34:50.699Z",
   "since": "2024-11-17",
   "sinceLabel": "November 2024",
   "sinceShort": "Nov 2024",
@@ -6348,6 +6348,18 @@
         },
         {
           "label": "#2 All-language repos",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "name": "rakazo",
+      "fullName": "elie222/rakazo",
+      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "url": "https://github.com/elie222/rakazo",
+      "lists": [
+        {
+          "label": "#5 TypeScript repos",
           "color": "blue"
         }
       ]

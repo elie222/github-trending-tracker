@@ -571,6 +571,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-17T12:34:50.699Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "timoncool",
+          "name": "Ilya (Nerual Dreming) Timonin",
+          "url": "https://github.com/timoncool",
+          "featuredRepo": {
+            "name": "timoncool/YuE2-Studio",
+            "url": "https://github.com/timoncool/YuE2-Studio",
+            "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Wind…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "ColeMurray",
+          "name": "Cole Murray",
+          "url": "https://github.com/ColeMurray",
+          "featuredRepo": {
+            "name": "ColeMurray/background-agents",
+            "url": "https://github.com/ColeMurray/background-agents",
+            "description": "An open-source background agents coding system"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "zts212653",
+          "name": "Lysander Su",
+          "url": "https://github.com/zts212653",
+          "featuredRepo": {
+            "name": "zts212653/clowder-ai",
+            "url": "https://github.com/zts212653/clowder-ai",
+            "description": "Build AI teams, not just agents. Hard rails, soft power, shared mission."
+          }
+        },
+        {
+          "rank": 5,
+          "username": "melgarafael",
+          "name": "Rafael Melgaço",
+          "url": "https://github.com/melgarafael",
+          "featuredRepo": {
+            "name": "melgarafael/DeskcommCRM",
+            "url": "https://github.com/melgarafael/DeskcommCRM",
+            "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any…"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "Fausto95",
+          "name": "Faustino Kialungila",
+          "url": "https://github.com/Fausto95",
+          "featuredRepo": {
+            "name": "Fausto95/lucent",
+            "url": "https://github.com/Fausto95/lucent",
+            "description": "Write React Native native modules in TypeScript. Lucent compiles a checked subset to C++ and calls it through JSI: no Swift or Kotlin to …"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "Anionex",
+          "name": "anionex",
+          "url": "https://github.com/Anionex",
+          "featuredRepo": {
+            "name": "Anionex/banana-slides",
+            "url": "https://github.com/Anionex/banana-slides",
+            "description": "一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on n…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "chenglou",
+          "name": "Cheng Lou",
+          "url": "https://github.com/chenglou",
+          "featuredRepo": {
+            "name": "chenglou/pretext",
+            "url": "https://github.com/chenglou/pretext",
+            "description": "Fast, accurate & comprehensive text measurement & layout"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "jkomyno",
+          "name": "Alberto Schiabel",
+          "url": "https://github.com/jkomyno",
+          "featuredRepo": {
+            "name": "jkomyno/pnpm-monorepo-template",
+            "url": "https://github.com/jkomyno/pnpm-monorepo-template",
+            "description": "Opinionated Node.js monorepo example with pnpm, turborepo, and vitest"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "ctate",
+          "name": "Chris Tate",
+          "url": "https://github.com/ctate",
+          "featuredRepo": {
+            "name": "ctate/3d-model-generator",
+            "url": "https://github.com/ctate/3d-model-generator",
+            "description": "Generate 3D models with AI"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "dabit3",
+          "name": "Nader Dabit",
+          "url": "https://github.com/dabit3",
+          "featuredRepo": {
+            "name": "dabit3/jev-experiments",
+            "url": "https://github.com/dabit3/jev-experiments",
+            "description": null
+          }
+        },
+        {
+          "rank": 17,
+          "username": "Frankie-Xu",
+          "name": "Frankie-Xu",
+          "url": "https://github.com/Frankie-Xu",
+          "featuredRepo": {
+            "name": "Frankie-Xu/threadport",
+            "url": "https://github.com/Frankie-Xu/threadport",
+            "description": "Portable, verifiable work state for coding agents"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "narumiruna",
+          "name": "なるみ",
+          "url": "https://github.com/narumiruna",
+          "featuredRepo": {
+            "name": "narumiruna/pi-extensions",
+            "url": "https://github.com/narumiruna/pi-extensions",
+            "description": "A monorepo of Pi Coding Agent extensions"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "felixrieseberg",
+          "name": "Felix Rieseberg",
+          "url": "https://github.com/felixrieseberg",
+          "featuredRepo": {
+            "name": "felixrieseberg/windows95",
+            "url": "https://github.com/felixrieseberg/windows95",
+            "description": "Windows 95 in an app. Runs on macOS, Linux, and Windows."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "reynaldichernando",
+          "name": "Reynaldi Chernando",
+          "url": "https://github.com/reynaldichernando",
+          "featuredRepo": {
+            "name": "reynaldichernando/periscope",
+            "url": "https://github.com/reynaldichernando/periscope",
+            "description": "Hosted version of ladder and alternative to 12ft.io."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "Vanessa219",
+          "name": "V",
+          "url": "https://github.com/Vanessa219",
+          "featuredRepo": {
+            "name": "Vanessa219/vditor",
+            "url": "https://github.com/Vanessa219/vditor",
+            "description": "♏ 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text), Instant Rendering …"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        },
+        {
+          "rank": 23,
+          "username": "fredrikburmester",
+          "name": "Fredrik Burmester",
+          "url": "https://github.com/fredrikburmester",
+          "featuredRepo": {
+            "name": "fredrikburmester/streamystats",
+            "url": "https://github.com/fredrikburmester/streamystats",
+            "description": "Streamystats is a statistics service for Jellyfin, providing analytics and data visualization."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "roblourens",
+          "name": "roblourens",
+          "url": "https://github.com/roblourens",
+          "featuredRepo": {
+            "name": "roblourens/dap-cli",
+            "url": "https://github.com/roblourens/dap-cli",
+            "description": null
+          }
+        },
+        {
+          "rank": 25,
+          "username": "mxkaske",
+          "name": "Maximilian Kaske",
+          "url": "https://github.com/mxkaske",
+          "featuredRepo": {
+            "name": "mxkaske/mxkaske.dev",
+            "url": "https://github.com/mxkaske/mxkaske.dev",
+            "description": "Build. Craft. Brew."
+          }
+        }
+      ]
     }
   ],
   "best": [
