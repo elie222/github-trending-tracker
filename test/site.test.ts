@@ -6,8 +6,6 @@ import { addDays } from "../src/dates.ts";
 import { buildReport } from "../src/history.ts";
 import { developerEntry, repoEntry } from "../src/snapshot.ts";
 import { buildShowcase, renderOgPng } from "../src/site.ts";
-import { loadConfig } from "../src/config.ts";
-import { loadSnapshots, readManifest } from "../src/store.ts";
 import type { BackfillManifest, Snapshot, TrackingConfig } from "../src/types.ts";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -157,13 +155,39 @@ test("showcase keeps unknown archive days and matches history streaks", () => {
   assert.equal(page.sinceLabel, "September 2026");
 });
 
-test("committed snapshots drive the showcase without relabeling archive gaps", () => {
-  const snapshots = loadSnapshots(root);
+test("snapshots drive the showcase without relabeling archive gaps", () => {
+  const snapshots: Snapshot[] = [
+    dev("2026-09-03", 1, "elie222/inbox-zero"),
+    {
+      ...dev("2026-09-04", 2, "elie222/rakazo"),
+      language: "all",
+      pageUrl: "https://github.com/trending/developers?since=daily",
+    },
+    dev("2026-09-01", 8, "elie222/inbox-zero"),
+    {
+      schemaVersion: 1,
+      date: "2026-09-03",
+      list: "repos",
+      language: "typescript",
+      period: "daily",
+      pageUrl: "https://github.com/trending/typescript?since=daily",
+      scrapes: [
+        {
+          scrapedAt: "2026-09-03T08:00:00.000Z",
+          scrapedAtPrecision: "instant",
+          source: "live",
+          sourceUrl: "https://github.com/trending/typescript?since=daily",
+          entries: [repoEntry(1, "elie222/inbox-zero")],
+        },
+      ],
+      best: [],
+    },
+  ];
   const report = buildReport({
     snapshots,
-    manifest: readManifest(root),
-    config: loadConfig(root),
-    today: "2026-09-29",
+    manifest: manifest(),
+    config: config(),
+    today: "2026-09-04",
   });
   const page = buildShowcase(report, snapshots);
   const typescript = report.developerSeries.find((item) => item.language === "typescript" && item.period === "daily")!;
@@ -175,21 +199,25 @@ test("committed snapshots drive the showcase without relabeling archive gaps", (
   assert.equal(page.summary.ts.longestOneStreak, typescript.numberOneStreak.longest);
   assert.equal(page.summary.ts.currentStreak, typescript.onListStreak.current);
   assert.equal(page.summary.ts.best, typescript.bestEver);
+  assert.equal(page.summary.ts.longestOnListStreak, typescript.onListStreak.longest);
   assert.equal(page.summary.all.onList, all.daysListed);
   assert.equal(page.summary.all.daysAtOne, all.daysNumberOne);
-  assert.ok(page.days.length > 600);
+  assert.equal(page.days.length, 4);
   for (let index = 1; index < page.days.length; index += 1) {
     assert.equal(addDays(page.days[index - 1].date, 1), page.days[index].date);
   }
 
-  const missingTypescript = page.days.find((day) => day.date === "2026-07-03");
+  const missingTypescript = page.days.find((day) => day.date === "2026-09-02");
   assert.ok(missingTypescript);
   assert.equal(missingTypescript.tsKnown, false);
+  assert.equal(missingTypescript.ts, null);
   assert.equal(missingTypescript.allKnown, true);
 
   const listed = new Set(typescript.days.map((day) => day.date));
-  const off = page.days.find((day) => day.tsKnown && day.ts == null);
+  const off = page.days.find((day) => day.date === "2026-09-04");
   assert.ok(off);
+  assert.equal(off.tsKnown, true);
+  assert.equal(off.ts, null);
   assert.equal(listed.has(off.date), false);
 
   const ranked = typescript.days.find((day) => day.featuredRepo);
@@ -200,10 +228,9 @@ test("committed snapshots drive the showcase without relabeling archive gaps", (
 
   assert.ok(page.repos.some((repo) => repo.fullName === "elie222/inbox-zero" && repo.lists.some((item) => item.label === "#1 TypeScript repos")));
   assert.equal(page.repos.some((repo) => repo.fullName === "elie222/rakazo"), false);
-  assert.equal(page.developer.name, "Elie Steinbock");
-  assert.equal(page.since, "2024-11-17");
-  assert.equal(page.sinceLabel, "November 2024");
-  assert.equal(page.updatedAt, [...snapshots.flatMap((snapshot) => snapshot.scrapes.map((scrape) => scrape.scrapedAt))].sort().at(-1));
+  assert.equal(page.since, "2026-09-01");
+  assert.equal(page.sinceLabel, "September 2026");
+  assert.equal(page.updatedAt, "2026-09-04T00:00:00.000Z");
 });
 
 test("open graph image is a 1200x630 png", () => {

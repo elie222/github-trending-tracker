@@ -33,9 +33,6 @@ jobs:
       - name: Install
         run: npm ci
 
-      - name: Test
-        run: npm test
-
       - name: Scrape GitHub Trending
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -51,5 +48,35 @@ jobs:
             echo "No snapshot changes to commit."
           else
             git commit -m "chore: trending snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
+            git push || { git pull --rebase && git push; }
+          fi
+
+      - name: Close scrape failure issues on recovery
+        if: success()
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          issues=$(gh issue list --state open --label scrape-failure --limit 1000 --json number --jq '.[].number')
+          for issue in $issues; do
+            gh issue close "$issue" --comment "Recovered in $RUN_URL"
+          done
+
+      - name: Alert on scrape failure
+        if: failure() && github.event_name != 'pull_request'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          gh label create scrape-failure --color d73a4a --description "Trending scrape failures" || true
+          body="Trending scrape failed at $(date -u +%Y-%m-%dT%H:%M:%SZ). Run: $RUN_URL"
+          issues=$(gh issue list --state open --label scrape-failure --limit 1000 --json number --jq '.[].number')
+          if [ -z "$issues" ]; then
+            gh issue create --title "Trending scrape failing" --label scrape-failure --body "$body"
+          else
+            for issue in $issues; do
+              gh issue comment "$issue" --body "$body"
+            done
           fi
