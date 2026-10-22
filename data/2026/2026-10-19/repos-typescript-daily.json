@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-19",
+  "list": "repos",
+  "language": "typescript",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/typescript?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-19T00:00:00.000Z",
+      "scrapedAtPrecision": "day",
+      "source": "backfill",
+      "sourceUrl": "https://github.com/antonkomarev/github-trending-archive/blob/master/archive/repository/2026/2026-10-19/typescript.json",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 2,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 3,
+          "name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 4,
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 5,
+          "name": "DmNote-App/DmNote",
+          "url": "https://github.com/DmNote-App/DmNote",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 6,
+          "name": "LibreChat-AI/LibreChat",
+          "url": "https://github.com/LibreChat-AI/LibreChat",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 7,
+          "name": "earendil-works/pi",
+          "url": "https://github.com/earendil-works/pi",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 8,
+          "name": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 9,
+          "name": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 10,
+          "name": "thesysdev/openui",
+          "url": "https://github.com/thesysdev/openui",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 11,
+          "name": "anthropics/claude-quickstarts",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 12,
+          "name": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 13,
+          "name": "elie222/rakazo",
+          "url": "https://github.com/elie222/rakazo",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 14,
+          "name": "chthollyphile/folia-major",
+          "url": "https://github.com/chthollyphile/folia-major",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        },
+        {
+          "rank": 15,
+          "name": "vercel-labs/scriptc",
+          "url": "https://github.com/vercel-labs/scriptc",
+          "description": null,
+          "language": null,
+          "stars": null,
+          "forks": null,
+          "starsToday": null,
+          "starsLabel": null
+        }
+      ]
+    }
+  ],
+  "best": [
+    {
+      "kind": "repo",
+      "key": "elie222/rakazo",
+      "url": "https://github.com/elie222/rakazo",
+      "bestRank": 13,
+      "scrapedAt": "2026-10-19T00:00:00.000Z",
+      "starsToday": null,
+      "featuredRepo": null
+    }
+  ]
+}

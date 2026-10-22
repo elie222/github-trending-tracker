@@ -1,36 +1,36 @@
 {
   "source": "https://github.com/antonkomarev/github-trending-archive",
   "sourceRepo": "antonkomarev/github-trending-archive",
-  "generatedAt": "2026-09-28T17:34:00.506Z",
+  "generatedAt": "2026-10-22T18:34:37.710Z",
   "developersSince": "2024-11-17",
   "repositoriesSince": "2021-12-31",
-  "note": "Snapshot files are written only for UTC days a tracked developer or repository appeared. Each backfill scrape is source=backfill and points at the archive JSON. Empty archive lists and missing dates are unobserved: they are not treated as an absence from the chart, and they do not break streaks. All-languages repository coverage in the archive runs 2023-09-09 through 2026-09-28.",
+  "note": "Snapshot files are written only for UTC days a tracked developer or repository appeared. Each backfill scrape is source=backfill and points at the archive JSON. Empty archive lists and missing dates are unobserved: they are not treated as an absence from the chart, and they do not break on-list streaks or #1 streaks. All-languages repository coverage in the archive runs 2023-09-09 through 2026-10-22.",
   "lists": {
     "developers-typescript-daily": {
       "since": "2024-11-17",
-      "through": "2026-09-28",
-      "archiveFiles": 679,
+      "through": "2026-10-22",
+      "archiveFiles": 703,
       "unobserved": [
         "2025-01-16",
         "2025-01-17",
         "2026-07-03"
       ],
-      "trackedSnapshotDays": 377
+      "trackedSnapshotDays": 400
     },
     "developers-all-daily": {
       "since": "2024-11-17",
-      "through": "2026-09-28",
-      "archiveFiles": 679,
+      "through": "2026-10-22",
+      "archiveFiles": 703,
       "unobserved": [
         "2025-01-16",
         "2025-01-17"
       ],
-      "trackedSnapshotDays": 162
+      "trackedSnapshotDays": 173
     },
     "repos-typescript-daily": {
       "since": "2021-12-31",
-      "through": "2026-09-28",
-      "archiveFiles": 1725,
+      "through": "2026-10-22",
+      "archiveFiles": 1749,
       "unobserved": [
         "2022-10-08",
         "2023-03-20",
@@ -41,12 +41,12 @@
         "2023-04-19",
         "2023-04-20"
       ],
-      "trackedSnapshotDays": 22
+      "trackedSnapshotDays": 25
     },
     "repos-all-daily": {
       "since": "2021-12-31",
-      "through": "2026-09-28",
-      "archiveFiles": 1116,
+      "through": "2026-10-22",
+      "archiveFiles": 1140,
       "unobserved": [
         "2021-12-31",
         "2022-01-01",
