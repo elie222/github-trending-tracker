@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-22",
+  "list": "repos",
+  "language": "all",
+  "period": "weekly",
+  "pageUrl": "https://github.com/trending?since=weekly",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-22T18:06:52.771Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 364632,
+          "forks": 91412,
+          "starsToday": 129417,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars": 43825,
+          "forks": 4618,
+          "starsToday": 5703,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+          "language": "TypeScript",
+          "stars": 78407,
+          "forks": 9213,
+          "starsToday": 3590,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "android/skills",
+          "url": "https://github.com/android/skills",
+          "description": null,
+          "language": "Kotlin",
+          "stars": 9222,
+          "forks": 592,
+          "starsToday": 1332,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+          "language": "Python",
+          "stars": 53857,
+          "forks": 4750,
+          "starsToday": 4719,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 220087,
+          "forks": 29414,
+          "starsToday": 6545,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars": 56184,
+          "forks": 5063,
+          "starsToday": 3681,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 13570,
+          "forks": 1350,
+          "starsToday": 2049,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "language": "Rust",
+          "stars": 12701,
+          "forks": 893,
+          "starsToday": 2833,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "language": "Python",
+          "stars": 81494,
+          "forks": 8996,
+          "starsToday": 15125,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 69855,
+          "forks": 6319,
+          "starsToday": 5740,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "description": "Ghidra is a software reverse engineering (SRE) framework",
+          "language": "Java",
+          "stars": 93034,
+          "forks": 10435,
+          "starsToday": 5769,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "language": "TypeScript",
+          "stars": 102549,
+          "forks": 6481,
+          "starsToday": 8705,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+          "language": "Python",
+          "stars": 141969,
+          "forks": 16737,
+          "starsToday": 3948,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars": 31806,
+          "forks": 2192,
+          "starsToday": 2968,
+          "starsLabel": "this week"
+        }
+      ]
+    }
+  ],
+  "best": []
+}

@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-22",
+  "list": "repos",
+  "language": "typescript",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/typescript?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-22T18:06:52.771Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+          "language": "TypeScript",
+          "stars": 113385,
+          "forks": 16988,
+          "starsToday": 683,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "Open-Dev-Society/OpenStock",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+          "language": "TypeScript",
+          "stars": 20784,
+          "forks": 2562,
+          "starsToday": 186,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "description": "The open alternative to Salesforce, designed for AI.",
+          "language": "TypeScript",
+          "stars": 59516,
+          "forks": 9688,
+          "starsToday": 713,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 39442,
+          "forks": 5330,
+          "starsToday": 632,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "genspark-ai/genoffice",
+          "url": "https://github.com/genspark-ai/genoffice",
+          "description": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux.",
+          "language": "TypeScript",
+          "stars": 10499,
+          "forks": 1392,
+          "starsToday": 191,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "language": "TypeScript",
+          "stars": 89198,
+          "forks": 13689,
+          "starsToday": 143,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "remotion-dev/remotion",
+          "url": "https://github.com/remotion-dev/remotion",
+          "description": "🎥 Make videos programmatically with React",
+          "language": "TypeScript",
+          "stars": 66315,
+          "forks": 5316,
+          "starsToday": 380,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 29378,
+          "forks": 7885,
+          "starsToday": 289,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "vitejs/vite",
+          "url": "https://github.com/vitejs/vite",
+          "description": "Next generation frontend tooling. It's fast!",
+          "language": "TypeScript",
+          "stars": 83455,
+          "forks": 8865,
+          "starsToday": 30,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+          "language": "TypeScript",
+          "stars": 194200,
+          "forks": 10251,
+          "starsToday": 455,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "Dokploy/dokploy",
+          "url": "https://github.com/Dokploy/dokploy",
+          "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
+          "language": "TypeScript",
+          "stars": 37953,
+          "forks": 3110,
+          "starsToday": 39,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+          "language": "TypeScript",
+          "stars": 25654,
+          "forks": 2029,
+          "starsToday": 25,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 21076,
+          "forks": 69197,
+          "starsToday": 12,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "CopilotKit/OpenBot",
+          "url": "https://github.com/CopilotKit/OpenBot",
+          "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+          "language": "TypeScript",
+          "stars": 6911,
+          "forks": 942,
+          "starsToday": 89,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 15,
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "language": "TypeScript",
+          "stars": 102549,
+          "forks": 6481,
+          "starsToday": 1694,
+          "starsLabel": "today"
+        }
+      ]
+    }
+  ],
+  "best": []
+}

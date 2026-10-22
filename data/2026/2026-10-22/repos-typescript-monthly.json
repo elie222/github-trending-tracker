@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-22",
+  "list": "repos",
+  "language": "typescript",
+  "period": "monthly",
+  "pageUrl": "https://github.com/trending/typescript?since=monthly",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-22T18:06:52.771Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=monthly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 106072,
+          "forks": 17640,
+          "starsToday": 24756,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 2,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 69855,
+          "forks": 6319,
+          "starsToday": 17177,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 3,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars": 31806,
+          "forks": 2192,
+          "starsToday": 7915,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 4,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 39442,
+          "forks": 5330,
+          "starsToday": 11190,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 5,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 13570,
+          "forks": 1350,
+          "starsToday": 5135,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 6,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 29378,
+          "forks": 7885,
+          "starsToday": 6006,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 7,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 102296,
+          "forks": 9014,
+          "starsToday": 8248,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 8,
+          "name": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+          "language": "TypeScript",
+          "stars": 113385,
+          "forks": 16988,
+          "starsToday": 2449,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 9,
+          "name": "remotion-dev/remotion",
+          "url": "https://github.com/remotion-dev/remotion",
+          "description": "🎥 Make videos programmatically with React",
+          "language": "TypeScript",
+          "stars": 66315,
+          "forks": 5316,
+          "starsToday": 6232,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 10,
+          "name": "vercel-labs/skills",
+          "url": "https://github.com/vercel-labs/skills",
+          "description": "The open agent skills tool - npx skills",
+          "language": "TypeScript",
+          "stars": 36108,
+          "forks": 3097,
+          "starsToday": 3933,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 11,
+          "name": "Effect-TS/effect",
+          "url": "https://github.com/Effect-TS/effect",
+          "description": "Build production-ready applications in TypeScript",
+          "language": "TypeScript",
+          "stars": 17358,
+          "forks": 872,
+          "starsToday": 1247,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 12,
+          "name": "elie222/rakazo",
+          "url": "https://github.com/elie222/rakazo",
+          "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+          "language": "TypeScript",
+          "stars": 5214,
+          "forks": 939,
+          "starsToday": 2314,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 13,
+          "name": "LibreSpark/LibreTV",
+          "url": "https://github.com/LibreSpark/LibreTV",
+          "description": "一分钟搭建影视站，支持Docker等部署方式",
+          "language": "TypeScript",
+          "stars": 21117,
+          "forks": 29789,
+          "starsToday": 6946,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 14,
+          "name": "pablostanley/yoinks",
+          "url": "https://github.com/pablostanley/yoinks",
+          "description": "yoink any video from your terminal. no shady ads.",
+          "language": "TypeScript",
+          "stars": 6140,
+          "forks": 521,
+          "starsToday": 4394,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 15,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "language": "TypeScript",
+          "stars": 22724,
+          "forks": 1905,
+          "starsToday": 8184,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 16,
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "language": "TypeScript",
+          "stars": 102549,
+          "forks": 6481,
+          "starsToday": 27079,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 17,
+          "name": "mobile-next/mobile-mcp",
+          "url": "https://github.com/mobile-next/mobile-mcp",
+          "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+          "language": "TypeScript",
+          "stars": 9896,
+          "forks": 880,
+          "starsToday": 3107,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 18,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "language": "TypeScript",
+          "stars": 152885,
+          "forks": 26765,
+          "starsToday": 6381,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 19,
+          "name": "thesysdev/openui",
+          "url": "https://github.com/thesysdev/openui",
+          "description": "The Open Standard for Generative UI",
+          "language": "TypeScript",
+          "stars": 13062,
+          "forks": 870,
+          "starsToday": 3274,
+          "starsLabel": "this month"
+        }
+      ]
+    }
+  ],
+  "best": [
+    {
+      "kind": "repo",
+      "key": "elie222/rakazo",
+      "url": "https://github.com/elie222/rakazo",
+      "bestRank": 12,
+      "scrapedAt": "2026-10-22T18:06:52.771Z",
+      "starsToday": 2314,
+      "featuredRepo": null
+    }
+  ]
+}
