@@ -8,7 +8,7 @@ Backfill source: [antonkomarev/github-trending-archive](https://github.com/anton
 
 ## Today
 
-UTC day **2026-10-22**.
+UTC day **2026-10-23**.
 
 | List | Result |
 | --- | --- |
@@ -21,8 +21,8 @@ UTC day **2026-10-22**.
 
 | Name | List | Days listed | Days #1 | Days top 10 | Best | Current on-list streak | Longest on-list streak | Current #1 streak | Longest #1 streak |
 | --- | --- | ---: | ---: | ---: | ---: | --- | --- | --- | --- |
-| elie222 | TypeScript developers (daily) | 401 | 74 | 297 | #1 | 26 days (2026-09-27 – 2026-10-22) | 27 days (2026-08-16 – 2026-09-11) | 1 day (2026-10-22) | 8 days (2025-07-08 – 2025-07-15) |
-| elie222 | all languages developers (daily) | 175 | 24 | 114 | #1 | 4 days (2026-10-19 – 2026-10-22) | 9 days (2026-10-07 – 2026-10-15) | 1 day (2026-10-22) | 3 days (2025-10-22 – 2025-10-24) |
+| elie222 | TypeScript developers (daily) | 402 | 75 | 298 | #1 | 27 days (2026-09-27 – 2026-10-23) | 27 days (2026-08-16 – 2026-09-11) | 2 days (2026-10-22 – 2026-10-23) | 8 days (2025-07-08 – 2025-07-15) |
+| elie222 | all languages developers (daily) | 176 | 25 | 115 | #1 | 5 days (2026-10-19 – 2026-10-23) | 9 days (2026-10-07 – 2026-10-15) | 2 days (2026-10-22 – 2026-10-23) | 3 days (2025-10-22 – 2025-10-24) |
 | elie222/inbox-zero | TypeScript repositories (daily) | 22 | 3 | 16 | #1 | 0 days | 4 days (2025-04-03 – 2025-04-06) | 0 days | 2 days (2025-04-04 – 2025-04-05) |
 | elie222/inbox-zero | all languages repositories (daily) | 6 | 0 | 5 | #2 | 0 days | 3 days (2025-04-03 – 2025-04-05) | 0 days | 0 days |
 | elie222/rakazo | TypeScript repositories (daily) | 4 | 0 | 2 | #5 | 0 days | 3 days (2026-10-17 – 2026-10-19) | 0 days | 0 days |
@@ -34,16 +34,16 @@ TypeScript daily and all-languages daily are the lists that matter. Rank is the 
 
 ### TypeScript developers (daily)
 
-401 days listed, 74 days at #1, 297 days in the top 10. Best rank: #1.
-Current on-list streak: 26 days (2026-09-27 – 2026-10-22), as of 2026-10-22.
+402 days listed, 75 days at #1, 298 days in the top 10. Best rank: #1.
+Current on-list streak: 27 days (2026-09-27 – 2026-10-23), as of 2026-10-23.
 Longest on-list streak: 27 days (2026-08-16 – 2026-09-11).
-Current #1 streak: 1 day (2026-10-22), as of 2026-10-22.
+Current #1 streak: 2 days (2026-10-22 – 2026-10-23), as of 2026-10-23.
 Longest #1 streak: 8 days (2025-07-08 – 2025-07-15).
-Days at #1: 2024-12-31, 2025-01-03, 2025-01-04, 2025-01-05, 2025-01-18, 2025-01-19, 2025-01-21, 2025-02-02, 2025-02-20, 2025-02-21, 2025-02-22, 2025-04-03, 2025-04-04, 2025-04-05, 2025-04-06, 2025-04-20, 2025-04-21, 2025-04-22, 2025-06-13, 2025-06-14, 2025-06-15, 2025-06-16, 2025-06-17, 2025-06-25, 2025-07-08, 2025-07-09, 2025-07-10, 2025-07-11, 2025-07-12, 2025-07-13, 2025-07-14, 2025-07-15, 2025-08-01, 2025-08-03, 2025-08-04, 2025-08-05, 2025-08-08, 2025-08-22, 2025-09-02, 2025-09-03, 2025-09-04, 2025-09-09, 2025-09-16, 2025-09-23, 2025-10-05, 2025-10-07, 2025-10-08, 2025-10-09, 2025-10-22, 2025-10-23, 2025-10-24, 2025-11-01, 2025-11-04, 2025-11-05, 2025-11-06, 2025-11-07, 2025-12-11, 2025-12-12, 2025-12-17, 2026-01-02, 2026-01-03, 2026-01-04, 2026-01-05, 2026-01-06, 2026-02-17, 2026-03-06, 2026-05-26, 2026-05-27, 2026-05-28, 2026-07-30, 2026-08-11, 2026-08-13, 2026-09-28, 2026-10-22.
+Days at #1: 2024-12-31, 2025-01-03, 2025-01-04, 2025-01-05, 2025-01-18, 2025-01-19, 2025-01-21, 2025-02-02, 2025-02-20, 2025-02-21, 2025-02-22, 2025-04-03, 2025-04-04, 2025-04-05, 2025-04-06, 2025-04-20, 2025-04-21, 2025-04-22, 2025-06-13, 2025-06-14, 2025-06-15, 2025-06-16, 2025-06-17, 2025-06-25, 2025-07-08, 2025-07-09, 2025-07-10, 2025-07-11, 2025-07-12, 2025-07-13, 2025-07-14, 2025-07-15, 2025-08-01, 2025-08-03, 2025-08-04, 2025-08-05, 2025-08-08, 2025-08-22, 2025-09-02, 2025-09-03, 2025-09-04, 2025-09-09, 2025-09-16, 2025-09-23, 2025-10-05, 2025-10-07, 2025-10-08, 2025-10-09, 2025-10-22, 2025-10-23, 2025-10-24, 2025-11-01, 2025-11-04, 2025-11-05, 2025-11-06, 2025-11-07, 2025-12-11, 2025-12-12, 2025-12-17, 2026-01-02, 2026-01-03, 2026-01-04, 2026-01-05, 2026-01-06, 2026-02-17, 2026-03-06, 2026-05-26, 2026-05-27, 2026-05-28, 2026-07-30, 2026-08-11, 2026-08-13, 2026-09-28, 2026-10-22, 2026-10-23.
 
 | Month | Days | #1 | Top 10 | Best |
 | --- | ---: | ---: | ---: | ---: |
-| 2026-10 | 22 | 1 | 21 | #1 |
+| 2026-10 | 23 | 2 | 22 | #1 |
 | 2026-09 | 28 | 1 | 20 | #1 |
 | 2026-08 | 24 | 2 | 17 | #1 |
 | 2026-07 | 16 | 1 | 14 | #1 |
@@ -70,6 +70,7 @@ Days at #1: 2024-12-31, 2025-01-03, 2025-01-04, 2025-01-05, 2025-01-18, 2025-01-
 
 | Date | Best rank | Featured repo | Source |
 | --- | ---: | --- | --- |
+| 2026-10-23 | #1 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-10-22 | #1 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-10-21 | #5 | — | backfill |
 | 2026-10-20 | #6 | — | backfill |
@@ -474,16 +475,16 @@ Days at #1: 2024-12-31, 2025-01-03, 2025-01-04, 2025-01-05, 2025-01-18, 2025-01-
 
 ### all languages developers (daily)
 
-175 days listed, 24 days at #1, 114 days in the top 10. Best rank: #1.
-Current on-list streak: 4 days (2026-10-19 – 2026-10-22), as of 2026-10-22.
+176 days listed, 25 days at #1, 115 days in the top 10. Best rank: #1.
+Current on-list streak: 5 days (2026-10-19 – 2026-10-23), as of 2026-10-23.
 Longest on-list streak: 9 days (2026-10-07 – 2026-10-15).
-Current #1 streak: 1 day (2026-10-22), as of 2026-10-22.
+Current #1 streak: 2 days (2026-10-22 – 2026-10-23), as of 2026-10-23.
 Longest #1 streak: 3 days (2025-10-22 – 2025-10-24).
-Days at #1: 2025-01-18, 2025-02-20, 2025-02-21, 2025-04-04, 2025-04-22, 2025-06-17, 2025-07-13, 2025-07-15, 2025-08-03, 2025-08-22, 2025-09-02, 2025-09-23, 2025-10-07, 2025-10-22, 2025-10-23, 2025-10-24, 2025-11-05, 2025-11-06, 2026-01-03, 2026-01-04, 2026-01-06, 2026-05-26, 2026-05-27, 2026-10-22.
+Days at #1: 2025-01-18, 2025-02-20, 2025-02-21, 2025-04-04, 2025-04-22, 2025-06-17, 2025-07-13, 2025-07-15, 2025-08-03, 2025-08-22, 2025-09-02, 2025-09-23, 2025-10-07, 2025-10-22, 2025-10-23, 2025-10-24, 2025-11-05, 2025-11-06, 2026-01-03, 2026-01-04, 2026-01-06, 2026-05-26, 2026-05-27, 2026-10-22, 2026-10-23.
 
 | Month | Days | #1 | Top 10 | Best |
 | --- | ---: | ---: | ---: | ---: |
-| 2026-10 | 13 | 1 | 7 | #1 |
+| 2026-10 | 14 | 2 | 8 | #1 |
 | 2026-09 | 8 | 0 | 5 | #5 |
 | 2026-08 | 9 | 0 | 5 | #5 |
 | 2026-07 | 8 | 0 | 5 | #2 |
@@ -508,6 +509,7 @@ Days at #1: 2025-01-18, 2025-02-20, 2025-02-21, 2025-04-04, 2025-04-22, 2025-06-
 
 | Date | Best rank | Featured repo | Source |
 | --- | ---: | --- | --- |
+| 2026-10-23 | #1 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-10-22 | #1 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-10-21 | #10 | — | backfill |
 | 2026-10-20 | #9 | — | backfill |
@@ -693,9 +695,9 @@ Any repository owned by a tracked owner is included, plus the named repositories
 ### TypeScript repositories (daily)
 
 22 days listed, 3 days at #1, 16 days in the top 10. Best rank: #1.
-Current on-list streak: 0 days, as of 2026-10-22.
+Current on-list streak: 0 days, as of 2026-10-23.
 Longest on-list streak: 4 days (2025-04-03 – 2025-04-06).
-Current #1 streak: 0 days, as of 2026-10-22.
+Current #1 streak: 0 days, as of 2026-10-23.
 Longest #1 streak: 2 days (2025-04-04 – 2025-04-05).
 Days at #1: 2025-04-04, 2025-04-05, 2025-04-22.
 
@@ -741,9 +743,9 @@ Days at #1: 2025-04-04, 2025-04-05, 2025-04-22.
 ### all languages repositories (daily)
 
 6 days listed, 0 days at #1, 5 days in the top 10. Best rank: #2.
-Current on-list streak: 0 days, as of 2026-10-22.
+Current on-list streak: 0 days, as of 2026-10-23.
 Longest on-list streak: 3 days (2025-04-03 – 2025-04-05).
-Current #1 streak: 0 days, as of 2026-10-22.
+Current #1 streak: 0 days, as of 2026-10-23.
 Longest #1 streak: 0 days.
 
 | Month | Days | #1 | Top 10 | Best |
@@ -764,9 +766,9 @@ Longest #1 streak: 0 days.
 ### TypeScript repositories (daily)
 
 4 days listed, 0 days at #1, 2 days in the top 10. Best rank: #5.
-Current on-list streak: 0 days, as of 2026-10-22.
+Current on-list streak: 0 days, as of 2026-10-23.
 Longest on-list streak: 3 days (2026-10-17 – 2026-10-19).
-Current #1 streak: 0 days, as of 2026-10-22.
+Current #1 streak: 0 days, as of 2026-10-23.
 Longest #1 streak: 0 days.
 
 | Month | Days | #1 | Top 10 | Best |
@@ -788,9 +790,9 @@ These periods are scraped and stored, but they are not part of the daily totals,
 
 | List | Name | Date | Best rank |
 | --- | --- | --- | --- |
-| TypeScript developers (weekly) | elie222 | 2026-10-22 | #10 |
+| TypeScript developers (weekly) | elie222 | 2026-10-23 | #10 |
 | all languages developers (weekly) | elie222 | 2026-10-17 | #25 |
-| TypeScript repositories (weekly) | elie222/rakazo | 2026-10-22 | #8 |
-| TypeScript developers (monthly) | elie222 | 2026-10-22 | #11 |
+| TypeScript repositories (weekly) | elie222/rakazo | 2026-10-23 | #8 |
+| TypeScript developers (monthly) | elie222 | 2026-10-23 | #11 |
 | all languages developers (monthly) | elie222 | 2026-10-17 | #24 |
-| TypeScript repositories (monthly) | elie222/rakazo | 2026-10-22 | #12 |
+| TypeScript repositories (monthly) | elie222/rakazo | 2026-10-23 | #12 |

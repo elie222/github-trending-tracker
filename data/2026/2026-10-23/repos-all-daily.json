@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-23",
+  "list": "repos",
+  "language": "all",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-23T01:01:37.543Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "php/php-src",
+          "url": "https://github.com/php/php-src",
+          "description": "The PHP Interpreter",
+          "language": "C",
+          "stars": 41161,
+          "forks": 8312,
+          "starsToday": 287,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 31610,
+          "forks": 3532,
+          "starsToday": 303,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "language": "JavaScript",
+          "stars": 173489,
+          "forks": 9438,
+          "starsToday": 1948,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "language": "JavaScript",
+          "stars": 39586,
+          "forks": 2468,
+          "starsToday": 2979,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+          "language": "Python",
+          "stars": 132962,
+          "forks": 12724,
+          "starsToday": 1408,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+          "language": "TypeScript",
+          "stars": 113488,
+          "forks": 17001,
+          "starsToday": 693,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "fastapi/fastapi",
+          "url": "https://github.com/fastapi/fastapi",
+          "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+          "language": "Python",
+          "stars": 103754,
+          "forks": 10088,
+          "starsToday": 101,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "luongnv89/claude-howto",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+          "language": "Python",
+          "stars": 43219,
+          "forks": 5391,
+          "starsToday": 177,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "Meloong-Git/PCL",
+          "url": "https://github.com/Meloong-Git/PCL",
+          "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+          "language": "Visual Basic .NET",
+          "stars": 8701,
+          "forks": 1201,
+          "starsToday": 119,
+          "starsLabel": "today"
+        }
+      ]
+    }
+  ],
+  "best": []
+}

@@ -1,0 +1,292 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-23",
+  "list": "developers",
+  "language": "all",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/developers?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-23T01:01:37.543Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "shiaho777",
+          "name": "shiaho",
+          "url": "https://github.com/shiaho777",
+          "featuredRepo": {
+            "name": "shiaho777/web-to-app",
+            "url": "https://github.com/shiaho777/web-to-app",
+            "description": "The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone Ca: H2mNeSJV75VuQpGA9C11Fw…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/ruflo",
+            "url": "https://github.com/ruvnet/ruflo",
+            "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI system…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "jarrodwatts",
+          "name": "Jarrod Watts",
+          "url": "https://github.com/jarrodwatts",
+          "featuredRepo": {
+            "name": "jarrodwatts/claude-hud",
+            "url": "https://github.com/jarrodwatts/claude-hud",
+            "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "bowenliang123",
+          "name": "Bowen Liang",
+          "url": "https://github.com/bowenliang123",
+          "featuredRepo": {
+            "name": "bowenliang123/dsh-context",
+            "url": "https://github.com/bowenliang123/dsh-context",
+            "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for …"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "max-sixty",
+          "name": "Maximilian Roos",
+          "url": "https://github.com/max-sixty",
+          "featuredRepo": {
+            "name": "max-sixty/worktrunk",
+            "url": "https://github.com/max-sixty/worktrunk",
+            "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/DeepSeek-Reasonix",
+            "url": "https://github.com/esengine/DeepSeek-Reasonix",
+            "description": "A reliable coding agent for complex software engineering tasks."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "DeusData",
+          "name": "Martin Vogel",
+          "url": "https://github.com/DeusData",
+          "featuredRepo": {
+            "name": "DeusData/codebase-memory-mcp",
+            "url": "https://github.com/DeusData/codebase-memory-mcp",
+            "description": "Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP too…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "comfyanonymous",
+          "name": "comfyanonymous",
+          "url": "https://github.com/comfyanonymous",
+          "featuredRepo": {
+            "name": "comfyanonymous/ComfyUI_examples",
+            "url": "https://github.com/comfyanonymous/ComfyUI_examples",
+            "description": "Examples of ComfyUI workflows"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "qkaiser",
+          "name": "Quentin Kaiser",
+          "url": "https://github.com/qkaiser",
+          "featuredRepo": {
+            "name": "qkaiser/broadcom-wps",
+            "url": "https://github.com/qkaiser/broadcom-wps",
+            "description": "Tools to fingerprint WiFi Access Points running the Broadcom SDK and a list of known affected devices."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "Gilbert09",
+          "name": "Tom Owers",
+          "url": "https://github.com/Gilbert09",
+          "featuredRepo": null
+        },
+        {
+          "rank": 13,
+          "username": "SaladDay",
+          "name": "SaladDay",
+          "url": "https://github.com/SaladDay",
+          "featuredRepo": {
+            "name": "SaladDay/cc-switch-cli",
+            "url": "https://github.com/SaladDay/cc-switch-cli",
+            "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "amir20",
+          "name": "Amir Raminfar",
+          "url": "https://github.com/amir20",
+          "featuredRepo": {
+            "name": "amir20/dozzle",
+            "url": "https://github.com/amir20/dozzle",
+            "description": "Realtime log viewer for containers. Supports Docker, Swarm and K8s."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "melgarafael",
+          "name": "Rafael Melgaço",
+          "url": "https://github.com/melgarafael",
+          "featuredRepo": {
+            "name": "melgarafael/DeskcommCRM",
+            "url": "https://github.com/melgarafael/DeskcommCRM",
+            "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "Anionex",
+          "name": "anionex",
+          "url": "https://github.com/Anionex",
+          "featuredRepo": {
+            "name": "Anionex/banana-slides",
+            "url": "https://github.com/Anionex/banana-slides",
+            "description": "一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on n…"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "Alan-TheGentleman",
+          "name": "Alan Buscaglia",
+          "url": "https://github.com/Alan-TheGentleman",
+          "featuredRepo": {
+            "name": "Alan-TheGentleman/prompts-dev",
+            "url": "https://github.com/Alan-TheGentleman/prompts-dev",
+            "description": null
+          }
+        },
+        {
+          "rank": 19,
+          "username": "danog",
+          "name": "Daniil Gentili",
+          "url": "https://github.com/danog",
+          "featuredRepo": {
+            "name": "danog/MadelineProto",
+            "url": "https://github.com/danog/MadelineProto",
+            "description": "Async PHP client API for the telegram MTProto protocol"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design language that makes your AI harness better at design."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "bartlomieju",
+          "name": "Bartek Iwańczuk",
+          "url": "https://github.com/bartlomieju",
+          "featuredRepo": {
+            "name": "bartlomieju/denidian",
+            "url": "https://github.com/bartlomieju/denidian",
+            "description": "A tiny Obsidian-style note app built on the deno desktop subcommand: Markdown notes, [[wikilink]] crosslinking, and a force-directed grap…"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "ko3n1g",
+          "name": "oliver könig",
+          "url": "https://github.com/ko3n1g",
+          "featuredRepo": null
+        },
+        {
+          "rank": 23,
+          "username": "doobidoo",
+          "name": "Henry Krupp",
+          "url": "https://github.com/doobidoo",
+          "featuredRepo": {
+            "name": "doobidoo/mcp-memory-service",
+            "url": "https://github.com/doobidoo/mcp-memory-service",
+            "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous con…"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "iFurySt",
+          "name": "Leo",
+          "url": "https://github.com/iFurySt",
+          "featuredRepo": {
+            "name": "iFurySt/open-computer-use",
+            "url": "https://github.com/iFurySt/open-computer-use",
+            "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "ppenna",
+          "name": "Pedro Henrique Penna",
+          "url": "https://github.com/ppenna",
+          "featuredRepo": null
+        }
+      ]
+    }
+  ],
+  "best": [
+    {
+      "kind": "developer",
+      "key": "elie222",
+      "url": "https://github.com/elie222",
+      "bestRank": 1,
+      "scrapedAt": "2026-10-23T01:01:37.543Z",
+      "starsToday": null,
+      "featuredRepo": "elie222/rakazo"
+    }
+  ]
+}
