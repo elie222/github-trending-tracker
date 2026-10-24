@@ -101,6 +101,102 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-24T06:41:45.811Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "language": "JavaScript",
+          "stars": 42594,
+          "forks": 2658,
+          "starsToday": 2716,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "php/php-src",
+          "url": "https://github.com/php/php-src",
+          "description": "The PHP Interpreter",
+          "language": "C",
+          "stars": 41603,
+          "forks": 8363,
+          "starsToday": 716,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 32368,
+          "forks": 3579,
+          "starsToday": 635,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "NVIDIA/OpenShell",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+          "language": "Rust",
+          "stars": 18960,
+          "forks": 1896,
+          "starsToday": 1119,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "Renhuai123/ziwei-doushu",
+          "url": "https://github.com/Renhuai123/ziwei-doushu",
+          "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+          "language": "TypeScript",
+          "stars": 7046,
+          "forks": 1435,
+          "starsToday": 546,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "SnailSploit/Claude-Red",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+          "language": "Python",
+          "stars": 8640,
+          "forks": 1111,
+          "starsToday": 226,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+          "language": "Python",
+          "stars": 40377,
+          "forks": 4588,
+          "starsToday": 150,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+          "language": "JavaScript",
+          "stars": 122971,
+          "forks": 39840,
+          "starsToday": 66,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []

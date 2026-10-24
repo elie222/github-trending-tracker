@@ -200,6 +200,190 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-24T06:41:45.811Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Renhuai123/ziwei-doushu",
+          "url": "https://github.com/Renhuai123/ziwei-doushu",
+          "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+          "language": "TypeScript",
+          "stars": 7044,
+          "forks": 1435,
+          "starsToday": 546,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "SehajveerSingh2005/bloom",
+          "url": "https://github.com/SehajveerSingh2005/bloom",
+          "description": "Bloom is a desktop companion that reimagines how you interact with Windows. It moves away from static, rigid interfaces and introduces a workspace that feels natural, fluid, and responsive.",
+          "language": "TypeScript",
+          "stars": 342,
+          "forks": 39,
+          "starsToday": 23,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "language": "TypeScript",
+          "stars": 104149,
+          "forks": 6577,
+          "starsToday": 1081,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "Vincentwei1021/video-shotcraft",
+          "url": "https://github.com/Vincentwei1021/video-shotcraft",
+          "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
+          "language": "TypeScript",
+          "stars": 13285,
+          "forks": 1203,
+          "starsToday": 259,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+          "language": "TypeScript",
+          "stars": 113832,
+          "forks": 16936,
+          "starsToday": 428,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "vitejs/vite",
+          "url": "https://github.com/vitejs/vite",
+          "description": "Next generation frontend tooling. It's fast!",
+          "language": "TypeScript",
+          "stars": 83496,
+          "forks": 8874,
+          "starsToday": 42,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "logto-io/logto",
+          "url": "https://github.com/logto-io/logto",
+          "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+          "language": "TypeScript",
+          "stars": 14769,
+          "forks": 1204,
+          "starsToday": 12,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "expo/expo",
+          "url": "https://github.com/expo/expo",
+          "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+          "language": "TypeScript",
+          "stars": 53040,
+          "forks": 14742,
+          "starsToday": 32,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "promptfoo/promptfoo",
+          "url": "https://github.com/promptfoo/promptfoo",
+          "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
+          "language": "TypeScript",
+          "stars": 26359,
+          "forks": 2565,
+          "starsToday": 56,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "description": "The open alternative to Salesforce, designed for AI.",
+          "language": "TypeScript",
+          "stars": 59617,
+          "forks": 9717,
+          "starsToday": 79,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "genspark-ai/genoffice",
+          "url": "https://github.com/genspark-ai/genoffice",
+          "description": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux.",
+          "language": "TypeScript",
+          "stars": 10684,
+          "forks": 1431,
+          "starsToday": 152,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "liguobao/ds-harness-remote",
+          "url": "https://github.com/liguobao/ds-harness-remote",
+          "description": "一个基于 DeepSeek Harness 插件机制构建的多端远程访问方案，通过安全、低延迟、端到端加密的 P2P 优先网络，支持从 PC、Android 和 Web 随时访问并操作远程 Harness 和 CodeX。 (A multi-device remote access solution built on the DeepSeek Harness plugin system, enabling PC, Android, and Web clients to securely access and operate remote Harness and CodeX over a low-latency, end-to-end encrypted, P2P-first network.)",
+          "language": "TypeScript",
+          "stars": 810,
+          "forks": 74,
+          "starsToday": 331,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "OpenHands/OpenHands",
+          "url": "https://github.com/OpenHands/OpenHands",
+          "description": "🙌 OpenHands: AI-Driven Development",
+          "language": "TypeScript",
+          "stars": 91698,
+          "forks": 12166,
+          "starsToday": 97,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "genlayerlabs/genlayer-project-boilerplate",
+          "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 19167,
+          "forks": 918,
+          "starsToday": 57,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 15,
+          "name": "Dokploy/dokploy",
+          "url": "https://github.com/Dokploy/dokploy",
+          "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
+          "language": "TypeScript",
+          "stars": 37990,
+          "forks": 3120,
+          "starsToday": 30,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 16,
+          "name": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+          "language": "TypeScript",
+          "stars": 194756,
+          "forks": 10274,
+          "starsToday": 430,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []
