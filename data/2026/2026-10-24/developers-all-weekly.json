@@ -552,6 +552,285 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-24T12:36:10.765Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "pacocartones",
+          "name": "Paco Cartones",
+          "url": "https://github.com/pacocartones",
+          "featuredRepo": {
+            "name": "pacocartones/free-llm-api-hub",
+            "url": "https://github.com/pacocartones/free-llm-api-hub",
+            "description": "A continuously-verified dataset of free-tier & trial-credit LLM APIs for developers. Every entry dated, sourced to the provider's own doc…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "N0zoM1z0",
+          "name": "Ysopwnable",
+          "url": "https://github.com/N0zoM1z0",
+          "featuredRepo": {
+            "name": "N0zoM1z0/dx-ball",
+            "url": "https://github.com/N0zoM1z0/dx-ball",
+            "description": "Reconstructing DX-Ball 1.07 with REA, backed by original-x86 differential tests and pinned MSVC byte-exact oracles."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design language that makes your AI harness better at design."
+          }
+        },
+        {
+          "rank": 5,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "coleam00",
+          "name": "Cole Medin",
+          "url": "https://github.com/coleam00",
+          "featuredRepo": {
+            "name": "coleam00/Archon",
+            "url": "https://github.com/coleam00/Archon",
+            "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "hrydgard",
+          "name": "Henrik Rydgård",
+          "url": "https://github.com/hrydgard",
+          "featuredRepo": {
+            "name": "hrydgard/ppsspp",
+            "url": "https://github.com/hrydgard/ppsspp",
+            "description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJ…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "klauspost",
+          "name": "Klaus Post",
+          "url": "https://github.com/klauspost",
+          "featuredRepo": {
+            "name": "klauspost/compress",
+            "url": "https://github.com/klauspost/compress",
+            "description": "Optimized Go Compression Packages"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "timoncool",
+          "name": "Ilya (Nerual Dreming) Timonin",
+          "url": "https://github.com/timoncool",
+          "featuredRepo": {
+            "name": "timoncool/YuE2-Studio",
+            "url": "https://github.com/timoncool/YuE2-Studio",
+            "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Wind…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "akitaonrails",
+          "name": "Fabio Akita",
+          "url": "https://github.com/akitaonrails",
+          "featuredRepo": {
+            "name": "akitaonrails/ai-memory",
+            "url": "https://github.com/akitaonrails/ai-memory",
+            "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "shiaho777",
+          "name": "shiaho",
+          "url": "https://github.com/shiaho777",
+          "featuredRepo": {
+            "name": "shiaho777/web-to-app",
+            "url": "https://github.com/shiaho777/web-to-app",
+            "description": "The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone Ca: H2mNeSJV75VuQpGA9C11Fw…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "DaniPopes",
+          "name": "DaniPopes",
+          "url": "https://github.com/DaniPopes",
+          "featuredRepo": null
+        },
+        {
+          "rank": 13,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "bowenliang123",
+          "name": "Bowen Liang",
+          "url": "https://github.com/bowenliang123",
+          "featuredRepo": {
+            "name": "bowenliang123/dsh-context",
+            "url": "https://github.com/bowenliang123/dsh-context",
+            "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for …"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "SysAdminDoc",
+          "name": "Matthew Parker",
+          "url": "https://github.com/SysAdminDoc",
+          "featuredRepo": {
+            "name": "SysAdminDoc/HushFacebook",
+            "url": "https://github.com/SysAdminDoc/HushFacebook",
+            "description": "Hushfacebook Morphe patches for Facebook. Hide ads, suggested posts, save videos and photos, tune playback and Reels, and use a focused M…"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "addyosmani",
+          "name": "Addy Osmani",
+          "url": "https://github.com/addyosmani",
+          "featuredRepo": {
+            "name": "addyosmani/agent-skills",
+            "url": "https://github.com/addyosmani/agent-skills",
+            "description": "Production-grade engineering skills for AI coding agents."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "Anionex",
+          "name": "anionex",
+          "url": "https://github.com/Anionex",
+          "featuredRepo": {
+            "name": "Anionex/banana-slides",
+            "url": "https://github.com/Anionex/banana-slides",
+            "description": "一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on n…"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "nwparker",
+          "name": "Neil",
+          "url": "https://github.com/nwparker",
+          "featuredRepo": {
+            "name": "nwparker/orca",
+            "url": "https://github.com/nwparker/orca",
+            "description": "Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "iFurySt",
+          "name": "Leo",
+          "url": "https://github.com/iFurySt",
+          "featuredRepo": {
+            "name": "iFurySt/open-computer-use",
+            "url": "https://github.com/iFurySt/open-computer-use",
+            "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "echelon",
+          "name": "Brandon Thomas",
+          "url": "https://github.com/echelon",
+          "featuredRepo": {
+            "name": "echelon/arpabet.rs",
+            "url": "https://github.com/echelon/arpabet.rs",
+            "description": "Rust library for speech synthesis using CMUdict"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "shihabal3amri",
+          "name": "Shihab",
+          "url": "https://github.com/shihabal3amri",
+          "featuredRepo": {
+            "name": "shihabal3amri/DiPlay",
+            "url": "https://github.com/shihabal3amri/DiPlay",
+            "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview."
+          }
+        },
+        {
+          "rank": 23,
+          "username": "danielmeppiel",
+          "name": "Daniel Meppiel",
+          "url": "https://github.com/danielmeppiel",
+          "featuredRepo": {
+            "name": "danielmeppiel/genesis",
+            "url": "https://github.com/danielmeppiel/genesis",
+            "description": "Markdown that steers an LLM is code. Genesis is the architectural layer for designing multi-agent, multi-skill systems -- with named patt…"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "danog",
+          "name": "Daniil Gentili",
+          "url": "https://github.com/danog",
+          "featuredRepo": {
+            "name": "danog/MadelineProto",
+            "url": "https://github.com/danog/MadelineProto",
+            "description": "Async PHP client API for the telegram MTProto protocol"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "ImChong",
+          "name": "Chong Liu",
+          "url": "https://github.com/ImChong",
+          "featuredRepo": {
+            "name": "ImChong/Robotics_Notebooks",
+            "url": "https://github.com/ImChong/Robotics_Notebooks",
+            "description": "机器人技术栈资料汇总"
+          }
+        }
+      ]
     }
   ],
   "best": [
