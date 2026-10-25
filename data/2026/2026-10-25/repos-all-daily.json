@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-25",
+  "list": "repos",
+  "language": "all",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-25T01:04:07.423Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "language": "JavaScript",
+          "stars": 44577,
+          "forks": 2769,
+          "starsToday": 2264,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "NVIDIA/OpenShell",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+          "language": "Rust",
+          "stars": 19482,
+          "forks": 1932,
+          "starsToday": 896,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "aws/agent-toolkit-for-aws",
+          "url": "https://github.com/aws/agent-toolkit-for-aws",
+          "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+          "language": "Python",
+          "stars": 3132,
+          "forks": 400,
+          "starsToday": 13,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "language": "CSS",
+          "stars": 32159,
+          "forks": 1653,
+          "starsToday": 455,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "luongnv89/claude-howto",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+          "language": "Python",
+          "stars": 44569,
+          "forks": 5494,
+          "starsToday": 392,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "language": "Rust",
+          "stars": 86425,
+          "forks": 5155,
+          "starsToday": 619,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "pollen-robotics/microduck",
+          "url": "https://github.com/pollen-robotics/microduck",
+          "description": "A Tiny biped duck robot 🦆",
+          "language": "Rust",
+          "stars": 10998,
+          "forks": 1414,
+          "starsToday": 319,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 108058,
+          "forks": 14808,
+          "starsToday": 44,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "jbiaojerry/ebook-treasure-chest",
+          "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
+          "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+          "language": "Python",
+          "stars": 22613,
+          "forks": 3191,
+          "starsToday": 227,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "makecindy/cindy",
+          "url": "https://github.com/makecindy/cindy",
+          "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+          "language": "TypeScript",
+          "stars": 4106,
+          "forks": 588,
+          "starsToday": 477,
+          "starsLabel": "today"
+        }
+      ]
+    }
+  ],
+  "best": []
+}

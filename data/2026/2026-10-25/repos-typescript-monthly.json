@@ -1,0 +1,249 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-25",
+  "list": "repos",
+  "language": "typescript",
+  "period": "monthly",
+  "pageUrl": "https://github.com/trending/typescript?since=monthly",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-25T01:04:07.423Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=monthly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 71496,
+          "forks": 6460,
+          "starsToday": 18759,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 2,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 106974,
+          "forks": 17766,
+          "starsToday": 25709,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 3,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars": 32135,
+          "forks": 2219,
+          "starsToday": 8261,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 4,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 13917,
+          "forks": 1386,
+          "starsToday": 5402,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 5,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 40977,
+          "forks": 5526,
+          "starsToday": 12538,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 6,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 29865,
+          "forks": 8025,
+          "starsToday": 6492,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 7,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 102832,
+          "forks": 9083,
+          "starsToday": 8637,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 8,
+          "name": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+          "language": "TypeScript",
+          "stars": 113895,
+          "forks": 16861,
+          "starsToday": 3457,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 9,
+          "name": "vercel-labs/skills",
+          "url": "https://github.com/vercel-labs/skills",
+          "description": "The open agent skills tool - npx skills",
+          "language": "TypeScript",
+          "stars": 36410,
+          "forks": 3134,
+          "starsToday": 4136,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 10,
+          "name": "remotion-dev/remotion",
+          "url": "https://github.com/remotion-dev/remotion",
+          "description": "🎥 Make videos programmatically with React",
+          "language": "TypeScript",
+          "stars": 67121,
+          "forks": 5406,
+          "starsToday": 6955,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 11,
+          "name": "Effect-TS/effect",
+          "url": "https://github.com/Effect-TS/effect",
+          "description": "Build production-ready applications in TypeScript",
+          "language": "TypeScript",
+          "stars": 17378,
+          "forks": 875,
+          "starsToday": 1225,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 12,
+          "name": "elie222/rakazo",
+          "url": "https://github.com/elie222/rakazo",
+          "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+          "language": "TypeScript",
+          "stars": 5601,
+          "forks": 991,
+          "starsToday": 2701,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 13,
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "language": "TypeScript",
+          "stars": 104970,
+          "forks": 6625,
+          "starsToday": 28069,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 14,
+          "name": "Renhuai123/ziwei-doushu",
+          "url": "https://github.com/Renhuai123/ziwei-doushu",
+          "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+          "language": "TypeScript",
+          "stars": 7262,
+          "forks": 1482,
+          "starsToday": 3084,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 15,
+          "name": "anthropics/sandbox-runtime",
+          "url": "https://github.com/anthropics/sandbox-runtime",
+          "description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
+          "language": "TypeScript",
+          "stars": 6482,
+          "forks": 570,
+          "starsToday": 1087,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 16,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 221095,
+          "forks": 29566,
+          "starsToday": 12613,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 17,
+          "name": "vitejs/vite",
+          "url": "https://github.com/vitejs/vite",
+          "description": "Next generation frontend tooling. It's fast!",
+          "language": "TypeScript",
+          "stars": 83521,
+          "forks": 8878,
+          "starsToday": 836,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 18,
+          "name": "thesysdev/openui",
+          "url": "https://github.com/thesysdev/openui",
+          "description": "The Open Standard for Generative UI",
+          "language": "TypeScript",
+          "stars": 13647,
+          "forks": 901,
+          "starsToday": 3809,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 19,
+          "name": "PC2005-cloud/dsh-pet",
+          "url": "https://github.com/PC2005-cloud/dsh-pet",
+          "description": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
+          "language": "TypeScript",
+          "stars": 3936,
+          "forks": 292,
+          "starsToday": 3209,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 20,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+          "language": "TypeScript",
+          "stars": 22703,
+          "forks": 1906,
+          "starsToday": 5627,
+          "starsLabel": "this month"
+        }
+      ]
+    }
+  ],
+  "best": [
+    {
+      "kind": "repo",
+      "key": "elie222/rakazo",
+      "url": "https://github.com/elie222/rakazo",
+      "bestRank": 12,
+      "scrapedAt": "2026-10-25T01:04:07.423Z",
+      "starsToday": 2701,
+      "featuredRepo": null
+    }
+  ]
+}
