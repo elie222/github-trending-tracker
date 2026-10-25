@@ -830,6 +830,277 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-25T18:32:05.331Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "jarrodwatts",
+          "name": "Jarrod Watts",
+          "url": "https://github.com/jarrodwatts",
+          "featuredRepo": {
+            "name": "jarrodwatts/claude-hud",
+            "url": "https://github.com/jarrodwatts/claude-hud",
+            "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "gakonst",
+          "name": "Georgios Konstantopoulos",
+          "url": "https://github.com/gakonst",
+          "featuredRepo": {
+            "name": "gakonst/nanocode",
+            "url": "https://github.com/gakonst/nanocode",
+            "description": "SDK for Frontier Embedded Agents."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "zackees",
+          "name": "Zachary Vorhies",
+          "url": "https://github.com/zackees",
+          "featuredRepo": {
+            "name": "zackees/transcribe-anything",
+            "url": "https://github.com/zackees/transcribe-anything",
+            "description": "Multi-backend whisper app. Blazing fast. Mac-arm optimized. Easy install. Input a local file or url and this service will transcribe it u…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "max-sixty",
+          "name": "Maximilian Roos",
+          "url": "https://github.com/max-sixty",
+          "featuredRepo": {
+            "name": "max-sixty/worktrunk",
+            "url": "https://github.com/max-sixty/worktrunk",
+            "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "Gathin23",
+          "name": "Gathin",
+          "url": "https://github.com/Gathin23",
+          "featuredRepo": {
+            "name": "Gathin23/cleanyourtv",
+            "url": "https://github.com/Gathin23/cleanyourtv",
+            "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "sam-goodwin",
+          "name": "sam",
+          "url": "https://github.com/sam-goodwin",
+          "featuredRepo": {
+            "name": "sam-goodwin/zod-class",
+            "url": "https://github.com/sam-goodwin/zod-class",
+            "description": "Create a Class from a ZodObject schema in one line"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "evereq",
+          "name": "Ruslan Konviser",
+          "url": "https://github.com/evereq",
+          "featuredRepo": null
+        },
+        {
+          "rank": 10,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design language that makes your AI harness better at design."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "ayangweb",
+          "name": "ayangweb",
+          "url": "https://github.com/ayangweb",
+          "featuredRepo": {
+            "name": "ayangweb/BongoCat",
+            "url": "https://github.com/ayangweb/BongoCat",
+            "description": "🐱 BongoCat — A cross-platform interactive desktop pet that brings fun to your desktop!"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/daosfun-source",
+            "url": "https://github.com/lalalune/daosfun-source",
+            "description": "Recovered Anchor source, byte-identical Solana binary reconstruction, reproducibility evidence, and security review."
+          }
+        },
+        {
+          "rank": 16,
+          "username": "vastsa",
+          "name": "Lan",
+          "url": "https://github.com/vastsa",
+          "featuredRepo": {
+            "name": "vastsa/PI-Desktop",
+            "url": "https://github.com/vastsa/PI-Desktop",
+            "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "joeyorlando",
+          "name": "Joey Orlando",
+          "url": "https://github.com/joeyorlando",
+          "featuredRepo": null
+        },
+        {
+          "rank": 18,
+          "username": "tontinton",
+          "name": "Tony Solomonik",
+          "url": "https://github.com/tontinton",
+          "featuredRepo": {
+            "name": "tontinton/maki",
+            "url": "https://github.com/tontinton/maki",
+            "description": "An efficient AI coding agent extendable by neovim-like Lua plugins"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/DeepSeek-Reasonix",
+            "url": "https://github.com/esengine/DeepSeek-Reasonix",
+            "description": "A reliable coding agent for complex software engineering tasks."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "yeongseon",
+          "name": "Yeongseon Choe",
+          "url": "https://github.com/yeongseon",
+          "featuredRepo": {
+            "name": "yeongseon/azure-architecture-practical-guide",
+            "url": "https://github.com/yeongseon/azure-architecture-practical-guide",
+            "description": "Comprehensive guide for designing, reviewing, and operating Azure architectures"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "tt-a1i",
+          "name": "tt-a1i",
+          "url": "https://github.com/tt-a1i",
+          "featuredRepo": {
+            "name": "tt-a1i/archify",
+            "url": "https://github.com/tt-a1i/archify",
+            "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more."
+          }
+        },
+        {
+          "rank": 23,
+          "username": "mfranzon",
+          "name": "Marco Franzon",
+          "url": "https://github.com/mfranzon",
+          "featuredRepo": {
+            "name": "mfranzon/print3d",
+            "url": "https://github.com/mfranzon/print3d",
+            "description": "Print 3D skill from text to 3D printing using Bambu Lab slicer."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "cixzhang",
+          "name": "Cindy Zhang",
+          "url": "https://github.com/cixzhang",
+          "featuredRepo": null
+        },
+        {
+          "rank": 25,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        }
+      ]
     }
   ],
   "best": [
