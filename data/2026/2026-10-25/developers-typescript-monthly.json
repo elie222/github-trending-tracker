@@ -571,6 +571,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-25T12:37:50.994Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=monthly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "timoncool",
+          "name": "Ilya (Nerual Dreming) Timonin",
+          "url": "https://github.com/timoncool",
+          "featuredRepo": {
+            "name": "timoncool/YuE2-Studio",
+            "url": "https://github.com/timoncool/YuE2-Studio",
+            "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Wind…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "jarrodwatts",
+          "name": "Jarrod Watts",
+          "url": "https://github.com/jarrodwatts",
+          "featuredRepo": {
+            "name": "jarrodwatts/jev-trader",
+            "url": "https://github.com/jarrodwatts/jev-trader",
+            "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "rynfar",
+          "name": "Trevor Walker",
+          "url": "https://github.com/rynfar",
+          "featuredRepo": {
+            "name": "rynfar/meridian",
+            "url": "https://github.com/rynfar/meridian",
+            "description": "Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "kentcdodds",
+          "name": "Kent C. Dodds",
+          "url": "https://github.com/kentcdodds",
+          "featuredRepo": {
+            "name": "kentcdodds/kentcdodds.com",
+            "url": "https://github.com/kentcdodds/kentcdodds.com",
+            "description": "My personal website"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "MaxBittker",
+          "name": "Max Bittker",
+          "url": "https://github.com/MaxBittker",
+          "featuredRepo": {
+            "name": "MaxBittker/rs-sdk",
+            "url": "https://github.com/MaxBittker/rs-sdk",
+            "description": "Runescape automation library, optimized for use by coding agents."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "wcandillon",
+          "name": "William Candillon",
+          "url": "https://github.com/wcandillon",
+          "featuredRepo": {
+            "name": "wcandillon/react-native-skia",
+            "url": "https://github.com/wcandillon/react-native-skia",
+            "description": "High-performance React Native Graphics using Skia"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "kantorcodes",
+          "name": "Michael Kantor",
+          "url": "https://github.com/kantorcodes",
+          "featuredRepo": {
+            "name": "kantorcodes/mcpsvr",
+            "url": "https://github.com/kantorcodes/mcpsvr",
+            "description": "Discover Exceptional MCP Servers"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "melgarafael",
+          "name": "Rafael Melgaço",
+          "url": "https://github.com/melgarafael",
+          "featuredRepo": {
+            "name": "melgarafael/DeskcommCRM",
+            "url": "https://github.com/melgarafael/DeskcommCRM",
+            "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "enliven17",
+          "name": "cankat",
+          "url": "https://github.com/enliven17",
+          "featuredRepo": {
+            "name": "enliven17/talos-stellar",
+            "url": "https://github.com/enliven17/talos-stellar",
+            "description": "Autonomous agent corporations on Stellar. Agents register on-chain, sell services, earn USDC via x402 nanopayments, and operate without h…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "captbaritone",
+          "name": "Jordan Eldredge",
+          "url": "https://github.com/captbaritone",
+          "featuredRepo": {
+            "name": "captbaritone/webamp",
+            "url": "https://github.com/captbaritone/webamp",
+            "description": "Winamp 2 reimplemented for the browser"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "bowenliang123",
+          "name": "Bowen Liang",
+          "url": "https://github.com/bowenliang123",
+          "featuredRepo": {
+            "name": "bowenliang123/dsh-context",
+            "url": "https://github.com/bowenliang123/dsh-context",
+            "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for …"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/ruflo",
+            "url": "https://github.com/ruvnet/ruflo",
+            "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI system…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "Anionex",
+          "name": "anionex",
+          "url": "https://github.com/Anionex",
+          "featuredRepo": {
+            "name": "Anionex/banana-slides",
+            "url": "https://github.com/Anionex/banana-slides",
+            "description": "一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on n…"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "mvschwarz",
+          "name": "Mike Schwarz",
+          "url": "https://github.com/mvschwarz",
+          "featuredRepo": {
+            "name": "mvschwarz/openrig",
+            "url": "https://github.com/mvschwarz/openrig",
+            "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "jerelvelarde",
+          "name": "Jerel Velarde",
+          "url": "https://github.com/jerelvelarde",
+          "featuredRepo": {
+            "name": "jerelvelarde/world-monitor-copilotkit",
+            "url": "https://github.com/jerelvelarde/world-monitor-copilotkit",
+            "description": null
+          }
+        },
+        {
+          "rank": 19,
+          "username": "ctate",
+          "name": "Chris Tate",
+          "url": "https://github.com/ctate",
+          "featuredRepo": {
+            "name": "ctate/3d-model-generator",
+            "url": "https://github.com/ctate/3d-model-generator",
+            "description": "Generate 3D models with AI"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "SebConejo",
+          "name": "Sébastien Conejo",
+          "url": "https://github.com/SebConejo",
+          "featuredRepo": {
+            "name": "SebConejo/free-ai-tools",
+            "url": "https://github.com/SebConejo/free-ai-tools",
+            "description": "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "irvinebroque",
+          "name": "Brendan Irvine-Broque",
+          "url": "https://github.com/irvinebroque",
+          "featuredRepo": {
+            "name": "irvinebroque/poppy-demo",
+            "url": "https://github.com/irvinebroque/poppy-demo",
+            "description": null
+          }
+        },
+        {
+          "rank": 23,
+          "username": "brophdawg11",
+          "name": "Matt Brophy",
+          "url": "https://github.com/brophdawg11",
+          "featuredRepo": {
+            "name": "brophdawg11/remix-jam-2026-demos",
+            "url": "https://github.com/brophdawg11/remix-jam-2026-demos",
+            "description": "Demos from Remix Jam 2026"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "zeemscript",
+          "name": "Sakariyah Abdulhazeem",
+          "url": "https://github.com/zeemscript",
+          "featuredRepo": {
+            "name": "zeemscript/radix-nova",
+            "url": "https://github.com/zeemscript/radix-nova",
+            "description": null
+          }
+        },
+        {
+          "rank": 25,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        }
+      ]
     }
   ],
   "best": [
