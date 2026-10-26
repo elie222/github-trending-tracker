@@ -502,6 +502,179 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-26T18:48:27.514Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "language": "JavaScript",
+          "stars": 48270,
+          "forks": 3008,
+          "starsToday": 15072,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 33172,
+          "forks": 3654,
+          "starsToday": 2790,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+          "language": "TypeScript",
+          "stars": 79478,
+          "forks": 9326,
+          "starsToday": 2987,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 221882,
+          "forks": 29673,
+          "starsToday": 5921,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "language": "TypeScript",
+          "stars": 106850,
+          "forks": 6740,
+          "starsToday": 9622,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+          "language": "Python",
+          "stars": 135977,
+          "forks": 12976,
+          "starsToday": 6903,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "android/skills",
+          "url": "https://github.com/android/skills",
+          "description": null,
+          "language": "Kotlin",
+          "stars": 9808,
+          "forks": 635,
+          "starsToday": 1070,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "language": "Rust",
+          "stars": 13744,
+          "forks": 974,
+          "starsToday": 3254,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "language": null,
+          "stars": 224429,
+          "forks": 22456,
+          "starsToday": 2937,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 115771,
+          "forks": 22235,
+          "starsToday": 2461,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "wshobson/agents",
+          "url": "https://github.com/wshobson/agents",
+          "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+          "language": "Python",
+          "stars": 41781,
+          "forks": 4432,
+          "starsToday": 726,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 72897,
+          "forks": 6594,
+          "starsToday": 5612,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "AgriciDaniel/claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+          "language": "Python",
+          "stars": 21967,
+          "forks": 3020,
+          "starsToday": 2492,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+          "language": "Python",
+          "stars": 143207,
+          "forks": 16914,
+          "starsToday": 4790,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 30436,
+          "forks": 8137,
+          "starsToday": 1770,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": []
