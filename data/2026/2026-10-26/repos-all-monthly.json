@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-26",
+  "list": "repos",
+  "language": "all",
+  "period": "monthly",
+  "pageUrl": "https://github.com/trending?since=monthly",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-26T01:03:40.016Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=monthly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 72170,
+          "forks": 6521,
+          "starsToday": 19211,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 2,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "language": "Python",
+          "stars": 86843,
+          "forks": 9613,
+          "starsToday": 50977,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 3,
+          "name": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "language": "JavaScript",
+          "stars": 46921,
+          "forks": 2908,
+          "starsToday": 24611,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 32983,
+          "forks": 3633,
+          "starsToday": 7387,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 5,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 107296,
+          "forks": 17825,
+          "starsToday": 24081,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 6,
+          "name": "NVIDIA/OpenShell",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+          "language": "Rust",
+          "stars": 19870,
+          "forks": 1966,
+          "starsToday": 11062,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 7,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "language": "TypeScript",
+          "stars": 32259,
+          "forks": 2232,
+          "starsToday": 8324,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 8,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 14051,
+          "forks": 1403,
+          "starsToday": 5448,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 9,
+          "name": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "language": "Python",
+          "stars": 53727,
+          "forks": 6251,
+          "starsToday": 25486,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars": 44566,
+          "forks": 4664,
+          "starsToday": 7932,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 11,
+          "name": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "Give your agent CAD superpowers.",
+          "language": "Python",
+          "stars": 23131,
+          "forks": 2246,
+          "starsToday": 6821,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 12,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "language": "Rust",
+          "stars": 87711,
+          "forks": 5243,
+          "starsToday": 16493,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 13,
+          "name": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "description": "Ghidra is a software reverse engineering (SRE) framework",
+          "language": "Java",
+          "stars": 94319,
+          "forks": 10595,
+          "starsToday": 14822,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 14,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars": 288871,
+          "forks": 42829,
+          "starsToday": 22882,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 15,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 41591,
+          "forks": 5605,
+          "starsToday": 12957,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 16,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 103123,
+          "forks": 9110,
+          "starsToday": 8817,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 17,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 30131,
+          "forks": 8080,
+          "starsToday": 6596,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 18,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 73821,
+          "forks": 12941,
+          "starsToday": 16847,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 19,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "language": "Python",
+          "stars": 39699,
+          "forks": 3429,
+          "starsToday": 3964,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 20,
+          "name": "TencentCloud/Octop",
+          "url": "https://github.com/TencentCloud/Octop",
+          "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+          "language": "Python",
+          "stars": 11023,
+          "forks": 1415,
+          "starsToday": 6203,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 21,
+          "name": "Gaurav-Gosain/tuios",
+          "url": "https://github.com/Gaurav-Gosain/tuios",
+          "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.",
+          "language": "Go",
+          "stars": 5991,
+          "forks": 276,
+          "starsToday": 2223,
+          "starsLabel": "this month"
+        }
+      ]
+    }
+  ],
+  "best": []
+}

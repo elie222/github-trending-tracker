@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T18:32:05.331Z",
+  "updatedAt": "2026-10-26T01:03:40.016Z",
   "since": "2024-11-17",
   "sinceLabel": "November 2024",
   "sinceShort": "Nov 2024",
@@ -6381,18 +6381,27 @@
       "allKnown": true,
       "tsRepo": "elie222/rakazo",
       "allRepo": "elie222/rakazo"
+    },
+    {
+      "date": "2026-10-26",
+      "ts": 17,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": "elie222/rakazo",
+      "allRepo": null
     }
   ],
   "summary": {
     "ts": {
       "daysAtOne": 75,
       "top10": 300,
-      "onList": 404,
+      "onList": 405,
       "longestOneStreak": 8,
-      "longestOnListStreak": 29,
-      "currentStreak": 29,
+      "longestOnListStreak": 30,
+      "currentStreak": 30,
       "best": 1,
-      "today": 4,
+      "today": 17,
       "todayKnown": true
     },
     "all": {
@@ -6401,9 +6410,9 @@
       "onList": 178,
       "longestOneStreak": 3,
       "longestOnListStreak": 9,
-      "currentStreak": 7,
+      "currentStreak": 0,
       "best": 1,
-      "today": 13,
+      "today": null,
       "todayKnown": true
     }
   },

@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-26",
+  "list": "developers",
+  "language": "all",
+  "period": "weekly",
+  "pageUrl": "https://github.com/trending/developers?since=weekly",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-26T01:03:40.016Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design language that makes your AI harness better at design."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "akitaonrails",
+          "name": "Fabio Akita",
+          "url": "https://github.com/akitaonrails",
+          "featuredRepo": {
+            "name": "akitaonrails/ai-memory",
+            "url": "https://github.com/akitaonrails/ai-memory",
+            "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "timoncool",
+          "name": "Ilya (Nerual Dreming) Timonin",
+          "url": "https://github.com/timoncool",
+          "featuredRepo": {
+            "name": "timoncool/YuE2-Studio",
+            "url": "https://github.com/timoncool/YuE2-Studio",
+            "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Wind…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "bowenliang123",
+          "name": "Bowen Liang",
+          "url": "https://github.com/bowenliang123",
+          "featuredRepo": {
+            "name": "bowenliang123/dsh-context",
+            "url": "https://github.com/bowenliang123/dsh-context",
+            "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for …"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "shiaho777",
+          "name": "shiaho",
+          "url": "https://github.com/shiaho777",
+          "featuredRepo": {
+            "name": "shiaho777/web-to-app",
+            "url": "https://github.com/shiaho777/web-to-app",
+            "description": "The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone Ca: H2mNeSJV75VuQpGA9C11Fw…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "iFurySt",
+          "name": "Leo",
+          "url": "https://github.com/iFurySt",
+          "featuredRepo": {
+            "name": "iFurySt/open-computer-use",
+            "url": "https://github.com/iFurySt/open-computer-use",
+            "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "Anionex",
+          "name": "anionex",
+          "url": "https://github.com/Anionex",
+          "featuredRepo": {
+            "name": "Anionex/banana-slides",
+            "url": "https://github.com/Anionex/banana-slides",
+            "description": "一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on n…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "slavakurilyak",
+          "name": "Slava Kurilyak",
+          "url": "https://github.com/slavakurilyak",
+          "featuredRepo": {
+            "name": "slavakurilyak/awesome-ai-agents",
+            "url": "https://github.com/slavakurilyak/awesome-ai-agents",
+            "description": "Awesome list of 300+ agentic AI resources"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "jarrodwatts",
+          "name": "Jarrod Watts",
+          "url": "https://github.com/jarrodwatts",
+          "featuredRepo": {
+            "name": "jarrodwatts/claude-hud",
+            "url": "https://github.com/jarrodwatts/claude-hud",
+            "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "SysAdminDoc",
+          "name": "Matthew Parker",
+          "url": "https://github.com/SysAdminDoc",
+          "featuredRepo": {
+            "name": "SysAdminDoc/HushFacebook",
+            "url": "https://github.com/SysAdminDoc/HushFacebook",
+            "description": "Hushfacebook Morphe patches for Facebook. Hide ads, suggested posts, save videos and photos, tune playback and Reels, and use a focused M…"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "danog",
+          "name": "Daniil Gentili",
+          "url": "https://github.com/danog",
+          "featuredRepo": {
+            "name": "danog/MadelineProto",
+            "url": "https://github.com/danog/MadelineProto",
+            "description": "Async PHP client API for the telegram MTProto protocol"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "DaniPopes",
+          "name": "DaniPopes",
+          "url": "https://github.com/DaniPopes",
+          "featuredRepo": null
+        },
+        {
+          "rank": 19,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/DeepSeek-Reasonix",
+            "url": "https://github.com/esengine/DeepSeek-Reasonix",
+            "description": "A reliable coding agent for complex software engineering tasks."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "weblate",
+          "name": "Weblate (bot)",
+          "url": "https://github.com/weblate",
+          "featuredRepo": {
+            "name": "weblate/myna",
+            "url": "https://github.com/weblate/myna",
+            "description": "Myna is a lightweight speech-to-text application for Ubuntu Desktop."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "JimLiu",
+          "name": "Jim Liu 宝玉",
+          "url": "https://github.com/JimLiu",
+          "featuredRepo": {
+            "name": "JimLiu/baocut",
+            "url": "https://github.com/JimLiu/baocut",
+            "description": "BaoCut: an AI video agent with an editable timeline. Transcribe, subtitle, translate, dub, cut and animate."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "klauspost",
+          "name": "Klaus Post",
+          "url": "https://github.com/klauspost",
+          "featuredRepo": {
+            "name": "klauspost/compress",
+            "url": "https://github.com/klauspost/compress",
+            "description": "Optimized Go Compression Packages"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/ruflo",
+            "url": "https://github.com/ruvnet/ruflo",
+            "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI system…"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "danielmeppiel",
+          "name": "Daniel Meppiel",
+          "url": "https://github.com/danielmeppiel",
+          "featuredRepo": {
+            "name": "danielmeppiel/genesis",
+            "url": "https://github.com/danielmeppiel/genesis",
+            "description": "Markdown that steers an LLM is code. Genesis is the architectural layer for designing multi-agent, multi-skill systems -- with named patt…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "momo5502",
+          "name": "Maurice Heumann",
+          "url": "https://github.com/momo5502",
+          "featuredRepo": {
+            "name": "momo5502/sogen",
+            "url": "https://github.com/momo5502/sogen",
+            "description": "🪅 Windows & Linux userspace emulator"
+          }
+        }
+      ]
+    }
+  ],
+  "best": [
+    {
+      "kind": "developer",
+      "key": "elie222",
+      "url": "https://github.com/elie222",
+      "bestRank": 10,
+      "scrapedAt": "2026-10-26T01:03:40.016Z",
+      "starsToday": null,
+      "featuredRepo": "elie222/rakazo"
+    }
+  ]
+}
