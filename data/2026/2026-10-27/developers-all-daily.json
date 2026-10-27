@@ -818,6 +818,269 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-27T18:25:53.708Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/pumpfun-source",
+            "url": "https://github.com/lalalune/pumpfun-source",
+            "description": "Reverse engineering the pump.fun smart contracts"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "gakonst",
+          "name": "Georgios Konstantopoulos",
+          "url": "https://github.com/gakonst",
+          "featuredRepo": {
+            "name": "gakonst/nanocode",
+            "url": "https://github.com/gakonst/nanocode",
+            "description": "SDK for Frontier Embedded Agents."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "Th0rgal",
+          "name": "Thomas Marchand",
+          "url": "https://github.com/Th0rgal",
+          "featuredRepo": {
+            "name": "Th0rgal/orb",
+            "url": "https://github.com/Th0rgal/orb",
+            "description": "All your AI providers, machines, and agent harnesses in one place. Free & native"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "krille-chan",
+          "name": "Krille-chan",
+          "url": "https://github.com/krille-chan",
+          "featuredRepo": {
+            "name": "krille-chan/fluffychat",
+            "url": "https://github.com/krille-chan/fluffychat",
+            "description": "The cutest instant messenger in the [matrix]"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "max-sixty",
+          "name": "Maximilian Roos",
+          "url": "https://github.com/max-sixty",
+          "featuredRepo": {
+            "name": "max-sixty/worktrunk",
+            "url": "https://github.com/max-sixty/worktrunk",
+            "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "vastsa",
+          "name": "Lan",
+          "url": "https://github.com/vastsa",
+          "featuredRepo": {
+            "name": "vastsa/PI-Desktop",
+            "url": "https://github.com/vastsa/PI-Desktop",
+            "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "OutThisLife",
+          "name": "brooklyn!",
+          "url": "https://github.com/OutThisLife",
+          "featuredRepo": {
+            "name": "OutThisLife/azeroth-survivors-re",
+            "url": "https://github.com/OutThisLife/azeroth-survivors-re",
+            "description": "A survivors roguelite running on a from-scratch World of Warcraft 1.12.1 client engine (Rust + Bevy)."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "jarrodwatts",
+          "name": "Jarrod Watts",
+          "url": "https://github.com/jarrodwatts",
+          "featuredRepo": {
+            "name": "jarrodwatts/claude-hud",
+            "url": "https://github.com/jarrodwatts/claude-hud",
+            "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "enesozturk",
+          "name": "Enes",
+          "url": "https://github.com/enesozturk",
+          "featuredRepo": {
+            "name": "enesozturk/dimensional-drawing",
+            "url": "https://github.com/enesozturk/dimensional-drawing",
+            "description": "Create Apple style dimensional drawings of UI components."
+          }
+        },
+        {
+          "rank": 13,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "eavanvalkenburg",
+          "name": "Eduard van Valkenburg",
+          "url": "https://github.com/eavanvalkenburg",
+          "featuredRepo": null
+        },
+        {
+          "rank": 15,
+          "username": "emilk",
+          "name": "Emil Ernerfeldt",
+          "url": "https://github.com/emilk",
+          "featuredRepo": {
+            "name": "emilk/egui",
+            "url": "https://github.com/emilk/egui",
+            "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "timothycarambat",
+          "name": "Timothy Carambat",
+          "url": "https://github.com/timothycarambat",
+          "featuredRepo": null
+        },
+        {
+          "rank": 17,
+          "username": "akshaydeo",
+          "name": "Akshay Deo",
+          "url": "https://github.com/akshaydeo",
+          "featuredRepo": null
+        },
+        {
+          "rank": 18,
+          "username": "zackees",
+          "name": "Zachary Vorhies",
+          "url": "https://github.com/zackees",
+          "featuredRepo": {
+            "name": "zackees/transcribe-anything",
+            "url": "https://github.com/zackees/transcribe-anything",
+            "description": "Multi-backend whisper app. Blazing fast. Mac-arm optimized. Easy install. Input a local file or url and this service will transcribe it u…"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "AlexWaygood",
+          "name": "Alex Waygood",
+          "url": "https://github.com/AlexWaygood",
+          "featuredRepo": null
+        },
+        {
+          "rank": 20,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "mokevnin",
+          "name": "Kirill Mokevnin",
+          "url": "https://github.com/mokevnin",
+          "featuredRepo": {
+            "name": "mokevnin/dev-quality-gates",
+            "url": "https://github.com/mokevnin/dev-quality-gates",
+            "description": "An opinionated, curated list of tools for enforcing software development standards: one recommended tool per job, with limits."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "DeusData",
+          "name": "Martin Vogel",
+          "url": "https://github.com/DeusData",
+          "featuredRepo": {
+            "name": "DeusData/codebase-memory-mcp",
+            "url": "https://github.com/DeusData/codebase-memory-mcp",
+            "description": "Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP too…"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "tontinton",
+          "name": "Tony Solomonik",
+          "url": "https://github.com/tontinton",
+          "featuredRepo": {
+            "name": "tontinton/maki",
+            "url": "https://github.com/tontinton/maki",
+            "description": "An efficient AI coding agent extendable by neovim-like Lua plugins"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "fancyboi999",
+          "name": "Xinmin Zeng",
+          "url": "https://github.com/fancyboi999",
+          "featuredRepo": {
+            "name": "fancyboi999/goofish-cli",
+            "url": "https://github.com/fancyboi999/goofish-cli",
+            "description": "闲鱼 CLI · 原生支持 MCP · 为 AI Agent 而生 | Goofish (Xianyu) automation CLI · MCP-ready · Built for AI Agents"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "petebacondarwin",
+          "name": "Pete Bacon Darwin",
+          "url": "https://github.com/petebacondarwin",
+          "featuredRepo": null
+        }
+      ]
     }
   ],
   "best": []

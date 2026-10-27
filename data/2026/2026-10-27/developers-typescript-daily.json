@@ -854,6 +854,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-27T18:25:53.708Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "vastsa",
+          "name": "Lan",
+          "url": "https://github.com/vastsa",
+          "featuredRepo": {
+            "name": "vastsa/PI-Desktop",
+            "url": "https://github.com/vastsa/PI-Desktop",
+            "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "szTheory",
+          "name": "szTheory",
+          "url": "https://github.com/szTheory",
+          "featuredRepo": {
+            "name": "szTheory/exifcleaner",
+            "url": "https://github.com/szTheory/exifcleaner",
+            "description": "Cross-platform desktop GUI app to clean image metadata"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "JonnyBurger",
+          "name": "Jonny Burger",
+          "url": "https://github.com/JonnyBurger",
+          "featuredRepo": {
+            "name": "JonnyBurger/remotion-wrapped",
+            "url": "https://github.com/JonnyBurger/remotion-wrapped",
+            "description": "🎶 Spotify Wrapped recreated in Remotion 🎥"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "simonepri",
+          "name": "Simone Primarosa",
+          "url": "https://github.com/simonepri",
+          "featuredRepo": {
+            "name": "simonepri/refined-antigravity-acp",
+            "url": "https://github.com/simonepri/refined-antigravity-acp",
+            "description": "🤦 A Google Antigravity ACP binary that actually works."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "crynta",
+          "name": "Crynta",
+          "url": "https://github.com/crynta",
+          "featuredRepo": {
+            "name": "crynta/terax-ai",
+            "url": "https://github.com/crynta/terax-ai",
+            "description": "Lightweight (7MB) terminal-first AI-native development environment"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "dashhuang",
+          "name": "Dash",
+          "url": "https://github.com/dashhuang",
+          "featuredRepo": {
+            "name": "dashhuang/cindy",
+            "url": "https://github.com/dashhuang/cindy",
+            "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/ruflo",
+            "url": "https://github.com/ruvnet/ruflo",
+            "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI system…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "jeswr",
+          "name": "Jesse Wright",
+          "url": "https://github.com/jeswr",
+          "featuredRepo": {
+            "name": "jeswr/folder-pane",
+            "url": "https://github.com/jeswr/folder-pane",
+            "description": "Folder browser fo Sold file system: traverse, add new folders, objects, upload files etc"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 13,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live-streaming CLI s…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "JimLiu",
+          "name": "Jim Liu 宝玉",
+          "url": "https://github.com/JimLiu",
+          "featuredRepo": {
+            "name": "JimLiu/baocut",
+            "url": "https://github.com/JimLiu/baocut",
+            "description": "BaoCut: an AI video agent with an editable timeline. Transcribe, subtitle, translate, dub, cut and animate."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "w3cj",
+          "name": "CJ",
+          "url": "https://github.com/w3cj",
+          "featuredRepo": {
+            "name": "w3cj/how-llms-work",
+            "url": "https://github.com/w3cj/how-llms-work",
+            "description": "An interactive app that walks through every stage of the LLM pipeline, from pattern matching to training a transformer from scratch, with…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "kixelated",
+          "name": "Luke Curley",
+          "url": "https://github.com/kixelated",
+          "featuredRepo": {
+            "name": "kixelated/quest",
+            "url": "https://github.com/kixelated/quest",
+            "description": "A quest log for your repo and your agents: plans as Markdown files, explicit dependencies, and reviewable Git changes. For Claude Code an…"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "unicodeveloper",
+          "name": "Prosper Otemuyiwa",
+          "url": "https://github.com/unicodeveloper",
+          "featuredRepo": {
+            "name": "unicodeveloper/globalthreatmap",
+            "url": "https://github.com/unicodeveloper/globalthreatmap",
+            "description": "Global threat map. Learn wars, conflicts, military bases and history of nations."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "wcandillon",
+          "name": "William Candillon",
+          "url": "https://github.com/wcandillon",
+          "featuredRepo": {
+            "name": "wcandillon/react-native-skia",
+            "url": "https://github.com/wcandillon/react-native-skia",
+            "description": "High-performance React Native Graphics using Skia"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "RealKai42",
+          "name": "Kai",
+          "url": "https://github.com/RealKai42",
+          "featuredRepo": {
+            "name": "RealKai42/qwerty-learner",
+            "url": "https://github.com/RealKai42/qwerty-learner",
+            "description": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "tmchow",
+          "name": "Trevin Chow",
+          "url": "https://github.com/tmchow",
+          "featuredRepo": {
+            "name": "tmchow/energon",
+            "url": "https://github.com/tmchow/energon",
+            "description": "Self-hosted handoff layer for agent work that doesn't belong in a repo."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "sam-goodwin",
+          "name": "sam",
+          "url": "https://github.com/sam-goodwin",
+          "featuredRepo": {
+            "name": "sam-goodwin/zod-class",
+            "url": "https://github.com/sam-goodwin/zod-class",
+            "description": "Create a Class from a ZodObject schema in one line"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "dillionverma",
+          "name": "Dillion Verma",
+          "url": "https://github.com/dillionverma",
+          "featuredRepo": {
+            "name": "dillionverma/bitlatch",
+            "url": "https://github.com/dillionverma/bitlatch",
+            "description": "Bitlatch — a modern, unofficial Bitwarden client."
+          }
+        },
+        {
+          "rank": 23,
+          "username": "perminder-klair",
+          "name": "Parminder Klair",
+          "url": "https://github.com/perminder-klair",
+          "featuredRepo": {
+            "name": "perminder-klair/subwave",
+            "url": "https://github.com/perminder-klair/subwave",
+            "description": "Personal internet radio: Agentic AI DJ"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "Anionex",
+          "name": "anionex",
+          "url": "https://github.com/Anionex",
+          "featuredRepo": {
+            "name": "Anionex/banana-slides",
+            "url": "https://github.com/Anionex/banana-slides",
+            "description": "一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on n…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "firsttris",
+          "name": "Tristan Teufel",
+          "url": "https://github.com/firsttris",
+          "featuredRepo": {
+            "name": "firsttris/haben",
+            "url": "https://github.com/firsttris/haben",
+            "description": "Selbst gehostete Buchhaltung für Freiberufler, Selbstständige und Kleinunternehmer: E-Rechnung mit ZUGFeRD und XRechnung, Belege, Bankabg…"
+          }
+        }
+      ]
     }
   ],
   "best": [
