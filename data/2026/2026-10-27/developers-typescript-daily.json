@@ -288,6 +288,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-27T06:47:27.274Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "dashhuang",
+          "name": "Dash",
+          "url": "https://github.com/dashhuang",
+          "featuredRepo": {
+            "name": "dashhuang/cindy",
+            "url": "https://github.com/dashhuang/cindy",
+            "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "crynta",
+          "name": "Crynta",
+          "url": "https://github.com/crynta",
+          "featuredRepo": {
+            "name": "crynta/terax-ai",
+            "url": "https://github.com/crynta/terax-ai",
+            "description": "Lightweight (7MB) terminal-first AI-native development environment"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "ColeMurray",
+          "name": "Cole Murray",
+          "url": "https://github.com/ColeMurray",
+          "featuredRepo": {
+            "name": "ColeMurray/background-agents",
+            "url": "https://github.com/ColeMurray/background-agents",
+            "description": "An open-source background agents coding system"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "kunickiaj",
+          "name": "Adam Kunicki",
+          "url": "https://github.com/kunickiaj",
+          "featuredRepo": {
+            "name": "kunickiaj/backstage-plugin-catalog-module-history",
+            "url": "https://github.com/kunickiaj/backstage-plugin-catalog-module-history",
+            "description": "Backstage backend module that records every catalog EntityProvider mutation into a versioned, queryable history store."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "sam-goodwin",
+          "name": "sam",
+          "url": "https://github.com/sam-goodwin",
+          "featuredRepo": {
+            "name": "sam-goodwin/zod-class",
+            "url": "https://github.com/sam-goodwin/zod-class",
+            "description": "Create a Class from a ZodObject schema in one line"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live-streaming CLI s…"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "vastsa",
+          "name": "Lan",
+          "url": "https://github.com/vastsa",
+          "featuredRepo": {
+            "name": "vastsa/PI-Desktop",
+            "url": "https://github.com/vastsa/PI-Desktop",
+            "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "kixelated",
+          "name": "Luke Curley",
+          "url": "https://github.com/kixelated",
+          "featuredRepo": {
+            "name": "kixelated/quest",
+            "url": "https://github.com/kixelated/quest",
+            "description": "A quest log for your repo and your agents: plans as Markdown files, explicit dependencies, and reviewable Git changes. For Claude Code an…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "timoncool",
+          "name": "Ilya (Nerual Dreming) Timonin",
+          "url": "https://github.com/timoncool",
+          "featuredRepo": {
+            "name": "timoncool/YuE2-Studio",
+            "url": "https://github.com/timoncool/YuE2-Studio",
+            "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Wind…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/ruflo",
+            "url": "https://github.com/ruvnet/ruflo",
+            "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI system…"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "dannote",
+          "name": "Danila Poyarkov",
+          "url": "https://github.com/dannote",
+          "featuredRepo": {
+            "name": "dannote/figma-use",
+            "url": "https://github.com/dannote/figma-use",
+            "description": "Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 1…"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "perminder-klair",
+          "name": "Parminder Klair",
+          "url": "https://github.com/perminder-klair",
+          "featuredRepo": {
+            "name": "perminder-klair/subwave",
+            "url": "https://github.com/perminder-klair/subwave",
+            "description": "Personal internet radio: Agentic AI DJ"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "costajohnt",
+          "name": "John Costa",
+          "url": "https://github.com/costajohnt",
+          "featuredRepo": {
+            "name": "costajohnt/oss-autopilot",
+            "url": "https://github.com/costajohnt/oss-autopilot",
+            "description": "Claude Code plugin — AI-powered autopilot for managing open source contributions. Track PRs, respond to maintainers, discover issues, mai…"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "jkomyno",
+          "name": "Alberto Schiabel",
+          "url": "https://github.com/jkomyno",
+          "featuredRepo": {
+            "name": "jkomyno/pnpm-monorepo-template",
+            "url": "https://github.com/jkomyno/pnpm-monorepo-template",
+            "description": "Opinionated Node.js monorepo example with pnpm, turborepo, and vitest"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "JimLiu",
+          "name": "Jim Liu 宝玉",
+          "url": "https://github.com/JimLiu",
+          "featuredRepo": {
+            "name": "JimLiu/baocut",
+            "url": "https://github.com/JimLiu/baocut",
+            "description": "BaoCut: an AI video agent with an editable timeline. Transcribe, subtitle, translate, dub, cut and animate."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "dreamhunter2333",
+          "name": "Dream Hunter",
+          "url": "https://github.com/dreamhunter2333",
+          "featuredRepo": {
+            "name": "dreamhunter2333/cloudflare_temp_email",
+            "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+            "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "webdevcody",
+          "name": "Web Dev Cody",
+          "url": "https://github.com/webdevcody",
+          "featuredRepo": {
+            "name": "webdevcody/next-drizzle-lucia-sqlite-template",
+            "url": "https://github.com/webdevcody/next-drizzle-lucia-sqlite-template",
+            "description": null
+          }
+        },
+        {
+          "rank": 24,
+          "username": "kentcdodds",
+          "name": "Kent C. Dodds",
+          "url": "https://github.com/kentcdodds",
+          "featuredRepo": {
+            "name": "kentcdodds/match-sorter",
+            "url": "https://github.com/kentcdodds/match-sorter",
+            "description": "Simple, expected, and deterministic best-match sorting of an array in JavaScript"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "firsttris",
+          "name": "Tristan Teufel",
+          "url": "https://github.com/firsttris",
+          "featuredRepo": {
+            "name": "firsttris/haben",
+            "url": "https://github.com/firsttris/haben",
+            "description": "Selbst gehostete Buchhaltung für Freiberufler, Selbstständige und Kleinunternehmer: E-Rechnung mit ZUGFeRD und XRechnung, Belege, Bankabg…"
+          }
+        }
+      ]
     }
   ],
   "best": [
