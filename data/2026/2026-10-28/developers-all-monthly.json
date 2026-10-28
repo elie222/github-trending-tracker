@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-28",
+  "list": "developers",
+  "language": "all",
+  "period": "monthly",
+  "pageUrl": "https://github.com/trending/developers?since=monthly",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-28T00:47:56.343Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=monthly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design language that makes your AI harness better at design."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "unxed",
+          "name": "unxed",
+          "url": "https://github.com/unxed",
+          "featuredRepo": {
+            "name": "unxed/f4",
+            "url": "https://github.com/unxed/f4",
+            "description": "dual pane like a charm"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "Cyan4973",
+          "name": "Yann Collet",
+          "url": "https://github.com/Cyan4973",
+          "featuredRepo": {
+            "name": "Cyan4973/xxHash",
+            "url": "https://github.com/Cyan4973/xxHash",
+            "description": "Extremely fast non-cryptographic hash algorithm"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "probonopd",
+          "name": "probonopd",
+          "url": "https://github.com/probonopd",
+          "featuredRepo": {
+            "name": "probonopd/MiniDexed",
+            "url": "https://github.com/probonopd/MiniDexed",
+            "description": "Dexed FM synthesizer similar to 8x DX7 (TX816/TX802) running on a bare metal Raspberry Pi (without a Linux kernel or operating system)"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "momo5502",
+          "name": "Maurice Heumann",
+          "url": "https://github.com/momo5502",
+          "featuredRepo": {
+            "name": "momo5502/sogen",
+            "url": "https://github.com/momo5502/sogen",
+            "description": "🪅 Windows & Linux userspace emulator"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "chenrui333",
+          "name": "Rui Chen",
+          "url": "https://github.com/chenrui333",
+          "featuredRepo": {
+            "name": "chenrui333/jev-docs",
+            "url": "https://github.com/chenrui333/jev-docs",
+            "description": "Community-maintained history of Jev / TypeSafe System One APIs, SDKs, agent guidance, and engineering best practices."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "poteto",
+          "name": "lauren",
+          "url": "https://github.com/poteto",
+          "featuredRepo": {
+            "name": "poteto/hiring-without-whiteboards",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "boykopovar",
+          "name": "boykopovar",
+          "url": "https://github.com/boykopovar",
+          "featuredRepo": {
+            "name": "boykopovar/AnyPS5",
+            "url": "https://github.com/boykopovar/AnyPS5",
+            "description": "Tool for automatic PS5 executables porting to Linux and Windows"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "frankbria",
+          "name": "Frank Bria",
+          "url": "https://github.com/frankbria",
+          "featuredRepo": {
+            "name": "frankbria/ralph-claude-code",
+            "url": "https://github.com/frankbria/ralph-claude-code",
+            "description": "Autonomous AI development loop for Claude Code with intelligent exit detection"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "Predidit",
+          "name": "Predidit",
+          "url": "https://github.com/Predidit",
+          "featuredRepo": {
+            "name": "Predidit/Kazumi",
+            "url": "https://github.com/Predidit/Kazumi",
+            "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "timoncool",
+          "name": "Ilya (Nerual Dreming) Timonin",
+          "url": "https://github.com/timoncool",
+          "featuredRepo": {
+            "name": "timoncool/YuE2-Studio",
+            "url": "https://github.com/timoncool/YuE2-Studio",
+            "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Wind…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "akitaonrails",
+          "name": "Fabio Akita",
+          "url": "https://github.com/akitaonrails",
+          "featuredRepo": {
+            "name": "akitaonrails/ai-memory",
+            "url": "https://github.com/akitaonrails/ai-memory",
+            "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 16,
+          "username": "jarrodwatts",
+          "name": "Jarrod Watts",
+          "url": "https://github.com/jarrodwatts",
+          "featuredRepo": {
+            "name": "jarrodwatts/jev-trader",
+            "url": "https://github.com/jarrodwatts/jev-trader",
+            "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "penso",
+          "name": "Fabien Penso",
+          "url": "https://github.com/penso",
+          "featuredRepo": {
+            "name": "penso/herdr-gpui",
+            "url": "https://github.com/penso/herdr-gpui",
+            "description": "Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and ag…"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "shihabal3amri",
+          "name": "Shihab",
+          "url": "https://github.com/shihabal3amri",
+          "featuredRepo": {
+            "name": "shihabal3amri/DiPlay",
+            "url": "https://github.com/shihabal3amri/DiPlay",
+            "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "emilk",
+          "name": "Emil Ernerfeldt",
+          "url": "https://github.com/emilk",
+          "featuredRepo": {
+            "name": "emilk/egui",
+            "url": "https://github.com/emilk/egui",
+            "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "slavakurilyak",
+          "name": "Slava Kurilyak",
+          "url": "https://github.com/slavakurilyak",
+          "featuredRepo": {
+            "name": "slavakurilyak/awesome-ai-agents",
+            "url": "https://github.com/slavakurilyak/awesome-ai-agents",
+            "description": "Awesome list of 300+ agentic AI resources"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "klauspost",
+          "name": "Klaus Post",
+          "url": "https://github.com/klauspost",
+          "featuredRepo": {
+            "name": "klauspost/compress",
+            "url": "https://github.com/klauspost/compress",
+            "description": "Optimized Go Compression Packages"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "isair",
+          "name": "Baris Sencan",
+          "url": "https://github.com/isair",
+          "featuredRepo": {
+            "name": "isair/jarvis",
+            "url": "https://github.com/isair/jarvis",
+            "description": "Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or O…"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "weblate",
+          "name": "Weblate (bot)",
+          "url": "https://github.com/weblate",
+          "featuredRepo": {
+            "name": "weblate/myna",
+            "url": "https://github.com/weblate/myna",
+            "description": "Myna is a lightweight speech-to-text application for Ubuntu Desktop."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "dajiaohuang",
+          "name": "Wu Shuwen",
+          "url": "https://github.com/dajiaohuang",
+          "featuredRepo": {
+            "name": "dajiaohuang/awesome-generative-ai-apps",
+            "url": "https://github.com/dajiaohuang/awesome-generative-ai-apps",
+            "description": "50+ open-source generative AI apps you can clone, deploy, and monetize — image generators, video tools, virtual try-ons, AI SaaS template…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "MaxBittker",
+          "name": "Max Bittker",
+          "url": "https://github.com/MaxBittker",
+          "featuredRepo": {
+            "name": "MaxBittker/rs-sdk",
+            "url": "https://github.com/MaxBittker/rs-sdk",
+            "description": "Runescape automation library, optimized for use by coding agents."
+          }
+        }
+      ]
+    }
+  ],
+  "best": [
+    {
+      "kind": "developer",
+      "key": "elie222",
+      "url": "https://github.com/elie222",
+      "bestRank": 15,
+      "scrapedAt": "2026-10-28T00:47:56.343Z",
+      "starsToday": null,
+      "featuredRepo": "elie222/rakazo"
+    }
+  ]
+}
