@@ -794,7 +794,284 @@
           "featuredRepo": null
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-28T18:27:44.689Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "derekross",
+          "name": "Derek Ross",
+          "url": "https://github.com/derekross",
+          "featuredRepo": {
+            "name": "derekross/omarchy-mobile",
+            "url": "https://github.com/derekross/omarchy-mobile",
+            "description": "Omarchy Mobile: native Omarchy on mobile phones. Arch Linux ARM, Hyprland and Omarchy on a mainline kernel (work in progress)"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "Th0rgal",
+          "name": "Thomas Marchand",
+          "url": "https://github.com/Th0rgal",
+          "featuredRepo": {
+            "name": "Th0rgal/orb",
+            "url": "https://github.com/Th0rgal/orb",
+            "description": "All your AI providers, machines, and agent harnesses in one place. Free & native"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "momo5502",
+          "name": "Maurice Heumann",
+          "url": "https://github.com/momo5502",
+          "featuredRepo": {
+            "name": "momo5502/sogen",
+            "url": "https://github.com/momo5502/sogen",
+            "description": "🪅 Windows & Linux userspace emulator"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/pumpfun-source",
+            "url": "https://github.com/lalalune/pumpfun-source",
+            "description": "Reverse engineering the pump.fun smart contracts"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "krille-chan",
+          "name": "Krille-chan",
+          "url": "https://github.com/krille-chan",
+          "featuredRepo": {
+            "name": "krille-chan/fluffychat",
+            "url": "https://github.com/krille-chan/fluffychat",
+            "description": "The cutest instant messenger in the [matrix]"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "eavanvalkenburg",
+          "name": "Eduard van Valkenburg",
+          "url": "https://github.com/eavanvalkenburg",
+          "featuredRepo": null
+        },
+        {
+          "rank": 8,
+          "username": "max-sixty",
+          "name": "Maximilian Roos",
+          "url": "https://github.com/max-sixty",
+          "featuredRepo": {
+            "name": "max-sixty/worktrunk",
+            "url": "https://github.com/max-sixty/worktrunk",
+            "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "mattt",
+          "name": "Mattt",
+          "url": "https://github.com/mattt",
+          "featuredRepo": {
+            "name": "mattt/iMCP",
+            "url": "https://github.com/mattt/iMCP",
+            "description": "A macOS app that provides an MCP server to your Messages, Contacts, Reminders and more"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "Cyan4973",
+          "name": "Yann Collet",
+          "url": "https://github.com/Cyan4973",
+          "featuredRepo": {
+            "name": "Cyan4973/xxHash",
+            "url": "https://github.com/Cyan4973/xxHash",
+            "description": "Extremely fast non-cryptographic hash algorithm"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "gakonst",
+          "name": "Georgios Konstantopoulos",
+          "url": "https://github.com/gakonst",
+          "featuredRepo": {
+            "name": "gakonst/nanocode",
+            "url": "https://github.com/gakonst/nanocode",
+            "description": "SDK for Frontier Embedded Agents."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "charliermarsh",
+          "name": "Charlie Marsh",
+          "url": "https://github.com/charliermarsh",
+          "featuredRepo": null
+        },
+        {
+          "rank": 13,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "vanducng",
+          "name": "Duc",
+          "url": "https://github.com/vanducng",
+          "featuredRepo": {
+            "name": "vanducng/rexboard",
+            "url": "https://github.com/vanducng/rexboard",
+            "description": "Unofficial attention board for coding agents in Rex: every agent pane on every host, how long it has waited, and a key to jump there"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "sam-goodwin",
+          "name": "sam",
+          "url": "https://github.com/sam-goodwin",
+          "featuredRepo": {
+            "name": "sam-goodwin/zod-class",
+            "url": "https://github.com/sam-goodwin/zod-class",
+            "description": "Create a Class from a ZodObject schema in one line"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "yetone",
+          "name": "yetone",
+          "url": "https://github.com/yetone",
+          "featuredRepo": {
+            "name": "yetone/magpie",
+            "url": "https://github.com/yetone/magpie",
+            "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "OutThisLife",
+          "name": "brooklyn!",
+          "url": "https://github.com/OutThisLife",
+          "featuredRepo": {
+            "name": "OutThisLife/azeroth-survivors-re",
+            "url": "https://github.com/OutThisLife/azeroth-survivors-re",
+            "description": "A survivors roguelite running on a from-scratch World of Warcraft 1.12.1 client engine (Rust + Bevy)."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "dashhuang",
+          "name": "Dash",
+          "url": "https://github.com/dashhuang",
+          "featuredRepo": {
+            "name": "dashhuang/openclaw-conversation-archive",
+            "url": "https://github.com/dashhuang/openclaw-conversation-archive",
+            "description": "OpenClaw plugin for raw conversation archiving and later history retrieval"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "babakks",
+          "name": "Babak K. Shandiz",
+          "url": "https://github.com/babakks",
+          "featuredRepo": null
+        },
+        {
+          "rank": 20,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "cliffhall",
+          "name": "Cliff Hall",
+          "url": "https://github.com/cliffhall",
+          "featuredRepo": null
+        },
+        {
+          "rank": 22,
+          "username": "melgarafael",
+          "name": "Rafael Melgaço",
+          "url": "https://github.com/melgarafael",
+          "featuredRepo": {
+            "name": "melgarafael/DeskcommCRM",
+            "url": "https://github.com/melgarafael/DeskcommCRM",
+            "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any…"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "tmchow",
+          "name": "Trevin Chow",
+          "url": "https://github.com/tmchow",
+          "featuredRepo": {
+            "name": "tmchow/hermes-kids-profile-blueprint",
+            "url": "https://github.com/tmchow/hermes-kids-profile-blueprint",
+            "description": "Parent-operated starter kit for designing a private, child-facing Hermes Agent profile"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "DsThakurRawat",
+          "name": "Divyansh Rawat",
+          "url": "https://github.com/DsThakurRawat",
+          "featuredRepo": {
+            "name": "DsThakurRawat/Backend-from-first-Principle",
+            "url": "https://github.com/DsThakurRawat/Backend-from-first-Principle",
+            "description": "A comprehensive open-source reference for backend engineering HTTP, concurrency, gRPC, distributed systems, observability, and cloud-nati…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "vastsa",
+          "name": "Lan",
+          "url": "https://github.com/vastsa",
+          "featuredRepo": {
+            "name": "vastsa/PI-Desktop",
+            "url": "https://github.com/vastsa/PI-Desktop",
+            "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
+          }
+        }
+      ]
     }
   ],
-  "best": []
+  "best": [
+    {
+      "kind": "developer",
+      "key": "elie222",
+      "url": "https://github.com/elie222",
+      "bestRank": 20,
+      "scrapedAt": "2026-10-28T18:27:44.689Z",
+      "starsToday": null,
+      "featuredRepo": "elie222/rakazo"
+    }
+  ]
 }

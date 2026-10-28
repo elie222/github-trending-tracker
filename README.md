@@ -32,15 +32,15 @@ UTC day **2026-10-28**.
 
 | List | Result |
 | --- | --- |
-| TypeScript developers (daily) | not listed |
-| all languages developers (daily) | not listed |
+| TypeScript developers (daily) | **#3** elie222 · elie222/rakazo |
+| all languages developers (daily) | **#20** elie222 · elie222/rakazo |
 | TypeScript repositories (daily) | not listed |
 | all languages repositories (daily) | not listed |
 
 | Name | List | Days listed | Days #1 | Days top 10 | Best | Current on-list streak | Longest on-list streak | Current #1 streak | Longest #1 streak |
 | --- | --- | ---: | ---: | ---: | ---: | --- | --- | --- | --- |
-| elie222 | TypeScript developers (daily) | 406 | 75 | 302 | #1 | 0 days | 31 days (2026-09-27 – 2026-10-27) | 0 days | 8 days (2025-07-08 – 2025-07-15) |
-| elie222 | all languages developers (daily) | 178 | 25 | 115 | #1 | 0 days | 9 days (2026-10-07 – 2026-10-15) | 0 days | 3 days (2025-10-22 – 2025-10-24) |
+| elie222 | TypeScript developers (daily) | 407 | 75 | 303 | #1 | 32 days (2026-09-27 – 2026-10-28) | 32 days (2026-09-27 – 2026-10-28) | 0 days | 8 days (2025-07-08 – 2025-07-15) |
+| elie222 | all languages developers (daily) | 179 | 25 | 115 | #1 | 1 day (2026-10-28) | 9 days (2026-10-07 – 2026-10-15) | 0 days | 3 days (2025-10-22 – 2025-10-24) |
 | elie222/inbox-zero | TypeScript repositories (daily) | 22 | 3 | 16 | #1 | 0 days | 4 days (2025-04-03 – 2025-04-06) | 0 days | 2 days (2025-04-04 – 2025-04-05) |
 | elie222/inbox-zero | all languages repositories (daily) | 6 | 0 | 5 | #2 | 0 days | 3 days (2025-04-03 – 2025-04-05) | 0 days | 0 days |
 | elie222/rakazo | TypeScript repositories (daily) | 4 | 0 | 2 | #5 | 0 days | 3 days (2026-10-17 – 2026-10-19) | 0 days | 0 days |
