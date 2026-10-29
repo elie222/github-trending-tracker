@@ -329,6 +329,190 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-29T12:32:17.087Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "JetBrains/thinkrail",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+          "language": "TypeScript",
+          "stars": 5656,
+          "forks": 295,
+          "starsToday": 1116,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+          "language": "TypeScript",
+          "stars": 7064,
+          "forks": 1077,
+          "starsToday": 1190,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "nightly-labs/openbot",
+          "url": "https://github.com/nightly-labs/openbot",
+          "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+          "language": "TypeScript",
+          "stars": 3603,
+          "forks": 339,
+          "starsToday": 705,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 104228,
+          "forks": 9195,
+          "starsToday": 324,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "CopilotKit/OpenBot",
+          "url": "https://github.com/CopilotKit/OpenBot",
+          "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+          "language": "TypeScript",
+          "stars": 7781,
+          "forks": 1030,
+          "starsToday": 240,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "PurpleDoubleD/locally-uncensored",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored",
+          "description": "The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required.",
+          "language": "TypeScript",
+          "stars": 2996,
+          "forks": 492,
+          "starsToday": 111,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "CopilotKit/CopilotKit",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+          "language": "TypeScript",
+          "stars": 38359,
+          "forks": 4789,
+          "starsToday": 52,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "agentscope-ai/QwenPaw",
+          "url": "https://github.com/agentscope-ai/QwenPaw",
+          "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+          "language": "TypeScript",
+          "stars": 36829,
+          "forks": 3235,
+          "starsToday": 116,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "gitroomhq/postiz-app",
+          "url": "https://github.com/gitroomhq/postiz-app",
+          "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+          "language": "TypeScript",
+          "stars": 40061,
+          "forks": 7594,
+          "starsToday": 893,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/playwright",
+          "url": "https://github.com/microsoft/playwright",
+          "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+          "language": "TypeScript",
+          "stars": 98798,
+          "forks": 6732,
+          "starsToday": 83,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "KeygraphHQ/shannon",
+          "url": "https://github.com/KeygraphHQ/shannon",
+          "description": "Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+          "language": "TypeScript",
+          "stars": 50294,
+          "forks": 5783,
+          "starsToday": 476,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "chthollyphile/folia-major",
+          "url": "https://github.com/chthollyphile/folia-major",
+          "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
+          "language": "TypeScript",
+          "stars": 10141,
+          "forks": 1114,
+          "starsToday": 241,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "openobserve/openobserve",
+          "url": "https://github.com/openobserve/openobserve",
+          "description": "Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.",
+          "language": "TypeScript",
+          "stars": 22585,
+          "forks": 1162,
+          "starsToday": 37,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+          "language": "TypeScript",
+          "stars": 40846,
+          "forks": 4695,
+          "starsToday": 185,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 15,
+          "name": "anthropics/claude-code-action",
+          "url": "https://github.com/anthropics/claude-code-action",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 9701,
+          "forks": 2229,
+          "starsToday": 18,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 16,
+          "name": "prisma/orm",
+          "url": "https://github.com/prisma/orm",
+          "description": "The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.",
+          "language": "TypeScript",
+          "stars": 47670,
+          "forks": 2572,
+          "starsToday": 5,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []

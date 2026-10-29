@@ -571,6 +571,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-29T12:32:17.087Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "sam-goodwin",
+          "name": "sam",
+          "url": "https://github.com/sam-goodwin",
+          "featuredRepo": {
+            "name": "sam-goodwin/zod-class",
+            "url": "https://github.com/sam-goodwin/zod-class",
+            "description": "Create a Class from a ZodObject schema in one line"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "melgarafael",
+          "name": "Rafael Melgaço",
+          "url": "https://github.com/melgarafael",
+          "featuredRepo": {
+            "name": "melgarafael/DeskcommCRM",
+            "url": "https://github.com/melgarafael/DeskcommCRM",
+            "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "vastsa",
+          "name": "Lan",
+          "url": "https://github.com/vastsa",
+          "featuredRepo": {
+            "name": "vastsa/PI-Desktop",
+            "url": "https://github.com/vastsa/PI-Desktop",
+            "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "lfnovo",
+          "name": "Luis Novo",
+          "url": "https://github.com/lfnovo",
+          "featuredRepo": {
+            "name": "lfnovo/open-notebook",
+            "url": "https://github.com/lfnovo/open-notebook",
+            "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "ColeMurray",
+          "name": "Cole Murray",
+          "url": "https://github.com/ColeMurray",
+          "featuredRepo": {
+            "name": "ColeMurray/background-agents",
+            "url": "https://github.com/ColeMurray/background-agents",
+            "description": "An open-source background agents coding system"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/ruflo",
+            "url": "https://github.com/ruvnet/ruflo",
+            "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI system…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "firsttris",
+          "name": "Tristan Teufel",
+          "url": "https://github.com/firsttris",
+          "featuredRepo": {
+            "name": "firsttris/haben",
+            "url": "https://github.com/firsttris/haben",
+            "description": "Selbst gehostete Buchhaltung für Freiberufler, Selbstständige und Kleinunternehmer: E-Rechnung mit ZUGFeRD und XRechnung, Belege, Bankabg…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "zereight",
+          "name": "zereight",
+          "url": "https://github.com/zereight",
+          "featuredRepo": {
+            "name": "zereight/gitlab-mcp",
+            "url": "https://github.com/zereight/gitlab-mcp",
+            "description": "MCP server for GitLab: 277 tools for projects, MRs, issues, pipelines, wikis and more via the GitLab REST/GraphQL API"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "khaliqgant",
+          "name": "Khaliq",
+          "url": "https://github.com/khaliqgant",
+          "featuredRepo": {
+            "name": "khaliqgant/opencode",
+            "url": "https://github.com/khaliqgant/opencode",
+            "description": "The open source coding agent."
+          }
+        },
+        {
+          "rank": 13,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live-streaming CLI s…"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "SawyerHood",
+          "name": "Sawyer Hood",
+          "url": "https://github.com/SawyerHood",
+          "featuredRepo": {
+            "name": "SawyerHood/dev-browser",
+            "url": "https://github.com/SawyerHood/dev-browser",
+            "description": "A Claude Skill to give your agent the ability to use a web browser"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "kixelated",
+          "name": "Luke Curley",
+          "url": "https://github.com/kixelated",
+          "featuredRepo": {
+            "name": "kixelated/quest",
+            "url": "https://github.com/kixelated/quest",
+            "description": "A quest log for your repo and your agents: plans as Markdown files, explicit dependencies, and reviewable Git changes. For Claude Code an…"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "zts212653",
+          "name": "Lysander Su",
+          "url": "https://github.com/zts212653",
+          "featuredRepo": {
+            "name": "zts212653/clowder-ai",
+            "url": "https://github.com/zts212653/clowder-ai",
+            "description": "Build AI teams, not just agents. Hard rails, soft power, shared mission."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "obviyus",
+          "name": "Ayaan Zaidi",
+          "url": "https://github.com/obviyus",
+          "featuredRepo": {
+            "name": "obviyus/musee",
+            "url": "https://github.com/obviyus/musee",
+            "description": "Fast, responsive , self-hosted image gallery. Ships minimal JS to the client."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "dillionverma",
+          "name": "Dillion Verma",
+          "url": "https://github.com/dillionverma",
+          "featuredRepo": {
+            "name": "dillionverma/bitlatch",
+            "url": "https://github.com/dillionverma/bitlatch",
+            "description": "Bitlatch — a modern, unofficial Bitwarden client."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "Vinzent03",
+          "name": "Vinzent",
+          "url": "https://github.com/Vinzent03",
+          "featuredRepo": {
+            "name": "Vinzent03/obsidian-git",
+            "url": "https://github.com/Vinzent03/obsidian-git",
+            "description": "Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "wcandillon",
+          "name": "William Candillon",
+          "url": "https://github.com/wcandillon",
+          "featuredRepo": {
+            "name": "wcandillon/react-native-skia",
+            "url": "https://github.com/wcandillon/react-native-skia",
+            "description": "High-performance React Native Graphics using Skia"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "ilyhalight",
+          "name": "Toil",
+          "url": "https://github.com/ilyhalight",
+          "featuredRepo": {
+            "name": "ilyhalight/voice-over-translation",
+            "url": "https://github.com/ilyhalight/voice-over-translation",
+            "description": "Смотрите видео на другом языке с закадровым переводом и субтитрами в любом браузере"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "proffesor-for-testing",
+          "name": "Dragan Spiridonov",
+          "url": "https://github.com/proffesor-for-testing",
+          "featuredRepo": {
+            "name": "proffesor-for-testing/agentic-qe",
+            "url": "https://github.com/proffesor-for-testing/agentic-qe",
+            "description": "Agentic QE Fleet is an open-source AI-powered QA/QE platform designed for use with Coding Agents (works best with Claude Code) featuring …"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "wibus-wee",
+          "name": "Wibus Wu",
+          "url": "https://github.com/wibus-wee",
+          "featuredRepo": {
+            "name": "wibus-wee/cradle-app",
+            "url": "https://github.com/wibus-wee/cradle-app",
+            "description": "🔧 One layer above your AI tools. Your AI coding tools are brilliant. Managing them is a mess. Cradle is the command center that coordin…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        }
+      ]
     }
   ],
   "best": [
