@@ -134,6 +134,135 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-29T06:35:06.094Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "language": "JavaScript",
+          "stars": 51945,
+          "forks": 3316,
+          "starsToday": 16002,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "AgriciDaniel/claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+          "language": "Python",
+          "stars": 23534,
+          "forks": 3171,
+          "starsToday": 3516,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "language": null,
+          "stars": 226070,
+          "forks": 22583,
+          "starsToday": 4293,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 33701,
+          "forks": 3709,
+          "starsToday": 2612,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 118003,
+          "forks": 22571,
+          "starsToday": 5322,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+          "language": "Rust",
+          "stars": 93419,
+          "forks": 5514,
+          "starsToday": 7283,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+          "language": "Python",
+          "stars": 138050,
+          "forks": 13163,
+          "starsToday": 6662,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+          "language": "JavaScript",
+          "stars": 104780,
+          "forks": 7088,
+          "starsToday": 3940,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+          "language": "TypeScript",
+          "stars": 80023,
+          "forks": 9386,
+          "starsToday": 1930,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 222835,
+          "forks": 29866,
+          "starsToday": 3498,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "jakubkrehel/skills",
+          "url": "https://github.com/jakubkrehel/skills",
+          "description": "A collection of agent skills that help you build great interfaces.",
+          "language": "Markdown",
+          "stars": 9045,
+          "forks": 344,
+          "starsToday": 776,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": []

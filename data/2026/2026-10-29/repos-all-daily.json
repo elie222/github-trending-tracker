@@ -167,6 +167,168 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-29T06:35:06.094Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "JetBrains/thinkrail",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+          "language": "TypeScript",
+          "stars": 5373,
+          "forks": 273,
+          "starsToday": 1068,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "elayadesign/ai-design-skills",
+          "url": "https://github.com/elayadesign/ai-design-skills",
+          "description": null,
+          "language": null,
+          "stars": 11426,
+          "forks": 825,
+          "starsToday": 2139,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 307664,
+          "forks": 27366,
+          "starsToday": 1095,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+          "language": "Python",
+          "stars": 48544,
+          "forks": 6016,
+          "starsToday": 2371,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "macro-inc/macro",
+          "url": "https://github.com/macro-inc/macro",
+          "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+          "language": "Rust",
+          "stars": 5547,
+          "forks": 527,
+          "starsToday": 117,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "language": "CSS",
+          "stars": 41052,
+          "forks": 2132,
+          "starsToday": 2110,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+          "language": "Rust",
+          "stars": 93419,
+          "forks": 5514,
+          "starsToday": 1472,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "makecindy/cindy",
+          "url": "https://github.com/makecindy/cindy",
+          "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+          "language": "TypeScript",
+          "stars": 8299,
+          "forks": 971,
+          "starsToday": 728,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "nightly-labs/openbot",
+          "url": "https://github.com/nightly-labs/openbot",
+          "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+          "language": "TypeScript",
+          "stars": 3440,
+          "forks": 330,
+          "starsToday": 1054,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "togg53192-cmd/jailbreaks",
+          "url": "https://github.com/togg53192-cmd/jailbreaks",
+          "description": "LIST OF ALL MY JAILBREAKS",
+          "language": null,
+          "stars": 7519,
+          "forks": 1071,
+          "starsToday": 1477,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "hmjz100/LinkSwift",
+          "url": "https://github.com/hmjz100/LinkSwift",
+          "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+          "language": "JavaScript",
+          "stars": 35474,
+          "forks": 2514,
+          "starsToday": 1616,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "expo/skills",
+          "url": "https://github.com/expo/skills",
+          "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+          "language": "Shell",
+          "stars": 3674,
+          "forks": 234,
+          "starsToday": 90,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+          "language": "Rust",
+          "stars": 101267,
+          "forks": 13173,
+          "starsToday": 557,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "xiaolai/the-craft-of-selfteaching",
+          "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+          "description": "One has no future if one couldn't teach themself.",
+          "language": "Jupyter Notebook",
+          "stars": 18687,
+          "forks": 17908,
+          "starsToday": 148,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []
