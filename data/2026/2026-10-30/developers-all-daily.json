@@ -276,6 +276,277 @@
           "featuredRepo": null
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-30T06:35:09.696Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/pumpfun-source",
+            "url": "https://github.com/lalalune/pumpfun-source",
+            "description": "Reverse engineering the pump.fun smart contracts"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "vastsa",
+          "name": "Lan",
+          "url": "https://github.com/vastsa",
+          "featuredRepo": {
+            "name": "vastsa/PI-Desktop",
+            "url": "https://github.com/vastsa/PI-Desktop",
+            "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "poteto",
+          "name": "lauren",
+          "url": "https://github.com/poteto",
+          "featuredRepo": {
+            "name": "poteto/hiring-without-whiteboards",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "JustVugg",
+          "name": "Vincenzo Fornaro",
+          "url": "https://github.com/JustVugg",
+          "featuredRepo": {
+            "name": "JustVugg/colibri",
+            "url": "https://github.com/JustVugg/colibri",
+            "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "shiaho777",
+          "name": "shiaho",
+          "url": "https://github.com/shiaho777",
+          "featuredRepo": {
+            "name": "shiaho777/web-to-app",
+            "url": "https://github.com/shiaho777/web-to-app",
+            "description": "The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "Th0rgal",
+          "name": "Thomas Marchand",
+          "url": "https://github.com/Th0rgal",
+          "featuredRepo": {
+            "name": "Th0rgal/orb",
+            "url": "https://github.com/Th0rgal/orb",
+            "description": "All your AI providers, machines, and agent harnesses in one place. Free & native"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "jerelvelarde",
+          "name": "Jerel Velarde",
+          "url": "https://github.com/jerelvelarde",
+          "featuredRepo": {
+            "name": "jerelvelarde/cutroom",
+            "url": "https://github.com/jerelvelarde/cutroom",
+            "description": "Gemini 4 Argon SF Hackathon: tracks, judging criteria, technical resources, prizes, and participant benefits."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "jmanico",
+          "name": "Jim Manico",
+          "url": "https://github.com/jmanico",
+          "featuredRepo": {
+            "name": "jmanico/grim-prompter",
+            "url": "https://github.com/jmanico/grim-prompter",
+            "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 arch…"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "krille-chan",
+          "name": "Krille-chan",
+          "url": "https://github.com/krille-chan",
+          "featuredRepo": {
+            "name": "krille-chan/fluffychat",
+            "url": "https://github.com/krille-chan/fluffychat",
+            "description": "The cutest instant messenger in the [matrix]"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "Cyan4973",
+          "name": "Yann Collet",
+          "url": "https://github.com/Cyan4973",
+          "featuredRepo": {
+            "name": "Cyan4973/xxHash",
+            "url": "https://github.com/Cyan4973/xxHash",
+            "description": "Extremely fast non-cryptographic hash algorithm"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "momo5502",
+          "name": "Maurice Heumann",
+          "url": "https://github.com/momo5502",
+          "featuredRepo": {
+            "name": "momo5502/sogen",
+            "url": "https://github.com/momo5502/sogen",
+            "description": "🪅 Windows & Linux userspace emulator"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "derekross",
+          "name": "Derek Ross",
+          "url": "https://github.com/derekross",
+          "featuredRepo": {
+            "name": "derekross/omarchy-mobile",
+            "url": "https://github.com/derekross/omarchy-mobile",
+            "description": "Omarchy Mobile: native Omarchy on mobile phones. Arch Linux ARM, Hyprland and Omarchy on a mainline kernel (work in progress)"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "timothycarambat",
+          "name": "Timothy Carambat",
+          "url": "https://github.com/timothycarambat",
+          "featuredRepo": null
+        },
+        {
+          "rank": 17,
+          "username": "wszqkzqk",
+          "name": "wszqkzqk",
+          "url": "https://github.com/wszqkzqk",
+          "featuredRepo": {
+            "name": "wszqkzqk/PvZ-Portable",
+            "url": "https://github.com/wszqkzqk/PvZ-Portable",
+            "description": "A cross-platform reimplementation of Plants vs. Zombies by the community. Aiming to bring 100% authentic experience of GOTY edition."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "chengyongru",
+          "name": "chengyongru",
+          "url": "https://github.com/chengyongru",
+          "featuredRepo": {
+            "name": "chengyongru/fastjev",
+            "url": "https://github.com/chengyongru/fastjev",
+            "description": "SDK-first, independently maintained SemIf fork for fast, self-hosted semantic decisions."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "yetone",
+          "name": "yetone",
+          "url": "https://github.com/yetone",
+          "featuredRepo": {
+            "name": "yetone/magpie",
+            "url": "https://github.com/yetone/magpie",
+            "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "code-yeongyu",
+          "name": "YeonGyu-Kim",
+          "url": "https://github.com/code-yeongyu",
+          "featuredRepo": {
+            "name": "code-yeongyu/oh-my-openagent",
+            "url": "https://github.com/code-yeongyu/oh-my-openagent",
+            "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "ripienaar",
+          "name": "R.I.Pienaar",
+          "url": "https://github.com/ripienaar",
+          "featuredRepo": {
+            "name": "ripienaar/free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "charliermarsh",
+          "name": "Charlie Marsh",
+          "url": "https://github.com/charliermarsh",
+          "featuredRepo": null
+        },
+        {
+          "rank": 23,
+          "username": "joakimeriksson",
+          "name": "Joakim Eriksson",
+          "url": "https://github.com/joakimeriksson",
+          "featuredRepo": {
+            "name": "joakimeriksson/fm1-emu",
+            "url": "https://github.com/joakimeriksson/fm1-emu",
+            "description": "Emulator for the M-VAVE FM-1 pocket synth: runs its firmwares unchanged in the browser and natively"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "mitchellh",
+          "name": "Mitchell Hashimoto",
+          "url": "https://github.com/mitchellh",
+          "featuredRepo": {
+            "name": "mitchellh/vouch",
+            "url": "https://github.com/mitchellh/vouch",
+            "description": "A community trust management system based on explicit vouches to participate."
+          }
+        },
+        {
+          "rank": 25,
+          "username": "joaomdmoura",
+          "name": "João Moura",
+          "url": "https://github.com/joaomdmoura",
+          "featuredRepo": null
+        }
+      ]
     }
   ],
   "best": []

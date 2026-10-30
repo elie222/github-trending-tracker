@@ -284,6 +284,285 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-30T06:35:09.696Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "gakonst",
+          "name": "Georgios Konstantopoulos",
+          "url": "https://github.com/gakonst",
+          "featuredRepo": {
+            "name": "gakonst/nanocode",
+            "url": "https://github.com/gakonst/nanocode",
+            "description": "SDK for Frontier Embedded Agents."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "DaniPopes",
+          "name": "DaniPopes",
+          "url": "https://github.com/DaniPopes",
+          "featuredRepo": null
+        },
+        {
+          "rank": 7,
+          "username": "tontinton",
+          "name": "Tony Solomonik",
+          "url": "https://github.com/tontinton",
+          "featuredRepo": {
+            "name": "tontinton/maki",
+            "url": "https://github.com/tontinton/maki",
+            "description": "An efficient AI coding agent extendable by neovim-like Lua plugins"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/DeepSeek-Reasonix",
+            "url": "https://github.com/esengine/DeepSeek-Reasonix",
+            "description": "A reliable coding agent for complex software engineering tasks."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live-streaming CLI s…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "yetone",
+          "name": "yetone",
+          "url": "https://github.com/yetone",
+          "featuredRepo": {
+            "name": "yetone/magpie",
+            "url": "https://github.com/yetone/magpie",
+            "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "Gathin23",
+          "name": "Gathin",
+          "url": "https://github.com/Gathin23",
+          "featuredRepo": {
+            "name": "Gathin23/cleanyourtv",
+            "url": "https://github.com/Gathin23/cleanyourtv",
+            "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "sam-goodwin",
+          "name": "sam",
+          "url": "https://github.com/sam-goodwin",
+          "featuredRepo": {
+            "name": "sam-goodwin/zod-class",
+            "url": "https://github.com/sam-goodwin/zod-class",
+            "description": "Create a Class from a ZodObject schema in one line"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "bowenliang123",
+          "name": "Bowen Liang",
+          "url": "https://github.com/bowenliang123",
+          "featuredRepo": {
+            "name": "bowenliang123/dsh-context",
+            "url": "https://github.com/bowenliang123/dsh-context",
+            "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for …"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "slavakurilyak",
+          "name": "Slava Kurilyak",
+          "url": "https://github.com/slavakurilyak",
+          "featuredRepo": {
+            "name": "slavakurilyak/awesome-ai-agents",
+            "url": "https://github.com/slavakurilyak/awesome-ai-agents",
+            "description": "Awesome list of 300+ agentic AI resources"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "jarrodwatts",
+          "name": "Jarrod Watts",
+          "url": "https://github.com/jarrodwatts",
+          "featuredRepo": {
+            "name": "jarrodwatts/claude-hud",
+            "url": "https://github.com/jarrodwatts/claude-hud",
+            "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "DeanChensj",
+          "name": "Shangjie Chen",
+          "url": "https://github.com/DeanChensj",
+          "featuredRepo": {
+            "name": "DeanChensj/jiangshan-map",
+            "url": "https://github.com/DeanChensj/jiangshan-map",
+            "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-m…"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "timoncool",
+          "name": "Ilya (Nerual Dreming) Timonin",
+          "url": "https://github.com/timoncool",
+          "featuredRepo": {
+            "name": "timoncool/YuE2-Studio",
+            "url": "https://github.com/timoncool/YuE2-Studio",
+            "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Wind…"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "weblate",
+          "name": "Weblate (bot)",
+          "url": "https://github.com/weblate",
+          "featuredRepo": {
+            "name": "weblate/myna",
+            "url": "https://github.com/weblate/myna",
+            "description": "Myna is a lightweight speech-to-text application for Ubuntu Desktop."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "JimLiu",
+          "name": "Jim Liu 宝玉",
+          "url": "https://github.com/JimLiu",
+          "featuredRepo": {
+            "name": "JimLiu/baocut",
+            "url": "https://github.com/JimLiu/baocut",
+            "description": "BaoCut: an AI video agent with an editable timeline. Transcribe, subtitle, translate, dub, cut and animate."
+          }
+        },
+        {
+          "rank": 23,
+          "username": "max-sixty",
+          "name": "Maximilian Roos",
+          "url": "https://github.com/max-sixty",
+          "featuredRepo": {
+            "name": "max-sixty/worktrunk",
+            "url": "https://github.com/max-sixty/worktrunk",
+            "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "SysAdminDoc",
+          "name": "Matthew Parker",
+          "url": "https://github.com/SysAdminDoc",
+          "featuredRepo": {
+            "name": "SysAdminDoc/HushFacebook",
+            "url": "https://github.com/SysAdminDoc/HushFacebook",
+            "description": "Hushfacebook Morphe patches for Facebook. Hide ads, suggested posts, save videos and photos, tune playback and Reels, and use a focused M…"
+          }
+        }
+      ]
     }
   ],
   "best": [

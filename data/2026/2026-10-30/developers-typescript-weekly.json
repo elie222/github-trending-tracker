@@ -288,6 +288,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-30T06:35:09.696Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live-streaming CLI s…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "sam-goodwin",
+          "name": "sam",
+          "url": "https://github.com/sam-goodwin",
+          "featuredRepo": {
+            "name": "sam-goodwin/zod-class",
+            "url": "https://github.com/sam-goodwin/zod-class",
+            "description": "Create a Class from a ZodObject schema in one line"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "bowenliang123",
+          "name": "Bowen Liang",
+          "url": "https://github.com/bowenliang123",
+          "featuredRepo": {
+            "name": "bowenliang123/dsh-context",
+            "url": "https://github.com/bowenliang123/dsh-context",
+            "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for …"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "timoncool",
+          "name": "Ilya (Nerual Dreming) Timonin",
+          "url": "https://github.com/timoncool",
+          "featuredRepo": {
+            "name": "timoncool/YuE2-Studio",
+            "url": "https://github.com/timoncool/YuE2-Studio",
+            "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Wind…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "JimLiu",
+          "name": "Jim Liu 宝玉",
+          "url": "https://github.com/JimLiu",
+          "featuredRepo": {
+            "name": "JimLiu/baocut",
+            "url": "https://github.com/JimLiu/baocut",
+            "description": "BaoCut: an AI video agent with an editable timeline. Transcribe, subtitle, translate, dub, cut and animate."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "Anionex",
+          "name": "anionex",
+          "url": "https://github.com/Anionex",
+          "featuredRepo": {
+            "name": "Anionex/banana-slides",
+            "url": "https://github.com/Anionex/banana-slides",
+            "description": "一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on n…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/ruflo",
+            "url": "https://github.com/ruvnet/ruflo",
+            "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI system…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "evereq",
+          "name": "Ruslan Konviser",
+          "url": "https://github.com/evereq",
+          "featuredRepo": {
+            "name": "evereq/github-profile-trophy",
+            "url": "https://github.com/evereq/github-profile-trophy",
+            "description": "🏆 Add dynamically generated GitHub Stat Trophies on your readme"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "petebacondarwin",
+          "name": "Pete Bacon Darwin",
+          "url": "https://github.com/petebacondarwin",
+          "featuredRepo": {
+            "name": "petebacondarwin/wrangler2",
+            "url": "https://github.com/petebacondarwin/wrangler2",
+            "description": "PRELEASE of V2 - 🤠 wrangle your Cloudflare Workers"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "nwparker",
+          "name": "Neil",
+          "url": "https://github.com/nwparker",
+          "featuredRepo": {
+            "name": "nwparker/orca",
+            "url": "https://github.com/nwparker/orca",
+            "description": "Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "vastsa",
+          "name": "Lan",
+          "url": "https://github.com/vastsa",
+          "featuredRepo": {
+            "name": "vastsa/PI-Desktop",
+            "url": "https://github.com/vastsa/PI-Desktop",
+            "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "code-yeongyu",
+          "name": "YeonGyu-Kim",
+          "url": "https://github.com/code-yeongyu",
+          "featuredRepo": {
+            "name": "code-yeongyu/oh-my-openagent",
+            "url": "https://github.com/code-yeongyu/oh-my-openagent",
+            "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "JonnyBurger",
+          "name": "Jonny Burger",
+          "url": "https://github.com/JonnyBurger",
+          "featuredRepo": {
+            "name": "JonnyBurger/remotion-f1",
+            "url": "https://github.com/JonnyBurger/remotion-f1",
+            "description": "F1 motion graphics in JavaScript"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "szTheory",
+          "name": "szTheory",
+          "url": "https://github.com/szTheory",
+          "featuredRepo": {
+            "name": "szTheory/exifcleaner",
+            "url": "https://github.com/szTheory/exifcleaner",
+            "description": "Cross-platform desktop GUI app to clean image metadata"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "crynta",
+          "name": "Crynta",
+          "url": "https://github.com/crynta",
+          "featuredRepo": {
+            "name": "crynta/terax-ai",
+            "url": "https://github.com/crynta/terax-ai",
+            "description": "Lightweight (7MB) terminal-first AI-native development environment"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "kixelated",
+          "name": "Luke Curley",
+          "url": "https://github.com/kixelated",
+          "featuredRepo": {
+            "name": "moq-dev/quest",
+            "url": "https://github.com/moq-dev/quest",
+            "description": "A quest log for your repo and your agents: plans as Markdown files, explicit dependencies, and reviewable Git changes. For Claude Code an…"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "unbraind",
+          "name": "Steve Preu",
+          "url": "https://github.com/unbraind",
+          "featuredRepo": {
+            "name": "unbraind/searxng-cli",
+            "url": "https://github.com/unbraind/searxng-cli",
+            "description": "Agent-optimized CLI tool for interacting with the SearXNG API"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        }
+      ]
     }
   ],
   "best": [
