@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-30",
+  "list": "developers",
+  "language": "all",
+  "period": "monthly",
+  "pageUrl": "https://github.com/trending/developers?since=monthly",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-10-30T00:48:29.118Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=monthly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "yetone",
+          "name": "yetone",
+          "url": "https://github.com/yetone",
+          "featuredRepo": {
+            "name": "yetone/magpie",
+            "url": "https://github.com/yetone/magpie",
+            "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        },
+        {
+          "rank": 5,
+          "username": "momo5502",
+          "name": "Maurice Heumann",
+          "url": "https://github.com/momo5502",
+          "featuredRepo": {
+            "name": "momo5502/sogen",
+            "url": "https://github.com/momo5502/sogen",
+            "description": "🪅 Windows & Linux userspace emulator"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "Cyan4973",
+          "name": "Yann Collet",
+          "url": "https://github.com/Cyan4973",
+          "featuredRepo": {
+            "name": "Cyan4973/xxHash",
+            "url": "https://github.com/Cyan4973/xxHash",
+            "description": "Extremely fast non-cryptographic hash algorithm"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "poteto",
+          "name": "lauren",
+          "url": "https://github.com/poteto",
+          "featuredRepo": {
+            "name": "poteto/hiring-without-whiteboards",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "boykopovar",
+          "name": "boykopovar",
+          "url": "https://github.com/boykopovar",
+          "featuredRepo": {
+            "name": "boykopovar/AnyPS5",
+            "url": "https://github.com/boykopovar/AnyPS5",
+            "description": "Tool for automatic PS5 executables porting to Linux and Windows"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "shihabal3amri",
+          "name": "Shihab",
+          "url": "https://github.com/shihabal3amri",
+          "featuredRepo": {
+            "name": "shihabal3amri/DiPlay",
+            "url": "https://github.com/shihabal3amri/DiPlay",
+            "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "chenrui333",
+          "name": "Rui Chen",
+          "url": "https://github.com/chenrui333",
+          "featuredRepo": {
+            "name": "chenrui333/jev-docs",
+            "url": "https://github.com/chenrui333/jev-docs",
+            "description": "Community-maintained history of Jev / TypeSafe System One APIs, SDKs, agent guidance, and engineering best practices."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "unxed",
+          "name": "unxed",
+          "url": "https://github.com/unxed",
+          "featuredRepo": {
+            "name": "unxed/f4",
+            "url": "https://github.com/unxed/f4",
+            "description": "dual pane like a charm"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "frankbria",
+          "name": "Frank Bria",
+          "url": "https://github.com/frankbria",
+          "featuredRepo": {
+            "name": "frankbria/ralph-claude-code",
+            "url": "https://github.com/frankbria/ralph-claude-code",
+            "description": "Autonomous AI development loop for Claude Code with intelligent exit detection"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "Predidit",
+          "name": "Predidit",
+          "url": "https://github.com/Predidit",
+          "featuredRepo": {
+            "name": "Predidit/Kazumi",
+            "url": "https://github.com/Predidit/Kazumi",
+            "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "timoncool",
+          "name": "Ilya (Nerual Dreming) Timonin",
+          "url": "https://github.com/timoncool",
+          "featuredRepo": {
+            "name": "timoncool/YuE2-Studio",
+            "url": "https://github.com/timoncool/YuE2-Studio",
+            "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Wind…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "bowenliang123",
+          "name": "Bowen Liang",
+          "url": "https://github.com/bowenliang123",
+          "featuredRepo": {
+            "name": "bowenliang123/dsh-context",
+            "url": "https://github.com/bowenliang123/dsh-context",
+            "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for …"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "akitaonrails",
+          "name": "Fabio Akita",
+          "url": "https://github.com/akitaonrails",
+          "featuredRepo": {
+            "name": "akitaonrails/ai-memory",
+            "url": "https://github.com/akitaonrails/ai-memory",
+            "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "penso",
+          "name": "Fabien Penso",
+          "url": "https://github.com/penso",
+          "featuredRepo": {
+            "name": "penso/herdr-gpui",
+            "url": "https://github.com/penso/herdr-gpui",
+            "description": "Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and ag…"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "jarrodwatts",
+          "name": "Jarrod Watts",
+          "url": "https://github.com/jarrodwatts",
+          "featuredRepo": {
+            "name": "jarrodwatts/jev-trader",
+            "url": "https://github.com/jarrodwatts/jev-trader",
+            "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "gakonst",
+          "name": "Georgios Konstantopoulos",
+          "url": "https://github.com/gakonst",
+          "featuredRepo": {
+            "name": "gakonst/nanocode",
+            "url": "https://github.com/gakonst/nanocode",
+            "description": "SDK for Frontier Embedded Agents."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "emilk",
+          "name": "Emil Ernerfeldt",
+          "url": "https://github.com/emilk",
+          "featuredRepo": {
+            "name": "emilk/egui",
+            "url": "https://github.com/emilk/egui",
+            "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "xXJSONDeruloXx",
+          "name": "Kurt Himebauch",
+          "url": "https://github.com/xXJSONDeruloXx",
+          "featuredRepo": {
+            "name": "xXJSONDeruloXx/decky-lsfg-vk",
+            "url": "https://github.com/xXJSONDeruloXx/decky-lsfg-vk",
+            "description": "Decky plugin to streamline installation and usage of lsfg-vk; the Lossless Scaling compatibility layer for linux"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "slavakurilyak",
+          "name": "Slava Kurilyak",
+          "url": "https://github.com/slavakurilyak",
+          "featuredRepo": {
+            "name": "slavakurilyak/awesome-ai-agents",
+            "url": "https://github.com/slavakurilyak/awesome-ai-agents",
+            "description": "Awesome list of 300+ agentic AI resources"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "richiemcilroy",
+          "name": "Richie McIlroy",
+          "url": "https://github.com/richiemcilroy",
+          "featuredRepo": {
+            "name": "richiemcilroy/Tov",
+            "url": "https://github.com/richiemcilroy/Tov",
+            "description": "A TypeScript-shaped language built for coding agents. It compiles to small, fast native binaries."
+          }
+        }
+      ]
+    }
+  ],
+  "best": [
+    {
+      "kind": "developer",
+      "key": "elie222",
+      "url": "https://github.com/elie222",
+      "bestRank": 19,
+      "scrapedAt": "2026-10-30T00:48:29.118Z",
+      "starsToday": null,
+      "featuredRepo": "elie222/rakazo"
+    }
+  ]
+}
