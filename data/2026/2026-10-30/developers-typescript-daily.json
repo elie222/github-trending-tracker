@@ -854,6 +854,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-30T18:23:25.066Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "vastsa",
+          "name": "Lan",
+          "url": "https://github.com/vastsa",
+          "featuredRepo": {
+            "name": "vastsa/PI-Desktop",
+            "url": "https://github.com/vastsa/PI-Desktop",
+            "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "Yeraze",
+          "name": "Randall Hand",
+          "url": "https://github.com/Yeraze",
+          "featuredRepo": {
+            "name": "Yeraze/meshmonitor",
+            "url": "https://github.com/Yeraze/meshmonitor",
+            "description": "Web tool for monitoring Mesh Node Deployment over TCP/HTTP"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live-streaming CLI s…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "code-yeongyu",
+          "name": "YeonGyu-Kim",
+          "url": "https://github.com/code-yeongyu",
+          "featuredRepo": {
+            "name": "code-yeongyu/oh-my-openagent",
+            "url": "https://github.com/code-yeongyu/oh-my-openagent",
+            "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "mlightcad",
+          "name": "mlightcad",
+          "url": "https://github.com/mlightcad",
+          "featuredRepo": {
+            "name": "mlightcad/cad-viewer",
+            "url": "https://github.com/mlightcad/cad-viewer",
+            "description": "The world’s first fully web-based DXF/DWG viewer and editor that runs entirely in the browser — no backend server required."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "melgarafael",
+          "name": "Rafael Melgaço",
+          "url": "https://github.com/melgarafael",
+          "featuredRepo": {
+            "name": "melgarafael/DeskcommCRM",
+            "url": "https://github.com/melgarafael/DeskcommCRM",
+            "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "kgoedecke",
+          "name": "Kevin Goedecke",
+          "url": "https://github.com/kgoedecke",
+          "featuredRepo": {
+            "name": "kgoedecke/doop",
+            "url": "https://github.com/kgoedecke/doop",
+            "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "narumiruna",
+          "name": "なるみ",
+          "url": "https://github.com/narumiruna",
+          "featuredRepo": {
+            "name": "narumiruna/pi-extensions",
+            "url": "https://github.com/narumiruna/pi-extensions",
+            "description": "A monorepo of Pi Coding Agent extensions"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "kixelated",
+          "name": "Luke Curley",
+          "url": "https://github.com/kixelated",
+          "featuredRepo": {
+            "name": "moq-dev/quest",
+            "url": "https://github.com/moq-dev/quest",
+            "description": "A quest log for your repo and your agents: plans as Markdown files, explicit dependencies, and reviewable Git changes. For Claude Code an…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "louistrue",
+          "name": "Louis Trümpler",
+          "url": "https://github.com/louistrue",
+          "featuredRepo": {
+            "name": "louistrue/connections-aec-hackathon-zh-25",
+            "url": "https://github.com/louistrue/connections-aec-hackathon-zh-25",
+            "description": "AEC Hackathon Zurich 2025 - Team Connections"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "ColeMurray",
+          "name": "Cole Murray",
+          "url": "https://github.com/ColeMurray",
+          "featuredRepo": {
+            "name": "ColeMurray/background-agents",
+            "url": "https://github.com/ColeMurray/background-agents",
+            "description": "An open-source background agents coding system"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "nicoloboschi",
+          "name": "Nicolò Boschi",
+          "url": "https://github.com/nicoloboschi",
+          "featuredRepo": {
+            "name": "nicoloboschi/sheepit",
+            "url": "https://github.com/nicoloboschi/sheepit",
+            "description": "Your machine, anywhere. A full-featured terminal in your browser."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "hetaoBackend",
+          "name": "DanielWalnut",
+          "url": "https://github.com/hetaoBackend",
+          "featuredRepo": {
+            "name": "hetaoBackend/open-design",
+            "url": "https://github.com/hetaoBackend/open-design",
+            "description": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, pres…"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "lfnovo",
+          "name": "Luis Novo",
+          "url": "https://github.com/lfnovo",
+          "featuredRepo": {
+            "name": "lfnovo/open-notebook",
+            "url": "https://github.com/lfnovo/open-notebook",
+            "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "firsttris",
+          "name": "Tristan Teufel",
+          "url": "https://github.com/firsttris",
+          "featuredRepo": {
+            "name": "firsttris/haben",
+            "url": "https://github.com/firsttris/haben",
+            "description": "Selbst gehostete Buchhaltung für Freiberufler, Selbstständige und Kleinunternehmer: E-Rechnung mit ZUGFeRD und XRechnung, Belege, Bankabg…"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "costajohnt",
+          "name": "John Costa",
+          "url": "https://github.com/costajohnt",
+          "featuredRepo": {
+            "name": "costajohnt/oss-autopilot",
+            "url": "https://github.com/costajohnt/oss-autopilot",
+            "description": "Claude Code plugin — AI-powered autopilot for managing open source contributions. Track PRs, respond to maintainers, discover issues, mai…"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "zts212653",
+          "name": "Lysander Su",
+          "url": "https://github.com/zts212653",
+          "featuredRepo": {
+            "name": "zts212653/clowder-ai",
+            "url": "https://github.com/zts212653/clowder-ai",
+            "description": "Build AI teams, not just agents. Hard rails, soft power, shared mission."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "egdev6",
+          "name": "Quique",
+          "url": "https://github.com/egdev6",
+          "featuredRepo": {
+            "name": "egdev6/quorb",
+            "url": "https://github.com/egdev6/quorb",
+            "description": "Your AI quotas, always in sight. Edge-docked usage rings for Claude, Codex, Gemini, Cursor, Copilot, OpenRouter and more on Windows: live…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "zereight",
+          "name": "zereight",
+          "url": "https://github.com/zereight",
+          "featuredRepo": {
+            "name": "zereight/gitlab-mcp",
+            "url": "https://github.com/zereight/gitlab-mcp",
+            "description": "MCP server for GitLab: 277 tools for projects, MRs, issues, pipelines, wikis and more via the GitLab REST/GraphQL API"
+          }
+        }
+      ]
     }
   ],
   "best": [
