@@ -830,6 +830,285 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-31T18:22:05.059Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "maziyarpanahi",
+          "name": "Maziyar Panahi",
+          "url": "https://github.com/maziyarpanahi",
+          "featuredRepo": {
+            "name": "maziyarpanahi/openmed",
+            "url": "https://github.com/maziyarpanahi/openmed",
+            "description": "Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed P…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live-streaming CLI s…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "drowzeys",
+          "name": "keys",
+          "url": "https://github.com/drowzeys",
+          "featuredRepo": {
+            "name": "drowzeys/Imagination-Studio-by-keys-Wasserman",
+            "url": "https://github.com/drowzeys/Imagination-Studio-by-keys-Wasserman",
+            "description": "Imagination Studio by keys+Wasserman powered by TensorFold: an AI film studio for Mac and NVIDIA DGX Spark. Plan a film like a crew (Slat…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "Mahmud0808",
+          "name": "DrDisagree",
+          "url": "https://github.com/Mahmud0808",
+          "featuredRepo": {
+            "name": "Mahmud0808/TeleDrive",
+            "url": "https://github.com/Mahmud0808/TeleDrive",
+            "description": "Turn a private Telegram channel into your personal cloud drive. Android, Windows, Linux and macOS, auto backup, optional E2E encryption, …"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "penso",
+          "name": "Fabien Penso",
+          "url": "https://github.com/penso",
+          "featuredRepo": {
+            "name": "penso/herdr-gpui",
+            "url": "https://github.com/penso/herdr-gpui",
+            "description": "Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and ag…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "jmanico",
+          "name": "Jim Manico",
+          "url": "https://github.com/jmanico",
+          "featuredRepo": {
+            "name": "jmanico/grim-prompter",
+            "url": "https://github.com/jmanico/grim-prompter",
+            "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 arch…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "christian-byrne",
+          "name": "Christian Byrne",
+          "url": "https://github.com/christian-byrne",
+          "featuredRepo": {
+            "name": "christian-byrne/audio-separation-nodes-comfyui",
+            "url": "https://github.com/christian-byrne/audio-separation-nodes-comfyui",
+            "description": "Separate stems (vocals, bass, drums, other) from audio. Recombine, tempo match, slice/crop audio"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "jrouwe",
+          "name": "Jorrit Rouwe",
+          "url": "https://github.com/jrouwe",
+          "featuredRepo": {
+            "name": "jrouwe/JoltPhysics",
+            "url": "https://github.com/jrouwe/JoltPhysics",
+            "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "kalil0321",
+          "name": "kalil0321",
+          "url": "https://github.com/kalil0321",
+          "featuredRepo": {
+            "name": "kalil0321/reverse-api-engineer",
+            "url": "https://github.com/kalil0321/reverse-api-engineer",
+            "description": "Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "teng-lin",
+          "name": "Teng Lin",
+          "url": "https://github.com/teng-lin",
+          "featuredRepo": {
+            "name": "teng-lin/notebooklm-py",
+            "url": "https://github.com/teng-lin/notebooklm-py",
+            "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capa…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "osolmaz",
+          "name": "Onur Solmaz",
+          "url": "https://github.com/osolmaz",
+          "featuredRepo": {
+            "name": "osolmaz/switch",
+            "url": "https://github.com/osolmaz/switch",
+            "description": "A framework for building decision-model harnesses for any kind of task. Your program offers the model a short list of next steps, and the…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "Pratham-Mishra04",
+          "name": "Pratham Mishra",
+          "url": "https://github.com/Pratham-Mishra04",
+          "featuredRepo": null
+        },
+        {
+          "rank": 14,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "ripienaar",
+          "name": "R.I.Pienaar",
+          "url": "https://github.com/ripienaar",
+          "featuredRepo": {
+            "name": "ripienaar/free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "WenyuChiou",
+          "name": "Wenyu Chiou",
+          "url": "https://github.com/WenyuChiou",
+          "featuredRepo": {
+            "name": "WenyuChiou/awesome-agentic-ai-zh",
+            "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+            "description": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and…"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "ogulcancelik",
+          "name": "Can Celik",
+          "url": "https://github.com/ogulcancelik",
+          "featuredRepo": {
+            "name": "ogulcancelik/pi-extensions",
+            "url": "https://github.com/ogulcancelik/pi-extensions",
+            "description": "Extensions for pi, the terminal-based coding agent"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "joakimeriksson",
+          "name": "Joakim Eriksson",
+          "url": "https://github.com/joakimeriksson",
+          "featuredRepo": {
+            "name": "joakimeriksson/fm1-emu",
+            "url": "https://github.com/joakimeriksson/fm1-emu",
+            "description": "Emulator for the M-VAVE FM-1 pocket synth: runs its firmwares unchanged in the browser and natively"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "WebBreacher",
+          "name": "Micah Hoffman",
+          "url": "https://github.com/WebBreacher",
+          "featuredRepo": {
+            "name": "WebBreacher/WhatsMyName",
+            "url": "https://github.com/WebBreacher/WhatsMyName",
+            "description": "Community-maintained dataset of 700+ websites for finding accounts by username — powers OSINT and digital footprint tools."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "mitchellh",
+          "name": "Mitchell Hashimoto",
+          "url": "https://github.com/mitchellh",
+          "featuredRepo": {
+            "name": "mitchellh/vouch",
+            "url": "https://github.com/mitchellh/vouch",
+            "description": "A community trust management system based on explicit vouches to participate."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "benbrandt",
+          "name": "Ben Brandt",
+          "url": "https://github.com/benbrandt",
+          "featuredRepo": {
+            "name": "benbrandt/text-splitter",
+            "url": "https://github.com/benbrandt/text-splitter",
+            "description": "Split text into semantic chunks, up to a desired chunk size. Supports calculating length by characters and tokens, and is callable from R…"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "zhukunpenglinyutong",
+          "name": "朱昆鹏",
+          "url": "https://github.com/zhukunpenglinyutong",
+          "featuredRepo": {
+            "name": "zhukunpenglinyutong/jetbrains-cc-gui",
+            "url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
+            "description": "Jetbrains Claude Code and Codex GUI Plugin"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "ryansolid",
+          "name": "Ryan Carniato",
+          "url": "https://github.com/ryansolid",
+          "featuredRepo": {
+            "name": "ryansolid/reactivescript",
+            "url": "https://github.com/ryansolid/reactivescript",
+            "description": "Reactivity as a Language"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "MakazhanAlpamys",
+          "name": "Alpamys Makazhan",
+          "url": "https://github.com/MakazhanAlpamys",
+          "featuredRepo": {
+            "name": "MakazhanAlpamys/Soup",
+            "url": "https://github.com/MakazhanAlpamys/Soup",
+            "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
+          }
+        },
+        {
+          "rank": 25,
+          "username": "ducha-aiki",
+          "name": "Dmytro Mishkin",
+          "url": "https://github.com/ducha-aiki",
+          "featuredRepo": {
+            "name": "ducha-aiki/kornia",
+            "url": "https://github.com/ducha-aiki/kornia",
+            "description": "Open Source Differentiable Computer Vision Library"
+          }
+        }
+      ]
     }
   ],
   "best": []

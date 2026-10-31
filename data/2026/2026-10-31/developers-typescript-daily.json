@@ -854,7 +854,300 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-31T18:22:05.059Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live-streaming CLI s…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "osolmaz",
+          "name": "Onur Solmaz",
+          "url": "https://github.com/osolmaz",
+          "featuredRepo": {
+            "name": "osolmaz/switch",
+            "url": "https://github.com/osolmaz/switch",
+            "description": "A framework for building decision-model harnesses for any kind of task. Your program offers the model a short list of next steps, and the…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "ogulcancelik",
+          "name": "Can Celik",
+          "url": "https://github.com/ogulcancelik",
+          "featuredRepo": {
+            "name": "ogulcancelik/pi-extensions",
+            "url": "https://github.com/ogulcancelik/pi-extensions",
+            "description": "Extensions for pi, the terminal-based coding agent"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "ryansolid",
+          "name": "Ryan Carniato",
+          "url": "https://github.com/ryansolid",
+          "featuredRepo": {
+            "name": "ryansolid/reactivescript",
+            "url": "https://github.com/ryansolid/reactivescript",
+            "description": "Reactivity as a Language"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "code-yeongyu",
+          "name": "YeonGyu-Kim",
+          "url": "https://github.com/code-yeongyu",
+          "featuredRepo": {
+            "name": "code-yeongyu/oh-my-openagent",
+            "url": "https://github.com/code-yeongyu/oh-my-openagent",
+            "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "melgarafael",
+          "name": "Rafael Melgaço",
+          "url": "https://github.com/melgarafael",
+          "featuredRepo": {
+            "name": "melgarafael/DeskcommCRM",
+            "url": "https://github.com/melgarafael/DeskcommCRM",
+            "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "kgoedecke",
+          "name": "Kevin Goedecke",
+          "url": "https://github.com/kgoedecke",
+          "featuredRepo": {
+            "name": "kgoedecke/doop",
+            "url": "https://github.com/kgoedecke/doop",
+            "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "vastsa",
+          "name": "Lan",
+          "url": "https://github.com/vastsa",
+          "featuredRepo": {
+            "name": "vastsa/PI-Desktop",
+            "url": "https://github.com/vastsa/PI-Desktop",
+            "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "ColeMurray",
+          "name": "Cole Murray",
+          "url": "https://github.com/ColeMurray",
+          "featuredRepo": {
+            "name": "open-inspect/background-agents",
+            "url": "https://github.com/open-inspect/background-agents",
+            "description": "An open-source background agents coding system"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "martinfrancois",
+          "name": "François Martin",
+          "url": "https://github.com/martinfrancois",
+          "featuredRepo": {
+            "name": "martinfrancois/html-cheat-sheet",
+            "url": "https://github.com/martinfrancois/html-cheat-sheet",
+            "description": "Single-page HTML tag reference that shows each tag with a description, sample code and the rendered result"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "zsviczian",
+          "name": "zsviczian",
+          "url": "https://github.com/zsviczian",
+          "featuredRepo": {
+            "name": "zsviczian/obsidian-excalidraw-plugin",
+            "url": "https://github.com/zsviczian/obsidian-excalidraw-plugin",
+            "description": "A plugin to edit and view Excalidraw drawings in Obsidian"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "costajohnt",
+          "name": "John Costa",
+          "url": "https://github.com/costajohnt",
+          "featuredRepo": {
+            "name": "costajohnt/oss-autopilot",
+            "url": "https://github.com/costajohnt/oss-autopilot",
+            "description": "Claude Code plugin — AI-powered autopilot for managing open source contributions. Track PRs, respond to maintainers, discover issues, mai…"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "ersinkoc",
+          "name": "Ersin KOÇ",
+          "url": "https://github.com/ersinkoc",
+          "featuredRepo": {
+            "name": "ersinkoc/YoutubeStudio",
+            "url": "https://github.com/ersinkoc/YoutubeStudio",
+            "description": null
+          }
+        },
+        {
+          "rank": 20,
+          "username": "mlightcad",
+          "name": "mlightcad",
+          "url": "https://github.com/mlightcad",
+          "featuredRepo": {
+            "name": "mlightcad/cad-viewer",
+            "url": "https://github.com/mlightcad/cad-viewer",
+            "description": "The world’s first fully web-based DXF/DWG viewer and editor that runs entirely in the browser — no backend server required."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "rynfar",
+          "name": "Trevor Walker",
+          "url": "https://github.com/rynfar",
+          "featuredRepo": {
+            "name": "rynfar/meridian",
+            "url": "https://github.com/rynfar/meridian",
+            "description": "Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview…"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 23,
+          "username": "yhay81",
+          "name": "Yusuke Hayashi",
+          "url": "https://github.com/yhay81",
+          "featuredRepo": {
+            "name": "yhay81/parapdf",
+            "url": "https://github.com/yhay81/parapdf",
+            "description": "A fast PDF viewer for React, built on pdf.js"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "RealKai42",
+          "name": "Kai",
+          "url": "https://github.com/RealKai42",
+          "featuredRepo": {
+            "name": "RealKai42/qwerty-learner",
+            "url": "https://github.com/RealKai42/qwerty-learner",
+            "description": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "jessfraz",
+          "name": "Jess Frazelle",
+          "url": "https://github.com/jessfraz",
+          "featuredRepo": {
+            "name": "jessfraz/agent",
+            "url": "https://github.com/jessfraz/agent",
+            "description": "An agent, regrettably."
+          }
+        }
+      ]
     }
   ],
-  "best": []
+  "best": [
+    {
+      "kind": "developer",
+      "key": "elie222",
+      "url": "https://github.com/elie222",
+      "bestRank": 18,
+      "scrapedAt": "2026-10-31T18:22:05.059Z",
+      "starsToday": null,
+      "featuredRepo": "elie222/rakazo"
+    }
+  ]
 }
