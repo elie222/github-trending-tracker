@@ -156,6 +156,157 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-31T06:28:20.801Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "language": "JavaScript",
+          "stars": 54372,
+          "forks": 3523,
+          "starsToday": 12838,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "AgriciDaniel/claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+          "language": "Python",
+          "stars": 24631,
+          "forks": 3278,
+          "starsToday": 4478,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+          "language": "Rust",
+          "stars": 97358,
+          "forks": 5736,
+          "starsToday": 11323,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 309563,
+          "forks": 27546,
+          "starsToday": 5474,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 118780,
+          "forks": 22704,
+          "starsToday": 5490,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "language": null,
+          "stars": 227000,
+          "forks": 22662,
+          "starsToday": 4178,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+          "language": "JavaScript",
+          "stars": 106478,
+          "forks": 7205,
+          "starsToday": 4712,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "jakubkrehel/skills",
+          "url": "https://github.com/jakubkrehel/skills",
+          "description": "A collection of agent skills that help you build great interfaces.",
+          "language": "Markdown",
+          "stars": 9417,
+          "forks": 359,
+          "starsToday": 1107,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 33033,
+          "forks": 8678,
+          "starsToday": 2775,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 34080,
+          "forks": 3757,
+          "starsToday": 2083,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars": 293536,
+          "forks": 43435,
+          "starsToday": 6506,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 185503,
+          "forks": 21907,
+          "starsToday": 1888,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+          "language": "TypeScript",
+          "stars": 80330,
+          "forks": 9416,
+          "starsToday": 1723,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": []

@@ -280,6 +280,281 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-10-31T06:28:20.801Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "poteto",
+          "name": "lauren",
+          "url": "https://github.com/poteto",
+          "featuredRepo": {
+            "name": "poteto/hiring-without-whiteboards",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "mxsm",
+          "name": "mxsm",
+          "url": "https://github.com/mxsm",
+          "featuredRepo": {
+            "name": "mxsm/rocketmq-rust",
+            "url": "https://github.com/mxsm/rocketmq-rust",
+            "description": "🚀 Apache RocketMQ built in Rust 🦀 — faster, safer, and more memory-efficient. Powering high-performance messaging for the AI era, with AI…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "marcusquinn",
+          "name": "Marcus Quinn",
+          "url": "https://github.com/marcusquinn",
+          "featuredRepo": {
+            "name": "marcusquinn/aidevops",
+            "url": "https://github.com/marcusquinn/aidevops",
+            "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development.…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "mitchellh",
+          "name": "Mitchell Hashimoto",
+          "url": "https://github.com/mitchellh",
+          "featuredRepo": {
+            "name": "mitchellh/vouch",
+            "url": "https://github.com/mitchellh/vouch",
+            "description": "A community trust management system based on explicit vouches to participate."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "christian-byrne",
+          "name": "Christian Byrne",
+          "url": "https://github.com/christian-byrne",
+          "featuredRepo": {
+            "name": "christian-byrne/audio-separation-nodes-comfyui",
+            "url": "https://github.com/christian-byrne/audio-separation-nodes-comfyui",
+            "description": "Separate stems (vocals, bass, drums, other) from audio. Recombine, tempo match, slice/crop audio"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "benbrandt",
+          "name": "Ben Brandt",
+          "url": "https://github.com/benbrandt",
+          "featuredRepo": {
+            "name": "benbrandt/text-splitter",
+            "url": "https://github.com/benbrandt/text-splitter",
+            "description": "Split text into semantic chunks, up to a desired chunk size. Supports calculating length by characters and tokens, and is callable from R…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "JustVugg",
+          "name": "Vincenzo Fornaro",
+          "url": "https://github.com/JustVugg",
+          "featuredRepo": {
+            "name": "JustVugg/colibri",
+            "url": "https://github.com/JustVugg/colibri",
+            "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "jmanico",
+          "name": "Jim Manico",
+          "url": "https://github.com/jmanico",
+          "featuredRepo": {
+            "name": "jmanico/grim-prompter",
+            "url": "https://github.com/jmanico/grim-prompter",
+            "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 arch…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "Cyan4973",
+          "name": "Yann Collet",
+          "url": "https://github.com/Cyan4973",
+          "featuredRepo": {
+            "name": "Cyan4973/xxHash",
+            "url": "https://github.com/Cyan4973/xxHash",
+            "description": "Extremely fast non-cryptographic hash algorithm"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "thdxr",
+          "name": "Dax",
+          "url": "https://github.com/thdxr",
+          "featuredRepo": {
+            "name": "thdxr/environment",
+            "url": "https://github.com/thdxr/environment",
+            "description": null
+          }
+        },
+        {
+          "rank": 12,
+          "username": "vastsa",
+          "name": "Lan",
+          "url": "https://github.com/vastsa",
+          "featuredRepo": {
+            "name": "vastsa/PI-Desktop",
+            "url": "https://github.com/vastsa/PI-Desktop",
+            "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "Yeraze",
+          "name": "Randall Hand",
+          "url": "https://github.com/Yeraze",
+          "featuredRepo": {
+            "name": "Yeraze/meshmonitor",
+            "url": "https://github.com/Yeraze/meshmonitor",
+            "description": "Web tool for monitoring Mesh Node Deployment over TCP/HTTP"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "cliffhall",
+          "name": "Cliff Hall",
+          "url": "https://github.com/cliffhall",
+          "featuredRepo": null
+        },
+        {
+          "rank": 15,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live-streaming CLI s…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/pumpfun-source",
+            "url": "https://github.com/lalalune/pumpfun-source",
+            "description": "Reverse engineering the pump.fun smart contracts"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "code-yeongyu",
+          "name": "YeonGyu-Kim",
+          "url": "https://github.com/code-yeongyu",
+          "featuredRepo": {
+            "name": "code-yeongyu/oh-my-openagent",
+            "url": "https://github.com/code-yeongyu/oh-my-openagent",
+            "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "penso",
+          "name": "Fabien Penso",
+          "url": "https://github.com/penso",
+          "featuredRepo": {
+            "name": "penso/herdr-gpui",
+            "url": "https://github.com/penso/herdr-gpui",
+            "description": "Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and ag…"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "mlightcad",
+          "name": "mlightcad",
+          "url": "https://github.com/mlightcad",
+          "featuredRepo": {
+            "name": "mlightcad/cad-viewer",
+            "url": "https://github.com/mlightcad/cad-viewer",
+            "description": "The world’s first fully web-based DXF/DWG viewer and editor that runs entirely in the browser — no backend server required."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "jerelvelarde",
+          "name": "Jerel Velarde",
+          "url": "https://github.com/jerelvelarde",
+          "featuredRepo": {
+            "name": "jerelvelarde/cutroom",
+            "url": "https://github.com/jerelvelarde/cutroom",
+            "description": "Gemini 4 Argon SF Hackathon: tracks, judging criteria, technical resources, prizes, and participant benefits."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "maziyarpanahi",
+          "name": "Maziyar Panahi",
+          "url": "https://github.com/maziyarpanahi",
+          "featuredRepo": {
+            "name": "maziyarpanahi/openmed",
+            "url": "https://github.com/maziyarpanahi/openmed",
+            "description": "Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed P…"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "ducha-aiki",
+          "name": "Dmytro Mishkin",
+          "url": "https://github.com/ducha-aiki",
+          "featuredRepo": null
+        },
+        {
+          "rank": 24,
+          "username": "jrouwe",
+          "name": "Jorrit Rouwe",
+          "url": "https://github.com/jrouwe",
+          "featuredRepo": {
+            "name": "jrouwe/JoltPhysics",
+            "url": "https://github.com/jrouwe/JoltPhysics",
+            "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/RuView",
+            "url": "https://github.com/ruvnet/RuView",
+            "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+          }
+        }
+      ]
     }
   ],
   "best": []
