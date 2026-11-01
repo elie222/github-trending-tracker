@@ -12,7 +12,7 @@ UTC day **2026-11-01**.
 
 | List | Result |
 | --- | --- |
-| TypeScript developers (daily) | **#18** elie222 · elie222/rakazo |
+| TypeScript developers (daily) | **#12** elie222 · elie222/rakazo |
 | all languages developers (daily) | not listed |
 | TypeScript repositories (daily) | not listed |
 | all languages repositories (daily) | not listed |
@@ -43,7 +43,7 @@ Days at #1: 2024-12-31, 2025-01-03, 2025-01-04, 2025-01-05, 2025-01-18, 2025-01-
 
 | Month | Days | #1 | Top 10 | Best |
 | --- | ---: | ---: | ---: | ---: |
-| 2026-11 | 1 | 0 | 0 | #18 |
+| 2026-11 | 1 | 0 | 0 | #12 |
 | 2026-10 | 31 | 2 | 28 | #1 |
 | 2026-09 | 28 | 1 | 20 | #1 |
 | 2026-08 | 24 | 2 | 17 | #1 |
@@ -71,7 +71,7 @@ Days at #1: 2024-12-31, 2025-01-03, 2025-01-04, 2025-01-05, 2025-01-18, 2025-01-
 
 | Date | Best rank | Featured repo | Source |
 | --- | ---: | --- | --- |
-| 2026-11-01 | #18 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
+| 2026-11-01 | #12 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-10-31 | #18 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-10-30 | #20 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-10-29 | #3 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
@@ -804,10 +804,10 @@ These periods are scraped and stored, but they are not part of the daily totals,
 
 | List | Name | Date | Best rank |
 | --- | --- | --- | --- |
-| TypeScript developers (weekly) | elie222 | 2026-11-01 | #21 |
+| TypeScript developers (weekly) | elie222 | 2026-11-01 | #18 |
 | all languages developers (weekly) | elie222 | 2026-10-30 | #21 |
 | TypeScript repositories (weekly) | elie222/rakazo | 2026-10-29 | #18 |
 | all languages repositories (weekly) | elie222/rakazo | 2026-10-24 | #15 |
 | TypeScript developers (monthly) | elie222 | 2026-11-01 | #7 |
-| all languages developers (monthly) | elie222 | 2026-11-01 | #20 |
+| all languages developers (monthly) | elie222 | 2026-11-01 | #19 |
 | TypeScript repositories (monthly) | elie222/rakazo | 2026-10-28 | #20 |

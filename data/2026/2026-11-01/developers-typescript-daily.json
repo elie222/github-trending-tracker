@@ -854,6 +854,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-01T18:21:43.994Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live-streaming CLI s…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "osolmaz",
+          "name": "Onur Solmaz",
+          "url": "https://github.com/osolmaz",
+          "featuredRepo": {
+            "name": "osolmaz/switch",
+            "url": "https://github.com/osolmaz/switch",
+            "description": "A framework for building decision-model harnesses for any kind of task. Your program offers the model a short list of next steps, and the…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "ogulcancelik",
+          "name": "Can Celik",
+          "url": "https://github.com/ogulcancelik",
+          "featuredRepo": {
+            "name": "ogulcancelik/pi-extensions",
+            "url": "https://github.com/ogulcancelik/pi-extensions",
+            "description": "Extensions for pi, the terminal-based coding agent"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "ersinkoc",
+          "name": "Ersin KOÇ",
+          "url": "https://github.com/ersinkoc",
+          "featuredRepo": {
+            "name": "ersinkoc/AI-Video-Factory",
+            "url": "https://github.com/ersinkoc/AI-Video-Factory",
+            "description": "AI video factory: from one topic to a finished, multilingual YouTube video. Claude agents write, plan, draw and review; a Studio keeps th…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "mlightcad",
+          "name": "mlightcad",
+          "url": "https://github.com/mlightcad",
+          "featuredRepo": {
+            "name": "mlightcad/cad-viewer",
+            "url": "https://github.com/mlightcad/cad-viewer",
+            "description": "The world’s first fully web-based DXF/DWG viewer and editor that runs entirely in the browser — no backend server required."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "ranxianglei",
+          "name": "ranxianglei",
+          "url": "https://github.com/ranxianglei",
+          "featuredRepo": {
+            "name": "ranxianglei/billion-context",
+            "url": "https://github.com/ranxianglei/billion-context",
+            "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and to…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "Yeraze",
+          "name": "Randall Hand",
+          "url": "https://github.com/Yeraze",
+          "featuredRepo": {
+            "name": "Yeraze/meshmonitor",
+            "url": "https://github.com/Yeraze/meshmonitor",
+            "description": "Web tool for monitoring Mesh Node Deployment over TCP/HTTP"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "dabit3",
+          "name": "Nader Dabit",
+          "url": "https://github.com/dabit3",
+          "featuredRepo": {
+            "name": "dabit3/openform",
+            "url": "https://github.com/dabit3/openform",
+            "description": "Open Source TypeForm Clone"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "melgarafael",
+          "name": "Rafael Melgaço",
+          "url": "https://github.com/melgarafael",
+          "featuredRepo": {
+            "name": "melgarafael/DeskcommCRM",
+            "url": "https://github.com/melgarafael/DeskcommCRM",
+            "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any…"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "code-yeongyu",
+          "name": "YeonGyu-Kim",
+          "url": "https://github.com/code-yeongyu",
+          "featuredRepo": {
+            "name": "code-yeongyu/oh-my-openagent",
+            "url": "https://github.com/code-yeongyu/oh-my-openagent",
+            "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 13,
+          "username": "ryansolid",
+          "name": "Ryan Carniato",
+          "url": "https://github.com/ryansolid",
+          "featuredRepo": {
+            "name": "ryansolid/reactivescript",
+            "url": "https://github.com/ryansolid/reactivescript",
+            "description": "Reactivity as a Language"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "kgoedecke",
+          "name": "Kevin Goedecke",
+          "url": "https://github.com/kgoedecke",
+          "featuredRepo": {
+            "name": "kgoedecke/doop",
+            "url": "https://github.com/kgoedecke/doop",
+            "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "louistrue",
+          "name": "Louis Trümpler",
+          "url": "https://github.com/louistrue",
+          "featuredRepo": {
+            "name": "louistrue/connections-aec-hackathon-zh-25",
+            "url": "https://github.com/louistrue/connections-aec-hackathon-zh-25",
+            "description": "AEC Hackathon Zurich 2025 - Team Connections"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "ItzCrazyKns",
+          "name": "Kushagra Srivastava",
+          "url": "https://github.com/ItzCrazyKns",
+          "featuredRepo": {
+            "name": "ItzCrazyKns/Vane",
+            "url": "https://github.com/ItzCrazyKns/Vane",
+            "description": "Vane is an AI-powered answering engine."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "zts212653",
+          "name": "Lysander Su",
+          "url": "https://github.com/zts212653",
+          "featuredRepo": {
+            "name": "zts212653/clowder-ai",
+            "url": "https://github.com/zts212653/clowder-ai",
+            "description": "Build AI teams, not just agents. Hard rails, soft power, shared mission."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "aniket866",
+          "name": "Aniket",
+          "url": "https://github.com/aniket866",
+          "featuredRepo": {
+            "name": "aniket866/ContribHub",
+            "url": "https://github.com/aniket866/ContribHub",
+            "description": null
+          }
+        },
+        {
+          "rank": 22,
+          "username": "redphx",
+          "name": "redphx",
+          "url": "https://github.com/redphx",
+          "featuredRepo": {
+            "name": "redphx/better-xcloud",
+            "url": "https://github.com/redphx/better-xcloud",
+            "description": "Userscript to improve Xbox Cloud Gaming (xCloud) and Remote Play experiences on web browsers"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "martinfrancois",
+          "name": "François Martin",
+          "url": "https://github.com/martinfrancois",
+          "featuredRepo": {
+            "name": "martinfrancois/html-cheat-sheet",
+            "url": "https://github.com/martinfrancois/html-cheat-sheet",
+            "description": "Single-page HTML tag reference that shows each tag with a description, sample code and the rendered result"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        }
+      ]
     }
   ],
   "best": [
@@ -861,8 +1144,8 @@
       "kind": "developer",
       "key": "elie222",
       "url": "https://github.com/elie222",
-      "bestRank": 18,
-      "scrapedAt": "2026-11-01T00:46:57.638Z",
+      "bestRank": 12,
+      "scrapedAt": "2026-11-01T18:21:43.994Z",
       "starsToday": null,
       "featuredRepo": "elie222/rakazo"
     }

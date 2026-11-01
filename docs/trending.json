@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T12:24:38.432Z",
+  "updatedAt": "2026-11-01T18:21:43.994Z",
   "since": "2024-11-17",
   "sinceLabel": "November 2024",
   "sinceShort": "Nov 2024",
@@ -6438,7 +6438,7 @@
     },
     {
       "date": "2026-11-01",
-      "ts": 18,
+      "ts": 12,
       "all": null,
       "tsKnown": true,
       "allKnown": true,
@@ -6455,7 +6455,7 @@
       "longestOnListStreak": 36,
       "currentStreak": 36,
       "best": 1,
-      "today": 18,
+      "today": 12,
       "todayKnown": true
     },
     "all": {

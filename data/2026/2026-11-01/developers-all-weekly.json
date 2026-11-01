@@ -854,6 +854,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-01T18:21:43.994Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live-streaming CLI s…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "Gathin23",
+          "name": "Gathin",
+          "url": "https://github.com/Gathin23",
+          "featuredRepo": {
+            "name": "Gathin23/cleanyourtv",
+            "url": "https://github.com/Gathin23/cleanyourtv",
+            "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "poteto",
+          "name": "lauren",
+          "url": "https://github.com/poteto",
+          "featuredRepo": {
+            "name": "poteto/hiring-without-whiteboards",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        },
+        {
+          "rank": 5,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "gakonst",
+          "name": "Georgios Konstantopoulos",
+          "url": "https://github.com/gakonst",
+          "featuredRepo": {
+            "name": "gakonst/nanocode",
+            "url": "https://github.com/gakonst/nanocode",
+            "description": "SDK for Frontier Embedded Agents."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "yetone",
+          "name": "yetone",
+          "url": "https://github.com/yetone",
+          "featuredRepo": {
+            "name": "yetone/magpie",
+            "url": "https://github.com/yetone/magpie",
+            "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/pumpfun-source",
+            "url": "https://github.com/lalalune/pumpfun-source",
+            "description": "Reverse engineering the pump.fun smart contracts"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "mokevnin",
+          "name": "Kirill Mokevnin",
+          "url": "https://github.com/mokevnin",
+          "featuredRepo": {
+            "name": "mokevnin/dev-quality-gates",
+            "url": "https://github.com/mokevnin/dev-quality-gates",
+            "description": "An opinionated, curated list of tools for enforcing software development standards: one recommended tool per job, with limits."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "drowzeys",
+          "name": "keys",
+          "url": "https://github.com/drowzeys",
+          "featuredRepo": {
+            "name": "drowzeys/Imagination-Studio-by-keys-Wasserman",
+            "url": "https://github.com/drowzeys/Imagination-Studio-by-keys-Wasserman",
+            "description": "Imagination Studio by keys+Wasserman powered by TensorFold: an AI film studio for Mac and NVIDIA DGX Spark. Plan a film like a crew (Slat…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "tontinton",
+          "name": "Tony Solomonik",
+          "url": "https://github.com/tontinton",
+          "featuredRepo": {
+            "name": "tontinton/maki",
+            "url": "https://github.com/tontinton/maki",
+            "description": "An efficient AI coding agent extendable by neovim-like Lua plugins"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "hxreborn",
+          "name": "rafareborn",
+          "url": "https://github.com/hxreborn",
+          "featuredRepo": {
+            "name": "hxreborn/morphe-patches",
+            "url": "https://github.com/hxreborn/morphe-patches",
+            "description": "🧩 Android patches for Morphe: AMOLED themes, ad removal and premium unlocks for 140+ apps, including Proton Mail, BeReal, Perplexity, Ter…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "charliermarsh",
+          "name": "Charlie Marsh",
+          "url": "https://github.com/charliermarsh",
+          "featuredRepo": {
+            "name": "charliermarsh/autobot",
+            "url": "https://github.com/charliermarsh/autobot",
+            "description": "GitHub Copilot, for your existing codebase."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "timoncool",
+          "name": "Ilya (Nerual Dreming) Timonin",
+          "url": "https://github.com/timoncool",
+          "featuredRepo": {
+            "name": "timoncool/YuE2-Studio",
+            "url": "https://github.com/timoncool/YuE2-Studio",
+            "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Wind…"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "jarrodwatts",
+          "name": "Jarrod Watts",
+          "url": "https://github.com/jarrodwatts",
+          "featuredRepo": {
+            "name": "jarrodwatts/claude-hud",
+            "url": "https://github.com/jarrodwatts/claude-hud",
+            "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "crynta",
+          "name": "Crynta",
+          "url": "https://github.com/crynta",
+          "featuredRepo": {
+            "name": "crynta/terax-ai",
+            "url": "https://github.com/crynta/terax-ai",
+            "description": "Lightweight (7MB) terminal-first AI-native development environment"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "WenyuChiou",
+          "name": "Wenyu Chiou",
+          "url": "https://github.com/WenyuChiou",
+          "featuredRepo": {
+            "name": "WenyuChiou/awesome-agentic-ai-zh",
+            "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+            "description": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and…"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "kalil0321",
+          "name": "kalil0321",
+          "url": "https://github.com/kalil0321",
+          "featuredRepo": {
+            "name": "kalil0321/reverse-api-engineer",
+            "url": "https://github.com/kalil0321/reverse-api-engineer",
+            "description": "Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "derekross",
+          "name": "Derek Ross",
+          "url": "https://github.com/derekross",
+          "featuredRepo": {
+            "name": "derekross/omarchy-mobile",
+            "url": "https://github.com/derekross/omarchy-mobile",
+            "description": "Omarchy Mobile: native Omarchy on mobile phones. Arch Linux ARM, Hyprland and Omarchy on a mainline kernel (work in progress)"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "krille-chan",
+          "name": "Krille-chan",
+          "url": "https://github.com/krille-chan",
+          "featuredRepo": {
+            "name": "krille-chan/fluffychat",
+            "url": "https://github.com/krille-chan/fluffychat",
+            "description": "The cutest instant messenger in the [matrix]"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "benbrandt",
+          "name": "Ben Brandt",
+          "url": "https://github.com/benbrandt",
+          "featuredRepo": {
+            "name": "benbrandt/text-splitter",
+            "url": "https://github.com/benbrandt/text-splitter",
+            "description": "Split text into semantic chunks, up to a desired chunk size. Supports calculating length by characters and tokens, and is callable from R…"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "mfranzon",
+          "name": "Marco Franzon",
+          "url": "https://github.com/mfranzon",
+          "featuredRepo": {
+            "name": "mfranzon/print3d",
+            "url": "https://github.com/mfranzon/print3d",
+            "description": "Print 3D skill from text to 3D printing using Bambu Lab slicer."
+          }
+        },
+        {
+          "rank": 25,
+          "username": "jrouwe",
+          "name": "Jorrit Rouwe",
+          "url": "https://github.com/jrouwe",
+          "featuredRepo": {
+            "name": "jrouwe/JoltPhysics",
+            "url": "https://github.com/jrouwe/JoltPhysics",
+            "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by…"
+          }
+        }
+      ]
     }
   ],
   "best": []
