@@ -612,6 +612,179 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-02T18:24:10.033Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 110503,
+          "forks": 9642,
+          "starsToday": 1799,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 41085,
+          "forks": 9054,
+          "starsToday": 3216,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 110249,
+          "forks": 18266,
+          "starsToday": 451,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+          "language": "TypeScript",
+          "stars": 11142,
+          "forks": 1520,
+          "starsToday": 910,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "CNCKitchen/ScanRuler",
+          "url": "https://github.com/CNCKitchen/ScanRuler",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 708,
+          "forks": 129,
+          "starsToday": 256,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+          "language": "TypeScript",
+          "stars": 41807,
+          "forks": 4255,
+          "starsToday": 230,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "language": "TypeScript",
+          "stars": 90018,
+          "forks": 13904,
+          "starsToday": 110,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+          "language": "TypeScript",
+          "stars": 8555,
+          "forks": 708,
+          "starsToday": 25,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "cheaper-inference/OmniRoute",
+          "url": "https://github.com/cheaper-inference/OmniRoute",
+          "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
+          "language": "TypeScript",
+          "stars": 83906,
+          "forks": 12563,
+          "starsToday": 390,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.",
+          "language": "TypeScript",
+          "stars": 33261,
+          "forks": 2295,
+          "starsToday": 145,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "vercel-labs/scriptc",
+          "url": "https://github.com/vercel-labs/scriptc",
+          "description": "TypeScript-to-Native Compiler",
+          "language": "TypeScript",
+          "stars": 6476,
+          "forks": 206,
+          "starsToday": 20,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "hieunc229/mailflare",
+          "url": "https://github.com/hieunc229/mailflare",
+          "description": "Email for professionals and teams",
+          "language": "TypeScript",
+          "stars": 5494,
+          "forks": 812,
+          "starsToday": 185,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "vercel-labs/skills",
+          "url": "https://github.com/vercel-labs/skills",
+          "description": "The open agent skills tool - npx skills",
+          "language": "TypeScript",
+          "stars": 37776,
+          "forks": 3264,
+          "starsToday": 243,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "kgoedecke/doop",
+          "url": "https://github.com/kgoedecke/doop",
+          "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+          "language": "TypeScript",
+          "stars": 1538,
+          "forks": 185,
+          "starsToday": 162,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 15,
+          "name": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+          "language": "TypeScript",
+          "stars": 41366,
+          "forks": 4762,
+          "starsToday": 103,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []
