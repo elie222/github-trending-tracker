@@ -373,6 +373,190 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-02T12:28:00.638Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "language": "CSS",
+          "stars": 45524,
+          "forks": 2419,
+          "starsToday": 11566,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 110228,
+          "forks": 9615,
+          "starsToday": 5852,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+          "language": "Rust",
+          "stars": 99996,
+          "forks": 5919,
+          "starsToday": 12017,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "AgriciDaniel/claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+          "language": "Python",
+          "stars": 25814,
+          "forks": 3377,
+          "starsToday": 5034,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 310948,
+          "forks": 27673,
+          "starsToday": 5896,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 39881,
+          "forks": 8998,
+          "starsToday": 6926,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "JetBrains/thinkrail",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+          "language": "TypeScript",
+          "stars": 7095,
+          "forks": 409,
+          "starsToday": 5760,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "language": "JavaScript",
+          "stars": 56901,
+          "forks": 3705,
+          "starsToday": 10069,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "jakubkrehel/skills",
+          "url": "https://github.com/jakubkrehel/skills",
+          "description": "A collection of agent skills that help you build great interfaces.",
+          "language": "Markdown",
+          "stars": 10243,
+          "forks": 396,
+          "starsToday": 1607,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "language": null,
+          "stars": 228300,
+          "forks": 22762,
+          "starsToday": 4459,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 186591,
+          "forks": 22036,
+          "starsToday": 2600,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+          "language": "JavaScript",
+          "stars": 108295,
+          "forks": 7301,
+          "starsToday": 5336,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 119792,
+          "forks": 22915,
+          "starsToday": 5432,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "ghostty-org/ghostty",
+          "url": "https://github.com/ghostty-org/ghostty",
+          "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+          "language": "Zig",
+          "stars": 63256,
+          "forks": 3821,
+          "starsToday": 589,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars": 295157,
+          "forks": 43691,
+          "starsToday": 6299,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 16,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 77433,
+          "forks": 7097,
+          "starsToday": 5153,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": []
