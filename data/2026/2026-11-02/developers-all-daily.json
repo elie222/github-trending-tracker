@@ -288,6 +288,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-02T06:39:00.369Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "thdxr",
+          "name": "Dax",
+          "url": "https://github.com/thdxr",
+          "featuredRepo": {
+            "name": "thdxr/environment",
+            "url": "https://github.com/thdxr/environment",
+            "description": null
+          }
+        },
+        {
+          "rank": 2,
+          "username": "jayleaton",
+          "name": "JJ Eaton",
+          "url": "https://github.com/jayleaton",
+          "featuredRepo": {
+            "name": "jayleaton/deepseek-v41-tensorfold-spark",
+            "url": "https://github.com/jayleaton/deepseek-v41-tensorfold-spark",
+            "description": "DeepSeek-V4.1-Flash on 2x NVIDIA DGX Spark with the TensorFold engine: 1.8-1.9x code, 2.5x multi-stream, 1.7-1.95x prefill vs the vLLM ki…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "maziyarpanahi",
+          "name": "Maziyar Panahi",
+          "url": "https://github.com/maziyarpanahi",
+          "featuredRepo": {
+            "name": "maziyarpanahi/openmed",
+            "url": "https://github.com/maziyarpanahi/openmed",
+            "description": "Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed P…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live-streaming CLI s…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "penso",
+          "name": "Fabien Penso",
+          "url": "https://github.com/penso",
+          "featuredRepo": {
+            "name": "penso/herdr-gpui",
+            "url": "https://github.com/penso/herdr-gpui",
+            "description": "Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and ag…"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "Ikalus1988",
+          "name": "Ikalus1988",
+          "url": "https://github.com/Ikalus1988",
+          "featuredRepo": {
+            "name": "Ikalus1988/MisakaNet",
+            "url": "https://github.com/Ikalus1988/MisakaNet",
+            "description": "Re-debugging Solved Failures? No Way. 500+ Evidence-graded fix lessons, One MCP Call-->https://misakanet.org"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "ducha-aiki",
+          "name": "Dmytro Mishkin",
+          "url": "https://github.com/ducha-aiki",
+          "featuredRepo": {
+            "name": "ducha-aiki/kornia",
+            "url": "https://github.com/ducha-aiki/kornia",
+            "description": "Open Source Differentiable Computer Vision Library"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "WenyuChiou",
+          "name": "Wenyu Chiou",
+          "url": "https://github.com/WenyuChiou",
+          "featuredRepo": {
+            "name": "WenyuChiou/awesome-agentic-ai-zh",
+            "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+            "description": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "christian-byrne",
+          "name": "Christian Byrne",
+          "url": "https://github.com/christian-byrne",
+          "featuredRepo": {
+            "name": "christian-byrne/audio-separation-nodes-comfyui",
+            "url": "https://github.com/christian-byrne/audio-separation-nodes-comfyui",
+            "description": "Separate stems (vocals, bass, drums, other) from audio. Recombine, tempo match, slice/crop audio"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "drowzeys",
+          "name": "keys",
+          "url": "https://github.com/drowzeys",
+          "featuredRepo": {
+            "name": "drowzeys/Imagination-Studio-by-keys-Wasserman",
+            "url": "https://github.com/drowzeys/Imagination-Studio-by-keys-Wasserman",
+            "description": "Imagination Studio by keys+Wasserman powered by TensorFold: an AI film studio for Mac and NVIDIA DGX Spark. Plan a film like a crew (Slat…"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "jrouwe",
+          "name": "Jorrit Rouwe",
+          "url": "https://github.com/jrouwe",
+          "featuredRepo": {
+            "name": "jrouwe/JoltPhysics",
+            "url": "https://github.com/jrouwe/JoltPhysics",
+            "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "osolmaz",
+          "name": "Onur Solmaz",
+          "url": "https://github.com/osolmaz",
+          "featuredRepo": {
+            "name": "osolmaz/switch",
+            "url": "https://github.com/osolmaz/switch",
+            "description": "A framework for building decision-model harnesses for any kind of task. Your program offers the model a short list of next steps, and the…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "JustVugg",
+          "name": "Vincenzo Fornaro",
+          "url": "https://github.com/JustVugg",
+          "featuredRepo": {
+            "name": "JustVugg/colibri",
+            "url": "https://github.com/JustVugg/colibri",
+            "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "justrach",
+          "name": "Rach",
+          "url": "https://github.com/justrach",
+          "featuredRepo": {
+            "name": "justrach/nanoui",
+            "url": "https://github.com/justrach/nanoui",
+            "description": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "jmanico",
+          "name": "Jim Manico",
+          "url": "https://github.com/jmanico",
+          "featuredRepo": {
+            "name": "jmanico/grim-prompter",
+            "url": "https://github.com/jmanico/grim-prompter",
+            "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 arch…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "kalil0321",
+          "name": "kalil0321",
+          "url": "https://github.com/kalil0321",
+          "featuredRepo": {
+            "name": "kalil0321/reverse-api-engineer",
+            "url": "https://github.com/kalil0321/reverse-api-engineer",
+            "description": "Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "Mahmud0808",
+          "name": "DrDisagree",
+          "url": "https://github.com/Mahmud0808",
+          "featuredRepo": {
+            "name": "Mahmud0808/TeleDrive",
+            "url": "https://github.com/Mahmud0808/TeleDrive",
+            "description": "Turn a private Telegram channel into your personal cloud drive. Android, Windows, Linux and macOS, auto backup, optional E2E encryption, …"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "jxxghp",
+          "name": "jxxghp",
+          "url": "https://github.com/jxxghp",
+          "featuredRepo": {
+            "name": "jxxghp/MoviePilot",
+            "url": "https://github.com/jxxghp/MoviePilot",
+            "description": "NAS媒体库自动化管理工具"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "WebBreacher",
+          "name": "Micah Hoffman",
+          "url": "https://github.com/WebBreacher",
+          "featuredRepo": {
+            "name": "WebBreacher/WhatsMyName",
+            "url": "https://github.com/WebBreacher/WhatsMyName",
+            "description": "Community-maintained dataset of 700+ websites for finding accounts by username — powers OSINT and digital footprint tools."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "teng-lin",
+          "name": "Teng Lin",
+          "url": "https://github.com/teng-lin",
+          "featuredRepo": {
+            "name": "teng-lin/notebooklm-py",
+            "url": "https://github.com/teng-lin/notebooklm-py",
+            "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capa…"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "ashhart",
+          "name": "Ash",
+          "url": "https://github.com/ashhart",
+          "featuredRepo": {
+            "name": "ashhart/TensorFold",
+            "url": "https://github.com/ashhart/TensorFold",
+            "description": "LLM Inference Engine for Metal, CUDA and Vulkan."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "amir1376",
+          "name": "AmirHossein Abdolmotallebi",
+          "url": "https://github.com/amir1376",
+          "featuredRepo": {
+            "name": "amir1376/ab-download-manager",
+            "url": "https://github.com/amir1376/ab-download-manager",
+            "description": "A Download Manager that speeds up your downloads"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "hrydgard",
+          "name": "Henrik Rydgård",
+          "url": "https://github.com/hrydgard",
+          "featuredRepo": {
+            "name": "hrydgard/ppsspp",
+            "url": "https://github.com/hrydgard/ppsspp",
+            "description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJ…"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "ogulcancelik",
+          "name": "Can Celik",
+          "url": "https://github.com/ogulcancelik",
+          "featuredRepo": {
+            "name": "ogulcancelik/pi-extensions",
+            "url": "https://github.com/ogulcancelik/pi-extensions",
+            "description": "Extensions for pi, the terminal-based coding agent"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "ersinkoc",
+          "name": "Ersin KOÇ",
+          "url": "https://github.com/ersinkoc",
+          "featuredRepo": {
+            "name": "ersinkoc/AI-Video-Factory",
+            "url": "https://github.com/ersinkoc/AI-Video-Factory",
+            "description": "AI video factory: from one topic to a finished, multilingual YouTube video. Claude agents write, plan, draw and review; a Studio keeps th…"
+          }
+        }
+      ]
     }
   ],
   "best": []
