@@ -373,6 +373,190 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-03T12:27:30.613Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 111329,
+          "forks": 9701,
+          "starsToday": 7255,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 43146,
+          "forks": 9169,
+          "starsToday": 9770,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "JetBrains/thinkrail",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+          "language": "TypeScript",
+          "stars": 7328,
+          "forks": 435,
+          "starsToday": 4812,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "CopilotKit/OpenBot",
+          "url": "https://github.com/CopilotKit/OpenBot",
+          "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+          "language": "TypeScript",
+          "stars": 9973,
+          "forks": 1221,
+          "starsToday": 2710,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "vercel-labs/skills",
+          "url": "https://github.com/vercel-labs/skills",
+          "description": "The open agent skills tool - npx skills",
+          "language": "TypeScript",
+          "stars": 37888,
+          "forks": 3278,
+          "starsToday": 1149,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 78066,
+          "forks": 7192,
+          "starsToday": 4924,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+          "language": "TypeScript",
+          "stars": 11551,
+          "forks": 1579,
+          "starsToday": 5487,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "Renhuai123/ziwei-doushu",
+          "url": "https://github.com/Renhuai123/ziwei-doushu",
+          "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+          "language": "TypeScript",
+          "stars": 14633,
+          "forks": 2835,
+          "starsToday": 6121,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "nightly-labs/openbot",
+          "url": "https://github.com/nightly-labs/openbot",
+          "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+          "language": "TypeScript",
+          "stars": 5083,
+          "forks": 516,
+          "starsToday": 3451,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 46728,
+          "forks": 6386,
+          "starsToday": 4313,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "makecindy/cindy",
+          "url": "https://github.com/makecindy/cindy",
+          "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+          "language": "TypeScript",
+          "stars": 9105,
+          "forks": 1104,
+          "starsToday": 3098,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "KeygraphHQ/shannon",
+          "url": "https://github.com/KeygraphHQ/shannon",
+          "description": "Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+          "language": "TypeScript",
+          "stars": 51033,
+          "forks": 5941,
+          "starsToday": 1627,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "remotion-dev/remotion",
+          "url": "https://github.com/remotion-dev/remotion",
+          "description": "🎥 Make videos programmatically with React",
+          "language": "TypeScript",
+          "stars": 70307,
+          "forks": 5790,
+          "starsToday": 2296,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+          "language": "TypeScript",
+          "stars": 41470,
+          "forks": 4766,
+          "starsToday": 786,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "spotify/portal-ai-plugins",
+          "url": "https://github.com/spotify/portal-ai-plugins",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 2920,
+          "forks": 228,
+          "starsToday": 316,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 16,
+          "name": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+          "language": "TypeScript",
+          "stars": 41956,
+          "forks": 4287,
+          "starsToday": 969,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": []

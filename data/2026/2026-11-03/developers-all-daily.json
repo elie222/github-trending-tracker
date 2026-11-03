@@ -571,6 +571,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-03T12:27:30.613Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "jayleaton",
+          "name": "JJ Eaton",
+          "url": "https://github.com/jayleaton",
+          "featuredRepo": {
+            "name": "jayleaton/deepseek-v41-tensorfold-spark",
+            "url": "https://github.com/jayleaton/deepseek-v41-tensorfold-spark",
+            "description": "DeepSeek-V4.1-Flash on 2x NVIDIA DGX Spark with the TensorFold engine: 1.8-1.9x code, 2.5x multi-stream, 1.7-1.95x prefill vs the vLLM ki…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "ccch1mneyyy",
+          "name": "Chimney",
+          "url": "https://github.com/ccch1mneyyy",
+          "featuredRepo": {
+            "name": "ccch1mneyyy/dsh-Go",
+            "url": "https://github.com/ccch1mneyyy/dsh-Go",
+            "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "thdxr",
+          "name": "Dax",
+          "url": "https://github.com/thdxr",
+          "featuredRepo": {
+            "name": "thdxr/environment",
+            "url": "https://github.com/thdxr/environment",
+            "description": null
+          }
+        },
+        {
+          "rank": 4,
+          "username": "christian-byrne",
+          "name": "Christian Byrne",
+          "url": "https://github.com/christian-byrne",
+          "featuredRepo": {
+            "name": "christian-byrne/audio-separation-nodes-comfyui",
+            "url": "https://github.com/christian-byrne/audio-separation-nodes-comfyui",
+            "description": "Separate stems (vocals, bass, drums, other) from audio. Recombine, tempo match, slice/crop audio"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "ashhart",
+          "name": "Ash",
+          "url": "https://github.com/ashhart",
+          "featuredRepo": {
+            "name": "ashhart/TensorFold",
+            "url": "https://github.com/ashhart/TensorFold",
+            "description": "LLM Inference Engine for Metal, CUDA and Vulkan."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "justrach",
+          "name": "Rach",
+          "url": "https://github.com/justrach",
+          "featuredRepo": {
+            "name": "justrach/nanoui",
+            "url": "https://github.com/justrach/nanoui",
+            "description": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "kgoedecke",
+          "name": "Kevin Goedecke",
+          "url": "https://github.com/kgoedecke",
+          "featuredRepo": {
+            "name": "kgoedecke/doop",
+            "url": "https://github.com/kgoedecke/doop",
+            "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "ersinkoc",
+          "name": "Ersin KOÇ",
+          "url": "https://github.com/ersinkoc",
+          "featuredRepo": {
+            "name": "ersinkoc/AI-Video-Factory",
+            "url": "https://github.com/ersinkoc/AI-Video-Factory",
+            "description": "AI video factory: from one topic to a finished, multilingual YouTube video. Claude agents write, plan, draw and review; a Studio keeps th…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "Ikalus1988",
+          "name": "Ikalus1988",
+          "url": "https://github.com/Ikalus1988",
+          "featuredRepo": {
+            "name": "Ikalus1988/MisakaNet",
+            "url": "https://github.com/Ikalus1988/MisakaNet",
+            "description": "Re-debugging Solved Failures? No Way. 500+ Evidence-graded fix lessons, One MCP Call-->https://misakanet.org"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "vshulcz",
+          "name": "Vlad Shulcz",
+          "url": "https://github.com/vshulcz",
+          "featuredRepo": {
+            "name": "vshulcz/deja-vu",
+            "url": "https://github.com/vshulcz/deja-vu",
+            "description": "Claude Code memory, Codex memory, Cursor memory, OpenCode memory, Gemini CLI memory, Windsurf memory & Cline memory across 44 agents. AI …"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "WenyuChiou",
+          "name": "Wenyu Chiou",
+          "url": "https://github.com/WenyuChiou",
+          "featuredRepo": {
+            "name": "WenyuChiou/awesome-agentic-ai-zh",
+            "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+            "description": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "mokevnin",
+          "name": "Kirill Mokevnin",
+          "url": "https://github.com/mokevnin",
+          "featuredRepo": {
+            "name": "mokevnin/dev-quality-gates",
+            "url": "https://github.com/mokevnin/dev-quality-gates",
+            "description": "An opinionated, curated list of tools for enforcing software development standards: one recommended tool per job, with limits."
+          }
+        },
+        {
+          "rank": 13,
+          "username": "DeanChensj",
+          "name": "Shangjie Chen",
+          "url": "https://github.com/DeanChensj",
+          "featuredRepo": {
+            "name": "DeanChensj/jiangshan-map",
+            "url": "https://github.com/DeanChensj/jiangshan-map",
+            "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-m…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "penso",
+          "name": "Fabien Penso",
+          "url": "https://github.com/penso",
+          "featuredRepo": {
+            "name": "penso/herdr-gpui",
+            "url": "https://github.com/penso/herdr-gpui",
+            "description": "Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and ag…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "Mahmud0808",
+          "name": "DrDisagree",
+          "url": "https://github.com/Mahmud0808",
+          "featuredRepo": {
+            "name": "Mahmud0808/TeleDrive",
+            "url": "https://github.com/Mahmud0808/TeleDrive",
+            "description": "Turn a private Telegram channel into your personal cloud drive. Android, Windows, Linux and macOS, auto backup, optional E2E encryption, …"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "kalil0321",
+          "name": "kalil0321",
+          "url": "https://github.com/kalil0321",
+          "featuredRepo": {
+            "name": "kalil0321/reverse-api-engineer",
+            "url": "https://github.com/kalil0321/reverse-api-engineer",
+            "description": "Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "drowzeys",
+          "name": "keys",
+          "url": "https://github.com/drowzeys",
+          "featuredRepo": {
+            "name": "drowzeys/Imagination-Studio-by-keys-Wasserman",
+            "url": "https://github.com/drowzeys/Imagination-Studio-by-keys-Wasserman",
+            "description": "Imagination Studio by keys+Wasserman powered by TensorFold: an AI film studio for Mac and NVIDIA DGX Spark. Plan a film like a crew (Slat…"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "jxxghp",
+          "name": "jxxghp",
+          "url": "https://github.com/jxxghp",
+          "featuredRepo": {
+            "name": "jxxghp/MoviePilot",
+            "url": "https://github.com/jxxghp/MoviePilot",
+            "description": "NAS媒体库自动化管理工具"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "amir1376",
+          "name": "AmirHossein Abdolmotallebi",
+          "url": "https://github.com/amir1376",
+          "featuredRepo": {
+            "name": "amir1376/ab-download-manager",
+            "url": "https://github.com/amir1376/ab-download-manager",
+            "description": "A Download Manager that speeds up your downloads"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "hrydgard",
+          "name": "Henrik Rydgård",
+          "url": "https://github.com/hrydgard",
+          "featuredRepo": {
+            "name": "hrydgard/ppsspp",
+            "url": "https://github.com/hrydgard/ppsspp",
+            "description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJ…"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "yetone",
+          "name": "yetone",
+          "url": "https://github.com/yetone",
+          "featuredRepo": {
+            "name": "yetone/magpie",
+            "url": "https://github.com/yetone/magpie",
+            "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "davidfowl",
+          "name": "David Fowler",
+          "url": "https://github.com/davidfowl",
+          "featuredRepo": {
+            "name": "davidfowl/AspNetCoreDiagnosticScenarios",
+            "url": "https://github.com/davidfowl/AspNetCoreDiagnosticScenarios",
+            "description": "This repository has examples of broken patterns in ASP.NET Core applications"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        }
+      ]
     }
   ],
   "best": [
