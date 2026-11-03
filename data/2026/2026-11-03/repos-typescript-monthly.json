@@ -244,6 +244,245 @@
           "starsLabel": "this month"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-03T06:30:23.598Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=monthly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 423929,
+          "forks": 105665,
+          "starsToday": 422104,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 2,
+          "name": "tester-army/e2e",
+          "url": "https://github.com/tester-army/e2e",
+          "description": "Next generation e2e testing framework for web and mobile apps.",
+          "language": "TypeScript",
+          "stars": 12692,
+          "forks": 657,
+          "starsToday": 11344,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 3,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 77877,
+          "forks": 7165,
+          "starsToday": 22290,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 4,
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+          "language": "TypeScript",
+          "stars": 3767,
+          "forks": 314,
+          "starsToday": 3213,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 5,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 111033,
+          "forks": 9680,
+          "starsToday": 15681,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 6,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 42481,
+          "forks": 9133,
+          "starsToday": 15731,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 7,
+          "name": "michael-denyer/pstack-claude",
+          "url": "https://github.com/michael-denyer/pstack-claude",
+          "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+          "language": "TypeScript",
+          "stars": 3828,
+          "forks": 348,
+          "starsToday": 3018,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 8,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.",
+          "language": "TypeScript",
+          "stars": 33314,
+          "forks": 2295,
+          "starsToday": 8531,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 9,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 46561,
+          "forks": 6357,
+          "starsToday": 16329,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 10,
+          "name": "vercel-labs/skills",
+          "url": "https://github.com/vercel-labs/skills",
+          "description": "The open agent skills tool - npx skills",
+          "language": "TypeScript",
+          "stars": 37841,
+          "forks": 3272,
+          "starsToday": 4956,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 11,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 15170,
+          "forks": 1567,
+          "starsToday": 5776,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 12,
+          "name": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+          "language": "TypeScript",
+          "stars": 114463,
+          "forks": 15774,
+          "starsToday": 3783,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 13,
+          "name": "remotion-dev/remotion",
+          "url": "https://github.com/remotion-dev/remotion",
+          "description": "🎥 Make videos programmatically with React",
+          "language": "TypeScript",
+          "stars": 70199,
+          "forks": 5783,
+          "starsToday": 8701,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 14,
+          "name": "anthropics/sandbox-runtime",
+          "url": "https://github.com/anthropics/sandbox-runtime",
+          "description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
+          "language": "TypeScript",
+          "stars": 6931,
+          "forks": 616,
+          "starsToday": 1519,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 15,
+          "name": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+          "language": "TypeScript",
+          "stars": 8568,
+          "forks": 709,
+          "starsToday": 4470,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 16,
+          "name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+          "language": "TypeScript",
+          "stars": 80690,
+          "forks": 9478,
+          "starsToday": 7325,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 17,
+          "name": "chthollyphile/folia-major",
+          "url": "https://github.com/chthollyphile/folia-major",
+          "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
+          "language": "TypeScript",
+          "stars": 11327,
+          "forks": 1248,
+          "starsToday": 8131,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 18,
+          "name": "gitroomhq/postiz-app",
+          "url": "https://github.com/gitroomhq/postiz-app",
+          "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+          "language": "TypeScript",
+          "stars": 40749,
+          "forks": 7757,
+          "starsToday": 4220,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 19,
+          "name": "LibreSpark/LibreTV",
+          "url": "https://github.com/LibreSpark/LibreTV",
+          "description": "一分钟搭建影视站，支持Docker等部署方式",
+          "language": "TypeScript",
+          "stars": 23385,
+          "forks": 30652,
+          "starsToday": 9556,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 20,
+          "name": "makecindy/cindy",
+          "url": "https://github.com/makecindy/cindy",
+          "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+          "language": "TypeScript",
+          "stars": 9054,
+          "forks": 1097,
+          "starsToday": 6252,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 21,
+          "name": "thesysdev/openui",
+          "url": "https://github.com/thesysdev/openui",
+          "description": "The Open Standard for Generative UI",
+          "language": "TypeScript",
+          "stars": 14707,
+          "forks": 969,
+          "starsToday": 4788,
+          "starsLabel": "this month"
+        }
+      ]
     }
   ],
   "best": []
