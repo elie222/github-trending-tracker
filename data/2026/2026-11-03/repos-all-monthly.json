@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-03",
+  "list": "repos",
+  "language": "all",
+  "period": "monthly",
+  "pageUrl": "https://github.com/trending?since=monthly",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-11-03T00:40:35.926Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=monthly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 422904,
+          "forks": 105451,
+          "starsToday": 422104,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 2,
+          "name": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "language": "JavaScript",
+          "stars": 57403,
+          "forks": 3731,
+          "starsToday": 33474,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 3,
+          "name": "tester-army/e2e",
+          "url": "https://github.com/tester-army/e2e",
+          "description": "Next generation e2e testing framework for web and mobile apps.",
+          "language": "TypeScript",
+          "stars": 12632,
+          "forks": 655,
+          "starsToday": 11344,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 4,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 77736,
+          "forks": 7143,
+          "starsToday": 22290,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 5,
+          "name": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "language": "CSS",
+          "stars": 45998,
+          "forks": 2442,
+          "starsToday": 16306,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 6,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "language": "Python",
+          "stars": 99050,
+          "forks": 10990,
+          "starsToday": 47605,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 34489,
+          "forks": 3813,
+          "starsToday": 8614,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 8,
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+          "language": "TypeScript",
+          "stars": 3714,
+          "forks": 310,
+          "starsToday": 3213,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 9,
+          "name": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "description": "Ghidra is a software reverse engineering (SRE) framework",
+          "language": "Java",
+          "stars": 97183,
+          "forks": 10993,
+          "starsToday": 17043,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 10,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 110740,
+          "forks": 9653,
+          "starsToday": 15681,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 11,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+          "language": "Rust",
+          "stars": 100470,
+          "forks": 5934,
+          "starsToday": 26586,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 12,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 41909,
+          "forks": 9092,
+          "starsToday": 15731,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 13,
+          "name": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "Design physical products with AI",
+          "language": "Python",
+          "stars": 25019,
+          "forks": 2387,
+          "starsToday": 8535,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 14,
+          "name": "michael-denyer/pstack-claude",
+          "url": "https://github.com/michael-denyer/pstack-claude",
+          "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+          "language": "TypeScript",
+          "stars": 3801,
+          "forks": 347,
+          "starsToday": 3018,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 15,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars": 45853,
+          "forks": 4776,
+          "starsToday": 8715,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 16,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.",
+          "language": "TypeScript",
+          "stars": 33285,
+          "forks": 2296,
+          "starsToday": 8531,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 17,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 46398,
+          "forks": 6336,
+          "starsToday": 16329,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 18,
+          "name": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+          "language": "JavaScript",
+          "stars": 108729,
+          "forks": 7319,
+          "starsToday": 16952,
+          "starsLabel": "this month"
+        }
+      ]
+    }
+  ],
+  "best": []
+}
