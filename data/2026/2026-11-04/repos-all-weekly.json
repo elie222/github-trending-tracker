@@ -189,6 +189,190 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-04T06:30:59.628Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "language": "CSS",
+          "stars": 47214,
+          "forks": 2494,
+          "starsToday": 8765,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 112175,
+          "forks": 9757,
+          "starsToday": 7995,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 44874,
+          "forks": 9286,
+          "starsToday": 12542,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 312001,
+          "forks": 27752,
+          "starsToday": 5994,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+          "language": "Rust",
+          "stars": 101777,
+          "forks": 5999,
+          "starsToday": 11405,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "AgriciDaniel/claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+          "language": "Python",
+          "stars": 26410,
+          "forks": 3437,
+          "starsToday": 3751,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "JetBrains/thinkrail",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+          "language": "TypeScript",
+          "stars": 7477,
+          "forks": 449,
+          "starsToday": 3898,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 187185,
+          "forks": 22089,
+          "starsToday": 2969,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "jakubkrehel/skills",
+          "url": "https://github.com/jakubkrehel/skills",
+          "description": "A collection of agent skills that help you build great interfaces.",
+          "language": "Markdown",
+          "stars": 10664,
+          "forks": 410,
+          "starsToday": 1761,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "language": null,
+          "stars": 229197,
+          "forks": 22841,
+          "starsToday": 3921,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "ghostty-org/ghostty",
+          "url": "https://github.com/ghostty-org/ghostty",
+          "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+          "language": "Zig",
+          "stars": 63463,
+          "forks": 3812,
+          "starsToday": 771,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "language": "JavaScript",
+          "stars": 58369,
+          "forks": 3799,
+          "starsToday": 8598,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "hyprwm/Hyprland",
+          "url": "https://github.com/hyprwm/Hyprland",
+          "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+          "language": "C++",
+          "stars": 40245,
+          "forks": 2165,
+          "starsToday": 1232,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 120447,
+          "forks": 23025,
+          "starsToday": 3336,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "max-sixty/worktrunk",
+          "url": "https://github.com/max-sixty/worktrunk",
+          "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+          "language": "Rust",
+          "stars": 10639,
+          "forks": 388,
+          "starsToday": 749,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 16,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars": 296702,
+          "forks": 43872,
+          "starsToday": 6053,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": []
