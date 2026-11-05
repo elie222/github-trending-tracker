@@ -373,6 +373,201 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-05T12:28:22.303Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 113277,
+          "forks": 9825,
+          "starsToday": 8822,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 47421,
+          "forks": 9530,
+          "starsToday": 14580,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+          "language": "TypeScript",
+          "stars": 12555,
+          "forks": 1738,
+          "starsToday": 5847,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "Vincentwei1021/video-shotcraft",
+          "url": "https://github.com/Vincentwei1021/video-shotcraft",
+          "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
+          "language": "TypeScript",
+          "stars": 17173,
+          "forks": 1625,
+          "starsToday": 2629,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "JetBrains/thinkrail",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+          "language": "TypeScript",
+          "stars": 7715,
+          "forks": 470,
+          "starsToday": 3031,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "language": "TypeScript",
+          "stars": 139628,
+          "forks": 20666,
+          "starsToday": 1587,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "CopilotKit/OpenBot",
+          "url": "https://github.com/CopilotKit/OpenBot",
+          "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+          "language": "TypeScript",
+          "stars": 10213,
+          "forks": 1262,
+          "starsToday": 2562,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 47797,
+          "forks": 6546,
+          "starsToday": 4388,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "QwenLM/qwen-code",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "description": "An open-source AI coding agent that lives in your terminal.",
+          "language": "TypeScript",
+          "stars": 29022,
+          "forks": 3315,
+          "starsToday": 270,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "Renhuai123/ziwei-doushu",
+          "url": "https://github.com/Renhuai123/ziwei-doushu",
+          "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+          "language": "TypeScript",
+          "stars": 16061,
+          "forks": 3119,
+          "starsToday": 7014,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "spotify/portal-ai-plugins",
+          "url": "https://github.com/spotify/portal-ai-plugins",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 3162,
+          "forks": 248,
+          "starsToday": 632,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "remotion-dev/remotion",
+          "url": "https://github.com/remotion-dev/remotion",
+          "description": "🎥 Make videos programmatically with React",
+          "language": "TypeScript",
+          "stars": 70921,
+          "forks": 5849,
+          "starsToday": 2224,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "nightly-labs/openbot",
+          "url": "https://github.com/nightly-labs/openbot",
+          "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+          "language": "TypeScript",
+          "stars": 5695,
+          "forks": 580,
+          "starsToday": 2485,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+          "language": "TypeScript",
+          "stars": 41616,
+          "forks": 4784,
+          "starsToday": 938,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "liguobao/ds-harness-remote",
+          "url": "https://github.com/liguobao/ds-harness-remote",
+          "description": "基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web 随时访问本地设备上的DSH 、CodeX、Cursor、Claude Code等工作区。 (Built on DeepSeek Harness plugins, this low-latency, end-to-end encrypted P2P solution lets PC, mobile, and web clients access local DSH, Codex, Cursor, and Claude Code workspaces.)",
+          "language": "TypeScript",
+          "stars": 1881,
+          "forks": 158,
+          "starsToday": 946,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 16,
+          "name": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+          "language": "TypeScript",
+          "stars": 42256,
+          "forks": 4321,
+          "starsToday": 1052,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 17,
+          "name": "THU-MAIC/OpenMAIC",
+          "url": "https://github.com/THU-MAIC/OpenMAIC",
+          "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+          "language": "TypeScript",
+          "stars": 42719,
+          "forks": 6567,
+          "starsToday": 1020,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": []
