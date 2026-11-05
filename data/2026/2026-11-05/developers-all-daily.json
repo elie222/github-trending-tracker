@@ -854,6 +854,281 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-05T18:25:30.676Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "mattabate",
+          "name": "Matt Abate",
+          "url": "https://github.com/mattabate",
+          "featuredRepo": {
+            "name": "mattabate/life-distributable",
+            "url": "https://github.com/mattabate/life-distributable",
+            "description": "A personal agent that works on your life around the clock, on a Mac you own. One sentence to Claude Code installs it."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "MakazhanAlpamys",
+          "name": "Alpamys Makazhan",
+          "url": "https://github.com/MakazhanAlpamys",
+          "featuredRepo": {
+            "name": "MakazhanAlpamys/Soup",
+            "url": "https://github.com/MakazhanAlpamys/Soup",
+            "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "kunchenguid",
+          "name": "Kun Chen",
+          "url": "https://github.com/kunchenguid",
+          "featuredRepo": {
+            "name": "kunchenguid/runner-up",
+            "url": "https://github.com/kunchenguid/runner-up",
+            "description": "GitHub Actions runners on your own machines, one fresh container or VM per job. Completely eliminate your cloud CI bill."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "doobidoo",
+          "name": "Henry Krupp",
+          "url": "https://github.com/doobidoo",
+          "featuredRepo": {
+            "name": "doobidoo/mcp-memory-service",
+            "url": "https://github.com/doobidoo/mcp-memory-service",
+            "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous con…"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "vshulcz",
+          "name": "Vlad Shulcz",
+          "url": "https://github.com/vshulcz",
+          "featuredRepo": {
+            "name": "vshulcz/deja-vu",
+            "url": "https://github.com/vshulcz/deja-vu",
+            "description": "Claude Code memory, Codex memory, Cursor memory, OpenCode memory, Gemini CLI memory, Windsurf memory & Cline memory across 44 agents. AI …"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "dkhamsing",
+          "name": "dkhamsing",
+          "url": "https://github.com/dkhamsing",
+          "featuredRepo": {
+            "name": "dkhamsing/open-source-ios-apps",
+            "url": "https://github.com/dkhamsing/open-source-ios-apps",
+            "description": "📱 Collaborative List of Open-Source iOS Apps"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "abue-ammar",
+          "name": "Abue Ammar",
+          "url": "https://github.com/abue-ammar",
+          "featuredRepo": {
+            "name": "abue-ammar/tinycast",
+            "url": "https://github.com/abue-ammar/tinycast",
+            "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "code-yeongyu",
+          "name": "YeonGyu-Kim",
+          "url": "https://github.com/code-yeongyu",
+          "featuredRepo": {
+            "name": "code-yeongyu/oh-my-openagent",
+            "url": "https://github.com/code-yeongyu/oh-my-openagent",
+            "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "andrewnakas",
+          "name": "Andrew Nakas",
+          "url": "https://github.com/andrewnakas",
+          "featuredRepo": {
+            "name": "andrewnakas/gtav-recomp",
+            "url": "https://github.com/andrewnakas/gtav-recomp",
+            "description": "GTA V (Xbox 360, TU27) static recompilation with ReXGlue"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "gkjohnson",
+          "name": "Garrett Johnson",
+          "url": "https://github.com/gkjohnson",
+          "featuredRepo": {
+            "name": "gkjohnson/three-gpu-pathtracer",
+            "url": "https://github.com/gkjohnson/three-gpu-pathtracer",
+            "description": "Path tracing renderer and utilities for three.js built on top of three-mesh-bvh."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "zts212653",
+          "name": "Lysander Su",
+          "url": "https://github.com/zts212653",
+          "featuredRepo": {
+            "name": "zts212653/clowder-ai",
+            "url": "https://github.com/zts212653/clowder-ai",
+            "description": "Build AI teams, not just agents. Hard rails, soft power, shared mission."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "ranxianglei",
+          "name": "ranxianglei",
+          "url": "https://github.com/ranxianglei",
+          "featuredRepo": {
+            "name": "ranxianglei/billion-context",
+            "url": "https://github.com/ranxianglei/billion-context",
+            "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and to…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "justrach",
+          "name": "Rach",
+          "url": "https://github.com/justrach",
+          "featuredRepo": {
+            "name": "justrach/nanolight",
+            "url": "https://github.com/justrach/nanolight",
+            "description": "A ⌘Space launcher for the Mac, drawn by nanoui: apps, math, Google suggestions with results in the panel, Grok and X"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "Wellington01",
+          "name": "Wellington Cristi Vilela Santana",
+          "url": "https://github.com/Wellington01",
+          "featuredRepo": null
+        },
+        {
+          "rank": 18,
+          "username": "richiemcilroy",
+          "name": "Richie McIlroy",
+          "url": "https://github.com/richiemcilroy",
+          "featuredRepo": {
+            "name": "richiemcilroy/Tov",
+            "url": "https://github.com/richiemcilroy/Tov",
+            "description": "A TypeScript-shaped language built for coding agents. It compiles to small, fast native binaries."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "EricLBuehler",
+          "name": "Eric Buehler",
+          "url": "https://github.com/EricLBuehler",
+          "featuredRepo": {
+            "name": "EricLBuehler/mistral.rs",
+            "url": "https://github.com/EricLBuehler/mistral.rs",
+            "description": "Fast, flexible LLM inference"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "jtenniswood",
+          "name": "James Tenniswood",
+          "url": "https://github.com/jtenniswood",
+          "featuredRepo": {
+            "name": "jtenniswood/espcontrol",
+            "url": "https://github.com/jtenniswood/espcontrol",
+            "description": "Esphome based smart home control panel"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "Gaurav-Gosain",
+          "name": "Gaurav Gosain",
+          "url": "https://github.com/Gaurav-Gosain",
+          "featuredRepo": {
+            "name": "Gaurav-Gosain/tuios",
+            "url": "https://github.com/Gaurav-Gosain/tuios",
+            "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox …"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/RuView",
+            "url": "https://github.com/ruvnet/RuView",
+            "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "ccch1mneyyy",
+          "name": "Chimney",
+          "url": "https://github.com/ccch1mneyyy",
+          "featuredRepo": {
+            "name": "ccch1mneyyy/dsh-Go",
+            "url": "https://github.com/ccch1mneyyy/dsh-Go",
+            "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "yetone",
+          "name": "yetone",
+          "url": "https://github.com/yetone",
+          "featuredRepo": {
+            "name": "yetone/magpie",
+            "url": "https://github.com/yetone/magpie",
+            "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+          }
+        },
+        {
+          "rank": 25,
+          "username": "Pwuts",
+          "name": "Reinier van der Leer",
+          "url": "https://github.com/Pwuts",
+          "featuredRepo": null
+        }
+      ]
     }
   ],
   "best": [

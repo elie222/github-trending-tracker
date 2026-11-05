@@ -854,6 +854,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-05T18:25:30.676Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "code-yeongyu",
+          "name": "YeonGyu-Kim",
+          "url": "https://github.com/code-yeongyu",
+          "featuredRepo": {
+            "name": "code-yeongyu/oh-my-openagent",
+            "url": "https://github.com/code-yeongyu/oh-my-openagent",
+            "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        },
+        {
+          "rank": 5,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "kgoedecke",
+          "name": "Kevin Goedecke",
+          "url": "https://github.com/kgoedecke",
+          "featuredRepo": {
+            "name": "kgoedecke/doop",
+            "url": "https://github.com/kgoedecke/doop",
+            "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "timoncool",
+          "name": "Ilya (Nerual Dreming) Timonin",
+          "url": "https://github.com/timoncool",
+          "featuredRepo": {
+            "name": "timoncool/YuE2-Studio",
+            "url": "https://github.com/timoncool/YuE2-Studio",
+            "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Wind…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "ranxianglei",
+          "name": "ranxianglei",
+          "url": "https://github.com/ranxianglei",
+          "featuredRepo": {
+            "name": "ranxianglei/billion-context",
+            "url": "https://github.com/ranxianglei/billion-context",
+            "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and to…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "vastsa",
+          "name": "Lan",
+          "url": "https://github.com/vastsa",
+          "featuredRepo": {
+            "name": "vastsa/PI-Desktop",
+            "url": "https://github.com/vastsa/PI-Desktop",
+            "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "chthollyphile",
+          "name": "冬霧",
+          "url": "https://github.com/chthollyphile",
+          "featuredRepo": {
+            "name": "chthollyphile/folia-major",
+            "url": "https://github.com/chthollyphile/folia-major",
+            "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器 A multi-platform music player for local files, Navidrome, and online streaming services, featur…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "justinchuby",
+          "name": "Justin Chu",
+          "url": "https://github.com/justinchuby",
+          "featuredRepo": {
+            "name": "justinchuby/flightdeck",
+            "url": "https://github.com/justinchuby/flightdeck",
+            "description": "Your AI software engineering team"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "Yeraze",
+          "name": "Randall Hand",
+          "url": "https://github.com/Yeraze",
+          "featuredRepo": {
+            "name": "Yeraze/meshmonitor",
+            "url": "https://github.com/Yeraze/meshmonitor",
+            "description": "Web tool for monitoring Mesh Node Deployment over TCP/HTTP"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "sam-goodwin",
+          "name": "sam",
+          "url": "https://github.com/sam-goodwin",
+          "featuredRepo": {
+            "name": "sam-goodwin/zod-class",
+            "url": "https://github.com/sam-goodwin/zod-class",
+            "description": "Create a Class from a ZodObject schema in one line"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/ruflo",
+            "url": "https://github.com/ruvnet/ruflo",
+            "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI system…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "zts212653",
+          "name": "Lysander Su",
+          "url": "https://github.com/zts212653",
+          "featuredRepo": {
+            "name": "zts212653/clowder-ai",
+            "url": "https://github.com/zts212653/clowder-ai",
+            "description": "Build AI teams, not just agents. Hard rails, soft power, shared mission."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "ryansolid",
+          "name": "Ryan Carniato",
+          "url": "https://github.com/ryansolid",
+          "featuredRepo": {
+            "name": "ryansolid/reactivescript",
+            "url": "https://github.com/ryansolid/reactivescript",
+            "description": "Reactivity as a Language"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "lfnovo",
+          "name": "Luis Novo",
+          "url": "https://github.com/lfnovo",
+          "featuredRepo": {
+            "name": "lfnovo/open-notebook",
+            "url": "https://github.com/lfnovo/open-notebook",
+            "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "ersinkoc",
+          "name": "Ersin KOÇ",
+          "url": "https://github.com/ersinkoc",
+          "featuredRepo": {
+            "name": "ersinkoc/AI-Video-Factory",
+            "url": "https://github.com/ersinkoc/AI-Video-Factory",
+            "description": "AI video factory: from one topic to a finished, multilingual YouTube video. Claude agents write, plan, draw and review; a Studio keeps th…"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "mattzcarey",
+          "name": "Matt",
+          "url": "https://github.com/mattzcarey",
+          "featuredRepo": {
+            "name": "mattzcarey/shippie",
+            "url": "https://github.com/mattzcarey/shippie",
+            "description": "extendable code review and QA agent 🚢"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "perminder-klair",
+          "name": "Parminder Klair",
+          "url": "https://github.com/perminder-klair",
+          "featuredRepo": {
+            "name": "perminder-klair/subwave",
+            "url": "https://github.com/perminder-klair/subwave",
+            "description": "Personal internet radio: Agentic AI DJ"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "jtydhr88",
+          "name": "Terry Jia",
+          "url": "https://github.com/jtydhr88",
+          "featuredRepo": {
+            "name": "jtydhr88/ComfyArt",
+            "url": "https://github.com/jtydhr88/ComfyArt",
+            "description": "The open-source, fully local design canvas"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "dannote",
+          "name": "Danila Poyarkov",
+          "url": "https://github.com/dannote",
+          "featuredRepo": {
+            "name": "dannote/figma-use",
+            "url": "https://github.com/dannote/figma-use",
+            "description": "Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 1…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "mlightcad",
+          "name": "mlightcad",
+          "url": "https://github.com/mlightcad",
+          "featuredRepo": {
+            "name": "mlightcad/cad-viewer",
+            "url": "https://github.com/mlightcad/cad-viewer",
+            "description": "The world’s first fully web-based DXF/DWG viewer and editor that runs entirely in the browser — no backend server required."
+          }
+        }
+      ]
     }
   ],
   "best": [
@@ -861,8 +1144,8 @@
       "kind": "developer",
       "key": "elie222",
       "url": "https://github.com/elie222",
-      "bestRank": 4,
-      "scrapedAt": "2026-11-05T00:40:34.262Z",
+      "bestRank": 3,
+      "scrapedAt": "2026-11-05T18:25:30.676Z",
       "starsToday": null,
       "featuredRepo": "elie222/rakazo"
     }
