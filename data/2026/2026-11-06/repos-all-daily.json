@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-06",
+  "list": "repos",
+  "language": "all",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-11-06T00:40:12.824Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "NVIDIA/auto-ontology",
+          "url": "https://github.com/NVIDIA/auto-ontology",
+          "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+          "language": "Python",
+          "stars": 7307,
+          "forks": 580,
+          "starsToday": 2679,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 315209,
+          "forks": 26396,
+          "starsToday": 2071,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "language": "TypeScript",
+          "stars": 139931,
+          "forks": 20695,
+          "starsToday": 612,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "Usagi-org/ai-goofish-monitor",
+          "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+          "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+          "language": "Python",
+          "stars": 17518,
+          "forks": 2942,
+          "starsToday": 240,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+          "language": "Python",
+          "stars": 97963,
+          "forks": 10258,
+          "starsToday": 1655,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "vercel-labs/agent-desktop",
+          "url": "https://github.com/vercel-labs/agent-desktop",
+          "description": "Computer use CLI for AI agents",
+          "language": "Rust",
+          "stars": 16838,
+          "forks": 1189,
+          "starsToday": 2173,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "max-sixty/worktrunk",
+          "url": "https://github.com/max-sixty/worktrunk",
+          "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+          "language": "Rust",
+          "stars": 11509,
+          "forks": 439,
+          "starsToday": 546,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "lz4/lz4",
+          "url": "https://github.com/lz4/lz4",
+          "description": "Extremely Fast Compression algorithm",
+          "language": "C",
+          "stars": 12382,
+          "forks": 1634,
+          "starsToday": 23,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "google/skills",
+          "url": "https://github.com/google/skills",
+          "description": "Agent Skills for Google products and technologies",
+          "language": "Python",
+          "stars": 22366,
+          "forks": 1892,
+          "starsToday": 211,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "vercel-labs/agent-browser",
+          "url": "https://github.com/vercel-labs/agent-browser",
+          "description": "Browser automation CLI for AI agents",
+          "language": "Rust",
+          "stars": 45881,
+          "forks": 3148,
+          "starsToday": 150,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "scenario-labs/skills",
+          "url": "https://github.com/scenario-labs/skills",
+          "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+          "language": "Python",
+          "stars": 3053,
+          "forks": 269,
+          "starsToday": 667,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "ConardLi/garden-skills",
+          "url": "https://github.com/ConardLi/garden-skills",
+          "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+          "language": "JavaScript",
+          "stars": 14125,
+          "forks": 1647,
+          "starsToday": 175,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 55916,
+          "forks": 6290,
+          "starsToday": 223,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "floci-io/floci",
+          "url": "https://github.com/floci-io/floci",
+          "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+          "language": "Java",
+          "stars": 30401,
+          "forks": 3332,
+          "starsToday": 779,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 15,
+          "name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+          "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+          "description": null,
+          "language": "C#",
+          "stars": 7261,
+          "forks": 260,
+          "starsToday": 984,
+          "starsLabel": "today"
+        }
+      ]
+    }
+  ],
+  "best": []
+}
