@@ -3,6 +3,7 @@
   "issueNumber": 42,
   "notified": [
     "developers:typescript:elie222:10",
-    "repos:typescript:elie222/rakazo:12"
+    "repos:typescript:elie222/rakazo:12",
+    "developers:typescript:elie222:8"
   ]
 }
