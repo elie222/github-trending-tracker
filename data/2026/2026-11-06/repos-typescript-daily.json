@@ -307,6 +307,212 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-06T12:27:59.437Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "angular/angular",
+          "url": "https://github.com/angular/angular",
+          "description": "Deliver web apps with confidence 🚀",
+          "language": "TypeScript",
+          "stars": 101146,
+          "forks": 28905,
+          "starsToday": 128,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 194796,
+          "forks": 44404,
+          "starsToday": 295,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "solidjs/solid",
+          "url": "https://github.com/solidjs/solid",
+          "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+          "language": "TypeScript",
+          "stars": 36261,
+          "forks": 1150,
+          "starsToday": 139,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "tldraw/tldraw",
+          "url": "https://github.com/tldraw/tldraw",
+          "description": "Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.",
+          "language": "TypeScript",
+          "stars": 51299,
+          "forks": 3611,
+          "starsToday": 129,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "elder-plinius/T3MP3ST",
+          "url": "https://github.com/elder-plinius/T3MP3ST",
+          "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+          "language": "TypeScript",
+          "stars": 6921,
+          "forks": 1435,
+          "starsToday": 238,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "lobehub/lobehub",
+          "url": "https://github.com/lobehub/lobehub",
+          "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
+          "language": "TypeScript",
+          "stars": 84191,
+          "forks": 16097,
+          "starsToday": 184,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "description": "An open source design system that's fully customizable and agent ready",
+          "language": "TypeScript",
+          "stars": 14030,
+          "forks": 1165,
+          "starsToday": 181,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "ParadevAI/Paradev",
+          "url": "https://github.com/ParadevAI/Paradev",
+          "description": "Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions.",
+          "language": "TypeScript",
+          "stars": 16014,
+          "forks": 1432,
+          "starsToday": 62,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "withastro/astro",
+          "url": "https://github.com/withastro/astro",
+          "description": "The web framework for content-driven websites.",
+          "language": "TypeScript",
+          "stars": 63773,
+          "forks": 3913,
+          "starsToday": 39,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "vitejs/vite",
+          "url": "https://github.com/vitejs/vite",
+          "description": "Next generation frontend tooling. It's fast!",
+          "language": "TypeScript",
+          "stars": 83775,
+          "forks": 9215,
+          "starsToday": 88,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "appsmithorg/appsmith",
+          "url": "https://github.com/appsmithorg/appsmith",
+          "description": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",
+          "language": "TypeScript",
+          "stars": 41172,
+          "forks": 4827,
+          "starsToday": 7,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "vuejs/vue",
+          "url": "https://github.com/vuejs/vue",
+          "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
+          "language": "TypeScript",
+          "stars": 212521,
+          "forks": 33776,
+          "starsToday": 117,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "melgarafael/DeskcommCRM",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+          "language": "TypeScript",
+          "stars": 5208,
+          "forks": 1484,
+          "starsToday": 47,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "novuhq/novu",
+          "url": "https://github.com/novuhq/novu",
+          "description": "The open-source communication infrastructure for agents and products",
+          "language": "TypeScript",
+          "stars": 40294,
+          "forks": 4525,
+          "starsToday": 22,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 15,
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
+          "language": "TypeScript",
+          "stars": 117284,
+          "forks": 7433,
+          "starsToday": 1199,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 16,
+          "name": "southleft/figma-console-mcp",
+          "url": "https://github.com/southleft/figma-console-mcp",
+          "description": "Your design system as an API. Connect AI to Figma for extraction, creation, and debugging.",
+          "language": "TypeScript",
+          "stars": 3160,
+          "forks": 287,
+          "starsToday": 179,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 17,
+          "name": "ueberdosis/tiptap",
+          "url": "https://github.com/ueberdosis/tiptap",
+          "description": "The headless rich text editor framework for web artisans.",
+          "language": "TypeScript",
+          "stars": 38976,
+          "forks": 3197,
+          "starsToday": 16,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 18,
+          "name": "tailwindlabs/tailwindcss",
+          "url": "https://github.com/tailwindlabs/tailwindcss",
+          "description": "A utility-first CSS framework for rapid UI development.",
+          "language": "TypeScript",
+          "stars": 98102,
+          "forks": 7077,
+          "starsToday": 145,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": [
