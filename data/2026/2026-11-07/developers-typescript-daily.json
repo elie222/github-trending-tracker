@@ -288,6 +288,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-07T06:27:40.530Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "pl4nty",
+          "name": "Tom Plant",
+          "url": "https://github.com/pl4nty",
+          "featuredRepo": {
+            "name": "pl4nty/winget-extras",
+            "url": "https://github.com/pl4nty/winget-extras",
+            "description": "A WinGet source for extra packages"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "code-yeongyu",
+          "name": "YeonGyu-Kim",
+          "url": "https://github.com/code-yeongyu",
+          "featuredRepo": {
+            "name": "code-yeongyu/oh-my-openagent",
+            "url": "https://github.com/code-yeongyu/oh-my-openagent",
+            "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "ranxianglei",
+          "name": "ranxianglei",
+          "url": "https://github.com/ranxianglei",
+          "featuredRepo": {
+            "name": "ranxianglei/billion-context",
+            "url": "https://github.com/ranxianglei/billion-context",
+            "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and to…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "cristianoc",
+          "name": "Cristiano Calcagno",
+          "url": "https://github.com/cristianoc",
+          "featuredRepo": {
+            "name": "cristianoc/TScert",
+            "url": "https://github.com/cristianoc/TScert",
+            "description": "TScert: a sound core for TypeScript. An independent checker, whose soundness is proved in Lean, accepts a TypeScript function only with a…"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "RobinMalfait",
+          "name": "Robin Malfait",
+          "url": "https://github.com/RobinMalfait",
+          "featuredRepo": {
+            "name": "RobinMalfait/simple-invoice",
+            "url": "https://github.com/RobinMalfait/simple-invoice",
+            "description": "Small simple invoice generator"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "coleam00",
+          "name": "Cole Medin",
+          "url": "https://github.com/coleam00",
+          "featuredRepo": {
+            "name": "coleam00/Archon",
+            "url": "https://github.com/coleam00/Archon",
+            "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "Rich-Harris",
+          "name": "Rich Harris",
+          "url": "https://github.com/Rich-Harris",
+          "featuredRepo": {
+            "name": "Rich-Harris/degit",
+            "url": "https://github.com/Rich-Harris/degit",
+            "description": "Straightforward project scaffolding"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "serenakeyitan",
+          "name": "Serena",
+          "url": "https://github.com/serenakeyitan",
+          "featuredRepo": {
+            "name": "serenakeyitan/agent-org-chart",
+            "url": "https://github.com/serenakeyitan/agent-org-chart",
+            "description": "Awesome catalog of portable agent org charts — pick one, paste to your grokbot/dots/etc, spawn the team. Platform-agnostic."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "zts212653",
+          "name": "Lysander Su",
+          "url": "https://github.com/zts212653",
+          "featuredRepo": {
+            "name": "zts212653/clowder-ai",
+            "url": "https://github.com/zts212653/clowder-ai",
+            "description": "Build AI teams, not just agents. Hard rails, soft power, shared mission."
+          }
+        },
+        {
+          "rank": 13,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "cliffhall",
+          "name": "Cliff Hall",
+          "url": "https://github.com/cliffhall",
+          "featuredRepo": {
+            "name": "cliffhall/puzzlebox",
+            "url": "https://github.com/cliffhall/puzzlebox",
+            "description": "An MCP server that hosts finite state machines as dynamic resources that multiple clients can subscribe to and be updated when their stat…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "kunickiaj",
+          "name": "Adam Kunicki",
+          "url": "https://github.com/kunickiaj",
+          "featuredRepo": {
+            "name": "kunickiaj/codemem",
+            "url": "https://github.com/kunickiaj/codemem",
+            "description": "A lightweight persistent-memory companion for OpenCode & Claude"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "mantrakp04",
+          "name": "Mantra",
+          "url": "https://github.com/mantrakp04",
+          "featuredRepo": {
+            "name": "mantrakp04/ardia",
+            "url": "https://github.com/mantrakp04/ardia",
+            "description": "A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "zereight",
+          "name": "zereight",
+          "url": "https://github.com/zereight",
+          "featuredRepo": {
+            "name": "zereight/gitlab-mcp",
+            "url": "https://github.com/zereight/gitlab-mcp",
+            "description": "MCP server for GitLab: 277 tools for projects, MRs, issues, pipelines, wikis and more via the GitLab REST/GraphQL API"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "bowenliang123",
+          "name": "Bowen Liang",
+          "url": "https://github.com/bowenliang123",
+          "featuredRepo": {
+            "name": "bowenliang123/dsh-context",
+            "url": "https://github.com/bowenliang123/dsh-context",
+            "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for …"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "zsviczian",
+          "name": "zsviczian",
+          "url": "https://github.com/zsviczian",
+          "featuredRepo": {
+            "name": "zsviczian/obsidian-excalidraw-plugin",
+            "url": "https://github.com/zsviczian/obsidian-excalidraw-plugin",
+            "description": "A plugin to edit and view Excalidraw drawings in Obsidian"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "ianstormtaylor",
+          "name": "Ian Storm Taylor",
+          "url": "https://github.com/ianstormtaylor",
+          "featuredRepo": {
+            "name": "ianstormtaylor/slate",
+            "url": "https://github.com/ianstormtaylor/slate",
+            "description": "A completely customizable framework for building rich text editors. (Currently in beta.)"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "l0ng-ai",
+          "name": "l0ng-ai",
+          "url": "https://github.com/l0ng-ai",
+          "featuredRepo": {
+            "name": "l0ng-ai/openidea",
+            "url": "https://github.com/l0ng-ai/openidea",
+            "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insi…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "aaronjmars",
+          "name": "Aaron Elijah Mars",
+          "url": "https://github.com/aaronjmars",
+          "featuredRepo": {
+            "name": "aaronjmars/web3-research-mcp",
+            "url": "https://github.com/aaronjmars/web3-research-mcp",
+            "description": "Local MCP server for deep crypto token research across CoinGecko, DeFiLlama and web search. Free, no API key."
+          }
+        }
+      ]
     }
   ],
   "best": [
