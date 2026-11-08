@@ -222,6 +222,223 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-08T06:28:34.549Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "description": "An open source design system that's fully customizable and agent ready",
+          "language": "TypeScript",
+          "stars": 14750,
+          "forks": 1210,
+          "starsToday": 96,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+          "language": "TypeScript",
+          "stars": 17291,
+          "forks": 2439,
+          "starsToday": 1955,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "tailwindlabs/tailwindcss",
+          "url": "https://github.com/tailwindlabs/tailwindcss",
+          "description": "A utility-first CSS framework for rapid UI development.",
+          "language": "TypeScript",
+          "stars": 98568,
+          "forks": 7118,
+          "starsToday": 122,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+          "language": "TypeScript",
+          "stars": 4722,
+          "forks": 379,
+          "starsToday": 191,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "chaitin/MonkeyCode",
+          "url": "https://github.com/chaitin/MonkeyCode",
+          "description": "企业级 AI 办公工作台",
+          "language": "TypeScript",
+          "stars": 5092,
+          "forks": 766,
+          "starsToday": 23,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "awslabs/aidlc-workflows",
+          "url": "https://github.com/awslabs/aidlc-workflows",
+          "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
+          "language": "TypeScript",
+          "stars": 5938,
+          "forks": 1059,
+          "starsToday": 51,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "Unleash/unleash",
+          "url": "https://github.com/Unleash/unleash",
+          "description": "Open-source feature management platform",
+          "language": "TypeScript",
+          "stars": 14195,
+          "forks": 929,
+          "starsToday": 183,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
+          "language": "TypeScript",
+          "stars": 118747,
+          "forks": 7539,
+          "starsToday": 931,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "language": "TypeScript",
+          "stars": 140687,
+          "forks": 20772,
+          "starsToday": 280,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "elder-plinius/T3MP3ST",
+          "url": "https://github.com/elder-plinius/T3MP3ST",
+          "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+          "language": "TypeScript",
+          "stars": 6980,
+          "forks": 1447,
+          "starsToday": 38,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "lobehub/lobehub",
+          "url": "https://github.com/lobehub/lobehub",
+          "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
+          "language": "TypeScript",
+          "stars": 84358,
+          "forks": 16136,
+          "starsToday": 98,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "language": "TypeScript",
+          "stars": 154929,
+          "forks": 25605,
+          "starsToday": 129,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "cheaper-inference/OmniRoute",
+          "url": "https://github.com/cheaper-inference/OmniRoute",
+          "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
+          "language": "TypeScript",
+          "stars": 85504,
+          "forks": 12932,
+          "starsToday": 322,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 441612,
+          "forks": 109241,
+          "starsToday": 3286,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 15,
+          "name": "angular/angular",
+          "url": "https://github.com/angular/angular",
+          "description": "Deliver web apps with confidence 🚀",
+          "language": "TypeScript",
+          "stars": 101466,
+          "forks": 28928,
+          "starsToday": 305,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 16,
+          "name": "Marker-Inc-Korea/AutoRAG",
+          "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+          "description": "Your Personal Librarian Agent. Ask anything on your computer, organize files, remember important info and files.",
+          "language": "TypeScript",
+          "stars": 5406,
+          "forks": 486,
+          "starsToday": 25,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 17,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 195159,
+          "forks": 44443,
+          "starsToday": 325,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 18,
+          "name": "actions/checkout",
+          "url": "https://github.com/actions/checkout",
+          "description": "Action for checking out a repo",
+          "language": "TypeScript",
+          "stars": 9009,
+          "forks": 2745,
+          "starsToday": 4,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 19,
+          "name": "Fission-AI/OpenSpec",
+          "url": "https://github.com/Fission-AI/OpenSpec",
+          "description": "Spec-driven development (SDD) for AI coding assistants.",
+          "language": "TypeScript",
+          "stars": 74242,
+          "forks": 5094,
+          "starsToday": 82,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []
