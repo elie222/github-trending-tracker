@@ -112,6 +112,113 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-09T06:39:36.428Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "sherlock-project/sherlock",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "description": "Hunt down social media accounts by username across social networks",
+          "language": "Python",
+          "stars": 104746,
+          "forks": 12212,
+          "starsToday": 2373,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "dsx-ai-factory/nvke",
+          "url": "https://github.com/dsx-ai-factory/nvke",
+          "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+          "language": "Go",
+          "stars": 938,
+          "forks": 113,
+          "starsToday": 345,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+          "language": "TypeScript",
+          "stars": 18754,
+          "forks": 2584,
+          "starsToday": 1439,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/claude-quickstarts",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+          "language": "Python",
+          "stars": 19596,
+          "forks": 3286,
+          "starsToday": 32,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "vercel-labs/agent-browser",
+          "url": "https://github.com/vercel-labs/agent-browser",
+          "description": "Browser automation CLI for AI agents",
+          "language": "Rust",
+          "stars": 47888,
+          "forks": 3270,
+          "starsToday": 815,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "description": "An open source design system that's fully customizable and agent ready",
+          "language": "TypeScript",
+          "stars": 17630,
+          "forks": 1383,
+          "starsToday": 875,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 189923,
+          "forks": 22374,
+          "starsToday": 792,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "google-deepmind/mujoco",
+          "url": "https://github.com/google-deepmind/mujoco",
+          "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+          "language": "C++",
+          "stars": 16572,
+          "forks": 1960,
+          "starsToday": 41,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+          "language": "TypeScript",
+          "stars": 5388,
+          "forks": 416,
+          "starsToday": 460,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []

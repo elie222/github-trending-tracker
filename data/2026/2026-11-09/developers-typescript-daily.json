@@ -288,6 +288,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-09T06:39:36.428Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "pl4nty",
+          "name": "Tom Plant",
+          "url": "https://github.com/pl4nty",
+          "featuredRepo": {
+            "name": "pl4nty/winget-extras",
+            "url": "https://github.com/pl4nty/winget-extras",
+            "description": "A WinGet source for extra packages"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "ranxianglei",
+          "name": "ranxianglei",
+          "url": "https://github.com/ranxianglei",
+          "featuredRepo": {
+            "name": "ranxianglei/billion-context",
+            "url": "https://github.com/ranxianglei/billion-context",
+            "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and to…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "mantrakp04",
+          "name": "Mantra",
+          "url": "https://github.com/mantrakp04",
+          "featuredRepo": {
+            "name": "mantrakp04/ardia",
+            "url": "https://github.com/mantrakp04/ardia",
+            "description": "A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 5,
+          "username": "zts212653",
+          "name": "Lysander Su",
+          "url": "https://github.com/zts212653",
+          "featuredRepo": {
+            "name": "zts212653/clowder-ai",
+            "url": "https://github.com/zts212653/clowder-ai",
+            "description": "Build AI teams, not just agents. Hard rails, soft power, shared mission."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "benvinegar",
+          "name": "Ben Vinegar",
+          "url": "https://github.com/benvinegar",
+          "featuredRepo": {
+            "name": "benvinegar/counterscale",
+            "url": "https://github.com/benvinegar/counterscale",
+            "description": "Scalable web analytics you run yourself on Cloudflare"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "code-yeongyu",
+          "name": "YeonGyu-Kim",
+          "url": "https://github.com/code-yeongyu",
+          "featuredRepo": {
+            "name": "code-yeongyu/oh-my-openagent",
+            "url": "https://github.com/code-yeongyu/oh-my-openagent",
+            "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "w3cj",
+          "name": "CJ",
+          "url": "https://github.com/w3cj",
+          "featuredRepo": {
+            "name": "w3cj/how-llms-work",
+            "url": "https://github.com/w3cj/how-llms-work",
+            "description": "An interactive app that walks through every stage of the LLM pipeline, from pattern matching to training a transformer from scratch, with…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "DanWahlin",
+          "name": "Dan Wahlin",
+          "url": "https://github.com/DanWahlin",
+          "featuredRepo": {
+            "name": "DanWahlin/agent-buddy",
+            "url": "https://github.com/DanWahlin/agent-buddy",
+            "description": "An agent buddy that can run on an ESP32 device or on your desktop!"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "ersinkoc",
+          "name": "Ersin KOÇ",
+          "url": "https://github.com/ersinkoc",
+          "featuredRepo": {
+            "name": "ersinkoc/AI-Video-Factory",
+            "url": "https://github.com/ersinkoc/AI-Video-Factory",
+            "description": "AI video factory: from one topic to a finished, multilingual YouTube video. Claude agents write, plan, draw and review; a Studio keeps th…"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "adamdotdevin",
+          "name": "Adam",
+          "url": "https://github.com/adamdotdevin",
+          "featuredRepo": {
+            "name": "adamdotdevin/opensend",
+            "url": "https://github.com/adamdotdevin/opensend",
+            "description": "self-hosted transactional & marketing email layer on top of aws ses"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "Frankie-Xu",
+          "name": "Frankie-Xu",
+          "url": "https://github.com/Frankie-Xu",
+          "featuredRepo": {
+            "name": "Frankie-Xu/threadport",
+            "url": "https://github.com/Frankie-Xu/threadport",
+            "description": "Portable, verifiable work state for coding agents"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "kgoedecke",
+          "name": "Kevin Goedecke",
+          "url": "https://github.com/kgoedecke",
+          "featuredRepo": {
+            "name": "kgoedecke/doop",
+            "url": "https://github.com/kgoedecke/doop",
+            "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "can1357",
+          "name": "Can Bölük",
+          "url": "https://github.com/can1357",
+          "featuredRepo": {
+            "name": "can1357/oh-my-pi",
+            "url": "https://github.com/can1357/oh-my-pi",
+            "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "Arachnid",
+          "name": "Nick Johnson",
+          "url": "https://github.com/Arachnid",
+          "featuredRepo": {
+            "name": "Arachnid/deterministic-deployment-proxy",
+            "url": "https://github.com/Arachnid/deterministic-deployment-proxy",
+            "description": "An Ethereum proxy contract that can be used for deploying contracts to a deterministic address on any chain."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "cv",
+          "name": "Carlos Villela",
+          "url": "https://github.com/cv",
+          "featuredRepo": {
+            "name": "cv/pit",
+            "url": "https://github.com/cv/pit",
+            "description": "Give Pi one typed tool instead of a toolbox."
+          }
+        },
+        {
+          "rank": 23,
+          "username": "vjeux",
+          "name": "Christopher Chedeau",
+          "url": "https://github.com/vjeux",
+          "featuredRepo": {
+            "name": "vjeux/mediabunny",
+            "url": "https://github.com/vjeux/mediabunny",
+            "description": "Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "vastsa",
+          "name": "Lan",
+          "url": "https://github.com/vastsa",
+          "featuredRepo": {
+            "name": "vastsa/PI-Desktop",
+            "url": "https://github.com/vastsa/PI-Desktop",
+            "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        }
+      ]
     }
   ],
   "best": [
