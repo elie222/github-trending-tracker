@@ -373,6 +373,179 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-09T12:27:54.480Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "description": "An open source design system that's fully customizable and agent ready",
+          "language": "TypeScript",
+          "stars": 18384,
+          "forks": 1426,
+          "starsToday": 3324,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "garrytan/gbrain",
+          "url": "https://github.com/garrytan/gbrain",
+          "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+          "language": "TypeScript",
+          "stars": 31862,
+          "forks": 4746,
+          "starsToday": 215,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+          "language": "TypeScript",
+          "stars": 19192,
+          "forks": 2643,
+          "starsToday": 1589,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+          "language": "TypeScript",
+          "stars": 5598,
+          "forks": 425,
+          "starsToday": 764,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "kortix-ai/CompanyOS",
+          "url": "https://github.com/kortix-ai/CompanyOS",
+          "description": "Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours.",
+          "language": "TypeScript",
+          "stars": 20589,
+          "forks": 3465,
+          "starsToday": 72,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 97886,
+          "forks": 9763,
+          "starsToday": 201,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "vercel-labs/json-render",
+          "url": "https://github.com/vercel-labs/json-render",
+          "description": "The Generative UI framework",
+          "language": "TypeScript",
+          "stars": 19482,
+          "forks": 1032,
+          "starsToday": 149,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "elie222/rakazo",
+          "url": "https://github.com/elie222/rakazo",
+          "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+          "language": "TypeScript",
+          "stars": 7637,
+          "forks": 1373,
+          "starsToday": 107,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "CodebuffAI/freebuff",
+          "url": "https://github.com/CodebuffAI/freebuff",
+          "description": "The free coding agent",
+          "language": "TypeScript",
+          "stars": 14058,
+          "forks": 1508,
+          "starsToday": 37,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+          "language": "TypeScript",
+          "stars": 9931,
+          "forks": 752,
+          "starsToday": 39,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "virattt/dexter",
+          "url": "https://github.com/virattt/dexter",
+          "description": "An autonomous agent for deep financial research",
+          "language": "TypeScript",
+          "stars": 27802,
+          "forks": 3428,
+          "starsToday": 21,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "basketikun/infinite-canvas",
+          "url": "https://github.com/basketikun/infinite-canvas",
+          "description": "面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。",
+          "language": "TypeScript",
+          "stars": 10103,
+          "forks": 2353,
+          "starsToday": 132,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "opengeos/GeoLibre",
+          "url": "https://github.com/opengeos/GeoLibre",
+          "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+          "language": "TypeScript",
+          "stars": 8506,
+          "forks": 954,
+          "starsToday": 66,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "snarktank/ralph",
+          "url": "https://github.com/snarktank/ralph",
+          "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
+          "language": "TypeScript",
+          "stars": 22181,
+          "forks": 2110,
+          "starsToday": 18,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 15,
+          "name": "mantrakp04/ardia",
+          "url": "https://github.com/mantrakp04/ardia",
+          "description": "A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6",
+          "language": "TypeScript",
+          "stars": 1536,
+          "forks": 158,
+          "starsToday": 85,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": [

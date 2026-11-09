@@ -34,7 +34,7 @@ UTC day **2026-11-09**.
 | --- | --- |
 | TypeScript developers (daily) | **#9** elie222 · elie222/rakazo |
 | all languages developers (daily) | not listed |
-| TypeScript repositories (daily) | **#7** elie222/rakazo |
+| TypeScript repositories (daily) | **#7** elie222/rakazo · latest scrape #8 |
 | all languages repositories (daily) | not listed |
 
 | Name | List | Days listed | Days #1 | Days top 10 | Best | Current on-list streak | Longest on-list streak | Current #1 streak | Longest #1 streak |

@@ -219,6 +219,135 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-09T12:27:54.480Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 190180,
+          "forks": 22391,
+          "starsToday": 1052,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "description": "An open source design system that's fully customizable and agent ready",
+          "language": "TypeScript",
+          "stars": 18385,
+          "forks": 1426,
+          "starsToday": 3324,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "sherlock-project/sherlock",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "description": "Hunt down social media accounts by username across social networks",
+          "language": "Python",
+          "stars": 105945,
+          "forks": 12307,
+          "starsToday": 4294,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "google-deepmind/mujoco",
+          "url": "https://github.com/google-deepmind/mujoco",
+          "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+          "language": "C++",
+          "stars": 16715,
+          "forks": 1969,
+          "starsToday": 579,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/claude-quickstarts",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+          "language": "Python",
+          "stars": 19730,
+          "forks": 3294,
+          "starsToday": 560,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "garrytan/gbrain",
+          "url": "https://github.com/garrytan/gbrain",
+          "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+          "language": "TypeScript",
+          "stars": 31862,
+          "forks": 4746,
+          "starsToday": 215,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "vercel-labs/agent-browser",
+          "url": "https://github.com/vercel-labs/agent-browser",
+          "description": "Browser automation CLI for AI agents",
+          "language": "Rust",
+          "stars": 48126,
+          "forks": 3286,
+          "starsToday": 914,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+          "language": "Rust",
+          "stars": 103155,
+          "forks": 13386,
+          "starsToday": 203,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+          "language": "Python",
+          "stars": 68461,
+          "forks": 56311,
+          "starsToday": 505,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "homeassistant-ai/ha-mcp",
+          "url": "https://github.com/homeassistant-ai/ha-mcp",
+          "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+          "language": "Python",
+          "stars": 5555,
+          "forks": 273,
+          "starsToday": 31,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+          "language": "TypeScript",
+          "stars": 19193,
+          "forks": 2643,
+          "starsToday": 1589,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []

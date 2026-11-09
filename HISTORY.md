@@ -14,7 +14,7 @@ UTC day **2026-11-09**.
 | --- | --- |
 | TypeScript developers (daily) | **#9** elie222 · elie222/rakazo |
 | all languages developers (daily) | not listed |
-| TypeScript repositories (daily) | **#7** elie222/rakazo |
+| TypeScript repositories (daily) | **#7** elie222/rakazo · latest scrape #8 |
 | all languages repositories (daily) | not listed |
 
 ## Totals
@@ -825,8 +825,8 @@ These periods are scraped and stored, but they are not part of the daily totals,
 | --- | --- | --- | --- |
 | TypeScript developers (weekly) | elie222 | 2026-11-09 | #9 |
 | all languages developers (weekly) | elie222 | 2026-11-09 | #25 |
-| TypeScript repositories (weekly) | elie222/rakazo | 2026-10-29 | #18 |
+| TypeScript repositories (weekly) | elie222/rakazo | 2026-11-09 | #17 |
 | all languages repositories (weekly) | elie222/rakazo | 2026-10-24 | #15 |
 | TypeScript developers (monthly) | elie222 | 2026-11-09 | #8 |
 | all languages developers (monthly) | elie222 | 2026-11-09 | #22 |
-| TypeScript repositories (monthly) | elie222/rakazo | 2026-11-09 | #22 |
+| TypeScript repositories (monthly) | elie222/rakazo | 2026-11-09 | #17 |

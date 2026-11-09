@@ -531,6 +531,269 @@
           "featuredRepo": null
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-09T12:27:54.480Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "pl4nty",
+          "name": "Tom Plant",
+          "url": "https://github.com/pl4nty",
+          "featuredRepo": {
+            "name": "pl4nty/winget-extras",
+            "url": "https://github.com/pl4nty/winget-extras",
+            "description": "A WinGet source for extra packages"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "ranxianglei",
+          "name": "ranxianglei",
+          "url": "https://github.com/ranxianglei",
+          "featuredRepo": {
+            "name": "ranxianglei/billion-context",
+            "url": "https://github.com/ranxianglei/billion-context",
+            "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and to…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "mantrakp04",
+          "name": "Mantra",
+          "url": "https://github.com/mantrakp04",
+          "featuredRepo": {
+            "name": "mantrakp04/ardia",
+            "url": "https://github.com/mantrakp04/ardia",
+            "description": "A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "Gaurav-Gosain",
+          "name": "Gaurav Gosain",
+          "url": "https://github.com/Gaurav-Gosain",
+          "featuredRepo": {
+            "name": "Gaurav-Gosain/tuios",
+            "url": "https://github.com/Gaurav-Gosain/tuios",
+            "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox …"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "derekross",
+          "name": "Derek Ross",
+          "url": "https://github.com/derekross",
+          "featuredRepo": {
+            "name": "derekross/omarchy-mobile",
+            "url": "https://github.com/derekross/omarchy-mobile",
+            "description": "Omarchy Mobile: native Omarchy on mobile phones. Arch Linux ARM, Hyprland and Omarchy on a mainline kernel (work in progress)"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "tanish2k09",
+          "name": "Tanish Manku",
+          "url": "https://github.com/tanish2k09",
+          "featuredRepo": {
+            "name": "tanish2k09/KLapse-Livedisplay",
+            "url": "https://github.com/tanish2k09/KLapse-Livedisplay",
+            "description": "A simple rgb dynamic lapsing module similar to LineageOS's livedisplay"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "fzn0x",
+          "name": "f (x)",
+          "url": "https://github.com/fzn0x",
+          "featuredRepo": {
+            "name": "fzn0x/mixmusic",
+            "url": "https://github.com/fzn0x/mixmusic",
+            "description": "MixMusic is a native desktop player for YouTube Music and Spotify on macOS, Windows and Linux with Community Themes and Plugins. iOS and …"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "xXJSONDeruloXx",
+          "name": "Kurt Himebauch",
+          "url": "https://github.com/xXJSONDeruloXx",
+          "featuredRepo": {
+            "name": "xXJSONDeruloXx/Decky-Framegen",
+            "url": "https://github.com/xXJSONDeruloXx/Decky-Framegen",
+            "description": "Steam Deck Plugin to apply Optiscaler upscaling and frame gen mods in game mode"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "maziyarpanahi",
+          "name": "Maziyar Panahi",
+          "url": "https://github.com/maziyarpanahi",
+          "featuredRepo": {
+            "name": "maziyarpanahi/openmed",
+            "url": "https://github.com/maziyarpanahi/openmed",
+            "description": "Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed P…"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "amir20",
+          "name": "Amir Raminfar",
+          "url": "https://github.com/amir20",
+          "featuredRepo": {
+            "name": "amir20/dozzle",
+            "url": "https://github.com/amir20/dozzle",
+            "description": "Realtime log viewer for containers. Supports Docker, Swarm and K8s."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "zts212653",
+          "name": "Lysander Su",
+          "url": "https://github.com/zts212653",
+          "featuredRepo": {
+            "name": "zts212653/clowder-ai",
+            "url": "https://github.com/zts212653/clowder-ai",
+            "description": "Build AI teams, not just agents. Hard rails, soft power, shared mission."
+          }
+        },
+        {
+          "rank": 13,
+          "username": "cixzhang",
+          "name": "Cindy Zhang",
+          "url": "https://github.com/cixzhang",
+          "featuredRepo": null
+        },
+        {
+          "rank": 14,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "kixelated",
+          "name": "Luke Curley",
+          "url": "https://github.com/kixelated",
+          "featuredRepo": null
+        },
+        {
+          "rank": 16,
+          "username": "LIghtJUNction",
+          "name": "LIghtJUNction",
+          "url": "https://github.com/LIghtJUNction",
+          "featuredRepo": {
+            "name": "LIghtJUNction/MagicNet",
+            "url": "https://github.com/LIghtJUNction/MagicNet",
+            "description": "Consciously set all groups to block"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "joshka",
+          "name": "Josh McKinney",
+          "url": "https://github.com/joshka",
+          "featuredRepo": {
+            "name": "joshka/ratatui-github-badge",
+            "url": "https://github.com/joshka/ratatui-github-badge",
+            "description": "Ratatui on the GitHub Universe 2026 badge (RP2350): Rust firmware drawing every pixel as terminal cells via Mousefood"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "RobinMalfait",
+          "name": "Robin Malfait",
+          "url": "https://github.com/RobinMalfait",
+          "featuredRepo": {
+            "name": "RobinMalfait/RobinMalfait",
+            "url": "https://github.com/RobinMalfait/RobinMalfait",
+            "description": null
+          }
+        },
+        {
+          "rank": 19,
+          "username": "wuwentao",
+          "name": "Hello World",
+          "url": "https://github.com/wuwentao",
+          "featuredRepo": {
+            "name": "wuwentao/midea_ac_lan",
+            "url": "https://github.com/wuwentao/midea_ac_lan",
+            "description": "Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "cramforce",
+          "name": "Malte Ubl",
+          "url": "https://github.com/cramforce",
+          "featuredRepo": null
+        },
+        {
+          "rank": 21,
+          "username": "jamiepine",
+          "name": "Jamie Pine",
+          "url": "https://github.com/jamiepine",
+          "featuredRepo": {
+            "name": "jamiepine/voicebox",
+            "url": "https://github.com/jamiepine/voicebox",
+            "description": "The open-source AI voice studio. Clone, dictate, create."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "Cassiiopeia",
+          "name": "SUH SAECHAN",
+          "url": "https://github.com/Cassiiopeia",
+          "featuredRepo": null
+        },
+        {
+          "rank": 23,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "muellerberndt",
+          "name": "Bernhard Mueller",
+          "url": "https://github.com/muellerberndt",
+          "featuredRepo": {
+            "name": "muellerberndt/cadence",
+            "url": "https://github.com/muellerberndt/cadence",
+            "description": "A brain that learns from live experience. System 1 by default: perception, memory, plasticity and action. Optional System 2 for self-obse…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "EliSchleifer",
+          "name": "Eli Schleifer",
+          "url": "https://github.com/EliSchleifer",
+          "featuredRepo": null
+        }
+      ]
     }
   ],
   "best": []
