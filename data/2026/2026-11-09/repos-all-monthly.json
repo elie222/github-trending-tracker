@@ -436,6 +436,157 @@
           "starsLabel": "this month"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-09T18:24:16.634Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=monthly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 446297,
+          "forks": 110138,
+          "starsToday": 425123,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 2,
+          "name": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "language": "CSS",
+          "stars": 51628,
+          "forks": 2746,
+          "starsToday": 21146,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 3,
+          "name": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "language": "JavaScript",
+          "stars": 67776,
+          "forks": 4438,
+          "starsToday": 40289,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 4,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 53756,
+          "forks": 10139,
+          "starsToday": 25840,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 5,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 81550,
+          "forks": 7528,
+          "starsToday": 22360,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 6,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 115310,
+          "forks": 10014,
+          "starsToday": 17296,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 7,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "language": "Python",
+          "stars": 105909,
+          "forks": 11769,
+          "starsToday": 50169,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+          "language": "Python",
+          "stars": 57539,
+          "forks": 7016,
+          "starsToday": 16065,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 9,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+          "language": "Rust",
+          "stars": 106725,
+          "forks": 6341,
+          "starsToday": 28008,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 10,
+          "name": "storytold/artcraft",
+          "url": "https://github.com/storytold/artcraft",
+          "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+          "language": "Rust",
+          "stars": 40198,
+          "forks": 6268,
+          "starsToday": 33780,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 11,
+          "name": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "description": "Ghidra is a software reverse engineering (SRE) framework",
+          "language": "Java",
+          "stars": 99035,
+          "forks": 11242,
+          "starsToday": 17344,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 12,
+          "name": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+          "language": "C++",
+          "stars": 52561,
+          "forks": 4990,
+          "starsToday": 39354,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 13,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars": 46596,
+          "forks": 4856,
+          "starsToday": 9152,
+          "starsLabel": "this month"
+        }
+      ]
     }
   ],
   "best": []
