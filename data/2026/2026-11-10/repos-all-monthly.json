@@ -307,6 +307,168 @@
           "starsLabel": "this month"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-10T12:36:30.759Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=monthly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 448661,
+          "forks": 110565,
+          "starsToday": 413718,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 2,
+          "name": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "language": "CSS",
+          "stars": 52164,
+          "forks": 2777,
+          "starsToday": 21862,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 3,
+          "name": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "language": "JavaScript",
+          "stars": 68618,
+          "forks": 4519,
+          "starsToday": 40994,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 4,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 55023,
+          "forks": 10268,
+          "starsToday": 26993,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 5,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 115624,
+          "forks": 10038,
+          "starsToday": 17008,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 6,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 82017,
+          "forks": 7580,
+          "starsToday": 22344,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 7,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+          "language": "Python",
+          "stars": 57837,
+          "forks": 7047,
+          "starsToday": 16710,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 8,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "language": "Python",
+          "stars": 106780,
+          "forks": 11838,
+          "starsToday": 50585,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 9,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+          "language": "Rust",
+          "stars": 107240,
+          "forks": 6369,
+          "starsToday": 28285,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars": 46704,
+          "forks": 4861,
+          "starsToday": 9215,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 11,
+          "name": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "description": "Ghidra is a software reverse engineering (SRE) framework",
+          "language": "Java",
+          "stars": 99232,
+          "forks": 11270,
+          "starsToday": 17387,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 12,
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+          "language": "TypeScript",
+          "stars": 5975,
+          "forks": 449,
+          "starsToday": 5243,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 13,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 35305,
+          "forks": 3914,
+          "starsToday": 7322,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 14,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 49963,
+          "forks": 6922,
+          "starsToday": 17544,
+          "starsLabel": "this month"
+        }
+      ]
     }
   ],
   "best": []

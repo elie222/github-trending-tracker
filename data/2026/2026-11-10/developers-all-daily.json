@@ -555,6 +555,281 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-10T12:36:30.759Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "pl4nty",
+          "name": "Tom Plant",
+          "url": "https://github.com/pl4nty",
+          "featuredRepo": {
+            "name": "pl4nty/winget-extras",
+            "url": "https://github.com/pl4nty/winget-extras",
+            "description": "A WinGet source for extra packages"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "mantrakp04",
+          "name": "Mantra",
+          "url": "https://github.com/mantrakp04",
+          "featuredRepo": {
+            "name": "mantrakp04/ardia",
+            "url": "https://github.com/mantrakp04/ardia",
+            "description": "A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "fzn0x",
+          "name": "f (x)",
+          "url": "https://github.com/fzn0x",
+          "featuredRepo": {
+            "name": "fzn0x/mixmusic",
+            "url": "https://github.com/fzn0x/mixmusic",
+            "description": "MixMusic is a native desktop player for YouTube Music and Spotify on macOS, Windows and Linux with Community Themes and Plugins. iOS and …"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "ranxianglei",
+          "name": "ranxianglei",
+          "url": "https://github.com/ranxianglei",
+          "featuredRepo": {
+            "name": "ranxianglei/billion-context",
+            "url": "https://github.com/ranxianglei/billion-context",
+            "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and to…"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "ZhuLinsen",
+          "name": "zhulinsen",
+          "url": "https://github.com/ZhuLinsen",
+          "featuredRepo": {
+            "name": "ZhuLinsen/daily_stock_analysis",
+            "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+            "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "amir20",
+          "name": "Amir Raminfar",
+          "url": "https://github.com/amir20",
+          "featuredRepo": {
+            "name": "amir20/dozzle",
+            "url": "https://github.com/amir20/dozzle",
+            "description": "Realtime log viewer for containers. Supports Docker, Swarm and K8s."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "shikokuchuo",
+          "name": "Charlie Gao",
+          "url": "https://github.com/shikokuchuo",
+          "featuredRepo": {
+            "name": "shikokuchuo/pymizu",
+            "url": "https://github.com/shikokuchuo/pymizu",
+            "description": "Thread-speed async and parallel Python over shared memory"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "MakazhanAlpamys",
+          "name": "Alpamys Makazhan",
+          "url": "https://github.com/MakazhanAlpamys",
+          "featuredRepo": {
+            "name": "MakazhanAlpamys/Soup",
+            "url": "https://github.com/MakazhanAlpamys/Soup",
+            "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "cixzhang",
+          "name": "Cindy Zhang",
+          "url": "https://github.com/cixzhang",
+          "featuredRepo": null
+        },
+        {
+          "rank": 13,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "Gaurav-Gosain",
+          "name": "Gaurav Gosain",
+          "url": "https://github.com/Gaurav-Gosain",
+          "featuredRepo": {
+            "name": "Gaurav-Gosain/tuios",
+            "url": "https://github.com/Gaurav-Gosain/tuios",
+            "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox …"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "Frankie-Xu",
+          "name": "Frankie-Xu",
+          "url": "https://github.com/Frankie-Xu",
+          "featuredRepo": {
+            "name": "Frankie-Xu/threadport",
+            "url": "https://github.com/Frankie-Xu/threadport",
+            "description": "Portable, verifiable work state for coding agents"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "code-yeongyu",
+          "name": "YeonGyu-Kim",
+          "url": "https://github.com/code-yeongyu",
+          "featuredRepo": {
+            "name": "code-yeongyu/oh-my-openagent",
+            "url": "https://github.com/code-yeongyu/oh-my-openagent",
+            "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "SysAdminDoc",
+          "name": "Matthew Parker",
+          "url": "https://github.com/SysAdminDoc",
+          "featuredRepo": {
+            "name": "SysAdminDoc/HushGram",
+            "url": "https://github.com/SysAdminDoc/HushGram",
+            "description": "HushGram v0.0.19: Morphe patches for Instagram that hide ads, suggested posts and much more. 154 patches for Instagram 454.0.0.54.77."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "yetone",
+          "name": "yetone",
+          "url": "https://github.com/yetone",
+          "featuredRepo": {
+            "name": "yetone/magpie",
+            "url": "https://github.com/yetone/magpie",
+            "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "ikaijua",
+          "name": "ikaijua",
+          "url": "https://github.com/ikaijua",
+          "featuredRepo": {
+            "name": "ikaijua/Awesome-AITools",
+            "url": "https://github.com/ikaijua/Awesome-AITools",
+            "description": "220+ AI tools across 37+ categories — chatbots, agents, AI video/image/voice, open-weight models. / 220+ 个 AI 工具、AI+人工筛选。"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "Th0rgal",
+          "name": "Thomas Marchand",
+          "url": "https://github.com/Th0rgal",
+          "featuredRepo": {
+            "name": "Th0rgal/satmux",
+            "url": "https://github.com/Th0rgal/satmux",
+            "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "can1357",
+          "name": "Can Bölük",
+          "url": "https://github.com/can1357",
+          "featuredRepo": {
+            "name": "can1357/oh-my-pi",
+            "url": "https://github.com/can1357/oh-my-pi",
+            "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs."
+          }
+        },
+        {
+          "rank": 23,
+          "username": "ORESoftware",
+          "name": "Alexander Mills",
+          "url": "https://github.com/ORESoftware",
+          "featuredRepo": null
+        },
+        {
+          "rank": 24,
+          "username": "adamdotdevin",
+          "name": "Adam",
+          "url": "https://github.com/adamdotdevin",
+          "featuredRepo": {
+            "name": "adamdotdevin/good-repo",
+            "url": "https://github.com/adamdotdevin/good-repo",
+            "description": "Preeeeetty, pretty good"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "kixelated",
+          "name": "Luke Curley",
+          "url": "https://github.com/kixelated",
+          "featuredRepo": {
+            "name": "kixelated/token-max",
+            "url": "https://github.com/kixelated/token-max",
+            "description": "Replays your Claude Code and Codex transcripts against API prices and recommends cheaper agent settings"
+          }
+        }
+      ]
     }
   ],
   "best": [
