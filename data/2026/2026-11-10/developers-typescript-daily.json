@@ -288,6 +288,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-10T06:30:12.945Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "pl4nty",
+          "name": "Tom Plant",
+          "url": "https://github.com/pl4nty",
+          "featuredRepo": {
+            "name": "pl4nty/winget-extras",
+            "url": "https://github.com/pl4nty/winget-extras",
+            "description": "A WinGet source for extra packages"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "mantrakp04",
+          "name": "Mantra",
+          "url": "https://github.com/mantrakp04",
+          "featuredRepo": {
+            "name": "mantrakp04/ardia",
+            "url": "https://github.com/mantrakp04/ardia",
+            "description": "A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "ranxianglei",
+          "name": "ranxianglei",
+          "url": "https://github.com/ranxianglei",
+          "featuredRepo": {
+            "name": "ranxianglei/billion-context",
+            "url": "https://github.com/ranxianglei/billion-context",
+            "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and to…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "Frankie-Xu",
+          "name": "Frankie-Xu",
+          "url": "https://github.com/Frankie-Xu",
+          "featuredRepo": {
+            "name": "Frankie-Xu/threadport",
+            "url": "https://github.com/Frankie-Xu/threadport",
+            "description": "Portable, verifiable work state for coding agents"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "code-yeongyu",
+          "name": "YeonGyu-Kim",
+          "url": "https://github.com/code-yeongyu",
+          "featuredRepo": {
+            "name": "code-yeongyu/oh-my-openagent",
+            "url": "https://github.com/code-yeongyu/oh-my-openagent",
+            "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "can1357",
+          "name": "Can Bölük",
+          "url": "https://github.com/can1357",
+          "featuredRepo": {
+            "name": "can1357/oh-my-pi",
+            "url": "https://github.com/can1357/oh-my-pi",
+            "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "zts212653",
+          "name": "Lysander Su",
+          "url": "https://github.com/zts212653",
+          "featuredRepo": {
+            "name": "zts212653/clowder-ai",
+            "url": "https://github.com/zts212653/clowder-ai",
+            "description": "Build AI teams, not just agents. Hard rails, soft power, shared mission."
+          }
+        },
+        {
+          "rank": 13,
+          "username": "dreamhunter2333",
+          "name": "Dream Hunter",
+          "url": "https://github.com/dreamhunter2333",
+          "featuredRepo": {
+            "name": "dreamhunter2333/cloudflare_temp_email",
+            "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+            "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "lfnovo",
+          "name": "Luis Novo",
+          "url": "https://github.com/lfnovo",
+          "featuredRepo": {
+            "name": "lfnovo/open-notebook",
+            "url": "https://github.com/lfnovo/open-notebook",
+            "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "firsttris",
+          "name": "Tristan Teufel",
+          "url": "https://github.com/firsttris",
+          "featuredRepo": {
+            "name": "firsttris/haben",
+            "url": "https://github.com/firsttris/haben",
+            "description": "Selbst gehostete Buchhaltung für Freiberufler, Selbstständige, Kleinunternehmer, GmbH und UG: E-Rechnung (ZUGFeRD, XRechnung), Belege, Ba…"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "vjeux",
+          "name": "Christopher Chedeau",
+          "url": "https://github.com/vjeux",
+          "featuredRepo": {
+            "name": "vjeux/mediabunny",
+            "url": "https://github.com/vjeux/mediabunny",
+            "description": "Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "zsviczian",
+          "name": "zsviczian",
+          "url": "https://github.com/zsviczian",
+          "featuredRepo": {
+            "name": "zsviczian/obsidian-excalidraw-plugin",
+            "url": "https://github.com/zsviczian/obsidian-excalidraw-plugin",
+            "description": "A plugin to edit and view Excalidraw drawings in Obsidian"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "bowenliang123",
+          "name": "Bowen Liang",
+          "url": "https://github.com/bowenliang123",
+          "featuredRepo": {
+            "name": "bowenliang123/dsh-context",
+            "url": "https://github.com/bowenliang123/dsh-context",
+            "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for …"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "Vinzent03",
+          "name": "Vinzent",
+          "url": "https://github.com/Vinzent03",
+          "featuredRepo": {
+            "name": "Vinzent03/obsidian-git",
+            "url": "https://github.com/Vinzent03/obsidian-git",
+            "description": "Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "nixfred",
+          "name": "Fred Nix",
+          "url": "https://github.com/nixfred",
+          "featuredRepo": {
+            "name": "nixfred/blip",
+            "url": "https://github.com/nixfred/blip",
+            "description": "iMessage in the Omarchy bar. Read, send, groups, blue dots. Your Mac is the gateway, Linux is the client."
+          }
+        },
+        {
+          "rank": 25,
+          "username": "ersinkoc",
+          "name": "Ersin KOÇ",
+          "url": "https://github.com/ersinkoc",
+          "featuredRepo": {
+            "name": "ersinkoc/AI-Video-Factory",
+            "url": "https://github.com/ersinkoc/AI-Video-Factory",
+            "description": "AI video factory: from one topic to a finished, multilingual YouTube video. Claude agents write, plan, draw and review; a Studio keeps th…"
+          }
+        }
+      ]
     }
   ],
   "best": [
