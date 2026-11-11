@@ -403,6 +403,124 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-11T18:23:08.065Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "description": "An open source design system that's fully customizable and agent ready",
+          "language": "TypeScript",
+          "stars": 24621,
+          "forks": 1923,
+          "starsToday": 2842,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+          "language": "Python",
+          "stars": 70042,
+          "forks": 56809,
+          "starsToday": 429,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 1605,
+          "forks": 134,
+          "starsToday": 133,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "shadcn/improve",
+          "url": "https://github.com/shadcn/improve",
+          "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+          "language": null,
+          "stars": 10664,
+          "forks": 435,
+          "starsToday": 333,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 115755,
+          "forks": 12139,
+          "starsToday": 788,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "vercel-labs/agent-browser",
+          "url": "https://github.com/vercel-labs/agent-browser",
+          "description": "Browser automation CLI for AI agents",
+          "language": "Rust",
+          "stars": 49753,
+          "forks": 3480,
+          "starsToday": 712,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "we-promise/sure",
+          "url": "https://github.com/we-promise/sure",
+          "description": "The personal finance app for everyone (by everyone)",
+          "language": "Ruby",
+          "stars": 12745,
+          "forks": 942,
+          "starsToday": 1079,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "homeassistant-ai/ha-mcp",
+          "url": "https://github.com/homeassistant-ai/ha-mcp",
+          "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+          "language": "Python",
+          "stars": 7159,
+          "forks": 447,
+          "starsToday": 640,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "openai/codex-security",
+          "url": "https://github.com/openai/codex-security",
+          "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "language": "TypeScript",
+          "stars": 11570,
+          "forks": 920,
+          "starsToday": 20,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "TheAlgorithms/Java",
+          "url": "https://github.com/TheAlgorithms/Java",
+          "description": "All Algorithms implemented in Java",
+          "language": "Java",
+          "stars": 66937,
+          "forks": 21497,
+          "starsToday": 108,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []
