@@ -835,4 +835,4 @@ These periods are scraped and stored, but they are not part of the daily totals,
 | all languages repositories (weekly) | elie222/rakazo | 2026-10-24 | #15 |
 | TypeScript developers (monthly) | elie222 | 2026-11-11 | #8 |
 | all languages developers (monthly) | elie222 | 2026-11-11 | #23 |
-| TypeScript repositories (monthly) | elie222/rakazo | 2026-11-11 | #15 |
+| TypeScript repositories (monthly) | elie222/rakazo | 2026-11-11 | #14 |

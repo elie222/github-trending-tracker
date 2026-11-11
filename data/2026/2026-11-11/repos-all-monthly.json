@@ -329,6 +329,190 @@
           "starsLabel": "this month"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-11T12:27:41.694Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=monthly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 451488,
+          "forks": 111083,
+          "starsToday": 389832,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 2,
+          "name": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "language": "CSS",
+          "stars": 53031,
+          "forks": 2816,
+          "starsToday": 22624,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 3,
+          "name": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "language": "JavaScript",
+          "stars": 69856,
+          "forks": 4627,
+          "starsToday": 41811,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 4,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 116038,
+          "forks": 10065,
+          "starsToday": 17223,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 5,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 56381,
+          "forks": 10419,
+          "starsToday": 28609,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 6,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 82548,
+          "forks": 7630,
+          "starsToday": 22380,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 7,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+          "language": "Rust",
+          "stars": 107947,
+          "forks": 6418,
+          "starsToday": 28598,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+          "language": "Python",
+          "stars": 58171,
+          "forks": 7077,
+          "starsToday": 17107,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 9,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "language": "Python",
+          "stars": 107819,
+          "forks": 11941,
+          "starsToday": 50753,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars": 46845,
+          "forks": 4867,
+          "starsToday": 9346,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 11,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 192803,
+          "forks": 22687,
+          "starsToday": 12271,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 12,
+          "name": "sherlock-project/sherlock",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "description": "Hunt down social media accounts by username across social networks",
+          "language": "Python",
+          "stars": 109764,
+          "forks": 12716,
+          "starsToday": 15143,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 13,
+          "name": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+          "language": "JavaScript",
+          "stars": 113247,
+          "forks": 7623,
+          "starsToday": 19249,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 14,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 35423,
+          "forks": 3922,
+          "starsToday": 6844,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 15,
+          "name": "AgriciDaniel/claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+          "language": "Python",
+          "stars": 28021,
+          "forks": 3634,
+          "starsToday": 9322,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 16,
+          "name": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "description": "Ghidra is a software reverse engineering (SRE) framework",
+          "language": "Java",
+          "stars": 99487,
+          "forks": 11286,
+          "starsToday": 17106,
+          "starsLabel": "this month"
+        }
+      ]
     }
   ],
   "best": []

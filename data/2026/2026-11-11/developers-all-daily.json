@@ -547,6 +547,277 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-11T12:27:41.694Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "ranxianglei",
+          "name": "ranxianglei",
+          "url": "https://github.com/ranxianglei",
+          "featuredRepo": {
+            "name": "ranxianglei/billion-context",
+            "url": "https://github.com/ranxianglei/billion-context",
+            "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and to…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "mantrakp04",
+          "name": "Mantra",
+          "url": "https://github.com/mantrakp04",
+          "featuredRepo": {
+            "name": "mantrakp04/ardia",
+            "url": "https://github.com/mantrakp04/ardia",
+            "description": "A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "ZhuLinsen",
+          "name": "zhulinsen",
+          "url": "https://github.com/ZhuLinsen",
+          "featuredRepo": {
+            "name": "ZhuLinsen/daily_stock_analysis",
+            "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+            "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/RuView",
+            "url": "https://github.com/ruvnet/RuView",
+            "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "Seluj78",
+          "name": "Jules Lasne",
+          "url": "https://github.com/Seluj78",
+          "featuredRepo": null
+        },
+        {
+          "rank": 6,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "muellerberndt",
+          "name": "Bernhard Mueller",
+          "url": "https://github.com/muellerberndt",
+          "featuredRepo": {
+            "name": "muellerberndt/cadence",
+            "url": "https://github.com/muellerberndt/cadence",
+            "description": "A brain that learns from live experience. System 1 by default: perception, memory, plasticity and action. Optional System 2 for self-obse…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "cixzhang",
+          "name": "Cindy Zhang",
+          "url": "https://github.com/cixzhang",
+          "featuredRepo": null
+        },
+        {
+          "rank": 9,
+          "username": "emilk",
+          "name": "Emil Ernerfeldt",
+          "url": "https://github.com/emilk",
+          "featuredRepo": {
+            "name": "emilk/egui",
+            "url": "https://github.com/emilk/egui",
+            "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "amir20",
+          "name": "Amir Raminfar",
+          "url": "https://github.com/amir20",
+          "featuredRepo": {
+            "name": "amir20/dozzle",
+            "url": "https://github.com/amir20/dozzle",
+            "description": "Realtime log viewer for containers. Supports Docker, Swarm and K8s."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "jmcollin78",
+          "name": "Jean-Marc Collin",
+          "url": "https://github.com/jmcollin78",
+          "featuredRepo": {
+            "name": "jmcollin78/versatile_thermostat",
+            "url": "https://github.com/jmcollin78/versatile_thermostat",
+            "description": "A full featured Thermostat for Home Assistant: presets, window, motion, presence and overpowering management"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "100yenadmin",
+          "name": "EVA",
+          "url": "https://github.com/100yenadmin",
+          "featuredRepo": {
+            "name": "100yenadmin/hermes-teammates",
+            "url": "https://github.com/100yenadmin/hermes-teammates",
+            "description": "Give your Hermes agent a fixed team: named teammates with roles, follow-ups that keep context, and a Kanban review lane."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "peaktwilight",
+          "name": "Peak Twilight",
+          "url": "https://github.com/peaktwilight",
+          "featuredRepo": null
+        },
+        {
+          "rank": 16,
+          "username": "fzn0x",
+          "name": "F",
+          "url": "https://github.com/fzn0x",
+          "featuredRepo": {
+            "name": "fzn0x/mixmusic",
+            "url": "https://github.com/fzn0x/mixmusic",
+            "description": "MixMusic is a native desktop player for YouTube Music and Spotify on macOS, Windows and Linux with Community Themes and Plugins. iOS and …"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "SamuelSchlesinger",
+          "name": "Samuel Schlesinger",
+          "url": "https://github.com/SamuelSchlesinger",
+          "featuredRepo": {
+            "name": "SamuelSchlesinger/lean.vim",
+            "url": "https://github.com/SamuelSchlesinger/lean.vim",
+            "description": "A vim port of lean.nvim."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "cfregly",
+          "name": "Chris Fregly",
+          "url": "https://github.com/cfregly",
+          "featuredRepo": {
+            "name": "cfregly/ai-performance-engineering",
+            "url": "https://github.com/cfregly/ai-performance-engineering",
+            "description": "Code, labs, and resources for O'Reilly AI Systems Performance Engineering: GPU optimization, distributed training, inference scaling, and…"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "runkids",
+          "name": "Willie",
+          "url": "https://github.com/runkids",
+          "featuredRepo": {
+            "name": "runkids/skillshare",
+            "url": "https://github.com/runkids/skillshare",
+            "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "marcusquinn",
+          "name": "Marcus Quinn",
+          "url": "https://github.com/marcusquinn",
+          "featuredRepo": {
+            "name": "marcusquinn/aidevops",
+            "url": "https://github.com/marcusquinn/aidevops",
+            "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development.…"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "joakimeriksson",
+          "name": "Joakim Eriksson",
+          "url": "https://github.com/joakimeriksson",
+          "featuredRepo": {
+            "name": "joakimeriksson/fm1-emu",
+            "url": "https://github.com/joakimeriksson/fm1-emu",
+            "description": "Emulator for the M-VAVE FM-1 pocket synth: runs its firmwares unchanged in the browser and natively"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 23,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "MakazhanAlpamys",
+          "name": "Alpamys Makazhan",
+          "url": "https://github.com/MakazhanAlpamys",
+          "featuredRepo": {
+            "name": "MakazhanAlpamys/Soup",
+            "url": "https://github.com/MakazhanAlpamys/Soup",
+            "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
+          }
+        },
+        {
+          "rank": 25,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+          }
+        }
+      ]
     }
   ],
   "best": [
