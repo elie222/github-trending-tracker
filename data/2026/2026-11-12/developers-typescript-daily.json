@@ -288,6 +288,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-12T06:31:35.915Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "ranxianglei",
+          "name": "ranxianglei",
+          "url": "https://github.com/ranxianglei",
+          "featuredRepo": {
+            "name": "ranxianglei/billion-context",
+            "url": "https://github.com/ranxianglei/billion-context",
+            "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and to…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "mantrakp04",
+          "name": "Mantra",
+          "url": "https://github.com/mantrakp04",
+          "featuredRepo": {
+            "name": "ardia-browser/ardia",
+            "url": "https://github.com/ardia-browser/ardia",
+            "description": "A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "paulirish",
+          "name": "Paul Irish",
+          "url": "https://github.com/paulirish",
+          "featuredRepo": {
+            "name": "paulirish/chrome-capture",
+            "url": "https://github.com/paulirish/chrome-capture",
+            "description": "60-120fps / 2160p tab video/audio capture from Chrome"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "cixzhang",
+          "name": "Cindy Zhang",
+          "url": "https://github.com/cixzhang",
+          "featuredRepo": {
+            "name": "cixzhang/huayuan",
+            "url": "https://github.com/cixzhang/huayuan",
+            "description": "A terminal garden game for learning Chinese and Vim"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "Frankie-Xu",
+          "name": "Frankie-Xu",
+          "url": "https://github.com/Frankie-Xu",
+          "featuredRepo": {
+            "name": "Frankie-Xu/threadport",
+            "url": "https://github.com/Frankie-Xu/threadport",
+            "description": "Portable, verifiable work state for coding agents"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "vastsa",
+          "name": "Lan",
+          "url": "https://github.com/vastsa",
+          "featuredRepo": {
+            "name": "vastsa/PI-Desktop",
+            "url": "https://github.com/vastsa/PI-Desktop",
+            "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "firsttris",
+          "name": "Tristan Teufel",
+          "url": "https://github.com/firsttris",
+          "featuredRepo": {
+            "name": "firsttris/haben",
+            "url": "https://github.com/firsttris/haben",
+            "description": "Selbst gehostete Buchhaltung für Freiberufler, Selbstständige, Kleinunternehmer, GmbH und UG: E-Rechnung (ZUGFeRD, XRechnung), Belege, Ba…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "pl4nty",
+          "name": "Tom Plant",
+          "url": "https://github.com/pl4nty",
+          "featuredRepo": {
+            "name": "pl4nty/winget-extras",
+            "url": "https://github.com/pl4nty/winget-extras",
+            "description": "A WinGet source for extra packages"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 16,
+          "username": "code-yeongyu",
+          "name": "YeonGyu-Kim",
+          "url": "https://github.com/code-yeongyu",
+          "featuredRepo": {
+            "name": "code-yeongyu/oh-my-openagent",
+            "url": "https://github.com/code-yeongyu/oh-my-openagent",
+            "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "zts212653",
+          "name": "Lysander Su",
+          "url": "https://github.com/zts212653",
+          "featuredRepo": {
+            "name": "zts212653/clowder-ai",
+            "url": "https://github.com/zts212653/clowder-ai",
+            "description": "Build AI teams, not just agents. Hard rails, soft power, shared mission."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "serenakeyitan",
+          "name": "Serena",
+          "url": "https://github.com/serenakeyitan",
+          "featuredRepo": {
+            "name": "serenakeyitan/agent-org-chart",
+            "url": "https://github.com/serenakeyitan/agent-org-chart",
+            "description": "Awesome catalog of portable agent org charts — pick one, paste to your grokbot/dots/etc, spawn the team. Platform-agnostic."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "perminder-klair",
+          "name": "Parminder Klair",
+          "url": "https://github.com/perminder-klair",
+          "featuredRepo": {
+            "name": "perminder-klair/subwave",
+            "url": "https://github.com/perminder-klair/subwave",
+            "description": "Personal internet radio: Agentic AI DJ"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "nwparker",
+          "name": "Neil",
+          "url": "https://github.com/nwparker",
+          "featuredRepo": {
+            "name": "nwparker/orca",
+            "url": "https://github.com/nwparker/orca",
+            "description": "Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "abhinav-m22",
+          "name": "Abhinav Mahajan",
+          "url": "https://github.com/abhinav-m22",
+          "featuredRepo": {
+            "name": "abhinav-m22/social-ops-ai",
+            "url": "https://github.com/abhinav-m22/social-ops-ai",
+            "description": "AI-powered platform for creators to automate brand deals, negotiation, invoicing, payments, competitor benchmarking, and trend intelligence."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "crynta",
+          "name": "Crynta",
+          "url": "https://github.com/crynta",
+          "featuredRepo": {
+            "name": "crynta/terax-ai",
+            "url": "https://github.com/crynta/terax-ai",
+            "description": "Lightweight (7MB) terminal-first AI-native development environment"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "dzianisv",
+          "name": "Den",
+          "url": "https://github.com/dzianisv",
+          "featuredRepo": {
+            "name": "dzianisv/opencode-mobile",
+            "url": "https://github.com/dzianisv/opencode-mobile",
+            "description": "OpenCode Mobile — open-source Android client for the OpenCode AI coding agent. Run AI coding sessions from your phone against your self-h…"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "callumalpass",
+          "name": "Callum Alpass",
+          "url": "https://github.com/callumalpass",
+          "featuredRepo": {
+            "name": "callumalpass/tasknotes",
+            "url": "https://github.com/callumalpass/tasknotes",
+            "description": "Task and time-tracking management with calendar integration for Obsidian"
+          }
+        }
+      ]
     }
   ],
   "best": [

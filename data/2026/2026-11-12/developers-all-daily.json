@@ -280,6 +280,281 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-12T06:31:35.915Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/RuView",
+            "url": "https://github.com/ruvnet/RuView",
+            "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "ZhuLinsen",
+          "name": "zhulinsen",
+          "url": "https://github.com/ZhuLinsen",
+          "featuredRepo": {
+            "name": "ZhuLinsen/daily_stock_analysis",
+            "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+            "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "ranxianglei",
+          "name": "ranxianglei",
+          "url": "https://github.com/ranxianglei",
+          "featuredRepo": {
+            "name": "ranxianglei/billion-context",
+            "url": "https://github.com/ranxianglei/billion-context",
+            "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and to…"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "ikaijua",
+          "name": "ikaijua",
+          "url": "https://github.com/ikaijua",
+          "featuredRepo": {
+            "name": "ikaijua/Awesome-AITools",
+            "url": "https://github.com/ikaijua/Awesome-AITools",
+            "description": "This repo collects awesome AI tools. Welcome everyone to recommend more awesome AI tools together!"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "fzn0x",
+          "name": "F",
+          "url": "https://github.com/fzn0x",
+          "featuredRepo": {
+            "name": "fzn0x/mixmusic",
+            "url": "https://github.com/fzn0x/mixmusic",
+            "description": "MixMusic is a native desktop player for YouTube Music and Spotify on macOS, Windows and Linux with Community Themes and Plugins. iOS and …"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "mantrakp04",
+          "name": "Mantra",
+          "url": "https://github.com/mantrakp04",
+          "featuredRepo": {
+            "name": "ardia-browser/ardia",
+            "url": "https://github.com/ardia-browser/ardia",
+            "description": "A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "paulirish",
+          "name": "Paul Irish",
+          "url": "https://github.com/paulirish",
+          "featuredRepo": {
+            "name": "paulirish/chrome-capture",
+            "url": "https://github.com/paulirish/chrome-capture",
+            "description": "60-120fps / 2160p tab video/audio capture from Chrome"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "oschwartz10612",
+          "name": "Owen Schwartz",
+          "url": "https://github.com/oschwartz10612",
+          "featuredRepo": {
+            "name": "oschwartz10612/poppler-windows",
+            "url": "https://github.com/oschwartz10612/poppler-windows",
+            "description": "Download Poppler binaries packaged for Windows with dependencies"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "cixzhang",
+          "name": "Cindy Zhang",
+          "url": "https://github.com/cixzhang",
+          "featuredRepo": {
+            "name": "cixzhang/huayuan",
+            "url": "https://github.com/cixzhang/huayuan",
+            "description": "A terminal garden game for learning Chinese and Vim"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "SamuelSchlesinger",
+          "name": "Samuel Schlesinger",
+          "url": "https://github.com/SamuelSchlesinger",
+          "featuredRepo": {
+            "name": "SamuelSchlesinger/lean.vim",
+            "url": "https://github.com/SamuelSchlesinger/lean.vim",
+            "description": "A vim port of lean.nvim."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "zhukunpenglinyutong",
+          "name": "朱昆鹏",
+          "url": "https://github.com/zhukunpenglinyutong",
+          "featuredRepo": {
+            "name": "zhukunpenglinyutong/jetbrains-cc-gui",
+            "url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
+            "description": "Jetbrains Claude Code and Codex GUI Plugin"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "runkids",
+          "name": "Willie",
+          "url": "https://github.com/runkids",
+          "featuredRepo": {
+            "name": "runkids/skillshare",
+            "url": "https://github.com/runkids/skillshare",
+            "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing."
+          }
+        },
+        {
+          "rank": 16,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "hnyls2002",
+          "name": "Liangsheng Yin",
+          "url": "https://github.com/hnyls2002",
+          "featuredRepo": null
+        },
+        {
+          "rank": 20,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "drowzeys",
+          "name": "keys",
+          "url": "https://github.com/drowzeys",
+          "featuredRepo": {
+            "name": "drowzeys/Imagination-Studio-by-keys-Wasserman",
+            "url": "https://github.com/drowzeys/Imagination-Studio-by-keys-Wasserman",
+            "description": "Imagination Studio by keys+Wasserman powered by TensorFold: an AI film studio for Mac and NVIDIA DGX Spark. Plan a film like a crew (Slat…"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "joakimeriksson",
+          "name": "Joakim Eriksson",
+          "url": "https://github.com/joakimeriksson",
+          "featuredRepo": {
+            "name": "joakimeriksson/fm1-emu",
+            "url": "https://github.com/joakimeriksson/fm1-emu",
+            "description": "Emulator for the M-VAVE FM-1 pocket synth: runs its firmwares unchanged in the browser and natively"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "sd2k",
+          "name": "Ben Sully",
+          "url": "https://github.com/sd2k",
+          "featuredRepo": null
+        },
+        {
+          "rank": 24,
+          "username": "Cyan4973",
+          "name": "Yann Collet",
+          "url": "https://github.com/Cyan4973",
+          "featuredRepo": {
+            "name": "Cyan4973/xxHash",
+            "url": "https://github.com/Cyan4973/xxHash",
+            "description": "Extremely fast non-cryptographic hash algorithm"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "Frankie-Xu",
+          "name": "Frankie-Xu",
+          "url": "https://github.com/Frankie-Xu",
+          "featuredRepo": {
+            "name": "Frankie-Xu/threadport",
+            "url": "https://github.com/Frankie-Xu/threadport",
+            "description": "Portable, verifiable work state for coding agents"
+          }
+        }
+      ]
     }
   ],
   "best": [

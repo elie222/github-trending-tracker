@@ -167,6 +167,168 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-12T06:31:35.915Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "description": "An open source design system that's fully customizable and agent ready",
+          "language": "TypeScript",
+          "stars": 25459,
+          "forks": 1984,
+          "starsToday": 2776,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 1979,
+          "forks": 149,
+          "starsToday": 159,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "openai/codex-security",
+          "url": "https://github.com/openai/codex-security",
+          "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "language": "TypeScript",
+          "stars": 11924,
+          "forks": 948,
+          "starsToday": 52,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+          "language": "TypeScript",
+          "stars": 6915,
+          "forks": 570,
+          "starsToday": 710,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+          "language": "TypeScript",
+          "stars": 10105,
+          "forks": 766,
+          "starsToday": 55,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "WhiteTowerAI/ohmygame",
+          "url": "https://github.com/WhiteTowerAI/ohmygame",
+          "description": "The open-source studio for making games with AI. Your own one-person game studio. Everything you need to make games with AI, in one app. Game canvas. Bring your own key.",
+          "language": "TypeScript",
+          "stars": 2124,
+          "forks": 268,
+          "starsToday": 89,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "language": "TypeScript",
+          "stars": 8746,
+          "forks": 1054,
+          "starsToday": 19,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "ever-co/ever-gauzy",
+          "url": "https://github.com/ever-co/ever-gauzy",
+          "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+          "language": "TypeScript",
+          "stars": 8787,
+          "forks": 1340,
+          "starsToday": 34,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "garrytan/gbrain",
+          "url": "https://github.com/garrytan/gbrain",
+          "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+          "language": "TypeScript",
+          "stars": 32725,
+          "forks": 4881,
+          "starsToday": 243,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "LibreSpark/LibreTV",
+          "url": "https://github.com/LibreSpark/LibreTV",
+          "description": "一分钟搭建影视站，支持Docker等部署方式",
+          "language": "TypeScript",
+          "stars": 24508,
+          "forks": 31148,
+          "starsToday": 198,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "nab138/iloader",
+          "url": "https://github.com/nab138/iloader",
+          "description": "User friendly sideloader",
+          "language": "TypeScript",
+          "stars": 4816,
+          "forks": 368,
+          "starsToday": 68,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+          "language": "TypeScript",
+          "stars": 23322,
+          "forks": 1989,
+          "starsToday": 138,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "NapNeko/NapCatQQ",
+          "url": "https://github.com/NapNeko/NapCatQQ",
+          "description": "Modern protocol-side framework",
+          "language": null,
+          "stars": 12726,
+          "forks": 1794,
+          "starsToday": 129,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "OpenCTI-Platform/opencti",
+          "url": "https://github.com/OpenCTI-Platform/opencti",
+          "description": "Open Cyber Threat Intelligence Platform",
+          "language": "TypeScript",
+          "stars": 10347,
+          "forks": 1508,
+          "starsToday": 47,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []
