@@ -557,6 +557,234 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-12T18:24:17.169Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 2592,
+          "forks": 183,
+          "starsToday": 799,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "openai/codex-security",
+          "url": "https://github.com/openai/codex-security",
+          "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "language": "TypeScript",
+          "stars": 12254,
+          "forks": 970,
+          "starsToday": 663,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "QwenLM/qwen-code",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "description": "An open-source AI coding agent that lives in your terminal.",
+          "language": "TypeScript",
+          "stars": 29690,
+          "forks": 3389,
+          "starsToday": 151,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "description": "An open source design system that's fully customizable and agent ready",
+          "language": "TypeScript",
+          "stars": 26270,
+          "forks": 2036,
+          "starsToday": 1789,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "CopilotKit/OpenBot",
+          "url": "https://github.com/CopilotKit/OpenBot",
+          "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+          "language": "TypeScript",
+          "stars": 11421,
+          "forks": 1415,
+          "starsToday": 291,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+          "language": "TypeScript",
+          "stars": 210309,
+          "forks": 61490,
+          "starsToday": 220,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+          "language": "TypeScript",
+          "stars": 114924,
+          "forks": 15125,
+          "starsToday": 145,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "block/buzz-app",
+          "url": "https://github.com/block/buzz-app",
+          "description": "A new desktop/web app experience for buzz",
+          "language": "TypeScript",
+          "stars": 216,
+          "forks": 172,
+          "starsToday": 50,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "elder-plinius/G0DM0D3",
+          "url": "https://github.com/elder-plinius/G0DM0D3",
+          "description": "LIBERATED AI CHAT",
+          "language": "TypeScript",
+          "stars": 12236,
+          "forks": 2859,
+          "starsToday": 27,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "PurpleDoubleD/locally-uncensored",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored",
+          "description": "The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required.",
+          "language": "TypeScript",
+          "stars": 4032,
+          "forks": 641,
+          "starsToday": 217,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "adewaskar/jarvis",
+          "url": "https://github.com/adewaskar/jarvis",
+          "description": "J.A.R.V.I.S for automating your daily tasks using Claude Code",
+          "language": "TypeScript",
+          "stars": 851,
+          "forks": 364,
+          "starsToday": 43,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "language": "TypeScript",
+          "stars": 8751,
+          "forks": 1054,
+          "starsToday": 12,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "appwrite/appwrite",
+          "url": "https://github.com/appwrite/appwrite",
+          "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+          "language": "TypeScript",
+          "stars": 58063,
+          "forks": 5870,
+          "starsToday": 79,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "description": "Open source alternative to Semrush and Ahrefs",
+          "language": "TypeScript",
+          "stars": 27464,
+          "forks": 3846,
+          "starsToday": 156,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 15,
+          "name": "shanliuling/dsh-image-gen",
+          "url": "https://github.com/shanliuling/dsh-image-gen",
+          "description": "可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI.",
+          "language": "TypeScript",
+          "stars": 1376,
+          "forks": 113,
+          "starsToday": 65,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 16,
+          "name": "RocketChat/Rocket.Chat",
+          "url": "https://github.com/RocketChat/Rocket.Chat",
+          "description": "The Secure CommsOS™ for mission-critical operations",
+          "language": "TypeScript",
+          "stars": 46498,
+          "forks": 14146,
+          "starsToday": 54,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 17,
+          "name": "angular/angular",
+          "url": "https://github.com/angular/angular",
+          "description": "Deliver web apps with confidence 🚀",
+          "language": "TypeScript",
+          "stars": 101483,
+          "forks": 28210,
+          "starsToday": 63,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 18,
+          "name": "gitroomhq/postiz-app",
+          "url": "https://github.com/gitroomhq/postiz-app",
+          "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+          "language": "TypeScript",
+          "stars": 41453,
+          "forks": 7907,
+          "starsToday": 96,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 19,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 55163,
+          "forks": 4597,
+          "starsToday": 57,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 20,
+          "name": "NapNeko/NapCatQQ",
+          "url": "https://github.com/NapNeko/NapCatQQ",
+          "description": "Modern protocol-side framework",
+          "language": null,
+          "stars": 12760,
+          "forks": 1890,
+          "starsToday": 103,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []
