@@ -28,19 +28,19 @@ Who counts as a hit is configured in [`config/tracking.json`](config/tracking.js
 <!-- history-summary:start -->
 Updated from the snapshots in [`data/`](data/). Full tables, #1 dates, on-list streaks, and #1 streaks are in [HISTORY.md](HISTORY.md).
 
-UTC day **2026-11-12**.
+UTC day **2026-11-13**.
 
 | List | Result |
 | --- | --- |
 | TypeScript developers (daily) | **#6** elie222 · elie222/rakazo |
-| all languages developers (daily) | **#17** elie222 · latest scrape #23 · elie222/rakazo |
+| all languages developers (daily) | **#23** elie222 · elie222/rakazo |
 | TypeScript repositories (daily) | not listed |
 | all languages repositories (daily) | not listed |
 
 | Name | List | Days listed | Days #1 | Days top 10 | Best | Current on-list streak | Longest on-list streak | Current #1 streak | Longest #1 streak |
 | --- | --- | ---: | ---: | ---: | ---: | --- | --- | --- | --- |
-| elie222 | TypeScript developers (daily) | 422 | 75 | 315 | #1 | 47 days (2026-09-27 – 2026-11-12) | 47 days (2026-09-27 – 2026-11-12) | 0 days | 8 days (2025-07-08 – 2025-07-15) |
-| elie222 | all languages developers (daily) | 188 | 25 | 115 | #1 | 4 days (2026-11-09 – 2026-11-12) | 9 days (2026-10-07 – 2026-10-15) | 0 days | 3 days (2025-10-22 – 2025-10-24) |
+| elie222 | TypeScript developers (daily) | 423 | 75 | 316 | #1 | 48 days (2026-09-27 – 2026-11-13) | 48 days (2026-09-27 – 2026-11-13) | 0 days | 8 days (2025-07-08 – 2025-07-15) |
+| elie222 | all languages developers (daily) | 189 | 25 | 115 | #1 | 5 days (2026-11-09 – 2026-11-13) | 9 days (2026-10-07 – 2026-10-15) | 0 days | 3 days (2025-10-22 – 2025-10-24) |
 | elie222/inbox-zero | TypeScript repositories (daily) | 22 | 3 | 16 | #1 | 0 days | 4 days (2025-04-03 – 2025-04-06) | 0 days | 2 days (2025-04-04 – 2025-04-05) |
 | elie222/inbox-zero | all languages repositories (daily) | 6 | 0 | 5 | #2 | 0 days | 3 days (2025-04-03 – 2025-04-05) | 0 days | 0 days |
 | elie222/rakazo | TypeScript repositories (daily) | 10 | 0 | 7 | #5 | 0 days | 3 days (2026-10-17 – 2026-10-19) | 0 days | 0 days |

@@ -1,0 +1,296 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-13",
+  "list": "developers",
+  "language": "all",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/developers?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-11-13T00:44:00.600Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "dhh",
+          "name": "David Heinemeier Hansson",
+          "url": "https://github.com/dhh",
+          "featuredRepo": {
+            "name": "dhh/PKGBUILDs",
+            "url": "https://github.com/dhh/PKGBUILDs",
+            "description": "PKGBUILDs modified to build on Arch Linux ARM"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "karanb192",
+          "name": "Karan Bansal",
+          "url": "https://github.com/karanb192",
+          "featuredRepo": {
+            "name": "karanb192/awesome-claude-code-mods",
+            "url": "https://github.com/karanb192/awesome-claude-code-mods",
+            "description": "8,000+ Claude Code mods, with what each one can access before you install it. Context and usage meters, prompt cache warmers, status line…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "runkids",
+          "name": "Willie",
+          "url": "https://github.com/runkids",
+          "featuredRepo": {
+            "name": "runkids/skillshare",
+            "url": "https://github.com/runkids/skillshare",
+            "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "hiyouga",
+          "name": "Yaowei Zheng",
+          "url": "https://github.com/hiyouga",
+          "featuredRepo": {
+            "name": "hiyouga/LlamaFactory",
+            "url": "https://github.com/hiyouga/LlamaFactory",
+            "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "paulirish",
+          "name": "Paul Irish",
+          "url": "https://github.com/paulirish",
+          "featuredRepo": {
+            "name": "paulirish/chrome-capture",
+            "url": "https://github.com/paulirish/chrome-capture",
+            "description": "60-120fps / 2160p tab video/audio capture from Chrome"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "ZhuLinsen",
+          "name": "zhulinsen",
+          "url": "https://github.com/ZhuLinsen",
+          "featuredRepo": {
+            "name": "ZhuLinsen/daily_stock_analysis",
+            "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+            "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/RuView",
+            "url": "https://github.com/ruvnet/RuView",
+            "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "dashhuang",
+          "name": "Dash",
+          "url": "https://github.com/dashhuang",
+          "featuredRepo": {
+            "name": "dashhuang/openclaw-chat-history-import",
+            "url": "https://github.com/dashhuang/openclaw-chat-history-import",
+            "description": "OpenClaw skill for importing external chat history into archive, daily memory, and MEMORY.md workflows."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "zhukunpenglinyutong",
+          "name": "朱昆鹏",
+          "url": "https://github.com/zhukunpenglinyutong",
+          "featuredRepo": {
+            "name": "zhukunpenglinyutong/jetbrains-cc-gui",
+            "url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
+            "description": "Jetbrains Claude Code and Codex GUI Plugin"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "gmkurtzer",
+          "name": "Gregory M. Kurtzer",
+          "url": "https://github.com/gmkurtzer",
+          "featuredRepo": {
+            "name": "gmkurtzer/ginux",
+            "url": "https://github.com/gmkurtzer/ginux",
+            "description": null
+          }
+        },
+        {
+          "rank": 14,
+          "username": "hrydgard",
+          "name": "Henrik Rydgård",
+          "url": "https://github.com/hrydgard",
+          "featuredRepo": {
+            "name": "hrydgard/ppsspp",
+            "url": "https://github.com/hrydgard/ppsspp",
+            "description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJ…"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "derekross",
+          "name": "Derek Ross",
+          "url": "https://github.com/derekross",
+          "featuredRepo": {
+            "name": "derekross/omarchy-mobile",
+            "url": "https://github.com/derekross/omarchy-mobile",
+            "description": "Omarchy Mobile: native Omarchy on mobile phones. Arch Linux ARM, Hyprland and Omarchy on a mainline kernel (work in progress)"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "aandrew-me",
+          "name": "Andrew",
+          "url": "https://github.com/aandrew-me",
+          "featuredRepo": {
+            "name": "aandrew-me/ytDownloader",
+            "url": "https://github.com/aandrew-me/ytDownloader",
+            "description": "Desktop app to download audio/video from hundreds of sites"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "joakimeriksson",
+          "name": "Joakim Eriksson",
+          "url": "https://github.com/joakimeriksson",
+          "featuredRepo": {
+            "name": "joakimeriksson/fm1-emu",
+            "url": "https://github.com/joakimeriksson/fm1-emu",
+            "description": "Emulator for the M-VAVE FM-1 pocket synth: runs its firmwares unchanged in the browser and natively"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "obviyus",
+          "name": "Ayaan Zaidi",
+          "url": "https://github.com/obviyus",
+          "featuredRepo": null
+        },
+        {
+          "rank": 19,
+          "username": "cliffhall",
+          "name": "Cliff Hall",
+          "url": "https://github.com/cliffhall",
+          "featuredRepo": null
+        },
+        {
+          "rank": 20,
+          "username": "tmchow",
+          "name": "Trevin Chow",
+          "url": "https://github.com/tmchow",
+          "featuredRepo": {
+            "name": "tmchow/illo-skill",
+            "url": "https://github.com/tmchow/illo-skill",
+            "description": "illo skill — an AI agent skill that turns ideas and articles into original print-style editorial illustrations, starring a recurring masc…"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "aashish254",
+          "name": "Aashish Mahato",
+          "url": "https://github.com/aashish254",
+          "featuredRepo": {
+            "name": "aashish254/ai-image-detection",
+            "url": "https://github.com/aashish254/ai-image-detection",
+            "description": "🔍 Multi-Modal Forensic Analysis Platform — Detect AI-generated images using frequency-domain math, vision AI & 7 novel detection algorithms"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "Cyan4973",
+          "name": "Yann Collet",
+          "url": "https://github.com/Cyan4973",
+          "featuredRepo": {
+            "name": "Cyan4973/xxHash",
+            "url": "https://github.com/Cyan4973/xxHash",
+            "description": "Extremely fast non-cryptographic hash algorithm"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "vshulcz",
+          "name": "Vlad Shulcz",
+          "url": "https://github.com/vshulcz",
+          "featuredRepo": {
+            "name": "vshulcz/deja-vu",
+            "url": "https://github.com/vshulcz/deja-vu",
+            "description": "Shared local memory, session history search, cross-agent handoff, and uncommitted code recovery across 43 coding agents — Claude Code, Co…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "SamuelSchlesinger",
+          "name": "Samuel Schlesinger",
+          "url": "https://github.com/SamuelSchlesinger",
+          "featuredRepo": {
+            "name": "SamuelSchlesinger/lean.vim",
+            "url": "https://github.com/SamuelSchlesinger/lean.vim",
+            "description": "A vim port of lean.nvim."
+          }
+        }
+      ]
+    }
+  ],
+  "best": [
+    {
+      "kind": "developer",
+      "key": "elie222",
+      "url": "https://github.com/elie222",
+      "bestRank": 23,
+      "scrapedAt": "2026-11-13T00:44:00.600Z",
+      "starsToday": null,
+      "featuredRepo": "elie222/rakazo"
+    }
+  ]
+}
