@@ -667,6 +667,212 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-13T18:40:37.034Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "description": "Keep your coding agent up to date with the latest web best practices",
+          "language": "TypeScript",
+          "stars": 4560,
+          "forks": 258,
+          "starsToday": 1875,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "openai/codex-security",
+          "url": "https://github.com/openai/codex-security",
+          "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "language": "TypeScript",
+          "stars": 12997,
+          "forks": 1018,
+          "starsToday": 754,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+          "language": "TypeScript",
+          "stars": 10366,
+          "forks": 781,
+          "starsToday": 100,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 55357,
+          "forks": 4609,
+          "starsToday": 145,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "CopilotKit/OpenBot",
+          "url": "https://github.com/CopilotKit/OpenBot",
+          "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+          "language": "TypeScript",
+          "stars": 12052,
+          "forks": 1478,
+          "starsToday": 799,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "a2ui-project/a2ui",
+          "url": "https://github.com/a2ui-project/a2ui",
+          "description": "Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.",
+          "language": "TypeScript",
+          "stars": 17300,
+          "forks": 1401,
+          "starsToday": 121,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "PurpleDoubleD/locally-uncensored",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored",
+          "description": "The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required.",
+          "language": "TypeScript",
+          "stars": 4177,
+          "forks": 663,
+          "starsToday": 154,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "shanliuling/dsh-image-gen",
+          "url": "https://github.com/shanliuling/dsh-image-gen",
+          "description": "可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI.",
+          "language": "TypeScript",
+          "stars": 1467,
+          "forks": 124,
+          "starsToday": 92,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+          "language": "TypeScript",
+          "stars": 26062,
+          "forks": 2067,
+          "starsToday": 19,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "QwenLM/qwen-code",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "description": "An open-source AI coding agent that lives in your terminal.",
+          "language": "TypeScript",
+          "stars": 30109,
+          "forks": 3417,
+          "starsToday": 574,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "AdventDevInc/kudu",
+          "url": "https://github.com/AdventDevInc/kudu",
+          "description": "Free Windows, Mac and Linux cleaner, scanner, and more.",
+          "language": "TypeScript",
+          "stars": 4335,
+          "forks": 360,
+          "starsToday": 24,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "language": "TypeScript",
+          "stars": 8765,
+          "forks": 1058,
+          "starsToday": 13,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "thesysdev/openui",
+          "url": "https://github.com/thesysdev/openui",
+          "description": "The Open Standard for Generative UI",
+          "language": "TypeScript",
+          "stars": 15188,
+          "forks": 1009,
+          "starsToday": 42,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "adewaskar/jarvis",
+          "url": "https://github.com/adewaskar/jarvis",
+          "description": "J.A.R.V.I.S for automating your daily tasks using Claude Code",
+          "language": "TypeScript",
+          "stars": 883,
+          "forks": 384,
+          "starsToday": 36,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 15,
+          "name": "callstack/agent-device",
+          "url": "https://github.com/callstack/agent-device",
+          "description": "Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on devices and simulators, locally or in the cloud.",
+          "language": "TypeScript",
+          "stars": 5373,
+          "forks": 401,
+          "starsToday": 26,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 16,
+          "name": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine",
+          "language": "TypeScript",
+          "stars": 48514,
+          "forks": 5262,
+          "starsToday": 48,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 17,
+          "name": "lidge-jun/opencodex",
+          "url": "https://github.com/lidge-jun/opencodex",
+          "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
+          "language": "TypeScript",
+          "stars": 18481,
+          "forks": 1472,
+          "starsToday": 55,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 18,
+          "name": "actions/checkout",
+          "url": "https://github.com/actions/checkout",
+          "description": "Action for checking out a repo",
+          "language": "TypeScript",
+          "stars": 9015,
+          "forks": 2752,
+          "starsToday": 6,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []

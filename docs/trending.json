@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T12:27:07.613Z",
+  "updatedAt": "2026-11-13T18:40:37.034Z",
   "since": "2024-11-17",
   "sinceLabel": "November 2024",
   "sinceShort": "Nov 2024",
@@ -6546,8 +6546,8 @@
     },
     {
       "date": "2026-11-13",
-      "ts": 6,
-      "all": 23,
+      "ts": 3,
+      "all": 4,
       "tsKnown": true,
       "allKnown": true,
       "tsRepo": "elie222/rakazo",
@@ -6563,18 +6563,18 @@
       "longestOnListStreak": 48,
       "currentStreak": 48,
       "best": 1,
-      "today": 6,
+      "today": 3,
       "todayKnown": true
     },
     "all": {
       "daysAtOne": 25,
-      "top10": 115,
+      "top10": 116,
       "onList": 189,
       "longestOneStreak": 3,
       "longestOnListStreak": 9,
       "currentStreak": 5,
       "best": 1,
-      "today": 23,
+      "today": 4,
       "todayKnown": true
     }
   },
