@@ -178,6 +178,179 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-13T06:32:57.337Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+          "language": "TypeScript",
+          "stars": 21842,
+          "forks": 3034,
+          "starsToday": 9104,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "lobehub/lobehub",
+          "url": "https://github.com/lobehub/lobehub",
+          "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
+          "language": "TypeScript",
+          "stars": 85210,
+          "forks": 16266,
+          "starsToday": 1186,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "vuejs/core",
+          "url": "https://github.com/vuejs/core",
+          "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+          "language": "TypeScript",
+          "stars": 55013,
+          "forks": 9338,
+          "starsToday": 214,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "garrytan/gbrain",
+          "url": "https://github.com/garrytan/gbrain",
+          "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+          "language": "TypeScript",
+          "stars": 32803,
+          "forks": 4896,
+          "starsToday": 1248,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "can1357/oh-my-pi",
+          "url": "https://github.com/can1357/oh-my-pi",
+          "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
+          "language": "TypeScript",
+          "stars": 38877,
+          "forks": 4438,
+          "starsToday": 949,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "RocketChat/Rocket.Chat",
+          "url": "https://github.com/RocketChat/Rocket.Chat",
+          "description": "The Secure CommsOS™ for mission-critical operations",
+          "language": "TypeScript",
+          "stars": 46504,
+          "forks": 14150,
+          "starsToday": 153,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "ParadevAI/Paradev",
+          "url": "https://github.com/ParadevAI/Paradev",
+          "description": "Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions.",
+          "language": "TypeScript",
+          "stars": 16268,
+          "forks": 1457,
+          "starsToday": 302,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description": "A context-compression plugin for month-long single sessions (billions of tokens) and small context windows (a 100K context is enough) .上下文压缩插件，月级长会话， 兼顾小窗口(100k上下文足矣) . billion-context is all you need",
+          "language": "TypeScript",
+          "stars": 7131,
+          "forks": 584,
+          "starsToday": 2986,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "vitejs/vite",
+          "url": "https://github.com/vitejs/vite",
+          "description": "Next generation frontend tooling. It's fast!",
+          "language": "TypeScript",
+          "stars": 83899,
+          "forks": 9982,
+          "starsToday": 401,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "grafana/grafana",
+          "url": "https://github.com/grafana/grafana",
+          "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+          "language": "TypeScript",
+          "stars": 77874,
+          "forks": 14971,
+          "starsToday": 196,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "description": "An open source design system that's fully customizable and agent ready",
+          "language": "TypeScript",
+          "stars": 26858,
+          "forks": 2084,
+          "starsToday": 12506,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "description": "Keep your coding agent up to date with the latest web best practices",
+          "language": "TypeScript",
+          "stars": 3571,
+          "forks": 222,
+          "starsToday": 1341,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "language": "TypeScript",
+          "stars": 141409,
+          "forks": 20881,
+          "starsToday": 1704,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+          "language": "TypeScript",
+          "stars": 58687,
+          "forks": 10712,
+          "starsToday": 10337,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "getpaseo/paseo",
+          "url": "https://github.com/getpaseo/paseo",
+          "description": "Orchestrate multiple coding agents from desktop and mobile",
+          "language": "TypeScript",
+          "stars": 23931,
+          "forks": 2936,
+          "starsToday": 756,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": []
