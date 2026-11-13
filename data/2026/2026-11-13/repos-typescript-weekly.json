@@ -351,7 +351,212 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-13T12:27:07.613Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+          "language": "TypeScript",
+          "stars": 21981,
+          "forks": 3048,
+          "starsToday": 9104,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "lobehub/lobehub",
+          "url": "https://github.com/lobehub/lobehub",
+          "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
+          "language": "TypeScript",
+          "stars": 85257,
+          "forks": 16275,
+          "starsToday": 1186,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "openai/codex-security",
+          "url": "https://github.com/openai/codex-security",
+          "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "language": "TypeScript",
+          "stars": 12818,
+          "forks": 1005,
+          "starsToday": 1478,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "CopilotKit/OpenBot",
+          "url": "https://github.com/CopilotKit/OpenBot",
+          "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+          "language": "TypeScript",
+          "stars": 11982,
+          "forks": 1465,
+          "starsToday": 1717,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "immich-app/immich",
+          "url": "https://github.com/immich-app/immich",
+          "description": "High performance self-hosted photo and video management solution.",
+          "language": "TypeScript",
+          "stars": 119076,
+          "forks": 7583,
+          "starsToday": 744,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "can1357/oh-my-pi",
+          "url": "https://github.com/can1357/oh-my-pi",
+          "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
+          "language": "TypeScript",
+          "stars": 38919,
+          "forks": 4444,
+          "starsToday": 949,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "description": "Open source alternative to Semrush and Ahrefs",
+          "language": "TypeScript",
+          "stars": 27561,
+          "forks": 3859,
+          "starsToday": 1001,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description": "A context-compression plugin for month-long single sessions (billions of tokens) and small context windows (a 100K context is enough) .上下文压缩插件，月级长会话， 兼顾小窗口(100k上下文足矣) . billion-context is all you need",
+          "language": "TypeScript",
+          "stars": 7188,
+          "forks": 589,
+          "starsToday": 2986,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+          "language": "TypeScript",
+          "stars": 10261,
+          "forks": 776,
+          "starsToday": 378,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "humanlayer/skills",
+          "url": "https://github.com/humanlayer/skills",
+          "description": null,
+          "language": "TypeScript",
+          "stars": 5767,
+          "forks": 205,
+          "starsToday": 141,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "getpaseo/paseo",
+          "url": "https://github.com/getpaseo/paseo",
+          "description": "Orchestrate multiple coding agents from desktop and mobile",
+          "language": "TypeScript",
+          "stars": 23966,
+          "forks": 2942,
+          "starsToday": 756,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "description": "An open source design system that's fully customizable and agent ready",
+          "language": "TypeScript",
+          "stars": 27120,
+          "forks": 2100,
+          "starsToday": 12506,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "description": "Keep your coding agent up to date with the latest web best practices",
+          "language": "TypeScript",
+          "stars": 4147,
+          "forks": 244,
+          "starsToday": 1341,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "elie222/rakazo",
+          "url": "https://github.com/elie222/rakazo",
+          "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+          "language": "TypeScript",
+          "stars": 8201,
+          "forks": 1487,
+          "starsToday": 974,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "nightly-labs/openbot",
+          "url": "https://github.com/nightly-labs/openbot",
+          "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+          "language": "TypeScript",
+          "stars": 7394,
+          "forks": 743,
+          "starsToday": 1524,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 16,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+          "language": "TypeScript",
+          "stars": 59019,
+          "forks": 10746,
+          "starsToday": 10337,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 17,
+          "name": "garrytan/gbrain",
+          "url": "https://github.com/garrytan/gbrain",
+          "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+          "language": "TypeScript",
+          "stars": 32816,
+          "forks": 4898,
+          "starsToday": 1248,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
-  "best": []
+  "best": [
+    {
+      "kind": "repo",
+      "key": "elie222/rakazo",
+      "url": "https://github.com/elie222/rakazo",
+      "bestRank": 14,
+      "scrapedAt": "2026-11-13T12:27:07.613Z",
+      "starsToday": 974,
+      "featuredRepo": null
+    }
+  ]
 }
