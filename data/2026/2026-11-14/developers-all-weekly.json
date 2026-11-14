@@ -288,6 +288,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-14T06:28:49.243Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "l0ng-ai",
+          "name": "l0ng-ai",
+          "url": "https://github.com/l0ng-ai",
+          "featuredRepo": {
+            "name": "l0ng-ai/openidea",
+            "url": "https://github.com/l0ng-ai/openidea",
+            "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insi…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "ZhuLinsen",
+          "name": "zhulinsen",
+          "url": "https://github.com/ZhuLinsen",
+          "featuredRepo": {
+            "name": "ZhuLinsen/daily_stock_analysis",
+            "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+            "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "derekross",
+          "name": "Derek Ross",
+          "url": "https://github.com/derekross",
+          "featuredRepo": {
+            "name": "derekross/omarchy-mobile",
+            "url": "https://github.com/derekross/omarchy-mobile",
+            "description": "Omarchy Mobile: native Omarchy on mobile phones. Arch Linux ARM, Hyprland and Omarchy on a mainline kernel (work in progress)"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "ranxianglei",
+          "name": "ranxianglei",
+          "url": "https://github.com/ranxianglei",
+          "featuredRepo": {
+            "name": "ranxianglei/billion-context",
+            "url": "https://github.com/ranxianglei/billion-context",
+            "description": "A context-compression plugin for month-long single sessions (billions of tokens) and small context windows (a 100K context is enough), bi…"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "yetone",
+          "name": "yetone",
+          "url": "https://github.com/yetone",
+          "featuredRepo": {
+            "name": "yetone/magpie",
+            "url": "https://github.com/yetone/magpie",
+            "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "SamuelSchlesinger",
+          "name": "Samuel Schlesinger",
+          "url": "https://github.com/SamuelSchlesinger",
+          "featuredRepo": {
+            "name": "SamuelSchlesinger/lean.vim",
+            "url": "https://github.com/SamuelSchlesinger/lean.vim",
+            "description": "A vim port of lean.nvim."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "andrewnakas",
+          "name": "Andrew Nakas",
+          "url": "https://github.com/andrewnakas",
+          "featuredRepo": {
+            "name": "andrewnakas/gtav-recomp",
+            "url": "https://github.com/andrewnakas/gtav-recomp",
+            "description": "GTA V (Xbox 360, TU27) static recompilation with ReXGlue"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "zts212653",
+          "name": "Lysander Su",
+          "url": "https://github.com/zts212653",
+          "featuredRepo": {
+            "name": "zts212653/clowder-ai",
+            "url": "https://github.com/zts212653/clowder-ai",
+            "description": "Build AI teams, not just agents. Hard rails, soft power, shared mission."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "serenakeyitan",
+          "name": "Serena",
+          "url": "https://github.com/serenakeyitan",
+          "featuredRepo": {
+            "name": "serenakeyitan/agent-org-chart",
+            "url": "https://github.com/serenakeyitan/agent-org-chart",
+            "description": "Awesome catalog of portable agent org charts — pick one, paste to your grokbot/dots/etc, spawn the team. Platform-agnostic."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "adamdotdevin",
+          "name": "Adam",
+          "url": "https://github.com/adamdotdevin",
+          "featuredRepo": {
+            "name": "adamdotdevin/good-repo",
+            "url": "https://github.com/adamdotdevin/good-repo",
+            "description": "Preeeeetty, pretty good"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "mattabate",
+          "name": "Matt Abate",
+          "url": "https://github.com/mattabate",
+          "featuredRepo": {
+            "name": "mattabate/life-distributable",
+            "url": "https://github.com/mattabate/life-distributable",
+            "description": "A personal agent that works on your life around the clock, on a Mac you own. One sentence to Claude Code installs it."
+          }
+        },
+        {
+          "rank": 13,
+          "username": "wuwentao",
+          "name": "Hello World",
+          "url": "https://github.com/wuwentao",
+          "featuredRepo": {
+            "name": "wuwentao/midea_ac_lan",
+            "url": "https://github.com/wuwentao/midea_ac_lan",
+            "description": "Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "ccch1mneyyy",
+          "name": "Chimney",
+          "url": "https://github.com/ccch1mneyyy",
+          "featuredRepo": {
+            "name": "ccch1mneyyy/dsh-Go",
+            "url": "https://github.com/ccch1mneyyy/dsh-Go",
+            "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "fzn0x",
+          "name": "functionx.dev",
+          "url": "https://github.com/fzn0x",
+          "featuredRepo": {
+            "name": "fzn0x/mixmusic",
+            "url": "https://github.com/fzn0x/mixmusic",
+            "description": "MixMusic is a native desktop player for YouTube Music and Spotify on macOS, Windows and Linux with Community Themes and Plugins. iOS and …"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "mantrakp04",
+          "name": "Mantra",
+          "url": "https://github.com/mantrakp04",
+          "featuredRepo": {
+            "name": "mantrakp04/manusmcp",
+            "url": "https://github.com/mantrakp04/manusmcp",
+            "description": "ManusMCP is a project that implements AI agent workflows using Flowise. It features specialized AI agents with distinct roles (Planner, F…"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "mitchellh",
+          "name": "Mitchell Hashimoto",
+          "url": "https://github.com/mitchellh",
+          "featuredRepo": {
+            "name": "mitchellh/vouch",
+            "url": "https://github.com/mitchellh/vouch",
+            "description": "A community trust management system based on explicit vouches to participate."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/ruflo",
+            "url": "https://github.com/ruvnet/ruflo",
+            "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI system…"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "runkids",
+          "name": "Willie",
+          "url": "https://github.com/runkids",
+          "featuredRepo": {
+            "name": "runkids/skillshare",
+            "url": "https://github.com/runkids/skillshare",
+            "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing."
+          }
+        },
+        {
+          "rank": 23,
+          "username": "Hao0321",
+          "name": "Hao0321",
+          "url": "https://github.com/Hao0321",
+          "featuredRepo": {
+            "name": "Hao0321/video-autopilot-kit",
+            "url": "https://github.com/Hao0321/video-autopilot-kit",
+            "description": "Fill-in-your-own-data framework for YouTube / short-form video automation: CapCut JSON + ffmpeg tooling + an onboarding questionnaire. Sh…"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "joakimeriksson",
+          "name": "Joakim Eriksson",
+          "url": "https://github.com/joakimeriksson",
+          "featuredRepo": {
+            "name": "joakimeriksson/fm1-emu",
+            "url": "https://github.com/joakimeriksson/fm1-emu",
+            "description": "Emulator for the M-VAVE FM-1 pocket synth: runs its firmwares unchanged in the browser and natively"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "drowzeys",
+          "name": "keys",
+          "url": "https://github.com/drowzeys",
+          "featuredRepo": {
+            "name": "drowzeys/Imagination-Studio-by-keys-Wasserman",
+            "url": "https://github.com/drowzeys/Imagination-Studio-by-keys-Wasserman",
+            "description": "Imagination Studio by keys+Wasserman powered by TensorFold: an AI film studio for Mac and NVIDIA DGX Spark. Plan a film like a crew (Slat…"
+          }
+        }
+      ]
     }
   ],
   "best": []

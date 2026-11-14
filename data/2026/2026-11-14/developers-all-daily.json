@@ -280,6 +280,281 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-14T06:28:49.243Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "isair",
+          "name": "Baris Sencan",
+          "url": "https://github.com/isair",
+          "featuredRepo": {
+            "name": "isair/jarvis",
+            "url": "https://github.com/isair/jarvis",
+            "description": "Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or O…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 5,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/RuView",
+            "url": "https://github.com/ruvnet/RuView",
+            "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "ersinkoc",
+          "name": "Ersin KOÇ",
+          "url": "https://github.com/ersinkoc",
+          "featuredRepo": {
+            "name": "ersinkoc/phonebox",
+            "url": "https://github.com/ersinkoc/phonebox",
+            "description": "Turn an old Android phone into a local desk panel for Windows, Linux and macOS. 55 widgets, Smart Stack, AI quotas and sessions, media co…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "ZhuLinsen",
+          "name": "zhulinsen",
+          "url": "https://github.com/ZhuLinsen",
+          "featuredRepo": {
+            "name": "ZhuLinsen/daily_stock_analysis",
+            "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+            "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "JustVugg",
+          "name": "Vincenzo Fornaro",
+          "url": "https://github.com/JustVugg",
+          "featuredRepo": {
+            "name": "JustVugg/colibri",
+            "url": "https://github.com/JustVugg/colibri",
+            "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "joakimeriksson",
+          "name": "Joakim Eriksson",
+          "url": "https://github.com/joakimeriksson",
+          "featuredRepo": {
+            "name": "joakimeriksson/fm1-emu",
+            "url": "https://github.com/joakimeriksson/fm1-emu",
+            "description": "Emulator for the M-VAVE FM-1 pocket synth: runs its firmwares unchanged in the browser and natively"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "ikaijua",
+          "name": "ikaijua",
+          "url": "https://github.com/ikaijua",
+          "featuredRepo": {
+            "name": "ikaijua/Awesome-AITools",
+            "url": "https://github.com/ikaijua/Awesome-AITools",
+            "description": "This repo collects awesome AI tools. Welcome everyone to recommend more awesome AI tools together!"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "runkids",
+          "name": "Willie",
+          "url": "https://github.com/runkids",
+          "featuredRepo": {
+            "name": "runkids/skillshare",
+            "url": "https://github.com/runkids/skillshare",
+            "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing."
+          }
+        },
+        {
+          "rank": 13,
+          "username": "danielmeppiel",
+          "name": "Daniel Meppiel",
+          "url": "https://github.com/danielmeppiel",
+          "featuredRepo": {
+            "name": "danielmeppiel/apmx",
+            "url": "https://github.com/danielmeppiel/apmx",
+            "description": "Run one contract with native Copilot; retain the output and independent check results."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "Gilbert09",
+          "name": "Tom Owers",
+          "url": "https://github.com/Gilbert09",
+          "featuredRepo": {
+            "name": "Gilbert09/talyn",
+            "url": "https://github.com/Gilbert09/talyn",
+            "description": "Give every task its own coding agent. Run Claude Code and Codex in parallel cloud sandboxes on your own subscription, each one opening a …"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "jtydhr88",
+          "name": "Terry Jia",
+          "url": "https://github.com/jtydhr88",
+          "featuredRepo": {
+            "name": "jtydhr88/screenwriting-skills",
+            "url": "https://github.com/jtydhr88/screenwriting-skills",
+            "description": "Professional agent skills for screenwriting, television writing and dramaturgy"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "zhukunpenglinyutong",
+          "name": "朱昆鹏",
+          "url": "https://github.com/zhukunpenglinyutong",
+          "featuredRepo": {
+            "name": "zhukunpenglinyutong/jetbrains-cc-gui",
+            "url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
+            "description": "Jetbrains Claude Code and Codex GUI Plugin"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "MakazhanAlpamys",
+          "name": "Alpamys Makazhan",
+          "url": "https://github.com/MakazhanAlpamys",
+          "featuredRepo": {
+            "name": "MakazhanAlpamys/Soup",
+            "url": "https://github.com/MakazhanAlpamys/Soup",
+            "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "ccch1mneyyy",
+          "name": "Chimney",
+          "url": "https://github.com/ccch1mneyyy",
+          "featuredRepo": {
+            "name": "ccch1mneyyy/dsh-Go",
+            "url": "https://github.com/ccch1mneyyy/dsh-Go",
+            "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "ppenna",
+          "name": "Pedro Henrique Penna",
+          "url": "https://github.com/ppenna",
+          "featuredRepo": null
+        },
+        {
+          "rank": 20,
+          "username": "tmchow",
+          "name": "Trevin Chow",
+          "url": "https://github.com/tmchow",
+          "featuredRepo": {
+            "name": "tmchow/illo-skill",
+            "url": "https://github.com/tmchow/illo-skill",
+            "description": "illo skill — an AI agent skill that turns ideas and articles into original print-style editorial illustrations, starring a recurring masc…"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "cliffhall",
+          "name": "Cliff Hall",
+          "url": "https://github.com/cliffhall",
+          "featuredRepo": null
+        },
+        {
+          "rank": 22,
+          "username": "Cyan4973",
+          "name": "Yann Collet",
+          "url": "https://github.com/Cyan4973",
+          "featuredRepo": {
+            "name": "Cyan4973/xxHash",
+            "url": "https://github.com/Cyan4973/xxHash",
+            "description": "Extremely fast non-cryptographic hash algorithm"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "dashhuang",
+          "name": "Dash",
+          "url": "https://github.com/dashhuang",
+          "featuredRepo": {
+            "name": "dashhuang/openclaw-chat-history-import",
+            "url": "https://github.com/dashhuang/openclaw-chat-history-import",
+            "description": "OpenClaw skill for importing external chat history into archive, daily memory, and MEMORY.md workflows."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "karanb192",
+          "name": "Karan Bansal",
+          "url": "https://github.com/karanb192",
+          "featuredRepo": {
+            "name": "karanb192/awesome-claude-code-mods",
+            "url": "https://github.com/karanb192/awesome-claude-code-mods",
+            "description": "8,000+ Claude Code mods, with what each one can access before you install it. Context and usage meters, prompt cache warmers, status line…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        }
+      ]
     }
   ],
   "best": [
