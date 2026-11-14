@@ -854,6 +854,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-14T18:22:36.644Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "aashish254",
+          "name": "Aashish Mahato",
+          "url": "https://github.com/aashish254",
+          "featuredRepo": {
+            "name": "aashish254/ai-image-detection",
+            "url": "https://github.com/aashish254/ai-image-detection",
+            "description": "🔍 Multi-Modal Forensic Analysis Platform — Detect AI-generated images using frequency-domain math, vision AI & 7 novel detection algorithms"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/vibestack",
+            "url": "https://github.com/lalalune/vibestack",
+            "description": "Stories, rules and a Quint model in one Markdown file; verified TypeScript out"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "simonklee",
+          "name": "Simon Klee",
+          "url": "https://github.com/simonklee",
+          "featuredRepo": {
+            "name": "simonklee/opencode-native-preview",
+            "url": "https://github.com/simonklee/opencode-native-preview",
+            "description": "OpenCode Native CLI Preview builds"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/plannotator",
+            "url": "https://github.com/backnotprop/plannotator",
+            "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedba…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "paulirish",
+          "name": "Paul Irish",
+          "url": "https://github.com/paulirish",
+          "featuredRepo": {
+            "name": "paulirish/chrome-capture",
+            "url": "https://github.com/paulirish/chrome-capture",
+            "description": "60-120fps / 2160p tab video/audio capture from Chrome"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "lfnovo",
+          "name": "Luis Novo",
+          "url": "https://github.com/lfnovo",
+          "featuredRepo": {
+            "name": "lfnovo/open-notebook",
+            "url": "https://github.com/lfnovo/open-notebook",
+            "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "Gilbert09",
+          "name": "Tom Owers",
+          "url": "https://github.com/Gilbert09",
+          "featuredRepo": {
+            "name": "Gilbert09/talyn",
+            "url": "https://github.com/Gilbert09/talyn",
+            "description": "Give every task its own coding agent. Run Claude Code and Codex in parallel cloud sandboxes on your own subscription, each one opening a …"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "smontlouis",
+          "name": "Montlouis-Calixte Stéphane",
+          "url": "https://github.com/smontlouis",
+          "featuredRepo": {
+            "name": "smontlouis/bible-strong-avatar-lab",
+            "url": "https://github.com/smontlouis/bible-strong-avatar-lab",
+            "description": null
+          }
+        },
+        {
+          "rank": 13,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "nwparker",
+          "name": "Neil",
+          "url": "https://github.com/nwparker",
+          "featuredRepo": {
+            "name": "nwparker/orca-db-studio",
+            "url": "https://github.com/nwparker/orca-db-studio",
+            "description": "DB Studio is an Orca plugin that lets you work with PostgreSQL, MySQL/MariaDB, and SQLite directly from an editor tab."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "TUARAN",
+          "name": "TUARAN",
+          "url": "https://github.com/TUARAN",
+          "featuredRepo": {
+            "name": "TUARAN/frontend-weekly-digest-cn",
+            "url": "https://github.com/TUARAN/frontend-weekly-digest-cn",
+            "description": "📘每周更新国外论坛的前端热门文章，推荐大家阅读/翻译，紧跟时事，掌握前端技术动态～"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "surlymochan",
+          "name": "Nick",
+          "url": "https://github.com/surlymochan",
+          "featuredRepo": {
+            "name": "surlymochan/volto",
+            "url": "https://github.com/surlymochan/volto",
+            "description": "volto — a control plane where AI bots work as a cast: roles, memory, knowledge. (formerly OpenBot)"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "keyvanarasteh",
+          "name": "Keyvan Arasteh",
+          "url": "https://github.com/keyvanarasteh",
+          "featuredRepo": {
+            "name": "keyvanarasteh/os-lab",
+            "url": "https://github.com/keyvanarasteh/os-lab",
+            "description": null
+          }
+        },
+        {
+          "rank": 18,
+          "username": "ZaynJarvis",
+          "name": "Zayn Jarvis",
+          "url": "https://github.com/ZaynJarvis",
+          "featuredRepo": {
+            "name": "ZaynJarvis/aesthetics",
+            "url": "https://github.com/ZaynJarvis/aesthetics",
+            "description": "A public workbook of design styles, aesthetics, and image-generation prompts."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "l0ng-ai",
+          "name": "l0ng-ai",
+          "url": "https://github.com/l0ng-ai",
+          "featuredRepo": {
+            "name": "l0ng-ai/openidea",
+            "url": "https://github.com/l0ng-ai/openidea",
+            "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insi…"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "crynta",
+          "name": "Crynta",
+          "url": "https://github.com/crynta",
+          "featuredRepo": {
+            "name": "crynta/terax-ai",
+            "url": "https://github.com/crynta/terax-ai",
+            "description": "Lightweight (7MB) terminal-first AI-native development environment"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "joelhooks",
+          "name": "Joel Hooks",
+          "url": "https://github.com/joelhooks",
+          "featuredRepo": {
+            "name": "joelhooks/rat-stack",
+            "url": "https://github.com/joelhooks/rat-stack",
+            "description": "🐀 Agentic TypeScript scaffold: Effect 4, XState 6 + @xstate/effect, Alchemy infra, varlock config, and a fence that makes cheating uncomf…"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "SebConejo",
+          "name": "Sébastien Conejo",
+          "url": "https://github.com/SebConejo",
+          "featuredRepo": {
+            "name": "SebConejo/simplepdf-embed",
+            "url": "https://github.com/SebConejo/simplepdf-embed",
+            "description": "PDF editor in the browser – add text, checkboxes, pictures, signatures to PDF files. Merge, rotate PDF pages – iframe, script and React c…"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "meganrogge",
+          "name": "Megan Rogge",
+          "url": "https://github.com/meganrogge",
+          "featuredRepo": {
+            "name": "meganrogge/template-string-converter",
+            "url": "https://github.com/meganrogge/template-string-converter",
+            "description": "Autocorrect from quotes to backticks"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "benvinegar",
+          "name": "Ben Vinegar",
+          "url": "https://github.com/benvinegar",
+          "featuredRepo": {
+            "name": "benvinegar/counterscale",
+            "url": "https://github.com/benvinegar/counterscale",
+            "description": "Scalable web analytics you run yourself on Cloudflare"
+          }
+        }
+      ]
     }
   ],
   "best": [
