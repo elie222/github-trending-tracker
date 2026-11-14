@@ -571,6 +571,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-14T12:24:44.031Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "l0ng-ai",
+          "name": "l0ng-ai",
+          "url": "https://github.com/l0ng-ai",
+          "featuredRepo": {
+            "name": "l0ng-ai/openidea",
+            "url": "https://github.com/l0ng-ai/openidea",
+            "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insi…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "ranxianglei",
+          "name": "ranxianglei",
+          "url": "https://github.com/ranxianglei",
+          "featuredRepo": {
+            "name": "ranxianglei/billion-context",
+            "url": "https://github.com/ranxianglei/billion-context",
+            "description": "A context-compression plugin for month-long single sessions (billions of tokens) and small context windows (a 100K context is enough), bi…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "zts212653",
+          "name": "Lysander Su",
+          "url": "https://github.com/zts212653",
+          "featuredRepo": {
+            "name": "zts212653/clowder-ai",
+            "url": "https://github.com/zts212653/clowder-ai",
+            "description": "Build AI teams, not just agents. Hard rails, soft power, shared mission."
+          }
+        },
+        {
+          "rank": 5,
+          "username": "serenakeyitan",
+          "name": "Serena",
+          "url": "https://github.com/serenakeyitan",
+          "featuredRepo": {
+            "name": "serenakeyitan/agent-org-chart",
+            "url": "https://github.com/serenakeyitan/agent-org-chart",
+            "description": "Awesome catalog of portable agent org charts — pick one, paste to your grokbot/dots/etc, spawn the team. Platform-agnostic."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "mantrakp04",
+          "name": "Mantra",
+          "url": "https://github.com/mantrakp04",
+          "featuredRepo": {
+            "name": "mantrakp04/manusmcp",
+            "url": "https://github.com/mantrakp04/manusmcp",
+            "description": "ManusMCP is a project that implements AI agent workflows using Flowise. It features specialized AI agents with distinct roles (Planner, F…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/ruflo",
+            "url": "https://github.com/ruvnet/ruflo",
+            "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI system…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "RobinMalfait",
+          "name": "Robin Malfait",
+          "url": "https://github.com/RobinMalfait",
+          "featuredRepo": {
+            "name": "RobinMalfait/lazy-collections",
+            "url": "https://github.com/RobinMalfait/lazy-collections",
+            "description": "Collection of fast and lazy operations"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "bowenliang123",
+          "name": "Bowen Liang",
+          "url": "https://github.com/bowenliang123",
+          "featuredRepo": {
+            "name": "bowenliang123/dsh-context",
+            "url": "https://github.com/bowenliang123/dsh-context",
+            "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for …"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "adityareddy-dev",
+          "name": "Aditya Reddy",
+          "url": "https://github.com/adityareddy-dev",
+          "featuredRepo": {
+            "name": "adityareddy-dev/react-inp-blame",
+            "url": "https://github.com/adityareddy-dev/react-inp-blame",
+            "description": "Interaction attribution for INP: joins Event Timing and Long Animation Frames to the React fiber tree."
+          }
+        },
+        {
+          "rank": 13,
+          "username": "Frankie-Xu",
+          "name": "Frankie-Xu",
+          "url": "https://github.com/Frankie-Xu",
+          "featuredRepo": {
+            "name": "Frankie-Xu/threadport",
+            "url": "https://github.com/Frankie-Xu/threadport",
+            "description": "Portable, verifiable work state for coding agents"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "pl4nty",
+          "name": "Tom Plant",
+          "url": "https://github.com/pl4nty",
+          "featuredRepo": {
+            "name": "pl4nty/winget-extras",
+            "url": "https://github.com/pl4nty/winget-extras",
+            "description": "A WinGet source for extra packages"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "code-yeongyu",
+          "name": "YeonGyu-Kim",
+          "url": "https://github.com/code-yeongyu",
+          "featuredRepo": {
+            "name": "code-yeongyu/oh-my-openagent",
+            "url": "https://github.com/code-yeongyu/oh-my-openagent",
+            "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+          }
+        },
+        {
+          "rank": 16,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/pstack",
+            "url": "https://github.com/backnotprop/pstack",
+            "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "ersinkoc",
+          "name": "Ersin KOÇ",
+          "url": "https://github.com/ersinkoc",
+          "featuredRepo": {
+            "name": "ersinkoc/AI-Video-Factory",
+            "url": "https://github.com/ersinkoc/AI-Video-Factory",
+            "description": "AI video factory: from one topic to a finished, multilingual YouTube video. Claude agents write, plan, draw and review; a Studio keeps th…"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "dreamhunter2333",
+          "name": "Dream Hunter",
+          "url": "https://github.com/dreamhunter2333",
+          "featuredRepo": {
+            "name": "dreamhunter2333/cloudflare_temp_email",
+            "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+            "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "Rich-Harris",
+          "name": "Rich Harris",
+          "url": "https://github.com/Rich-Harris",
+          "featuredRepo": {
+            "name": "Rich-Harris/degit",
+            "url": "https://github.com/Rich-Harris/degit",
+            "description": "Straightforward project scaffolding"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "timoncool",
+          "name": "Ilya (Nerual Dreming) Timonin",
+          "url": "https://github.com/timoncool",
+          "featuredRepo": {
+            "name": "timoncool/YuE2-Studio",
+            "url": "https://github.com/timoncool/YuE2-Studio",
+            "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Wind…"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "kgoedecke",
+          "name": "Kevin Goedecke",
+          "url": "https://github.com/kgoedecke",
+          "featuredRepo": {
+            "name": "kgoedecke/doop",
+            "url": "https://github.com/kgoedecke/doop",
+            "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in."
+          }
+        },
+        {
+          "rank": 23,
+          "username": "ascorbic",
+          "name": "Matt Kane",
+          "url": "https://github.com/ascorbic",
+          "featuredRepo": {
+            "name": "ascorbic/cirrus",
+            "url": "https://github.com/ascorbic/cirrus",
+            "description": "A single-user ATProto PDS that runs on a Cloudflare Worker"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "dzianisv",
+          "name": "Den",
+          "url": "https://github.com/dzianisv",
+          "featuredRepo": {
+            "name": "dzianisv/opencode-mobile",
+            "url": "https://github.com/dzianisv/opencode-mobile",
+            "description": "OpenCode Mobile — open-source Android client for the OpenCode AI coding agent. Run AI coding sessions from your phone against your self-h…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "wassgha",
+          "name": "Wassim Gharbi",
+          "url": "https://github.com/wassgha",
+          "featuredRepo": {
+            "name": "wassgha/rescript",
+            "url": "https://github.com/wassgha/rescript",
+            "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser."
+          }
+        }
+      ]
     }
   ],
   "best": [
