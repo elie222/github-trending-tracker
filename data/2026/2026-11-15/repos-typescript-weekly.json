@@ -524,6 +524,190 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-15T18:23:04.819Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "description": "An open source design system that's fully customizable and agent ready",
+          "language": "TypeScript",
+          "stars": 28705,
+          "forks": 2244,
+          "starsToday": 13660,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+          "language": "TypeScript",
+          "stars": 11722,
+          "forks": 1057,
+          "starsToday": 818,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+          "language": "TypeScript",
+          "stars": 23206,
+          "forks": 3228,
+          "starsToday": 6413,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "openai/codex-security",
+          "url": "https://github.com/openai/codex-security",
+          "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "language": "TypeScript",
+          "stars": 13610,
+          "forks": 1061,
+          "starsToday": 2176,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "QwenLM/qwen-code",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "description": "An open-source AI coding agent that lives in your terminal.",
+          "language": "TypeScript",
+          "stars": 30524,
+          "forks": 3534,
+          "starsToday": 1173,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "CopilotKit/OpenBot",
+          "url": "https://github.com/CopilotKit/OpenBot",
+          "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+          "language": "TypeScript",
+          "stars": 12398,
+          "forks": 1532,
+          "starsToday": 1900,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "lobehub/lobehub",
+          "url": "https://github.com/lobehub/lobehub",
+          "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
+          "language": "TypeScript",
+          "stars": 85570,
+          "forks": 16332,
+          "starsToday": 1258,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "language": "TypeScript",
+          "stars": 9174,
+          "forks": 1108,
+          "starsToday": 356,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "a2ui-project/a2ui",
+          "url": "https://github.com/a2ui-project/a2ui",
+          "description": "Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.",
+          "language": "TypeScript",
+          "stars": 17425,
+          "forks": 1412,
+          "starsToday": 408,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "garrytan/gbrain",
+          "url": "https://github.com/garrytan/gbrain",
+          "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+          "language": "TypeScript",
+          "stars": 33078,
+          "forks": 4951,
+          "starsToday": 1351,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "description": "Open source alternative to Semrush and Ahrefs",
+          "language": "TypeScript",
+          "stars": 27794,
+          "forks": 3906,
+          "starsToday": 992,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description": "A context-compression plugin for month-long single sessions (billions of tokens) and small context windows (a 100K context is enough), billion-context is all you need .",
+          "language": "TypeScript",
+          "stars": 7519,
+          "forks": 620,
+          "starsToday": 2942,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "liguobao/ds-harness-remote",
+          "url": "https://github.com/liguobao/ds-harness-remote",
+          "description": "基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web 随时访问本地设备上的DSH 、CodeX、Cursor、Claude Code等工作区。 (Built on DeepSeek Harness plugins, this low-latency, end-to-end encrypted P2P solution lets PC, mobile, and web clients access local DSH, Codex, Cursor, and Claude Code workspaces.)",
+          "language": "TypeScript",
+          "stars": 2972,
+          "forks": 224,
+          "starsToday": 719,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "description": "Keep your coding agent up to date with the latest web best practices",
+          "language": "TypeScript",
+          "stars": 6942,
+          "forks": 569,
+          "starsToday": 4363,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "elie222/rakazo",
+          "url": "https://github.com/elie222/rakazo",
+          "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+          "language": "TypeScript",
+          "stars": 8584,
+          "forks": 1548,
+          "starsToday": 966,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 16,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+          "language": "TypeScript",
+          "stars": 61322,
+          "forks": 10996,
+          "starsToday": 9668,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": [

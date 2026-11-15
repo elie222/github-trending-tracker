@@ -524,6 +524,146 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-15T18:23:04.819Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+          "language": "TypeScript",
+          "stars": 25435,
+          "forks": 2325,
+          "starsToday": 1041,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "ag-ui-protocol/ag-ui",
+          "url": "https://github.com/ag-ui-protocol/ag-ui",
+          "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+          "language": "TypeScript",
+          "stars": 17703,
+          "forks": 1798,
+          "starsToday": 393,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "language": "TypeScript",
+          "stars": 9174,
+          "forks": 1108,
+          "starsToday": 248,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+          "language": "TypeScript",
+          "stars": 11722,
+          "forks": 1057,
+          "starsToday": 860,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 56788,
+          "forks": 4801,
+          "starsToday": 718,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "description": "Keep your coding agent up to date with the latest web best practices",
+          "language": "TypeScript",
+          "stars": 6942,
+          "forks": 569,
+          "starsToday": 1220,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "motiondivision/motion",
+          "url": "https://github.com/motiondivision/motion",
+          "description": "A modern animation library for React and JavaScript",
+          "language": "TypeScript",
+          "stars": 35223,
+          "forks": 1548,
+          "starsToday": 74,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "assistant-ui/assistant-ui",
+          "url": "https://github.com/assistant-ui/assistant-ui",
+          "description": "Typescript/React Library for AI Chat 💬🚀",
+          "language": "TypeScript",
+          "stars": 13231,
+          "forks": 1342,
+          "starsToday": 92,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "nolly-studio/cult-ui",
+          "url": "https://github.com/nolly-studio/cult-ui",
+          "description": "Animated components for design engineers. 150+ free shadcn/ui components, built with Tailwind CSS and Motion. MIT licensed.",
+          "language": "TypeScript",
+          "stars": 7450,
+          "forks": 398,
+          "starsToday": 120,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "elder-plinius/G0DM0D3",
+          "url": "https://github.com/elder-plinius/G0DM0D3",
+          "description": "LIBERATED AI CHAT",
+          "language": "TypeScript",
+          "stars": 12411,
+          "forks": 2893,
+          "starsToday": 67,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "motion-canvas/motion-canvas",
+          "url": "https://github.com/motion-canvas/motion-canvas",
+          "description": "Visualize Your Ideas With Code",
+          "language": "TypeScript",
+          "stars": 19942,
+          "forks": 908,
+          "starsToday": 112,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 52790,
+          "forks": 7393,
+          "starsToday": 579,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []

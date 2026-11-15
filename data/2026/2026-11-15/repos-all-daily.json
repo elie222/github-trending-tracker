@@ -524,6 +524,146 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-15T18:23:04.819Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+          "language": "TypeScript",
+          "stars": 25435,
+          "forks": 2325,
+          "starsToday": 1041,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "ag-ui-protocol/ag-ui",
+          "url": "https://github.com/ag-ui-protocol/ag-ui",
+          "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+          "language": "TypeScript",
+          "stars": 17703,
+          "forks": 1798,
+          "starsToday": 393,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "language": "TypeScript",
+          "stars": 9174,
+          "forks": 1108,
+          "starsToday": 248,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+          "language": "TypeScript",
+          "stars": 11722,
+          "forks": 1057,
+          "starsToday": 860,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 56788,
+          "forks": 4801,
+          "starsToday": 718,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "language": "Go",
+          "stars": 51885,
+          "forks": 4082,
+          "starsToday": 688,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "Tencent/LoopForge",
+          "url": "https://github.com/Tencent/LoopForge",
+          "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+          "language": "Go",
+          "stars": 1341,
+          "forks": 260,
+          "starsToday": 484,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "ggml-org/ggml",
+          "url": "https://github.com/ggml-org/ggml",
+          "description": "Tensor library for machine learning",
+          "language": "C++",
+          "stars": 15853,
+          "forks": 1997,
+          "starsToday": 53,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "elementalsouls/Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+          "language": "Python",
+          "stars": 6149,
+          "forks": 945,
+          "starsToday": 221,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "description": "Keep your coding agent up to date with the latest web best practices",
+          "language": "TypeScript",
+          "stars": 6942,
+          "forks": 569,
+          "starsToday": 1220,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "tradermonty/claude-trading-skills",
+          "url": "https://github.com/tradermonty/claude-trading-skills",
+          "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+          "language": "Python",
+          "stars": 5356,
+          "forks": 1145,
+          "starsToday": 707,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "NVIDIA/SkillEvaluator",
+          "url": "https://github.com/NVIDIA/SkillEvaluator",
+          "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+          "language": "Python",
+          "stars": 1486,
+          "forks": 207,
+          "starsToday": 205,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []
