@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-15",
+  "list": "repos",
+  "language": "typescript",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/typescript?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-11-15T01:05:38.055Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+          "language": "TypeScript",
+          "stars": 11137,
+          "forks": 925,
+          "starsToday": 408,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "description": "Keep your coding agent up to date with the latest web best practices",
+          "language": "TypeScript",
+          "stars": 6064,
+          "forks": 404,
+          "starsToday": 1231,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 56311,
+          "forks": 4759,
+          "starsToday": 664,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "QwenLM/qwen-code",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "description": "An open-source AI coding agent that lives in your terminal.",
+          "language": "TypeScript",
+          "stars": 30350,
+          "forks": 3500,
+          "starsToday": 64,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+          "language": "TypeScript",
+          "stars": 24503,
+          "forks": 2226,
+          "starsToday": 495,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "ag-ui-protocol/ag-ui",
+          "url": "https://github.com/ag-ui-protocol/ag-ui",
+          "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+          "language": "TypeScript",
+          "stars": 17371,
+          "forks": 1666,
+          "starsToday": 9,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "lidge-jun/opencodex",
+          "url": "https://github.com/lidge-jun/opencodex",
+          "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
+          "language": "TypeScript",
+          "stars": 18544,
+          "forks": 1512,
+          "starsToday": 51,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "CopilotKit/OpenBot",
+          "url": "https://github.com/CopilotKit/OpenBot",
+          "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+          "language": "TypeScript",
+          "stars": 12278,
+          "forks": 1514,
+          "starsToday": 206,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "CherryHQ/cherry-studio",
+          "url": "https://github.com/CherryHQ/cherry-studio",
+          "description": "Your AI workspace for models, agents, and productivity.",
+          "language": "TypeScript",
+          "stars": 53520,
+          "forks": 5224,
+          "starsToday": 36,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "openai/codex-security",
+          "url": "https://github.com/openai/codex-security",
+          "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "language": "TypeScript",
+          "stars": 13544,
+          "forks": 1054,
+          "starsToday": 595,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "a2ui-project/a2ui",
+          "url": "https://github.com/a2ui-project/a2ui",
+          "description": "Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.",
+          "language": "TypeScript",
+          "stars": 17367,
+          "forks": 1409,
+          "starsToday": 54,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "totec448-spec/chat-on-steroids",
+          "url": "https://github.com/totec448-spec/chat-on-steroids",
+          "description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
+          "language": "TypeScript",
+          "stars": 5186,
+          "forks": 675,
+          "starsToday": 10,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "language": "TypeScript",
+          "stars": 51432,
+          "forks": 5187,
+          "starsToday": 46,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "Narcooo/inkos",
+          "url": "https://github.com/Narcooo/inkos",
+          "description": "Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content",
+          "language": "TypeScript",
+          "stars": 11184,
+          "forks": 2026,
+          "starsToday": 21,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 15,
+          "name": "LodyAI/Lody",
+          "url": "https://github.com/LodyAI/Lody",
+          "description": "Share coding agents with your team on phone and desktop",
+          "language": "TypeScript",
+          "stars": 1765,
+          "forks": 190,
+          "starsToday": 9,
+          "starsLabel": "today"
+        }
+      ]
+    }
+  ],
+  "best": []
+}
