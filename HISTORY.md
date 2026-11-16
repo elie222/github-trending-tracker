@@ -12,8 +12,8 @@ UTC day **2026-11-16**.
 
 | List | Result |
 | --- | --- |
-| TypeScript developers (daily) | **#6** elie222 · elie222/rakazo |
-| all languages developers (daily) | **#15** elie222 · elie222/rakazo |
+| TypeScript developers (daily) | **#5** elie222 · elie222/rakazo |
+| all languages developers (daily) | **#14** elie222 · elie222/rakazo |
 | TypeScript repositories (daily) | **#9** elie222/rakazo |
 | all languages repositories (daily) | not listed |
 
@@ -71,7 +71,7 @@ Days at #1: 2024-12-31, 2025-01-03, 2025-01-04, 2025-01-05, 2025-01-18, 2025-01-
 
 | Date | Best rank | Featured repo | Source |
 | --- | ---: | --- | --- |
-| 2026-11-16 | #6 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
+| 2026-11-16 | #5 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-11-15 | #6 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-11-14 | #3 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-11-13 | #3 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
@@ -535,7 +535,7 @@ Days at #1: 2025-01-18, 2025-02-20, 2025-02-21, 2025-04-04, 2025-04-22, 2025-06-
 
 | Date | Best rank | Featured repo | Source |
 | --- | ---: | --- | --- |
-| 2026-11-16 | #15 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
+| 2026-11-16 | #14 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-11-15 | #15 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-11-14 | #4 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-11-13 | #4 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
@@ -840,10 +840,10 @@ These periods are scraped and stored, but they are not part of the daily totals,
 
 | List | Name | Date | Best rank |
 | --- | --- | --- | --- |
-| TypeScript developers (weekly) | elie222 | 2026-11-16 | #7 |
+| TypeScript developers (weekly) | elie222 | 2026-11-16 | #6 |
 | all languages developers (weekly) | elie222 | 2026-11-16 | #21 |
 | TypeScript repositories (weekly) | elie222/rakazo | 2026-11-16 | #15 |
 | all languages repositories (weekly) | elie222/rakazo | 2026-10-24 | #15 |
-| TypeScript developers (monthly) | elie222 | 2026-11-16 | #10 |
-| all languages developers (monthly) | elie222 | 2026-11-16 | #20 |
+| TypeScript developers (monthly) | elie222 | 2026-11-16 | #8 |
+| all languages developers (monthly) | elie222 | 2026-11-16 | #16 |
 | TypeScript repositories (monthly) | elie222/rakazo | 2026-11-16 | #15 |

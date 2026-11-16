@@ -842,6 +842,289 @@
           "featuredRepo": null
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-16T18:27:19.274Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "SamuelSchlesinger",
+          "name": "Samuel Schlesinger",
+          "url": "https://github.com/SamuelSchlesinger",
+          "featuredRepo": {
+            "name": "SamuelSchlesinger/lean.vim",
+            "url": "https://github.com/SamuelSchlesinger/lean.vim",
+            "description": "A vim port of lean.nvim."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "derekross",
+          "name": "Derek Ross",
+          "url": "https://github.com/derekross",
+          "featuredRepo": {
+            "name": "derekross/omarchy-mobile",
+            "url": "https://github.com/derekross/omarchy-mobile",
+            "description": "Omarchy Mobile: native Omarchy on mobile phones. Arch Linux ARM, Hyprland and Omarchy on a mainline kernel (work in progress)"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "ranxianglei",
+          "name": "ranxianglei",
+          "url": "https://github.com/ranxianglei",
+          "featuredRepo": {
+            "name": "ranxianglei/billion-context",
+            "url": "https://github.com/ranxianglei/billion-context",
+            "description": "A context-compression plugin for month-long single sessions (billions of tokens) and small context windows (a 100K context is enough), bi…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "ccch1mneyyy",
+          "name": "Chimney",
+          "url": "https://github.com/ccch1mneyyy",
+          "featuredRepo": {
+            "name": "ccch1mneyyy/dsh-Go",
+            "url": "https://github.com/ccch1mneyyy/dsh-Go",
+            "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "runkids",
+          "name": "Willie",
+          "url": "https://github.com/runkids",
+          "featuredRepo": {
+            "name": "runkids/skillshare",
+            "url": "https://github.com/runkids/skillshare",
+            "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "yetone",
+          "name": "yetone",
+          "url": "https://github.com/yetone",
+          "featuredRepo": {
+            "name": "yetone/magpie",
+            "url": "https://github.com/yetone/magpie",
+            "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "ersinkoc",
+          "name": "Ersin KOÇ",
+          "url": "https://github.com/ersinkoc",
+          "featuredRepo": {
+            "name": "ersinkoc/phonebox",
+            "url": "https://github.com/ersinkoc/phonebox",
+            "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widgets for system stat…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "aandrew-me",
+          "name": "Andrew",
+          "url": "https://github.com/aandrew-me",
+          "featuredRepo": {
+            "name": "aandrew-me/ytDownloader",
+            "url": "https://github.com/aandrew-me/ytDownloader",
+            "description": "Desktop app to download audio/video from hundreds of sites"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "DeanChensj",
+          "name": "Shangjie Chen",
+          "url": "https://github.com/DeanChensj",
+          "featuredRepo": {
+            "name": "DeanChensj/jiangshan-map",
+            "url": "https://github.com/DeanChensj/jiangshan-map",
+            "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-m…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "joakimeriksson",
+          "name": "Joakim Eriksson",
+          "url": "https://github.com/joakimeriksson",
+          "featuredRepo": {
+            "name": "joakimeriksson/fm1-emu",
+            "url": "https://github.com/joakimeriksson/fm1-emu",
+            "description": "Emulator for the M-VAVE FM-1 pocket synth: runs its firmwares unchanged in the browser and natively"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "surlymochan",
+          "name": "Nick",
+          "url": "https://github.com/surlymochan",
+          "featuredRepo": {
+            "name": "surlymochan/swrm",
+            "url": "https://github.com/surlymochan/swrm",
+            "description": "Distributed heterogeneous agent task dispatcher — claim under lease, return with evidence. Quota-aware routing across Claude, Codex, Open…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "cfregly",
+          "name": "Chris Fregly",
+          "url": "https://github.com/cfregly",
+          "featuredRepo": {
+            "name": "cfregly/ai-performance-engineering",
+            "url": "https://github.com/cfregly/ai-performance-engineering",
+            "description": "Code, labs, and resources for O'Reilly AI Systems Performance Engineering: GPU optimization, distributed training, inference scaling, and…"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "isair",
+          "name": "Baris Sencan",
+          "url": "https://github.com/isair",
+          "featuredRepo": {
+            "name": "isair/jarvis",
+            "url": "https://github.com/isair/jarvis",
+            "description": "A 100% private and local AI assistant for your desktop. Always present, able to jump into conversations. Supports unlimited MCP tools and…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "danielmeppiel",
+          "name": "Daniel Meppiel",
+          "url": "https://github.com/danielmeppiel",
+          "featuredRepo": {
+            "name": "danielmeppiel/apmx",
+            "url": "https://github.com/danielmeppiel/apmx",
+            "description": "Run one contract with native Copilot; retain the output and independent check results."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "gmkurtzer",
+          "name": "Gregory M. Kurtzer",
+          "url": "https://github.com/gmkurtzer",
+          "featuredRepo": {
+            "name": "gmkurtzer/ginux",
+            "url": "https://github.com/gmkurtzer/ginux",
+            "description": null
+          }
+        },
+        {
+          "rank": 20,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/plannotator",
+            "url": "https://github.com/backnotprop/plannotator",
+            "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedba…"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "zts212653",
+          "name": "Lysander Su",
+          "url": "https://github.com/zts212653",
+          "featuredRepo": {
+            "name": "zts212653/clowder-ai",
+            "url": "https://github.com/zts212653/clowder-ai",
+            "description": "Build AI teams, not just agents. Hard rails, soft power, shared mission."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "fzn0x",
+          "name": "functionx.dev",
+          "url": "https://github.com/fzn0x",
+          "featuredRepo": {
+            "name": "fzn0x/mixmusic",
+            "url": "https://github.com/fzn0x/mixmusic",
+            "description": "MixMusic is a native desktop player for YouTube Music and Spotify on macOS, Windows and Linux with Community Themes and Plugins. iOS and …"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "vshulcz",
+          "name": "Vlad Shulcz",
+          "url": "https://github.com/vshulcz",
+          "featuredRepo": {
+            "name": "vshulcz/deja-vu",
+            "url": "https://github.com/vshulcz/deja-vu",
+            "description": "Shared local memory, session history search, cross-agent handoff, and uncommitted code recovery across 46 coding agents — Claude Code, Co…"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "aashish254",
+          "name": "Aashish Mahato",
+          "url": "https://github.com/aashish254",
+          "featuredRepo": {
+            "name": "aashish254/Spillover",
+            "url": "https://github.com/aashish254/Spillover",
+            "description": "Rebalance your Google storage across your own accounts — locally, open source."
+          }
+        },
+        {
+          "rank": 25,
+          "username": "drowzeys",
+          "name": "keys",
+          "url": "https://github.com/drowzeys",
+          "featuredRepo": {
+            "name": "Keys-Wasserman/Imagination-Studio-by-keys-Wasserman",
+            "url": "https://github.com/Keys-Wasserman/Imagination-Studio-by-keys-Wasserman",
+            "description": "Imagination Studio by keys+Wasserman powered by TensorFold: an AI film studio for Mac and NVIDIA DGX Spark. Plan a film like a crew (Slat…"
+          }
+        }
+      ]
     }
   ],
   "best": [

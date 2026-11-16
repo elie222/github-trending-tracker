@@ -854,6 +854,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-16T18:27:19.274Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/estella",
+            "url": "https://github.com/esengine/estella",
+            "description": "A fast 2D and 3D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, p…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gbrain",
+            "url": "https://github.com/garrytan/gbrain",
+            "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/plannotator",
+            "url": "https://github.com/backnotprop/plannotator",
+            "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedba…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "code-yeongyu",
+          "name": "YeonGyu-Kim",
+          "url": "https://github.com/code-yeongyu",
+          "featuredRepo": {
+            "name": "code-yeongyu/oh-my-openagent",
+            "url": "https://github.com/code-yeongyu/oh-my-openagent",
+            "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "dzianisv",
+          "name": "Den",
+          "url": "https://github.com/dzianisv",
+          "featuredRepo": {
+            "name": "dzianisv/opencode-mobile",
+            "url": "https://github.com/dzianisv/opencode-mobile",
+            "description": "OpenCode Mobile — open-source Android client for the OpenCode AI coding agent. Run AI coding sessions from your phone against your self-h…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "costajohnt",
+          "name": "John Costa",
+          "url": "https://github.com/costajohnt",
+          "featuredRepo": {
+            "name": "costajohnt/oss-autopilot",
+            "url": "https://github.com/costajohnt/oss-autopilot",
+            "description": "Claude Code plugin: AI-powered autopilot for managing open source contributions. Track PRs, respond to maintainers, discover issues, main…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "paulirish",
+          "name": "Paul Irish",
+          "url": "https://github.com/paulirish",
+          "featuredRepo": {
+            "name": "paulirish/chrome-capture",
+            "url": "https://github.com/paulirish/chrome-capture",
+            "description": "60-120fps / 2160p tab video/audio capture from Chrome"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "unbraind",
+          "name": "Steve Preu",
+          "url": "https://github.com/unbraind",
+          "featuredRepo": {
+            "name": "unbraind/pm-cli",
+            "url": "https://github.com/unbraind/pm-cli",
+            "description": "Context management for agents and the people working with them: one shared record of goals, tasks, decisions and history, with or without…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "SebConejo",
+          "name": "Sébastien Conejo",
+          "url": "https://github.com/SebConejo",
+          "featuredRepo": {
+            "name": "SebConejo/simplepdf-embed",
+            "url": "https://github.com/SebConejo/simplepdf-embed",
+            "description": "PDF editor in the browser – add text, checkboxes, pictures, signatures to PDF files. Merge, rotate PDF pages – iframe, script and React c…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "narumiruna",
+          "name": "なるみ",
+          "url": "https://github.com/narumiruna",
+          "featuredRepo": {
+            "name": "narumiruna/pi-extensions",
+            "url": "https://github.com/narumiruna/pi-extensions",
+            "description": "A monorepo of Pi Coding Agent extensions"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "chthollyphile",
+          "name": "冬霧",
+          "url": "https://github.com/chthollyphile",
+          "featuredRepo": {
+            "name": "chthollyphile/folia-major",
+            "url": "https://github.com/chthollyphile/folia-major",
+            "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器 A multi-platform music player for local files, Navidrome, and online streaming services, featur…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/vibestack",
+            "url": "https://github.com/lalalune/vibestack",
+            "description": "Stories, rules and a Quint model in one Markdown file; verified TypeScript out"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "simonklee",
+          "name": "Simon Klee",
+          "url": "https://github.com/simonklee",
+          "featuredRepo": {
+            "name": "simonklee/opencode-native-preview",
+            "url": "https://github.com/simonklee/opencode-native-preview",
+            "description": "OpenCode Native CLI Preview builds"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "lfnovo",
+          "name": "Luis Novo",
+          "url": "https://github.com/lfnovo",
+          "featuredRepo": {
+            "name": "lfnovo/open-notebook",
+            "url": "https://github.com/lfnovo/open-notebook",
+            "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "vastsa",
+          "name": "Lan",
+          "url": "https://github.com/vastsa",
+          "featuredRepo": {
+            "name": "vastsa/PI-Desktop",
+            "url": "https://github.com/vastsa/PI-Desktop",
+            "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "benvinegar",
+          "name": "Ben Vinegar",
+          "url": "https://github.com/benvinegar",
+          "featuredRepo": {
+            "name": "benvinegar/counterscale",
+            "url": "https://github.com/benvinegar/counterscale",
+            "description": "Scalable web analytics you run yourself on Cloudflare"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "idosal",
+          "name": "Ido Salomon",
+          "url": "https://github.com/idosal",
+          "featuredRepo": {
+            "name": "idosal/git-mcp",
+            "url": "https://github.com/idosal/git-mcp",
+            "description": "Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "pionxzh",
+          "name": "Pionxzh",
+          "url": "https://github.com/pionxzh",
+          "featuredRepo": {
+            "name": "pionxzh/chatgpt-exporter",
+            "url": "https://github.com/pionxzh/chatgpt-exporter",
+            "description": "Export and Share your ChatGPT conversation history"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "aashish254",
+          "name": "Aashish Mahato",
+          "url": "https://github.com/aashish254",
+          "featuredRepo": {
+            "name": "aashish254/ai-image-detection",
+            "url": "https://github.com/aashish254/ai-image-detection",
+            "description": "🔍 Multi-Modal Forensic Analysis Platform — Detect AI-generated images using frequency-domain math, vision AI & 7 novel detection algorithms"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "edmundhung",
+          "name": "Edmund Hung",
+          "url": "https://github.com/edmundhung",
+          "featuredRepo": {
+            "name": "edmundhung/conform",
+            "url": "https://github.com/edmundhung/conform",
+            "description": "Progressively enhance HTML forms with React. Build resilient, type-safe forms with no hassle using web standards."
+          }
+        }
+      ]
     }
   ],
   "best": [
@@ -861,8 +1144,8 @@
       "kind": "developer",
       "key": "elie222",
       "url": "https://github.com/elie222",
-      "bestRank": 6,
-      "scrapedAt": "2026-11-16T00:47:37.699Z",
+      "bestRank": 5,
+      "scrapedAt": "2026-11-16T18:27:19.274Z",
       "starsToday": null,
       "featuredRepo": "elie222/rakazo"
     }

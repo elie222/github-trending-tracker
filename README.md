@@ -32,8 +32,8 @@ UTC day **2026-11-16**.
 
 | List | Result |
 | --- | --- |
-| TypeScript developers (daily) | **#6** elie222 · elie222/rakazo |
-| all languages developers (daily) | **#15** elie222 · elie222/rakazo |
+| TypeScript developers (daily) | **#5** elie222 · elie222/rakazo |
+| all languages developers (daily) | **#14** elie222 · elie222/rakazo |
 | TypeScript repositories (daily) | **#9** elie222/rakazo |
 | all languages repositories (daily) | not listed |
 
