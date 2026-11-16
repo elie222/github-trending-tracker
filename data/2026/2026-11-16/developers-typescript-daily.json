@@ -288,6 +288,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-16T06:46:57.734Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/estella",
+            "url": "https://github.com/esengine/estella",
+            "description": "A fast 2D and 3D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, p…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/plannotator",
+            "url": "https://github.com/backnotprop/plannotator",
+            "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedba…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "simonklee",
+          "name": "Simon Klee",
+          "url": "https://github.com/simonklee",
+          "featuredRepo": {
+            "name": "simonklee/opencode-native-preview",
+            "url": "https://github.com/simonklee/opencode-native-preview",
+            "description": "OpenCode Native CLI Preview builds"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "afflom",
+          "name": "Alex Flom",
+          "url": "https://github.com/afflom",
+          "featuredRepo": {
+            "name": "afflom/verdant-resonance",
+            "url": "https://github.com/afflom/verdant-resonance",
+            "description": "Sound Gardening"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "SebConejo",
+          "name": "Sébastien Conejo",
+          "url": "https://github.com/SebConejo",
+          "featuredRepo": {
+            "name": "SebConejo/simplepdf-embed",
+            "url": "https://github.com/SebConejo/simplepdf-embed",
+            "description": "PDF editor in the browser – add text, checkboxes, pictures, signatures to PDF files. Merge, rotate PDF pages – iframe, script and React c…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "unbraind",
+          "name": "Steve Preu",
+          "url": "https://github.com/unbraind",
+          "featuredRepo": {
+            "name": "unbraind/pm-cli",
+            "url": "https://github.com/unbraind/pm-cli",
+            "description": "Context management for agents and the people working with them: one shared record of goals, tasks, decisions and history, with or without…"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "Gilbert09",
+          "name": "Tom Owers",
+          "url": "https://github.com/Gilbert09",
+          "featuredRepo": {
+            "name": "Gilbert09/talyn",
+            "url": "https://github.com/Gilbert09/talyn",
+            "description": "Give every task its own coding agent. Run Claude Code and Codex in parallel cloud sandboxes on your own subscription, each one opening a …"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "smontlouis",
+          "name": "Montlouis-Calixte Stéphane",
+          "url": "https://github.com/smontlouis",
+          "featuredRepo": {
+            "name": "smontlouis/bible-strong-avatar-lab",
+            "url": "https://github.com/smontlouis/bible-strong-avatar-lab",
+            "description": null
+          }
+        },
+        {
+          "rank": 13,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/vibestack",
+            "url": "https://github.com/lalalune/vibestack",
+            "description": "Stories, rules and a Quint model in one Markdown file; verified TypeScript out"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "szTheory",
+          "name": "szTheory",
+          "url": "https://github.com/szTheory",
+          "featuredRepo": {
+            "name": "szTheory/exifcleaner",
+            "url": "https://github.com/szTheory/exifcleaner",
+            "description": "Cross-platform desktop GUI app to clean image metadata"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "coleam00",
+          "name": "Cole Medin",
+          "url": "https://github.com/coleam00",
+          "featuredRepo": {
+            "name": "coleam00/Archon",
+            "url": "https://github.com/coleam00/Archon",
+            "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "Rich-Harris",
+          "name": "Rich Harris",
+          "url": "https://github.com/Rich-Harris",
+          "featuredRepo": {
+            "name": "Rich-Harris/degit",
+            "url": "https://github.com/Rich-Harris/degit",
+            "description": "Straightforward project scaffolding"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "dellaert",
+          "name": "Frank Dellaert",
+          "url": "https://github.com/dellaert",
+          "featuredRepo": {
+            "name": "dellaert/fgz",
+            "url": "https://github.com/dellaert/fgz",
+            "description": null
+          }
+        },
+        {
+          "rank": 19,
+          "username": "sam-goodwin",
+          "name": "sam",
+          "url": "https://github.com/sam-goodwin",
+          "featuredRepo": {
+            "name": "sam-goodwin/functionless",
+            "url": "https://github.com/sam-goodwin/functionless",
+            "description": "Compile TypeScript code to AWS \"Functionless\" Step Functions and Event Bridge Pipes"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "crynta",
+          "name": "Crynta",
+          "url": "https://github.com/crynta",
+          "featuredRepo": {
+            "name": "crynta/terax-ai",
+            "url": "https://github.com/crynta/terax-ai",
+            "description": "Lightweight (7MB) terminal-first AI-native development environment"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "Yeraze",
+          "name": "Randall Hand",
+          "url": "https://github.com/Yeraze",
+          "featuredRepo": {
+            "name": "Yeraze/meshmonitor",
+            "url": "https://github.com/Yeraze/meshmonitor",
+            "description": "Web tool for monitoring Mesh Node Deployment over TCP/HTTP"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "redphx",
+          "name": "redphx",
+          "url": "https://github.com/redphx",
+          "featuredRepo": {
+            "name": "redphx/better-xcloud",
+            "url": "https://github.com/redphx/better-xcloud",
+            "description": "Userscript to improve Xbox Cloud Gaming (xCloud) and Remote Play experiences on web browsers"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "benvinegar",
+          "name": "Ben Vinegar",
+          "url": "https://github.com/benvinegar",
+          "featuredRepo": {
+            "name": "benvinegar/counterscale",
+            "url": "https://github.com/benvinegar/counterscale",
+            "description": "Scalable web analytics you run yourself on Cloudflare"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "ItzCrazyKns",
+          "name": "Kushagra Srivastava",
+          "url": "https://github.com/ItzCrazyKns",
+          "featuredRepo": {
+            "name": "ItzCrazyKns/Vane",
+            "url": "https://github.com/ItzCrazyKns/Vane",
+            "description": "Vane is an AI-powered answering engine."
+          }
+        },
+        {
+          "rank": 25,
+          "username": "fitchmultz",
+          "name": "Mitch Fultz",
+          "url": "https://github.com/fitchmultz",
+          "featuredRepo": {
+            "name": "fitchmultz/pi-cursor-sdk",
+            "url": "https://github.com/fitchmultz/pi-cursor-sdk",
+            "description": "Run Cursor's agent loop inside the pi coding agent via local Cursor SDK agents, with native model selection, thinking controls, fast/plan…"
+          }
+        }
+      ]
     }
   ],
   "best": [

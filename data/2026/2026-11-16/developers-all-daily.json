@@ -280,6 +280,281 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-16T06:46:57.734Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "ersinkoc",
+          "name": "Ersin KOÇ",
+          "url": "https://github.com/ersinkoc",
+          "featuredRepo": {
+            "name": "ersinkoc/phonebox",
+            "url": "https://github.com/ersinkoc/phonebox",
+            "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widgets for system stat…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "gakonst",
+          "name": "Georgios Konstantopoulos",
+          "url": "https://github.com/gakonst",
+          "featuredRepo": {
+            "name": "gakonst/tatami",
+            "url": "https://github.com/gakonst/tatami",
+            "description": "A tiling window manager for macOS, written from scratch in Zig"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "runkids",
+          "name": "Willie",
+          "url": "https://github.com/runkids",
+          "featuredRepo": {
+            "name": "runkids/skillshare",
+            "url": "https://github.com/runkids/skillshare",
+            "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/estella",
+            "url": "https://github.com/esengine/estella",
+            "description": "A fast 2D and 3D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, p…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "SaladDay",
+          "name": "SaladDay",
+          "url": "https://github.com/SaladDay",
+          "featuredRepo": {
+            "name": "SaladDay/cc-switch-cli",
+            "url": "https://github.com/SaladDay/cc-switch-cli",
+            "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/plannotator",
+            "url": "https://github.com/backnotprop/plannotator",
+            "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedba…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "JustVugg",
+          "name": "Vincenzo Fornaro",
+          "url": "https://github.com/JustVugg",
+          "featuredRepo": {
+            "name": "JustVugg/colibri",
+            "url": "https://github.com/JustVugg/colibri",
+            "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from…"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "isair",
+          "name": "Baris Sencan",
+          "url": "https://github.com/isair",
+          "featuredRepo": {
+            "name": "isair/jarvis",
+            "url": "https://github.com/isair/jarvis",
+            "description": "Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or O…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "karanb192",
+          "name": "Karan Bansal",
+          "url": "https://github.com/karanb192",
+          "featuredRepo": {
+            "name": "karanb192/awesome-claude-code-mods",
+            "url": "https://github.com/karanb192/awesome-claude-code-mods",
+            "description": "8,000+ Claude Code mods, with what each one can access before you install it. Context and usage meters, prompt cache warmers, status line…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "ccch1mneyyy",
+          "name": "Chimney",
+          "url": "https://github.com/ccch1mneyyy",
+          "featuredRepo": {
+            "name": "ccch1mneyyy/dsh-Go",
+            "url": "https://github.com/ccch1mneyyy/dsh-Go",
+            "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 16,
+          "username": "simonklee",
+          "name": "Simon Klee",
+          "url": "https://github.com/simonklee",
+          "featuredRepo": {
+            "name": "simonklee/opencode-native-preview",
+            "url": "https://github.com/simonklee/opencode-native-preview",
+            "description": "OpenCode Native CLI Preview builds"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "joakimeriksson",
+          "name": "Joakim Eriksson",
+          "url": "https://github.com/joakimeriksson",
+          "featuredRepo": {
+            "name": "joakimeriksson/fm1-emu",
+            "url": "https://github.com/joakimeriksson/fm1-emu",
+            "description": "Emulator for the M-VAVE FM-1 pocket synth: runs its firmwares unchanged in the browser and natively"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "wszqkzqk",
+          "name": "wszqkzqk",
+          "url": "https://github.com/wszqkzqk",
+          "featuredRepo": {
+            "name": "wszqkzqk/PvZ-Portable",
+            "url": "https://github.com/wszqkzqk/PvZ-Portable",
+            "description": "A cross-platform reimplementation of Plants vs. Zombies by the community. Aiming to bring 100% authentic experience of GOTY edition."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "LNPANDY",
+          "name": "LNP",
+          "url": "https://github.com/LNPANDY",
+          "featuredRepo": {
+            "name": "LNPANDY/NX2Apple",
+            "url": "https://github.com/LNPANDY/NX2Apple",
+            "description": "Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "zimeg",
+          "name": "Eden Zimbelman",
+          "url": "https://github.com/zimeg",
+          "featuredRepo": null
+        },
+        {
+          "rank": 21,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "ImChong",
+          "name": "Chong Liu",
+          "url": "https://github.com/ImChong",
+          "featuredRepo": {
+            "name": "ImChong/Robotics_Notebooks",
+            "url": "https://github.com/ImChong/Robotics_Notebooks",
+            "description": "机器人技术栈资料汇总"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "Anionex",
+          "name": "anionex",
+          "url": "https://github.com/Anionex",
+          "featuredRepo": {
+            "name": "Anionex/h3-image-mlx",
+            "url": "https://github.com/Anionex/h3-image-mlx",
+            "description": "Local MiniMax H3 Image generation and editing on Apple Silicon with MLX, with ultra-low ram"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "grant",
+          "name": "Grant Timmerman",
+          "url": "https://github.com/grant",
+          "featuredRepo": null
+        },
+        {
+          "rank": 25,
+          "username": "GitSquared",
+          "name": "Gabriel Saillard",
+          "url": "https://github.com/GitSquared",
+          "featuredRepo": {
+            "name": "GitSquared/edex-ui",
+            "url": "https://github.com/GitSquared/edex-ui",
+            "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support."
+          }
+        }
+      ]
     }
   ],
   "best": [

@@ -134,6 +134,135 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-16T06:46:57.734Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "description": "An open source design system that's fully customizable and agent ready",
+          "language": "TypeScript",
+          "stars": 29108,
+          "forks": 2275,
+          "starsToday": 13501,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 195508,
+          "forks": 22978,
+          "starsToday": 6077,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "sherlock-project/sherlock",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "description": "Hunt down social media accounts by username across social networks",
+          "language": "Python",
+          "stars": 112683,
+          "forks": 13004,
+          "starsToday": 10412,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+          "language": "TypeScript",
+          "stars": 12049,
+          "forks": 1120,
+          "starsToday": 1719,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "vercel-labs/agent-browser",
+          "url": "https://github.com/vercel-labs/agent-browser",
+          "description": "Browser automation CLI for AI agents",
+          "language": "Rust",
+          "stars": 51744,
+          "forks": 3621,
+          "starsToday": 4217,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+          "language": "Python",
+          "stars": 72608,
+          "forks": 57605,
+          "starsToday": 4548,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "we-promise/sure",
+          "url": "https://github.com/we-promise/sure",
+          "description": "The personal finance app for everyone (by everyone)",
+          "language": "Ruby",
+          "stars": 15797,
+          "forks": 1383,
+          "starsToday": 4556,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+          "language": "TypeScript",
+          "stars": 23660,
+          "forks": 3293,
+          "starsToday": 5463,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "google/elephant-goldfish-model",
+          "url": "https://github.com/google/elephant-goldfish-model",
+          "description": "Open-source plugin for designing and reviewing software with agents",
+          "language": "Python",
+          "stars": 19952,
+          "forks": 1482,
+          "starsToday": 5060,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "google-deepmind/mujoco",
+          "url": "https://github.com/google-deepmind/mujoco",
+          "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+          "language": "C++",
+          "stars": 18108,
+          "forks": 2216,
+          "starsToday": 1922,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 118040,
+          "forks": 12349,
+          "starsToday": 3889,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": []

@@ -255,6 +255,256 @@
           "starsLabel": "this month"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-16T06:46:57.734Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=monthly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+          "language": "TypeScript",
+          "stars": 61849,
+          "forks": 11066,
+          "starsToday": 33583,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 2,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 117455,
+          "forks": 10203,
+          "starsToday": 17038,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 3,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 84864,
+          "forks": 7858,
+          "starsToday": 20878,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 4,
+          "name": "Vincentwei1021/video-shotcraft",
+          "url": "https://github.com/Vincentwei1021/video-shotcraft",
+          "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
+          "language": "TypeScript",
+          "stars": 20230,
+          "forks": 1883,
+          "starsToday": 7937,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 5,
+          "name": "JetBrains/thinkrail",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "description": "ThinkRail is the agentic IDE that gets better every time you use it",
+          "language": "TypeScript",
+          "stars": 8287,
+          "forks": 530,
+          "starsToday": 7798,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 6,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 227120,
+          "forks": 30765,
+          "starsToday": 14787,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 7,
+          "name": "vercel-labs/skills",
+          "url": "https://github.com/vercel-labs/skills",
+          "description": "The open agent skills tool - npx skills",
+          "language": "TypeScript",
+          "stars": 39556,
+          "forks": 3484,
+          "starsToday": 4552,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 8,
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
+          "language": "TypeScript",
+          "stars": 126037,
+          "forks": 7991,
+          "starsToday": 33198,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 9,
+          "name": "remotion-dev/remotion",
+          "url": "https://github.com/remotion-dev/remotion",
+          "description": "🎥 Make videos programmatically with React",
+          "language": "TypeScript",
+          "stars": 73503,
+          "forks": 6192,
+          "starsToday": 9288,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 10,
+          "name": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+          "language": "TypeScript",
+          "stars": 12049,
+          "forks": 1120,
+          "starsToday": 2237,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 11,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 53015,
+          "forks": 7425,
+          "starsToday": 17479,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 12,
+          "name": "CopilotKit/OpenBot",
+          "url": "https://github.com/CopilotKit/OpenBot",
+          "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+          "language": "TypeScript",
+          "stars": 12478,
+          "forks": 1545,
+          "starsToday": 5938,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 13,
+          "name": "gitroomhq/postiz-app",
+          "url": "https://github.com/gitroomhq/postiz-app",
+          "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+          "language": "TypeScript",
+          "stars": 41701,
+          "forks": 7969,
+          "starsToday": 4584,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 14,
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description": "A context-compression plugin for month-long single sessions (billions of tokens) and small context windows (a 100K context is enough), billion-context is all you need .",
+          "language": "TypeScript",
+          "stars": 7586,
+          "forks": 623,
+          "starsToday": 6238,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 15,
+          "name": "elie222/rakazo",
+          "url": "https://github.com/elie222/rakazo",
+          "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+          "language": "TypeScript",
+          "stars": 8712,
+          "forks": 1565,
+          "starsToday": 4539,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 16,
+          "name": "anthropics/sandbox-runtime",
+          "url": "https://github.com/anthropics/sandbox-runtime",
+          "description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
+          "language": "TypeScript",
+          "stars": 7143,
+          "forks": 644,
+          "starsToday": 1602,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 17,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 21461,
+          "forks": 69604,
+          "starsToday": 769,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 18,
+          "name": "microsoft/playwright",
+          "url": "https://github.com/microsoft/playwright",
+          "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+          "language": "TypeScript",
+          "stars": 100285,
+          "forks": 6889,
+          "starsToday": 2643,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 19,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 108860,
+          "forks": 14957,
+          "starsToday": 2026,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 20,
+          "name": "Renhuai123/ziwei-doushu",
+          "url": "https://github.com/Renhuai123/ziwei-doushu",
+          "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+          "language": "TypeScript",
+          "stars": 18382,
+          "forks": 3582,
+          "starsToday": 13956,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 21,
+          "name": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "description": "Keep your coding agent up to date with the latest web best practices",
+          "language": "TypeScript",
+          "stars": 7465,
+          "forks": 643,
+          "starsToday": 5584,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 22,
+          "name": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+          "language": "TypeScript",
+          "stars": 23660,
+          "forks": 3293,
+          "starsToday": 18327,
+          "starsLabel": "this month"
+        }
+      ]
     }
   ],
   "best": [
