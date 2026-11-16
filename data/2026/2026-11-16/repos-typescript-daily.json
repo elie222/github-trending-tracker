@@ -296,7 +296,179 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-16T12:36:21.317Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "ag-ui-protocol/ag-ui",
+          "url": "https://github.com/ag-ui-protocol/ag-ui",
+          "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+          "language": "TypeScript",
+          "stars": 18347,
+          "forks": 1891,
+          "starsToday": 790,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+          "language": "TypeScript",
+          "stars": 12212,
+          "forks": 1147,
+          "starsToday": 689,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+          "language": "TypeScript",
+          "stars": 27463,
+          "forks": 2487,
+          "starsToday": 1878,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "language": "TypeScript",
+          "stars": 9575,
+          "forks": 1197,
+          "starsToday": 247,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 57418,
+          "forks": 4839,
+          "starsToday": 837,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "motion-canvas/motion-canvas",
+          "url": "https://github.com/motion-canvas/motion-canvas",
+          "description": "Visualize Your Ideas With Code",
+          "language": "TypeScript",
+          "stars": 19970,
+          "forks": 916,
+          "starsToday": 111,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "description": "Keep your coding agent up to date with the latest web best practices",
+          "language": "TypeScript",
+          "stars": 7737,
+          "forks": 682,
+          "starsToday": 1200,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "s0ld13rr/pentestcode",
+          "url": "https://github.com/s0ld13rr/pentestcode",
+          "description": "PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations.",
+          "language": "TypeScript",
+          "stars": 1079,
+          "forks": 174,
+          "starsToday": 34,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "elie222/rakazo",
+          "url": "https://github.com/elie222/rakazo",
+          "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+          "language": "TypeScript",
+          "stars": 8770,
+          "forks": 1570,
+          "starsToday": 271,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "nestjs/nest",
+          "url": "https://github.com/nestjs/nest",
+          "description": "A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀",
+          "language": "TypeScript",
+          "stars": 77128,
+          "forks": 8741,
+          "starsToday": 29,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "esengine/estella",
+          "url": "https://github.com/esengine/estella",
+          "description": "A fast 2D and 3D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, playable ads, and native Android / iOS.",
+          "language": "TypeScript",
+          "stars": 926,
+          "forks": 157,
+          "starsToday": 37,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "language": "TypeScript",
+          "stars": 90742,
+          "forks": 14085,
+          "starsToday": 76,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "hieunc229/mailflare",
+          "url": "https://github.com/hieunc229/mailflare",
+          "description": "Email for professionals and teams",
+          "language": "TypeScript",
+          "stars": 6585,
+          "forks": 1119,
+          "starsToday": 253,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "angular/angular",
+          "url": "https://github.com/angular/angular",
+          "description": "Deliver web apps with confidence 🚀",
+          "language": "TypeScript",
+          "stars": 101481,
+          "forks": 28207,
+          "starsToday": 29,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
-  "best": []
+  "best": [
+    {
+      "kind": "repo",
+      "key": "elie222/rakazo",
+      "url": "https://github.com/elie222/rakazo",
+      "bestRank": 9,
+      "scrapedAt": "2026-11-16T12:36:21.317Z",
+      "starsToday": 271,
+      "featuredRepo": null
+    }
+  ]
 }

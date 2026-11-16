@@ -14,7 +14,7 @@ UTC day **2026-11-16**.
 | --- | --- |
 | TypeScript developers (daily) | **#6** elie222 · elie222/rakazo |
 | all languages developers (daily) | **#15** elie222 · elie222/rakazo |
-| TypeScript repositories (daily) | not listed |
+| TypeScript repositories (daily) | **#9** elie222/rakazo |
 | all languages repositories (daily) | not listed |
 
 ## Totals
@@ -25,7 +25,7 @@ UTC day **2026-11-16**.
 | elie222 | all languages developers (daily) | 192 | 25 | 117 | #1 | 8 days (2026-11-09 – 2026-11-16) | 9 days (2026-10-07 – 2026-10-15) | 0 days | 3 days (2025-10-22 – 2025-10-24) |
 | elie222/inbox-zero | TypeScript repositories (daily) | 22 | 3 | 16 | #1 | 0 days | 4 days (2025-04-03 – 2025-04-06) | 0 days | 2 days (2025-04-04 – 2025-04-05) |
 | elie222/inbox-zero | all languages repositories (daily) | 6 | 0 | 5 | #2 | 0 days | 3 days (2025-04-03 – 2025-04-05) | 0 days | 0 days |
-| elie222/rakazo | TypeScript repositories (daily) | 10 | 0 | 7 | #5 | 0 days | 3 days (2026-10-17 – 2026-10-19) | 0 days | 0 days |
+| elie222/rakazo | TypeScript repositories (daily) | 11 | 0 | 8 | #5 | 1 day (2026-11-16) | 3 days (2026-10-17 – 2026-10-19) | 0 days | 0 days |
 | elie222/rakazo | all languages repositories (daily) | 0 | 0 | 0 | — | 0 days | 0 days | 0 days | 0 days |
 
 ## elie222 — developers
@@ -807,19 +807,20 @@ Longest #1 streak: 0 days.
 
 ### TypeScript repositories (daily)
 
-10 days listed, 0 days at #1, 7 days in the top 10. Best rank: #5.
-Current on-list streak: 0 days, as of 2026-11-16.
+11 days listed, 0 days at #1, 8 days in the top 10. Best rank: #5.
+Current on-list streak: 1 day (2026-11-16), as of 2026-11-16.
 Longest on-list streak: 3 days (2026-10-17 – 2026-10-19).
 Current #1 streak: 0 days, as of 2026-11-16.
 Longest #1 streak: 0 days.
 
 | Month | Days | #1 | Top 10 | Best |
 | --- | ---: | ---: | ---: | ---: |
-| 2026-11 | 6 | 0 | 5 | #6 |
+| 2026-11 | 7 | 0 | 6 | #6 |
 | 2026-10 | 4 | 0 | 2 | #5 |
 
 | Date | Best rank | Stars today | Source |
 | --- | ---: | ---: | --- |
+| 2026-11-16 | #9 | 271 | live |
 | 2026-11-10 | #8 | 143 | live |
 | 2026-11-09 | #7 | 107 | live |
 | 2026-11-08 | #7 | 117 | live |
