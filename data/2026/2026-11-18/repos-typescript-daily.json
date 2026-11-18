@@ -395,6 +395,190 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-18T12:28:07.422Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 17051,
+          "forks": 1859,
+          "starsToday": 315,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "language": "TypeScript",
+          "stars": 10281,
+          "forks": 1346,
+          "starsToday": 369,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "appwrite/appwrite",
+          "url": "https://github.com/appwrite/appwrite",
+          "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+          "language": "TypeScript",
+          "stars": 58129,
+          "forks": 5875,
+          "starsToday": 239,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+          "language": "TypeScript",
+          "stars": 210850,
+          "forks": 61544,
+          "starsToday": 315,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "solidjs/solid",
+          "url": "https://github.com/solidjs/solid",
+          "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+          "language": "TypeScript",
+          "stars": 36340,
+          "forks": 1153,
+          "starsToday": 37,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+          "language": "TypeScript",
+          "stars": 13263,
+          "forks": 1336,
+          "starsToday": 396,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "angular/angular",
+          "url": "https://github.com/angular/angular",
+          "description": "Deliver web apps with confidence 🚀",
+          "language": "TypeScript",
+          "stars": 101464,
+          "forks": 28208,
+          "starsToday": 212,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "ag-ui-protocol/ag-ui",
+          "url": "https://github.com/ag-ui-protocol/ag-ui",
+          "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+          "language": "TypeScript",
+          "stars": 20278,
+          "forks": 2086,
+          "starsToday": 535,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "nestjs/nest",
+          "url": "https://github.com/nestjs/nest",
+          "description": "A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀",
+          "language": "TypeScript",
+          "stars": 77131,
+          "forks": 8736,
+          "starsToday": 171,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "colbymchenry/codegraph",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+          "language": "TypeScript",
+          "stars": 77940,
+          "forks": 5204,
+          "starsToday": 129,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "storybookjs/storybook",
+          "url": "https://github.com/storybookjs/storybook",
+          "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+          "language": "TypeScript",
+          "stars": 91625,
+          "forks": 10596,
+          "starsToday": 25,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "JCodesMore/ai-website-cloner-template",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "description": "Clone any website with one command using AI coding agents",
+          "language": "TypeScript",
+          "stars": 39429,
+          "forks": 5879,
+          "starsToday": 95,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "Vincentwei1021/video-shotcraft",
+          "url": "https://github.com/Vincentwei1021/video-shotcraft",
+          "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
+          "language": "TypeScript",
+          "stars": 21127,
+          "forks": 1948,
+          "starsToday": 225,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+          "language": "TypeScript",
+          "stars": 29774,
+          "forks": 2665,
+          "starsToday": 1162,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 15,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+          "language": "TypeScript",
+          "stars": 64744,
+          "forks": 11364,
+          "starsToday": 1264,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 16,
+          "name": "vercel/eve",
+          "url": "https://github.com/vercel/eve",
+          "description": "The Open Framework for Building Agents",
+          "language": "TypeScript",
+          "stars": 5960,
+          "forks": 665,
+          "starsToday": 38,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": [
