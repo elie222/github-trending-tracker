@@ -12,7 +12,7 @@ UTC day **2026-11-18**.
 
 | List | Result |
 | --- | --- |
-| TypeScript developers (daily) | **#3** elie222 · elie222/rakazo |
+| TypeScript developers (daily) | **#3** elie222 · latest scrape #9 · elie222/rakazo |
 | all languages developers (daily) | **#8** elie222 · elie222/rakazo |
 | TypeScript repositories (daily) | **#14** elie222/rakazo |
 | all languages repositories (daily) | not listed |
