@@ -200,6 +200,201 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-18T06:32:05.406Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "description": "Keep your coding agent up to date with the latest web best practices",
+          "language": "TypeScript",
+          "stars": 8544,
+          "forks": 729,
+          "starsToday": 7015,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+          "language": "TypeScript",
+          "stars": 13171,
+          "forks": 1319,
+          "starsToday": 2926,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "description": "An open source design system that's fully customizable and agent ready",
+          "language": "TypeScript",
+          "stars": 30283,
+          "forks": 2364,
+          "starsToday": 8700,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 58101,
+          "forks": 4873,
+          "starsToday": 2948,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "language": "TypeScript",
+          "stars": 10195,
+          "forks": 1335,
+          "starsToday": 1197,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex-security",
+          "url": "https://github.com/openai/codex-security",
+          "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "language": "TypeScript",
+          "stars": 14006,
+          "forks": 1095,
+          "starsToday": 2531,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "QwenLM/qwen-code",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "description": "An open-source AI coding agent that lives in your terminal.",
+          "language": "TypeScript",
+          "stars": 30740,
+          "forks": 3553,
+          "starsToday": 1603,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "ag-ui-protocol/ag-ui",
+          "url": "https://github.com/ag-ui-protocol/ag-ui",
+          "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+          "language": "TypeScript",
+          "stars": 20145,
+          "forks": 2078,
+          "starsToday": 2773,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "CopilotKit/OpenBot",
+          "url": "https://github.com/CopilotKit/OpenBot",
+          "description": "The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.",
+          "language": "TypeScript",
+          "stars": 12781,
+          "forks": 1585,
+          "starsToday": 2110,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "a2ui-project/a2ui",
+          "url": "https://github.com/a2ui-project/a2ui",
+          "description": "Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.",
+          "language": "TypeScript",
+          "stars": 17583,
+          "forks": 1426,
+          "starsToday": 516,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+          "language": "TypeScript",
+          "stars": 29363,
+          "forks": 2631,
+          "starsToday": 5845,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "lobehub/lobehub",
+          "url": "https://github.com/lobehub/lobehub",
+          "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
+          "language": "TypeScript",
+          "stars": 85734,
+          "forks": 16343,
+          "starsToday": 961,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+          "language": "TypeScript",
+          "stars": 24981,
+          "forks": 3516,
+          "starsToday": 4284,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "garrytan/gbrain",
+          "url": "https://github.com/garrytan/gbrain",
+          "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+          "language": "TypeScript",
+          "stars": 33241,
+          "forks": 4971,
+          "starsToday": 814,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description": "A context-compression plugin for month-long single sessions (billions of tokens) and small context windows (a 100K context is enough), billion-context is all you need .",
+          "language": "TypeScript",
+          "stars": 7804,
+          "forks": 624,
+          "starsToday": 1743,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 16,
+          "name": "immich-app/immich",
+          "url": "https://github.com/immich-app/immich",
+          "description": "High performance self-hosted photo and video management solution.",
+          "language": "TypeScript",
+          "stars": 119505,
+          "forks": 7642,
+          "starsToday": 806,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 17,
+          "name": "elder-plinius/G0DM0D3",
+          "url": "https://github.com/elder-plinius/G0DM0D3",
+          "description": "LIBERATED AI CHAT",
+          "language": "TypeScript",
+          "stars": 12649,
+          "forks": 2921,
+          "starsToday": 440,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": []
