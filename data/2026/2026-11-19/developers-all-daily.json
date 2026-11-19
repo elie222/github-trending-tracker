@@ -555,6 +555,281 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-19T12:28:06.148Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "SaladDay",
+          "name": "SaladDay",
+          "url": "https://github.com/SaladDay",
+          "featuredRepo": {
+            "name": "SaladDay/cc-switch-cli",
+            "url": "https://github.com/SaladDay/cc-switch-cli",
+            "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "ersinkoc",
+          "name": "Ersin KOÇ",
+          "url": "https://github.com/ersinkoc",
+          "featuredRepo": {
+            "name": "ersinkoc/phonebox",
+            "url": "https://github.com/ersinkoc/phonebox",
+            "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 template…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "firsttris",
+          "name": "Tristan Teufel",
+          "url": "https://github.com/firsttris",
+          "featuredRepo": {
+            "name": "firsttris/haben",
+            "url": "https://github.com/firsttris/haben",
+            "description": "Selbst gehostete Buchhaltung für Freiberufler, Selbstständige, Kleinunternehmer, GmbH und UG: E-Rechnung (ZUGFeRD, XRechnung), Belege, Ba…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/estella",
+            "url": "https://github.com/esengine/estella",
+            "description": "A fast 2D and 3D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, p…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/RuView",
+            "url": "https://github.com/ruvnet/RuView",
+            "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "gakonst",
+          "name": "Georgios Konstantopoulos",
+          "url": "https://github.com/gakonst",
+          "featuredRepo": {
+            "name": "gakonst/tatami",
+            "url": "https://github.com/gakonst/tatami",
+            "description": "A tiling window manager for macOS, written from scratch in Zig"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "jmanico",
+          "name": "Jim Manico",
+          "url": "https://github.com/jmanico",
+          "featuredRepo": {
+            "name": "jmanico/grim-prompter",
+            "url": "https://github.com/jmanico/grim-prompter",
+            "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 arch…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "gmegidish",
+          "name": "Gil Megidish",
+          "url": "https://github.com/gmegidish",
+          "featuredRepo": {
+            "name": "gmegidish/sshdoom",
+            "url": "https://github.com/gmegidish/sshdoom",
+            "description": null
+          }
+        },
+        {
+          "rank": 10,
+          "username": "maziyarpanahi",
+          "name": "Maziyar Panahi",
+          "url": "https://github.com/maziyarpanahi",
+          "featuredRepo": {
+            "name": "maziyarpanahi/openmed",
+            "url": "https://github.com/maziyarpanahi/openmed",
+            "description": "Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed P…"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "mitchellh",
+          "name": "Mitchell Hashimoto",
+          "url": "https://github.com/mitchellh",
+          "featuredRepo": {
+            "name": "mitchellh/vouch",
+            "url": "https://github.com/mitchellh/vouch",
+            "description": "A community trust management system based on explicit vouches to participate."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "mmabrouk",
+          "name": "Mahmoud Mabrouk",
+          "url": "https://github.com/mmabrouk",
+          "featuredRepo": null
+        },
+        {
+          "rank": 13,
+          "username": "mattt",
+          "name": "Mattt",
+          "url": "https://github.com/mattt",
+          "featuredRepo": {
+            "name": "mattt/plonge",
+            "url": "https://github.com/mattt/plonge",
+            "description": "Clean up after mise en place: find and safely delete developer caches"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "code-yeongyu",
+          "name": "YeonGyu-Kim",
+          "url": "https://github.com/code-yeongyu",
+          "featuredRepo": {
+            "name": "code-yeongyu/oh-my-openagent",
+            "url": "https://github.com/code-yeongyu/oh-my-openagent",
+            "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "tiensonqin",
+          "name": "Tienson Qin",
+          "url": "https://github.com/tiensonqin",
+          "featuredRepo": null
+        },
+        {
+          "rank": 16,
+          "username": "hiyouga",
+          "name": "Yaowei Zheng",
+          "url": "https://github.com/hiyouga",
+          "featuredRepo": {
+            "name": "hiyouga/LlamaFactory",
+            "url": "https://github.com/hiyouga/LlamaFactory",
+            "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "seven332",
+          "name": "seven332",
+          "url": "https://github.com/seven332",
+          "featuredRepo": {
+            "name": "seven332/EhViewer",
+            "url": "https://github.com/seven332/EhViewer",
+            "description": "[DEPRECATED] An Unofficial E-Hentai Application for Android"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "Kaos599",
+          "name": "Harsh",
+          "url": "https://github.com/Kaos599",
+          "featuredRepo": {
+            "name": "Kaos599/Maglev",
+            "url": "https://github.com/Kaos599/Maglev",
+            "description": "Download anything on Android: a free, open-source torrent client, download manager, video downloader and subtitle downloader in one app. …"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "78",
+          "name": "Xiaoxia",
+          "url": "https://github.com/78",
+          "featuredRepo": {
+            "name": "78/xiaozhi-esp32",
+            "url": "https://github.com/78/xiaozhi-esp32",
+            "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "zhu1090093659",
+          "name": "Solitude",
+          "url": "https://github.com/zhu1090093659",
+          "featuredRepo": {
+            "name": "zhu1090093659/dsh-web",
+            "url": "https://github.com/zhu1090093659/dsh-web",
+            "description": "DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, dis…"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "abrignoni",
+          "name": "Brigs",
+          "url": "https://github.com/abrignoni",
+          "featuredRepo": {
+            "name": "abrignoni/iLEAPP",
+            "url": "https://github.com/abrignoni/iLEAPP",
+            "description": "iOS Logs, Events, And Plist Parser"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "musistudio",
+          "name": "musi",
+          "url": "https://github.com/musistudio",
+          "featuredRepo": {
+            "name": "musistudio/claude-code-router",
+            "url": "https://github.com/musistudio/claude-code-router",
+            "description": "One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "OutThisLife",
+          "name": "brooklyn!",
+          "url": "https://github.com/OutThisLife",
+          "featuredRepo": {
+            "name": "OutThisLife/azeroth-survivors-re",
+            "url": "https://github.com/OutThisLife/azeroth-survivors-re",
+            "description": "A survivors roguelite running on a from-scratch World of Warcraft 1.12.1 client engine (Rust + Bevy)."
+          }
+        },
+        {
+          "rank": 25,
+          "username": "isair",
+          "name": "Baris Sencan",
+          "url": "https://github.com/isair",
+          "featuredRepo": {
+            "name": "isair/jarvis",
+            "url": "https://github.com/isair/jarvis",
+            "description": "A 100% private and local AI assistant for your desktop. Always present, able to jump into conversations. Supports unlimited MCP tools and…"
+          }
+        }
+      ]
     }
   ],
   "best": []
