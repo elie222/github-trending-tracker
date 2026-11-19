@@ -28,22 +28,22 @@ Who counts as a hit is configured in [`config/tracking.json`](config/tracking.js
 <!-- history-summary:start -->
 Updated from the snapshots in [`data/`](data/). Full tables, #1 dates, on-list streaks, and #1 streaks are in [HISTORY.md](HISTORY.md).
 
-UTC day **2026-11-18**.
+UTC day **2026-11-19**.
 
 | List | Result |
 | --- | --- |
-| TypeScript developers (daily) | **#3** elie222 · latest scrape #9 · elie222/rakazo |
-| all languages developers (daily) | **#8** elie222 · elie222/rakazo |
-| TypeScript repositories (daily) | **#14** elie222/rakazo |
+| TypeScript developers (daily) | **#9** elie222 · elie222/rakazo |
+| all languages developers (daily) | not listed |
+| TypeScript repositories (daily) | not listed |
 | all languages repositories (daily) | not listed |
 
 | Name | List | Days listed | Days #1 | Days top 10 | Best | Current on-list streak | Longest on-list streak | Current #1 streak | Longest #1 streak |
 | --- | --- | ---: | ---: | ---: | ---: | --- | --- | --- | --- |
-| elie222 | TypeScript developers (daily) | 428 | 75 | 321 | #1 | 53 days (2026-09-27 – 2026-11-18) | 53 days (2026-09-27 – 2026-11-18) | 0 days | 8 days (2025-07-08 – 2025-07-15) |
-| elie222 | all languages developers (daily) | 194 | 25 | 119 | #1 | 10 days (2026-11-09 – 2026-11-18) | 10 days (2026-11-09 – 2026-11-18) | 0 days | 3 days (2025-10-22 – 2025-10-24) |
+| elie222 | TypeScript developers (daily) | 429 | 75 | 322 | #1 | 54 days (2026-09-27 – 2026-11-19) | 54 days (2026-09-27 – 2026-11-19) | 0 days | 8 days (2025-07-08 – 2025-07-15) |
+| elie222 | all languages developers (daily) | 194 | 25 | 119 | #1 | 0 days | 10 days (2026-11-09 – 2026-11-18) | 0 days | 3 days (2025-10-22 – 2025-10-24) |
 | elie222/inbox-zero | TypeScript repositories (daily) | 22 | 3 | 16 | #1 | 0 days | 4 days (2025-04-03 – 2025-04-06) | 0 days | 2 days (2025-04-04 – 2025-04-05) |
 | elie222/inbox-zero | all languages repositories (daily) | 6 | 0 | 5 | #2 | 0 days | 3 days (2025-04-03 – 2025-04-05) | 0 days | 0 days |
-| elie222/rakazo | TypeScript repositories (daily) | 13 | 0 | 9 | #5 | 3 days (2026-11-16 – 2026-11-18) | 3 days (2026-10-17 – 2026-10-19) | 0 days | 0 days |
+| elie222/rakazo | TypeScript repositories (daily) | 13 | 0 | 9 | #5 | 0 days | 3 days (2026-10-17 – 2026-10-19) | 0 days | 0 days |
 | elie222/rakazo | all languages repositories (daily) | 0 | 0 | 0 | — | 0 days | 0 days | 0 days | 0 days |
 <!-- history-summary:end -->
 
