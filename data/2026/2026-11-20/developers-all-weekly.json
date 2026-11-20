@@ -571,6 +571,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-20T12:28:34.841Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "keyvanarasteh",
+          "name": "Keyvan Arasteh",
+          "url": "https://github.com/keyvanarasteh",
+          "featuredRepo": {
+            "name": "keyvanarasteh/os-lab",
+            "url": "https://github.com/keyvanarasteh/os-lab",
+            "description": null
+          }
+        },
+        {
+          "rank": 2,
+          "username": "SaladDay",
+          "name": "SaladDay",
+          "url": "https://github.com/SaladDay",
+          "featuredRepo": {
+            "name": "SaladDay/cc-switch-cli",
+            "url": "https://github.com/SaladDay/cc-switch-cli",
+            "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "paulirish",
+          "name": "Paul Irish",
+          "url": "https://github.com/paulirish",
+          "featuredRepo": {
+            "name": "paulirish/chrome-capture",
+            "url": "https://github.com/paulirish/chrome-capture",
+            "description": "60-120fps / 2160p tab video/audio capture from Chrome"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "ccch1mneyyy",
+          "name": "Chimney",
+          "url": "https://github.com/ccch1mneyyy",
+          "featuredRepo": {
+            "name": "ccch1mneyyy/dsh-Go",
+            "url": "https://github.com/ccch1mneyyy/dsh-Go",
+            "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "gakonst",
+          "name": "Georgios Konstantopoulos",
+          "url": "https://github.com/gakonst",
+          "featuredRepo": {
+            "name": "gakonst/tatami",
+            "url": "https://github.com/gakonst/tatami",
+            "description": "A tiling window manager for macOS, written from scratch in Zig"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "poteto",
+          "name": "lauren",
+          "url": "https://github.com/poteto",
+          "featuredRepo": {
+            "name": "poteto/hiring-without-whiteboards",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "yetone",
+          "name": "yetone",
+          "url": "https://github.com/yetone",
+          "featuredRepo": {
+            "name": "yetone/magpie",
+            "url": "https://github.com/yetone/magpie",
+            "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "runkids",
+          "name": "Willie",
+          "url": "https://github.com/runkids",
+          "featuredRepo": {
+            "name": "runkids/skillshare",
+            "url": "https://github.com/runkids/skillshare",
+            "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "SamuelSchlesinger",
+          "name": "Samuel Schlesinger",
+          "url": "https://github.com/SamuelSchlesinger",
+          "featuredRepo": {
+            "name": "SamuelSchlesinger/lean.vim",
+            "url": "https://github.com/SamuelSchlesinger/lean.vim",
+            "description": "A vim port of lean.nvim."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "isair",
+          "name": "Baris Sencan",
+          "url": "https://github.com/isair",
+          "featuredRepo": {
+            "name": "isair/jarvis",
+            "url": "https://github.com/isair/jarvis",
+            "description": "A 100% private and local AI assistant for your desktop. Always present, able to jump into conversations. Supports unlimited MCP tools and…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "aandrew-me",
+          "name": "Andrew",
+          "url": "https://github.com/aandrew-me",
+          "featuredRepo": {
+            "name": "aandrew-me/ytDownloader",
+            "url": "https://github.com/aandrew-me/ytDownloader",
+            "description": "Desktop app to download audio/video from hundreds of sites"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "joakimeriksson",
+          "name": "Joakim Eriksson",
+          "url": "https://github.com/joakimeriksson",
+          "featuredRepo": {
+            "name": "joakimeriksson/fm1-emu",
+            "url": "https://github.com/joakimeriksson/fm1-emu",
+            "description": "Emulator for the M-VAVE FM-1 pocket synth: runs its firmwares unchanged in the browser and natively"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "liguobao",
+          "name": "李国宝",
+          "url": "https://github.com/liguobao",
+          "featuredRepo": {
+            "name": "liguobao/ds-harness-remote",
+            "url": "https://github.com/liguobao/ds-harness-remote",
+            "description": "基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web 随时访问本地设备上的DSH 、CodeX、Cursor、Claude Code等工作区。 (Built on DeepSeek H…"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "marcusquinn",
+          "name": "Marcus Quinn",
+          "url": "https://github.com/marcusquinn",
+          "featuredRepo": {
+            "name": "marcusquinn/aidevops",
+            "url": "https://github.com/marcusquinn/aidevops",
+            "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development.…"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "seven332",
+          "name": "seven332",
+          "url": "https://github.com/seven332",
+          "featuredRepo": {
+            "name": "seven332/EhViewer",
+            "url": "https://github.com/seven332/EhViewer",
+            "description": "[DEPRECATED] An Unofficial E-Hentai Application for Android"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "danielmeppiel",
+          "name": "Daniel Meppiel",
+          "url": "https://github.com/danielmeppiel",
+          "featuredRepo": {
+            "name": "danielmeppiel/apmx",
+            "url": "https://github.com/danielmeppiel/apmx",
+            "description": "Run one contract with native Copilot; retain the output and independent check results."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "tobi",
+          "name": "Tobias Lütke",
+          "url": "https://github.com/tobi",
+          "featuredRepo": {
+            "name": "tobi/disktree",
+            "url": "https://github.com/tobi/disktree",
+            "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "ikaijua",
+          "name": "ikaijua",
+          "url": "https://github.com/ikaijua",
+          "featuredRepo": {
+            "name": "ikaijua/Awesome-AITools",
+            "url": "https://github.com/ikaijua/Awesome-AITools",
+            "description": "This repo collects awesome AI tools. Welcome everyone to recommend more awesome AI tools together!"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "surlymochan",
+          "name": "Nick",
+          "url": "https://github.com/surlymochan",
+          "featuredRepo": {
+            "name": "surlymochan/swrm",
+            "url": "https://github.com/surlymochan/swrm",
+            "description": "Distributed heterogeneous agent task dispatcher — claim under lease, return with evidence. Quota-aware routing across Claude, Codex, Open…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "Gilbert09",
+          "name": "Tom Owers",
+          "url": "https://github.com/Gilbert09",
+          "featuredRepo": {
+            "name": "Gilbert09/talyn",
+            "url": "https://github.com/Gilbert09/talyn",
+            "description": "Give every task its own coding agent. Run Claude Code and Codex in parallel cloud sandboxes on your own subscription, each one opening a …"
+          }
+        }
+      ]
     }
   ],
   "best": []

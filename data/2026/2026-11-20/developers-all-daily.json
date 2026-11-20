@@ -531,6 +531,269 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-20T12:28:34.841Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "firsttris",
+          "name": "Tristan Teufel",
+          "url": "https://github.com/firsttris",
+          "featuredRepo": {
+            "name": "Speicherstadt/haben",
+            "url": "https://github.com/Speicherstadt/haben",
+            "description": "Selbst gehostete Buchhaltung für Freiberufler, Selbstständige, Kleinunternehmer, GmbH und UG: E-Rechnung (ZUGFeRD, XRechnung), Belege, Ba…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "mattzcarey",
+          "name": "Matt",
+          "url": "https://github.com/mattzcarey",
+          "featuredRepo": {
+            "name": "mattzcarey/everystate",
+            "url": "https://github.com/mattzcarey/everystate",
+            "description": "lightening fast, formal verification engine"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "abrignoni",
+          "name": "Brigs",
+          "url": "https://github.com/abrignoni",
+          "featuredRepo": {
+            "name": "abrignoni/iLEAPP",
+            "url": "https://github.com/abrignoni/iLEAPP",
+            "description": "iOS Logs, Events, And Plist Parser"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "SaladDay",
+          "name": "SaladDay",
+          "url": "https://github.com/SaladDay",
+          "featuredRepo": {
+            "name": "SaladDay/cc-switch-cli",
+            "url": "https://github.com/SaladDay/cc-switch-cli",
+            "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "amir20",
+          "name": "Amir Raminfar",
+          "url": "https://github.com/amir20",
+          "featuredRepo": {
+            "name": "amir20/dozzle",
+            "url": "https://github.com/amir20/dozzle",
+            "description": "Realtime log viewer for containers. Supports Docker, Swarm and K8s."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/estella",
+            "url": "https://github.com/esengine/estella",
+            "description": "A fast 2D and 3D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, p…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "ryansolid",
+          "name": "Ryan Carniato",
+          "url": "https://github.com/ryansolid",
+          "featuredRepo": null
+        },
+        {
+          "rank": 10,
+          "username": "max-sixty",
+          "name": "Maximilian Roos",
+          "url": "https://github.com/max-sixty",
+          "featuredRepo": {
+            "name": "max-sixty/worktrunk",
+            "url": "https://github.com/max-sixty/worktrunk",
+            "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "trieloff",
+          "name": "Lars Trieloff",
+          "url": "https://github.com/trieloff",
+          "featuredRepo": null
+        },
+        {
+          "rank": 12,
+          "username": "christian-byrne",
+          "name": "Christian Byrne",
+          "url": "https://github.com/christian-byrne",
+          "featuredRepo": {
+            "name": "christian-byrne/audio-separation-nodes-comfyui",
+            "url": "https://github.com/christian-byrne/audio-separation-nodes-comfyui",
+            "description": "Separate stems (vocals, bass, drums, other) from audio. Recombine, tempo match, slice/crop audio"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "maleadt",
+          "name": "Tim Besard",
+          "url": "https://github.com/maleadt",
+          "featuredRepo": {
+            "name": "maleadt/IRStructurizer.jl",
+            "url": "https://github.com/maleadt/IRStructurizer.jl",
+            "description": "Pattern-matching structured control flow in Julia's SSA IR."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "boykopovar",
+          "name": "boykopovar",
+          "url": "https://github.com/boykopovar",
+          "featuredRepo": {
+            "name": "boykopovar/AnyPS5",
+            "url": "https://github.com/boykopovar/AnyPS5",
+            "description": "Tool for automatic PS5 executables porting to Linux and Windows"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "ccch1mneyyy",
+          "name": "Chimney",
+          "url": "https://github.com/ccch1mneyyy",
+          "featuredRepo": {
+            "name": "ccch1mneyyy/dsh-Go",
+            "url": "https://github.com/ccch1mneyyy/dsh-Go",
+            "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "chrox",
+          "name": "Huang Xin",
+          "url": "https://github.com/chrox",
+          "featuredRepo": null
+        },
+        {
+          "rank": 17,
+          "username": "tiensonqin",
+          "name": "Tienson Qin",
+          "url": "https://github.com/tiensonqin",
+          "featuredRepo": null
+        },
+        {
+          "rank": 18,
+          "username": "Gaurav-Gosain",
+          "name": "Gaurav Gosain",
+          "url": "https://github.com/Gaurav-Gosain",
+          "featuredRepo": {
+            "name": "Gaurav-Gosain/tuios",
+            "url": "https://github.com/Gaurav-Gosain/tuios",
+            "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox …"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "mdrxy",
+          "name": "Mason Daugherty",
+          "url": "https://github.com/mdrxy",
+          "featuredRepo": {
+            "name": "mdrxy/great-radio-sites",
+            "url": "https://github.com/mdrxy/great-radio-sites",
+            "description": "Radio stations websites that I think are great"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "kalil0321",
+          "name": "kalil0321",
+          "url": "https://github.com/kalil0321",
+          "featuredRepo": {
+            "name": "kalil0321/reverse-api-engineer",
+            "url": "https://github.com/kalil0321/reverse-api-engineer",
+            "description": "Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "alirezarezvani",
+          "name": "Alireza Rezvani",
+          "url": "https://github.com/alirezarezvani",
+          "featuredRepo": {
+            "name": "alirezarezvani/claude-skills",
+            "url": "https://github.com/alirezarezvani/claude-skills",
+            "description": "410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude C…"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "MakazhanAlpamys",
+          "name": "Alpamys Makazhan",
+          "url": "https://github.com/MakazhanAlpamys",
+          "featuredRepo": {
+            "name": "MakazhanAlpamys/Soup",
+            "url": "https://github.com/MakazhanAlpamys/Soup",
+            "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
+          }
+        },
+        {
+          "rank": 23,
+          "username": "tobi",
+          "name": "Tobias Lütke",
+          "url": "https://github.com/tobi",
+          "featuredRepo": {
+            "name": "tobi/qmd",
+            "url": "https://github.com/tobi/qmd",
+            "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "cliffhall",
+          "name": "Cliff Hall",
+          "url": "https://github.com/cliffhall",
+          "featuredRepo": null
+        },
+        {
+          "rank": 25,
+          "username": "DaleSeo",
+          "name": "Dale Seo",
+          "url": "https://github.com/DaleSeo",
+          "featuredRepo": {
+            "name": "DaleSeo/korean-skills",
+            "url": "https://github.com/DaleSeo/korean-skills",
+            "description": "🇰🇷 Korean language skills for AI agents"
+          }
+        }
+      ]
     }
   ],
   "best": []
