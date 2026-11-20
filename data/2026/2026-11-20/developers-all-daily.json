@@ -794,6 +794,273 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-20T18:26:23.458Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "firsttris",
+          "name": "Tristan Teufel",
+          "url": "https://github.com/firsttris",
+          "featuredRepo": {
+            "name": "Speicherstadt/haben",
+            "url": "https://github.com/Speicherstadt/haben",
+            "description": "Selbst gehostete Buchhaltung für Freiberufler, Selbstständige, Kleinunternehmer, GmbH und UG: E-Rechnung (ZUGFeRD, XRechnung), Belege, Ba…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "Gaurav-Gosain",
+          "name": "Gaurav Gosain",
+          "url": "https://github.com/Gaurav-Gosain",
+          "featuredRepo": {
+            "name": "Gaurav-Gosain/tuios",
+            "url": "https://github.com/Gaurav-Gosain/tuios",
+            "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox …"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "davsclaus",
+          "name": "Claus Ibsen",
+          "url": "https://github.com/davsclaus",
+          "featuredRepo": null
+        },
+        {
+          "rank": 4,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "amir20",
+          "name": "Amir Raminfar",
+          "url": "https://github.com/amir20",
+          "featuredRepo": {
+            "name": "amir20/dozzle",
+            "url": "https://github.com/amir20/dozzle",
+            "description": "Realtime log viewer for containers. Supports Docker, Swarm and K8s."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "christian-byrne",
+          "name": "Christian Byrne",
+          "url": "https://github.com/christian-byrne",
+          "featuredRepo": {
+            "name": "christian-byrne/audio-separation-nodes-comfyui",
+            "url": "https://github.com/christian-byrne/audio-separation-nodes-comfyui",
+            "description": "Separate stems (vocals, bass, drums, other) from audio. Recombine, tempo match, slice/crop audio"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "SaladDay",
+          "name": "SaladDay",
+          "url": "https://github.com/SaladDay",
+          "featuredRepo": {
+            "name": "SaladDay/cc-switch-cli",
+            "url": "https://github.com/SaladDay/cc-switch-cli",
+            "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "ryansolid",
+          "name": "Ryan Carniato",
+          "url": "https://github.com/ryansolid",
+          "featuredRepo": null
+        },
+        {
+          "rank": 9,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/ruflo",
+            "url": "https://github.com/ruvnet/ruflo",
+            "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI system…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "kalil0321",
+          "name": "kalil0321",
+          "url": "https://github.com/kalil0321",
+          "featuredRepo": {
+            "name": "kalil0321/reverse-api-engineer",
+            "url": "https://github.com/kalil0321/reverse-api-engineer",
+            "description": "Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "benbrandt",
+          "name": "Ben Brandt",
+          "url": "https://github.com/benbrandt",
+          "featuredRepo": null
+        },
+        {
+          "rank": 12,
+          "username": "mattzcarey",
+          "name": "Matt",
+          "url": "https://github.com/mattzcarey",
+          "featuredRepo": {
+            "name": "mattzcarey/everystate",
+            "url": "https://github.com/mattzcarey/everystate",
+            "description": "lightening fast, formal verification engine"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "boykopovar",
+          "name": "boykopovar",
+          "url": "https://github.com/boykopovar",
+          "featuredRepo": {
+            "name": "boykopovar/AnyPS5",
+            "url": "https://github.com/boykopovar/AnyPS5",
+            "description": "Tool for automatic PS5 executables porting to Linux and Windows"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "maleadt",
+          "name": "Tim Besard",
+          "url": "https://github.com/maleadt",
+          "featuredRepo": {
+            "name": "maleadt/IRStructurizer.jl",
+            "url": "https://github.com/maleadt/IRStructurizer.jl",
+            "description": "Pattern-matching structured control flow in Julia's SSA IR."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "abrignoni",
+          "name": "Brigs",
+          "url": "https://github.com/abrignoni",
+          "featuredRepo": {
+            "name": "abrignoni/iLEAPP",
+            "url": "https://github.com/abrignoni/iLEAPP",
+            "description": "iOS Logs, Events, And Plist Parser"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "Kaos599",
+          "name": "Harsh",
+          "url": "https://github.com/Kaos599",
+          "featuredRepo": {
+            "name": "Kaos599/Maglev",
+            "url": "https://github.com/Kaos599/Maglev",
+            "description": "Download anything on Android: a free, open-source torrent client, download manager, video downloader and subtitle downloader in one app. …"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "78",
+          "name": "Xiaoxia",
+          "url": "https://github.com/78",
+          "featuredRepo": {
+            "name": "78/xiaozhi-esp32",
+            "url": "https://github.com/78/xiaozhi-esp32",
+            "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "majiayu000",
+          "name": "lif",
+          "url": "https://github.com/majiayu000",
+          "featuredRepo": {
+            "name": "majiayu000/awesome-grok-bot",
+            "url": "https://github.com/majiayu000/awesome-grok-bot",
+            "description": "Searchable catalog of Grok Bot share pages, with curated collections, field cases, and bilingual guides."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "mdrxy",
+          "name": "Mason Daugherty",
+          "url": "https://github.com/mdrxy",
+          "featuredRepo": {
+            "name": "mdrxy/great-radio-sites",
+            "url": "https://github.com/mdrxy/great-radio-sites",
+            "description": "Radio stations websites that I think are great"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "jxxghp",
+          "name": "jxxghp",
+          "url": "https://github.com/jxxghp",
+          "featuredRepo": {
+            "name": "jxxghp/MoviePilot",
+            "url": "https://github.com/jxxghp/MoviePilot",
+            "description": "NAS媒体库自动化管理工具"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "musistudio",
+          "name": "musi",
+          "url": "https://github.com/musistudio",
+          "featuredRepo": {
+            "name": "musistudio/claude-code-router",
+            "url": "https://github.com/musistudio/claude-code-router",
+            "description": "One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "pan93412",
+          "name": "Yi-Jyun Pan",
+          "url": "https://github.com/pan93412",
+          "featuredRepo": {
+            "name": "pan93412/yolo-rs",
+            "url": "https://github.com/pan93412/yolo-rs",
+            "description": "YOLO object detection in Rust with ONNX Runtime: YOLOv8, YOLO11, YOLO12 and YOLO26"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "tiensonqin",
+          "name": "Tienson Qin",
+          "url": "https://github.com/tiensonqin",
+          "featuredRepo": null
+        },
+        {
+          "rank": 24,
+          "username": "he-yufeng",
+          "name": "Yufeng He",
+          "url": "https://github.com/he-yufeng",
+          "featuredRepo": {
+            "name": "he-yufeng/CoreCoder",
+            "url": "https://github.com/he-yufeng/CoreCoder",
+            "description": "Minimal AI coding agent (~1,000 lines of Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly N…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        }
+      ]
     }
   ],
   "best": []
