@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-20",
+  "list": "repos",
+  "language": "typescript",
+  "period": "weekly",
+  "pageUrl": "https://github.com/trending/typescript?since=weekly",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-11-20T00:39:52.024Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+          "language": "TypeScript",
+          "stars": 13663,
+          "forks": 1383,
+          "starsToday": 3468,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "language": "TypeScript",
+          "stars": 10717,
+          "forks": 1387,
+          "starsToday": 1829,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "description": "Keep your coding agent up to date with the latest web best practices",
+          "language": "TypeScript",
+          "stars": 9113,
+          "forks": 754,
+          "starsToday": 6858,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 58363,
+          "forks": 4876,
+          "starsToday": 3229,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "ag-ui-protocol/ag-ui",
+          "url": "https://github.com/ag-ui-protocol/ag-ui",
+          "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+          "language": "TypeScript",
+          "stars": 20636,
+          "forks": 2123,
+          "starsToday": 3455,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "description": "An open source design system that's fully customizable and agent ready",
+          "language": "TypeScript",
+          "stars": 30966,
+          "forks": 2427,
+          "starsToday": 4977,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+          "language": "TypeScript",
+          "stars": 30435,
+          "forks": 2756,
+          "starsToday": 7248,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "a2ui-project/a2ui",
+          "url": "https://github.com/a2ui-project/a2ui",
+          "description": "Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.",
+          "language": "TypeScript",
+          "stars": 17658,
+          "forks": 1430,
+          "starsToday": 480,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "QwenLM/qwen-code",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "description": "An open-source AI coding agent that lives in your terminal.",
+          "language": "TypeScript",
+          "stars": 30789,
+          "forks": 3560,
+          "starsToday": 1190,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "openai/codex-security",
+          "url": "https://github.com/openai/codex-security",
+          "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "language": "TypeScript",
+          "stars": 14194,
+          "forks": 1110,
+          "starsToday": 2150,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "hieunc229/mailflare",
+          "url": "https://github.com/hieunc229/mailflare",
+          "description": "Email for professionals and teams",
+          "language": "TypeScript",
+          "stars": 7308,
+          "forks": 1261,
+          "starsToday": 1159,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+          "language": "TypeScript",
+          "stars": 25826,
+          "forks": 3659,
+          "starsToday": 4228,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "Viren070/AIOStreams",
+          "url": "https://github.com/Viren070/AIOStreams",
+          "description": "AIOStreams brings your Stremio addons, debrid services and Usenet together into one list, filtered, sorted and formatted your way, and plays it in Stremio or in its own apps for every screen.",
+          "language": "TypeScript",
+          "stars": 3280,
+          "forks": 954,
+          "starsToday": 140,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "lobehub/lobehub",
+          "url": "https://github.com/lobehub/lobehub",
+          "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
+          "language": "TypeScript",
+          "stars": 85865,
+          "forks": 16349,
+          "starsToday": 751,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "CopilotKit/OpenBot",
+          "url": "https://github.com/CopilotKit/OpenBot",
+          "description": "The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.",
+          "language": "TypeScript",
+          "stars": 12961,
+          "forks": 1611,
+          "starsToday": 1624,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 16,
+          "name": "google-labs-code/design.md",
+          "url": "https://github.com/google-labs-code/design.md",
+          "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+          "language": "TypeScript",
+          "stars": 28968,
+          "forks": 2321,
+          "starsToday": 145,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 17,
+          "name": "tobi/qmd",
+          "url": "https://github.com/tobi/qmd",
+          "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+          "language": "TypeScript",
+          "stars": 31260,
+          "forks": 1972,
+          "starsToday": 185,
+          "starsLabel": "this week"
+        }
+      ]
+    }
+  ],
+  "best": []
+}
