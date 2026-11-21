@@ -28,7 +28,7 @@ Who counts as a hit is configured in [`config/tracking.json`](config/tracking.js
 <!-- history-summary:start -->
 Updated from the snapshots in [`data/`](data/). Full tables, #1 dates, on-list streaks, and #1 streaks are in [HISTORY.md](HISTORY.md).
 
-UTC day **2026-11-20**.
+UTC day **2026-11-21**.
 
 | List | Result |
 | --- | --- |
