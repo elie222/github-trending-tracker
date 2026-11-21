@@ -842,6 +842,281 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-21T18:22:54.065Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "gakonst",
+          "name": "Georgios Konstantopoulos",
+          "url": "https://github.com/gakonst",
+          "featuredRepo": {
+            "name": "gakonst/tatami",
+            "url": "https://github.com/gakonst/tatami",
+            "description": "A tiling window manager for macOS, written from scratch in Zig"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "SaladDay",
+          "name": "SaladDay",
+          "url": "https://github.com/SaladDay",
+          "featuredRepo": {
+            "name": "SaladDay/cc-switch-cli",
+            "url": "https://github.com/SaladDay/cc-switch-cli",
+            "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "keyvanarasteh",
+          "name": "Keyvan Arasteh",
+          "url": "https://github.com/keyvanarasteh",
+          "featuredRepo": {
+            "name": "keyvanarasteh/os-lab",
+            "url": "https://github.com/keyvanarasteh/os-lab",
+            "description": null
+          }
+        },
+        {
+          "rank": 4,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "ccch1mneyyy",
+          "name": "Chimney",
+          "url": "https://github.com/ccch1mneyyy",
+          "featuredRepo": {
+            "name": "ccch1mneyyy/dsh-Go",
+            "url": "https://github.com/ccch1mneyyy/dsh-Go",
+            "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "isair",
+          "name": "Baris Sencan",
+          "url": "https://github.com/isair",
+          "featuredRepo": {
+            "name": "isair/jarvis",
+            "url": "https://github.com/isair/jarvis",
+            "description": "A 100% private and local AI assistant for your desktop. Always present, able to jump into conversations. Supports unlimited MCP tools and…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "jmanico",
+          "name": "Jim Manico",
+          "url": "https://github.com/jmanico",
+          "featuredRepo": {
+            "name": "jmanico/grim-prompter",
+            "url": "https://github.com/jmanico/grim-prompter",
+            "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 arch…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "andrewnakas",
+          "name": "Andrew Nakas",
+          "url": "https://github.com/andrewnakas",
+          "featuredRepo": {
+            "name": "andrewnakas/gtav-recomp",
+            "url": "https://github.com/andrewnakas/gtav-recomp",
+            "description": "GTA V (Xbox 360, TU27) static recompilation with ReXGlue"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "marcusquinn",
+          "name": "Marcus Quinn",
+          "url": "https://github.com/marcusquinn",
+          "featuredRepo": {
+            "name": "marcusquinn/aidevops",
+            "url": "https://github.com/marcusquinn/aidevops",
+            "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development.…"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "poteto",
+          "name": "lauren",
+          "url": "https://github.com/poteto",
+          "featuredRepo": {
+            "name": "poteto/hiring-without-whiteboards",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "runkids",
+          "name": "Willie",
+          "url": "https://github.com/runkids",
+          "featuredRepo": {
+            "name": "runkids/skillshare",
+            "url": "https://github.com/runkids/skillshare",
+            "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing."
+          }
+        },
+        {
+          "rank": 13,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/estella",
+            "url": "https://github.com/esengine/estella",
+            "description": "A fast 2D and 3D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, p…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "musistudio",
+          "name": "musi",
+          "url": "https://github.com/musistudio",
+          "featuredRepo": {
+            "name": "musistudio/claude-code-router",
+            "url": "https://github.com/musistudio/claude-code-router",
+            "description": "One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "DeanChensj",
+          "name": "Shangjie Chen",
+          "url": "https://github.com/DeanChensj",
+          "featuredRepo": {
+            "name": "DeanChensj/jiangshan-map",
+            "url": "https://github.com/DeanChensj/jiangshan-map",
+            "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-m…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "t8y2",
+          "name": "t8y2",
+          "url": "https://github.com/t8y2",
+          "featuredRepo": {
+            "name": "t8y2/dbx",
+            "url": "https://github.com/t8y2/dbx",
+            "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Ser…"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "addyosmani",
+          "name": "Addy Osmani",
+          "url": "https://github.com/addyosmani",
+          "featuredRepo": {
+            "name": "addyosmani/agent-skills",
+            "url": "https://github.com/addyosmani/agent-skills",
+            "description": "Production-grade engineering skills for AI coding agents."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "paulirish",
+          "name": "Paul Irish",
+          "url": "https://github.com/paulirish",
+          "featuredRepo": {
+            "name": "paulirish/chrome-capture",
+            "url": "https://github.com/paulirish/chrome-capture",
+            "description": "60-120fps / 2160p tab video/audio capture from Chrome"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "edmundhung",
+          "name": "Edmund Hung",
+          "url": "https://github.com/edmundhung",
+          "featuredRepo": {
+            "name": "edmundhung/conform",
+            "url": "https://github.com/edmundhung/conform",
+            "description": "Progressively enhance HTML forms with React. Build resilient, type-safe forms with no hassle using web standards."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "ryansolid",
+          "name": "Ryan Carniato",
+          "url": "https://github.com/ryansolid",
+          "featuredRepo": null
+        },
+        {
+          "rank": 22,
+          "username": "yuaanlin",
+          "name": "Yuanlin Lin",
+          "url": "https://github.com/yuaanlin",
+          "featuredRepo": null
+        },
+        {
+          "rank": 23,
+          "username": "tobi",
+          "name": "Tobias Lütke",
+          "url": "https://github.com/tobi",
+          "featuredRepo": {
+            "name": "tobi/qmd",
+            "url": "https://github.com/tobi/qmd",
+            "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "jlevy",
+          "name": "Joshua Levy",
+          "url": "https://github.com/jlevy",
+          "featuredRepo": {
+            "name": "jlevy/the-art-of-command-line",
+            "url": "https://github.com/jlevy/the-art-of-command-line",
+            "description": "Master the command line, in one page"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "joakimeriksson",
+          "name": "Joakim Eriksson",
+          "url": "https://github.com/joakimeriksson",
+          "featuredRepo": {
+            "name": "joakimeriksson/fm1-emu",
+            "url": "https://github.com/joakimeriksson/fm1-emu",
+            "description": "Emulator for the M-VAVE FM-1 pocket synth: runs its firmwares unchanged in the browser and natively"
+          }
+        }
+      ]
     }
   ],
   "best": []

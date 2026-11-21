@@ -755,6 +755,256 @@
           "starsLabel": "this month"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-21T18:22:54.065Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=monthly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+          "language": "TypeScript",
+          "stars": 26445,
+          "forks": 3773,
+          "starsToday": 21024,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 2,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+          "language": "TypeScript",
+          "stars": 69216,
+          "forks": 11852,
+          "starsToday": 38744,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 3,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 118802,
+          "forks": 10328,
+          "starsToday": 17381,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 4,
+          "name": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+          "language": "TypeScript",
+          "stars": 14101,
+          "forks": 1403,
+          "starsToday": 4344,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 5,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "language": "TypeScript",
+          "stars": 11327,
+          "forks": 1428,
+          "starsToday": 2406,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 6,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.",
+          "language": "TypeScript",
+          "stars": 87770,
+          "forks": 8170,
+          "starsToday": 19612,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 7,
+          "name": "Vincentwei1021/video-shotcraft",
+          "url": "https://github.com/Vincentwei1021/video-shotcraft",
+          "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
+          "language": "TypeScript",
+          "stars": 21950,
+          "forks": 2027,
+          "starsToday": 9286,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 8,
+          "name": "JetBrains/thinkrail",
+          "url": "https://github.com/JetBrains/thinkrail",
+          "description": "ThinkRail is the agentic IDE that gets better every time you use it",
+          "language": "TypeScript",
+          "stars": 8385,
+          "forks": 533,
+          "starsToday": 7479,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 9,
+          "name": "CopilotKit/OpenBot",
+          "url": "https://github.com/CopilotKit/OpenBot",
+          "description": "The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.",
+          "language": "TypeScript",
+          "stars": 13132,
+          "forks": 1641,
+          "starsToday": 6425,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 10,
+          "name": "vercel-labs/skills",
+          "url": "https://github.com/vercel-labs/skills",
+          "description": "The open agent skills tool - npx skills",
+          "language": "TypeScript",
+          "stars": 40327,
+          "forks": 3569,
+          "starsToday": 4536,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 11,
+          "name": "remotion-dev/remotion",
+          "url": "https://github.com/remotion-dev/remotion",
+          "description": "🎥 Make videos programmatically with React",
+          "language": "TypeScript",
+          "stars": 74729,
+          "forks": 6353,
+          "starsToday": 9206,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 12,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+          "language": "TypeScript",
+          "stars": 56077,
+          "forks": 7987,
+          "starsToday": 17878,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 13,
+          "name": "gitroomhq/postiz-app",
+          "url": "https://github.com/gitroomhq/postiz-app",
+          "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+          "language": "TypeScript",
+          "stars": 42107,
+          "forks": 8044,
+          "starsToday": 4750,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 14,
+          "name": "QwenLM/qwen-code",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "description": "An open-source AI coding agent that lives in your terminal.",
+          "language": "TypeScript",
+          "stars": 30842,
+          "forks": 3571,
+          "starsToday": 2376,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 15,
+          "name": "LibreSpark/LibreTV",
+          "url": "https://github.com/LibreSpark/LibreTV",
+          "description": "一分钟搭建影视站，支持Docker等部署方式",
+          "language": "TypeScript",
+          "stars": 25525,
+          "forks": 31563,
+          "starsToday": 5382,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 16,
+          "name": "ranxianglei/billion-context",
+          "url": "https://github.com/ranxianglei/billion-context",
+          "description": "A context-compression plugin for month-long single sessions (billions of tokens) and small context windows (a 100K context is enough), billion-context is all you need .",
+          "language": "TypeScript",
+          "stars": 8080,
+          "forks": 651,
+          "starsToday": 6005,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 17,
+          "name": "lobehub/lobehub",
+          "url": "https://github.com/lobehub/lobehub",
+          "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
+          "language": "TypeScript",
+          "stars": 85948,
+          "forks": 16340,
+          "starsToday": 2807,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 18,
+          "name": "ag-ui-protocol/ag-ui",
+          "url": "https://github.com/ag-ui-protocol/ag-ui",
+          "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+          "language": "TypeScript",
+          "stars": 20983,
+          "forks": 2138,
+          "starsToday": 4110,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 19,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 21532,
+          "forks": 69699,
+          "starsToday": 799,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 20,
+          "name": "anthropics/sandbox-runtime",
+          "url": "https://github.com/anthropics/sandbox-runtime",
+          "description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
+          "language": "TypeScript",
+          "stars": 7210,
+          "forks": 656,
+          "starsToday": 1613,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 21,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 108970,
+          "forks": 14969,
+          "starsToday": 2044,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 22,
+          "name": "elie222/rakazo",
+          "url": "https://github.com/elie222/rakazo",
+          "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+          "language": "TypeScript",
+          "stars": 9394,
+          "forks": 1697,
+          "starsToday": 4493,
+          "starsLabel": "this month"
+        }
+      ]
     }
   ],
   "best": [
