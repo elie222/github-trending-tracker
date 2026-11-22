@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-22",
+  "list": "developers",
+  "language": "typescript",
+  "period": "weekly",
+  "pageUrl": "https://github.com/trending/developers/typescript?since=weekly",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-11-22T00:44:04.798Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/estella",
+            "url": "https://github.com/esengine/estella",
+            "description": "A fast 2D and 3D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, p…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "musistudio",
+          "name": "musi",
+          "url": "https://github.com/musistudio",
+          "featuredRepo": {
+            "name": "musistudio/claude-code-router",
+            "url": "https://github.com/musistudio/claude-code-router",
+            "description": "One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 5,
+          "username": "paulirish",
+          "name": "Paul Irish",
+          "url": "https://github.com/paulirish",
+          "featuredRepo": {
+            "name": "paulirish/chrome-capture",
+            "url": "https://github.com/paulirish/chrome-capture",
+            "description": "60-120fps / 2160p tab video/audio capture from Chrome"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "edmundhung",
+          "name": "Edmund Hung",
+          "url": "https://github.com/edmundhung",
+          "featuredRepo": {
+            "name": "edmundhung/conform",
+            "url": "https://github.com/edmundhung/conform",
+            "description": "Progressively enhance HTML forms with React. Build resilient, type-safe forms with no hassle using web standards."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "tobi",
+          "name": "Tobias Lütke",
+          "url": "https://github.com/tobi",
+          "featuredRepo": {
+            "name": "tobi/qmd",
+            "url": "https://github.com/tobi/qmd",
+            "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "lidge-jun",
+          "name": "JUN",
+          "url": "https://github.com/lidge-jun",
+          "featuredRepo": {
+            "name": "lidge-jun/opencodex",
+            "url": "https://github.com/lidge-jun/opencodex",
+            "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK,…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/plannotator",
+            "url": "https://github.com/backnotprop/plannotator",
+            "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedba…"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "liguobao",
+          "name": "李国宝",
+          "url": "https://github.com/liguobao",
+          "featuredRepo": {
+            "name": "liguobao/ds-harness-remote",
+            "url": "https://github.com/liguobao/ds-harness-remote",
+            "description": "基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web 随时访问本地设备上的DSH 、CodeX、Cursor、Claude Code等工作区。 (Built on DeepSeek H…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "Gilbert09",
+          "name": "Tom Owers",
+          "url": "https://github.com/Gilbert09",
+          "featuredRepo": {
+            "name": "Gilbert09/talyn",
+            "url": "https://github.com/Gilbert09/talyn",
+            "description": "Give every task its own coding agent. Run Claude Code and Codex in parallel cloud sandboxes on your own subscription, each one opening a …"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "davideast",
+          "name": "David East",
+          "url": "https://github.com/davideast",
+          "featuredRepo": {
+            "name": "davideast/stitch-mcp",
+            "url": "https://github.com/davideast/stitch-mcp",
+            "description": "A CLI for moving AI-generated UI designs from Google’s Stitch platform into your development workflow."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "simonklee",
+          "name": "Simon Klee",
+          "url": "https://github.com/simonklee",
+          "featuredRepo": {
+            "name": "simonklee/opencode-native-preview",
+            "url": "https://github.com/simonklee/opencode-native-preview",
+            "description": "OpenCode Native CLI Preview builds"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 16,
+          "username": "connorjclark",
+          "name": "Connor Clark",
+          "url": "https://github.com/connorjclark",
+          "featuredRepo": {
+            "name": "connorjclark/chrome-devtools-mcp",
+            "url": "https://github.com/connorjclark/chrome-devtools-mcp",
+            "description": "Chrome DevTools for coding agents"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "timoncool",
+          "name": "Ilya (Nerual Dreming) Timonin",
+          "url": "https://github.com/timoncool",
+          "featuredRepo": {
+            "name": "timoncool/YuE2-Studio",
+            "url": "https://github.com/timoncool/YuE2-Studio",
+            "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Wind…"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "dreamhunter2333",
+          "name": "Dream Hunter",
+          "url": "https://github.com/dreamhunter2333",
+          "featuredRepo": {
+            "name": "dreamhunter2333/cloudflare_temp_email",
+            "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+            "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "dzianisv",
+          "name": "Den",
+          "url": "https://github.com/dzianisv",
+          "featuredRepo": {
+            "name": "dzianisv/opencode-mobile",
+            "url": "https://github.com/dzianisv/opencode-mobile",
+            "description": "OpenCode Mobile — open-source Android client for the OpenCode AI coding agent. Run AI coding sessions from your phone against your self-h…"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 23,
+          "username": "wassgha",
+          "name": "Wassim Gharbi",
+          "url": "https://github.com/wassgha",
+          "featuredRepo": {
+            "name": "wassgha/rescript",
+            "url": "https://github.com/wassgha/rescript",
+            "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "mantrakp04",
+          "name": "Mantra",
+          "url": "https://github.com/mantrakp04",
+          "featuredRepo": {
+            "name": "mantrakp04/zunos",
+            "url": "https://github.com/mantrakp04/zunos",
+            "description": "A speech model that learns your voice, in any language. Mac app (Expo + react-native-macos) that fine-tunes Whisper on your recordings an…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        }
+      ]
+    }
+  ],
+  "best": [
+    {
+      "kind": "developer",
+      "key": "elie222",
+      "url": "https://github.com/elie222",
+      "bestRank": 15,
+      "scrapedAt": "2026-11-22T00:44:04.798Z",
+      "starsToday": null,
+      "featuredRepo": "elie222/rakazo"
+    }
+  ]
+}
