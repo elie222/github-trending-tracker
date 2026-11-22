@@ -276,6 +276,277 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-22T06:29:41.998Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "maleadt",
+          "name": "Tim Besard",
+          "url": "https://github.com/maleadt",
+          "featuredRepo": {
+            "name": "maleadt/IRStructurizer.jl",
+            "url": "https://github.com/maleadt/IRStructurizer.jl",
+            "description": "Pattern-matching structured control flow in Julia's SSA IR."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "guilyx",
+          "name": "Erwin L.",
+          "url": "https://github.com/guilyx",
+          "featuredRepo": {
+            "name": "guilyx/awesome-github-pages-portfolios",
+            "url": "https://github.com/guilyx/awesome-github-pages-portfolios",
+            "description": "😎 A curated list of awesome github pages porfolio templates 📝"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "he-yufeng",
+          "name": "Yufeng He",
+          "url": "https://github.com/he-yufeng",
+          "featuredRepo": {
+            "name": "he-yufeng/CoreCoder",
+            "url": "https://github.com/he-yufeng/CoreCoder",
+            "description": "Minimal AI coding agent (~1,000 lines of Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly N…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "andrewnakas",
+          "name": "Andrew Nakas",
+          "url": "https://github.com/andrewnakas",
+          "featuredRepo": {
+            "name": "andrewnakas/gtav-recomp",
+            "url": "https://github.com/andrewnakas/gtav-recomp",
+            "description": "GTA V (Xbox 360, TU27) static recompilation with ReXGlue"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "jeong-sik",
+          "name": "Jeong-Sik Yun",
+          "url": "https://github.com/jeong-sik",
+          "featuredRepo": null
+        },
+        {
+          "rank": 7,
+          "username": "Wei-Shaw",
+          "name": "Wesley Liddick",
+          "url": "https://github.com/Wei-Shaw",
+          "featuredRepo": {
+            "name": "Wei-Shaw/sub2api",
+            "url": "https://github.com/Wei-Shaw/sub2api",
+            "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "kalil0321",
+          "name": "kalil0321",
+          "url": "https://github.com/kalil0321",
+          "featuredRepo": {
+            "name": "kalil0321/reverse-api-engineer",
+            "url": "https://github.com/kalil0321/reverse-api-engineer",
+            "description": "Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "Gaurav-Gosain",
+          "name": "Gaurav Gosain",
+          "url": "https://github.com/Gaurav-Gosain",
+          "featuredRepo": {
+            "name": "Gaurav-Gosain/tuios",
+            "url": "https://github.com/Gaurav-Gosain/tuios",
+            "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox …"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "mattzcarey",
+          "name": "Matt",
+          "url": "https://github.com/mattzcarey",
+          "featuredRepo": {
+            "name": "mattzcarey/everystate",
+            "url": "https://github.com/mattzcarey/everystate",
+            "description": "lightening fast, formal verification engine"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "firsttris",
+          "name": "Tristan Teufel",
+          "url": "https://github.com/firsttris",
+          "featuredRepo": {
+            "name": "firsttris/plugin.video.sendtokodi",
+            "url": "https://github.com/firsttris/plugin.video.sendtokodi",
+            "description": "Kodi add-on that plays YouTube, Twitch, Vimeo, SoundCloud and 1000+ other websites on Kodi. Send links from your browser (Chrome, Firefox…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "jxxghp",
+          "name": "jxxghp",
+          "url": "https://github.com/jxxghp",
+          "featuredRepo": {
+            "name": "jxxghp/MoviePilot",
+            "url": "https://github.com/jxxghp/MoviePilot",
+            "description": "NAS媒体库自动化管理工具"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "SaladDay",
+          "name": "SaladDay",
+          "url": "https://github.com/SaladDay",
+          "featuredRepo": {
+            "name": "SaladDay/cc-switch-cli",
+            "url": "https://github.com/SaladDay/cc-switch-cli",
+            "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "abue-ammar",
+          "name": "Abue Ammar",
+          "url": "https://github.com/abue-ammar",
+          "featuredRepo": {
+            "name": "abue-ammar/tinycast",
+            "url": "https://github.com/abue-ammar/tinycast",
+            "description": "A native macOS launcher for everyday productivity. Lightweight and open source."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "mdrxy",
+          "name": "Mason Daugherty",
+          "url": "https://github.com/mdrxy",
+          "featuredRepo": {
+            "name": "mdrxy/great-radio-sites",
+            "url": "https://github.com/mdrxy/great-radio-sites",
+            "description": "Radio stations websites that I think are great"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "mmabrouk",
+          "name": "Mahmoud Mabrouk",
+          "url": "https://github.com/mmabrouk",
+          "featuredRepo": null
+        },
+        {
+          "rank": 18,
+          "username": "Alan-TheGentleman",
+          "name": "Alan Buscaglia",
+          "url": "https://github.com/Alan-TheGentleman",
+          "featuredRepo": {
+            "name": "Alan-TheGentleman/gentleman-book-mcp",
+            "url": "https://github.com/Alan-TheGentleman/gentleman-book-mcp",
+            "description": "MCP Server for Gentleman Programming Book - Give AI assistants direct access to 18 chapters of software architecture knowledge"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "benbrandt",
+          "name": "Ben Brandt",
+          "url": "https://github.com/benbrandt",
+          "featuredRepo": null
+        },
+        {
+          "rank": 21,
+          "username": "christian-byrne",
+          "name": "Christian Byrne",
+          "url": "https://github.com/christian-byrne",
+          "featuredRepo": {
+            "name": "christian-byrne/audio-separation-nodes-comfyui",
+            "url": "https://github.com/christian-byrne/audio-separation-nodes-comfyui",
+            "description": "Separate stems (vocals, bass, drums, other) from audio. Recombine, tempo match, slice/crop audio"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/plannotator",
+            "url": "https://github.com/backnotprop/plannotator",
+            "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedba…"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "alirezarezvani",
+          "name": "Alireza Rezvani",
+          "url": "https://github.com/alirezarezvani",
+          "featuredRepo": {
+            "name": "alirezarezvani/claude-skills",
+            "url": "https://github.com/alirezarezvani/claude-skills",
+            "description": "410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude C…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "abrignoni",
+          "name": "Brigs",
+          "url": "https://github.com/abrignoni",
+          "featuredRepo": {
+            "name": "abrignoni/iLEAPP",
+            "url": "https://github.com/abrignoni/iLEAPP",
+            "description": "iOS Logs, Events, And Plist Parser"
+          }
+        }
+      ]
     }
   ],
   "best": []
