@@ -276,6 +276,277 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-23T06:42:17.080Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "Alan-TheGentleman",
+          "name": "Alan Buscaglia",
+          "url": "https://github.com/Alan-TheGentleman",
+          "featuredRepo": {
+            "name": "Alan-TheGentleman/gentleman-book-mcp",
+            "url": "https://github.com/Alan-TheGentleman/gentleman-book-mcp",
+            "description": "MCP Server for Gentleman Programming Book - Give AI assistants direct access to 18 chapters of software architecture knowledge"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "78",
+          "name": "Xiaoxia",
+          "url": "https://github.com/78",
+          "featuredRepo": {
+            "name": "78/xiaozhi-esp32",
+            "url": "https://github.com/78/xiaozhi-esp32",
+            "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "Wei-Shaw",
+          "name": "Wesley Liddick",
+          "url": "https://github.com/Wei-Shaw",
+          "featuredRepo": {
+            "name": "Wei-Shaw/sub2api",
+            "url": "https://github.com/Wei-Shaw/sub2api",
+            "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "christian-byrne",
+          "name": "Christian Byrne",
+          "url": "https://github.com/christian-byrne",
+          "featuredRepo": {
+            "name": "christian-byrne/audio-separation-nodes-comfyui",
+            "url": "https://github.com/christian-byrne/audio-separation-nodes-comfyui",
+            "description": "Separate stems (vocals, bass, drums, other) from audio. Recombine, tempo match, slice/crop audio"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "kalil0321",
+          "name": "kalil0321",
+          "url": "https://github.com/kalil0321",
+          "featuredRepo": {
+            "name": "kalil0321/reverse-api-engineer",
+            "url": "https://github.com/kalil0321/reverse-api-engineer",
+            "description": "Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "danielmeppiel",
+          "name": "Daniel Meppiel",
+          "url": "https://github.com/danielmeppiel",
+          "featuredRepo": {
+            "name": "danielmeppiel/genesis",
+            "url": "https://github.com/danielmeppiel/genesis",
+            "description": "Markdown that steers an LLM is code. Genesis is the architectural layer for designing multi-agent, multi-skill systems -- with named patt…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "justrach",
+          "name": "Rach",
+          "url": "https://github.com/justrach",
+          "featuredRepo": {
+            "name": "justrach/nanoui",
+            "url": "https://github.com/justrach/nanoui",
+            "description": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "jxxghp",
+          "name": "jxxghp",
+          "url": "https://github.com/jxxghp",
+          "featuredRepo": {
+            "name": "jxxghp/MoviePilot",
+            "url": "https://github.com/jxxghp/MoviePilot",
+            "description": "NAS媒体库自动化管理工具"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "mmabrouk",
+          "name": "Mahmoud Mabrouk",
+          "url": "https://github.com/mmabrouk",
+          "featuredRepo": null
+        },
+        {
+          "rank": 12,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/vibestack",
+            "url": "https://github.com/lalalune/vibestack",
+            "description": "The ultimate starter template for building formally specified and verified Typescript projects, built on VibeLang"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "Gaurav-Gosain",
+          "name": "Gaurav Gosain",
+          "url": "https://github.com/Gaurav-Gosain",
+          "featuredRepo": {
+            "name": "Gaurav-Gosain/tuios",
+            "url": "https://github.com/Gaurav-Gosain/tuios",
+            "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox …"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "jniebuhr",
+          "name": "Jochen Niebuhr",
+          "url": "https://github.com/jniebuhr",
+          "featuredRepo": {
+            "name": "jniebuhr/gaggimate",
+            "url": "https://github.com/jniebuhr/gaggimate",
+            "description": "This project upgrades a Gaggia espresso machine with smart controls to improve your coffee-making experience. By adding a display and cus…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "he-yufeng",
+          "name": "Yufeng He",
+          "url": "https://github.com/he-yufeng",
+          "featuredRepo": {
+            "name": "he-yufeng/CoreCoder",
+            "url": "https://github.com/he-yufeng/CoreCoder",
+            "description": "Minimal AI coding agent (~1,000 lines of Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly N…"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "abue-ammar",
+          "name": "Abue Ammar",
+          "url": "https://github.com/abue-ammar",
+          "featuredRepo": {
+            "name": "abue-ammar/tinycast",
+            "url": "https://github.com/abue-ammar/tinycast",
+            "description": "A native macOS launcher built for productivity. Fast, lightweight, and open source."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "benbrandt",
+          "name": "Ben Brandt",
+          "url": "https://github.com/benbrandt",
+          "featuredRepo": null
+        },
+        {
+          "rank": 19,
+          "username": "amir20",
+          "name": "Amir Raminfar",
+          "url": "https://github.com/amir20",
+          "featuredRepo": {
+            "name": "amir20/dozzle",
+            "url": "https://github.com/amir20/dozzle",
+            "description": "Realtime log viewer for containers. Supports Docker, Swarm and K8s."
+          }
+        },
+        {
+          "rank": 20,
+          "username": "Kaos599",
+          "name": "Harsh",
+          "url": "https://github.com/Kaos599",
+          "featuredRepo": {
+            "name": "Kaos599/Maglev",
+            "url": "https://github.com/Kaos599/Maglev",
+            "description": "Download anything on Android: a free, open-source torrent client, download manager, video downloader and subtitle downloader in one app. …"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "hiyouga",
+          "name": "Yaowei Zheng",
+          "url": "https://github.com/hiyouga",
+          "featuredRepo": {
+            "name": "hiyouga/LlamaFactory",
+            "url": "https://github.com/hiyouga/LlamaFactory",
+            "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "sam-goodwin",
+          "name": "sam",
+          "url": "https://github.com/sam-goodwin",
+          "featuredRepo": null
+        },
+        {
+          "rank": 24,
+          "username": "guilyx",
+          "name": "Erwin L.",
+          "url": "https://github.com/guilyx",
+          "featuredRepo": {
+            "name": "guilyx/awesome-github-pages-portfolios",
+            "url": "https://github.com/guilyx/awesome-github-pages-portfolios",
+            "description": "😎 A curated list of awesome github pages porfolio templates 📝"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "abrignoni",
+          "name": "Brigs",
+          "url": "https://github.com/abrignoni",
+          "featuredRepo": {
+            "name": "abrignoni/iLEAPP",
+            "url": "https://github.com/abrignoni/iLEAPP",
+            "description": "iOS Logs, Events, And Plist Parser"
+          }
+        }
+      ]
     }
   ],
   "best": []
