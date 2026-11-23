@@ -12,7 +12,7 @@ UTC day **2026-11-23**.
 
 | List | Result |
 | --- | --- |
-| TypeScript developers (daily) | not listed |
+| TypeScript developers (daily) | **#14** elie222 · elie222/rakazo |
 | all languages developers (daily) | not listed |
 | TypeScript repositories (daily) | not listed |
 | all languages repositories (daily) | not listed |
@@ -21,7 +21,7 @@ UTC day **2026-11-23**.
 
 | Name | List | Days listed | Days #1 | Days top 10 | Best | Current on-list streak | Longest on-list streak | Current #1 streak | Longest #1 streak |
 | --- | --- | ---: | ---: | ---: | ---: | --- | --- | --- | --- |
-| elie222 | TypeScript developers (daily) | 429 | 75 | 322 | #1 | 0 days | 54 days (2026-09-27 – 2026-11-19) | 0 days | 8 days (2025-07-08 – 2025-07-15) |
+| elie222 | TypeScript developers (daily) | 430 | 75 | 322 | #1 | 1 day (2026-11-23) | 54 days (2026-09-27 – 2026-11-19) | 0 days | 8 days (2025-07-08 – 2025-07-15) |
 | elie222 | all languages developers (daily) | 194 | 25 | 119 | #1 | 0 days | 10 days (2026-11-09 – 2026-11-18) | 0 days | 3 days (2025-10-22 – 2025-10-24) |
 | elie222/inbox-zero | TypeScript repositories (daily) | 22 | 3 | 16 | #1 | 0 days | 4 days (2025-04-03 – 2025-04-06) | 0 days | 2 days (2025-04-04 – 2025-04-05) |
 | elie222/inbox-zero | all languages repositories (daily) | 6 | 0 | 5 | #2 | 0 days | 3 days (2025-04-03 – 2025-04-05) | 0 days | 0 days |
@@ -34,8 +34,8 @@ TypeScript daily and all-languages daily are the lists that matter. Rank is the 
 
 ### TypeScript developers (daily)
 
-429 days listed, 75 days at #1, 322 days in the top 10. Best rank: #1.
-Current on-list streak: 0 days, as of 2026-11-23.
+430 days listed, 75 days at #1, 322 days in the top 10. Best rank: #1.
+Current on-list streak: 1 day (2026-11-23), as of 2026-11-23.
 Longest on-list streak: 54 days (2026-09-27 – 2026-11-19).
 Current #1 streak: 0 days, as of 2026-11-23.
 Longest #1 streak: 8 days (2025-07-08 – 2025-07-15).
@@ -43,7 +43,7 @@ Days at #1: 2024-12-31, 2025-01-03, 2025-01-04, 2025-01-05, 2025-01-18, 2025-01-
 
 | Month | Days | #1 | Top 10 | Best |
 | --- | ---: | ---: | ---: | ---: |
-| 2026-11 | 19 | 0 | 18 | #3 |
+| 2026-11 | 20 | 0 | 18 | #3 |
 | 2026-10 | 31 | 2 | 28 | #1 |
 | 2026-09 | 28 | 1 | 20 | #1 |
 | 2026-08 | 24 | 2 | 17 | #1 |
@@ -71,6 +71,7 @@ Days at #1: 2024-12-31, 2025-01-03, 2025-01-04, 2025-01-05, 2025-01-18, 2025-01-
 
 | Date | Best rank | Featured repo | Source |
 | --- | ---: | --- | --- |
+| 2026-11-23 | #14 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-11-19 | #9 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-11-18 | #3 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
 | 2026-11-17 | #3 | [elie222/rakazo](https://github.com/elie222/rakazo) | live |
@@ -847,10 +848,10 @@ These periods are scraped and stored, but they are not part of the daily totals,
 
 | List | Name | Date | Best rank |
 | --- | --- | --- | --- |
-| TypeScript developers (weekly) | elie222 | 2026-11-23 | #14 |
+| TypeScript developers (weekly) | elie222 | 2026-11-23 | #9 |
 | all languages developers (weekly) | elie222 | 2026-11-16 | #21 |
 | TypeScript repositories (weekly) | elie222/rakazo | 2026-11-19 | #14 |
 | all languages repositories (weekly) | elie222/rakazo | 2026-10-24 | #15 |
-| TypeScript developers (monthly) | elie222 | 2026-11-23 | #16 |
+| TypeScript developers (monthly) | elie222 | 2026-11-23 | #12 |
 | all languages developers (monthly) | elie222 | 2026-11-19 | #12 |
 | TypeScript repositories (monthly) | elie222/rakazo | 2026-11-23 | #22 |
