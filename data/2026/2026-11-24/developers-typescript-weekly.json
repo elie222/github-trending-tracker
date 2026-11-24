@@ -854,6 +854,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-24T18:24:15.982Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "davideast",
+          "name": "David East",
+          "url": "https://github.com/davideast",
+          "featuredRepo": {
+            "name": "davideast/stitch-mcp",
+            "url": "https://github.com/davideast/stitch-mcp",
+            "description": "A CLI for moving AI-generated UI designs from Google’s Stitch platform into your development workflow."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/estella",
+            "url": "https://github.com/esengine/estella",
+            "description": "A fast 2D and 3D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, p…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "musistudio",
+          "name": "musi",
+          "url": "https://github.com/musistudio",
+          "featuredRepo": {
+            "name": "musistudio/claude-code-router",
+            "url": "https://github.com/musistudio/claude-code-router",
+            "description": "One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "Gilbert09",
+          "name": "Tom Owers",
+          "url": "https://github.com/Gilbert09",
+          "featuredRepo": {
+            "name": "Gilbert09/talyn",
+            "url": "https://github.com/Gilbert09/talyn",
+            "description": "Give every task its own coding agent. Run Claude Code and Codex in parallel cloud sandboxes on your own subscription, each one opening a …"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "jackulau",
+          "name": "Jack Lau",
+          "url": "https://github.com/jackulau",
+          "featuredRepo": {
+            "name": "jackulau/coding.sh",
+            "url": "https://github.com/jackulau/coding.sh",
+            "description": "Open-source, local-first observability and evals for AI agents: see what Claude Code, Codex, Cursor and others did and what it cost."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "Hao0321",
+          "name": "Hao0321",
+          "url": "https://github.com/Hao0321",
+          "featuredRepo": {
+            "name": "Hao0321/Editkin",
+            "url": "https://github.com/Hao0321/Editkin",
+            "description": "Community source for Editkin, a local-first video editor with an editable timeline and structured AI commands"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "paulirish",
+          "name": "Paul Irish",
+          "url": "https://github.com/paulirish",
+          "featuredRepo": {
+            "name": "paulirish/chrome-capture",
+            "url": "https://github.com/paulirish/chrome-capture",
+            "description": "60-120fps / 2160p tab video/audio capture from Chrome"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "TheVicky1",
+          "name": "Vicky Patel",
+          "url": "https://github.com/TheVicky1",
+          "featuredRepo": {
+            "name": "TheVicky1/Pact_OS",
+            "url": "https://github.com/TheVicky1/Pact_OS",
+            "description": "Personal Productivity & Accountability OS -Turn Intent Into Discipline with server-authoritative commitments, time-blocked planning, and …"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "wassgha",
+          "name": "Wassim Gharbi",
+          "url": "https://github.com/wassgha",
+          "featuredRepo": {
+            "name": "wassgha/rescript",
+            "url": "https://github.com/wassgha/rescript",
+            "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/plannotator",
+            "url": "https://github.com/backnotprop/plannotator",
+            "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedba…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "tobi",
+          "name": "Tobias Lütke",
+          "url": "https://github.com/tobi",
+          "featuredRepo": {
+            "name": "tobi/qmd",
+            "url": "https://github.com/tobi/qmd",
+            "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "dreamhunter2333",
+          "name": "Dream Hunter",
+          "url": "https://github.com/dreamhunter2333",
+          "featuredRepo": {
+            "name": "dreamhunter2333/cloudflare_temp_email",
+            "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+            "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "zxch3n",
+          "name": "Zixuan Chen",
+          "url": "https://github.com/zxch3n",
+          "featuredRepo": {
+            "name": "zxch3n/PomodoroLogger",
+            "url": "https://github.com/zxch3n/PomodoroLogger",
+            "description": "Pomodoro Logger 🕤 -- When a time tracker meets Pomodoro and Kanban board"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "coleam00",
+          "name": "Cole Medin",
+          "url": "https://github.com/coleam00",
+          "featuredRepo": {
+            "name": "coleam00/Archon",
+            "url": "https://github.com/coleam00/Archon",
+            "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "vastsa",
+          "name": "Lan",
+          "url": "https://github.com/vastsa",
+          "featuredRepo": {
+            "name": "vastsa/PI-Desktop",
+            "url": "https://github.com/vastsa/PI-Desktop",
+            "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "alexechoi",
+          "name": "Alex Choi",
+          "url": "https://github.com/alexechoi",
+          "featuredRepo": {
+            "name": "alexechoi/concord-mcp",
+            "url": "https://github.com/alexechoi/concord-mcp",
+            "description": "Shared work-state for coding agents: claim work, leave handoffs, and generate review packets before PRs, over MCP."
+          }
+        },
+        {
+          "rank": 23,
+          "username": "liguobao",
+          "name": "李国宝",
+          "url": "https://github.com/liguobao",
+          "featuredRepo": {
+            "name": "liguobao/ds-harness-remote",
+            "url": "https://github.com/liguobao/ds-harness-remote",
+            "description": "基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web 随时访问本地设备上的DSH 、CodeX、Cursor、Claude Code等工作区。 (Built on DeepSeek H…"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "connorjclark",
+          "name": "Connor Clark",
+          "url": "https://github.com/connorjclark",
+          "featuredRepo": {
+            "name": "connorjclark/chrome-devtools-mcp",
+            "url": "https://github.com/connorjclark/chrome-devtools-mcp",
+            "description": "Chrome DevTools for coding agents"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "dcramer",
+          "name": "David Cramer",
+          "url": "https://github.com/dcramer",
+          "featuredRepo": {
+            "name": "dcramer/sift",
+            "url": "https://github.com/dcramer/sift",
+            "description": null
+          }
+        }
+      ]
     }
   ],
   "best": [

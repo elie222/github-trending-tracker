@@ -830,6 +830,273 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-24T18:24:15.982Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/vibestack",
+            "url": "https://github.com/lalalune/vibestack",
+            "description": "Ship apps. Not slop."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "danielmeppiel",
+          "name": "Daniel Meppiel",
+          "url": "https://github.com/danielmeppiel",
+          "featuredRepo": {
+            "name": "danielmeppiel/genesis",
+            "url": "https://github.com/danielmeppiel/genesis",
+            "description": "Markdown that steers an LLM is code. Genesis is the architectural layer for designing multi-agent, multi-skill systems -- with named patt…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "justrach",
+          "name": "Rach",
+          "url": "https://github.com/justrach",
+          "featuredRepo": {
+            "name": "justrach/nanoui",
+            "url": "https://github.com/justrach/nanoui",
+            "description": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "thdxr",
+          "name": "Dax",
+          "url": "https://github.com/thdxr",
+          "featuredRepo": null
+        },
+        {
+          "rank": 6,
+          "username": "Wei-Shaw",
+          "name": "Wesley Liddick",
+          "url": "https://github.com/Wei-Shaw",
+          "featuredRepo": {
+            "name": "Wei-Shaw/sub2api",
+            "url": "https://github.com/Wei-Shaw/sub2api",
+            "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "magnus919",
+          "name": "Magnus Hedemark",
+          "url": "https://github.com/magnus919",
+          "featuredRepo": {
+            "name": "magnus919/agent-skills",
+            "url": "https://github.com/magnus919/agent-skills",
+            "description": "Curated collection of AI agent skills for Hermes and other agent frameworks"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "bdraco",
+          "name": "J. Nick Koston",
+          "url": "https://github.com/bdraco",
+          "featuredRepo": {
+            "name": "bdraco/esp-idf",
+            "url": "https://github.com/bdraco/esp-idf",
+            "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "akshaydeo",
+          "name": "Akshay Deo",
+          "url": "https://github.com/akshaydeo",
+          "featuredRepo": null
+        },
+        {
+          "rank": 10,
+          "username": "tt-a1i",
+          "name": "tt-a1i",
+          "url": "https://github.com/tt-a1i",
+          "featuredRepo": {
+            "name": "tt-a1i/archify",
+            "url": "https://github.com/tt-a1i/archify",
+            "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        },
+        {
+          "rank": 12,
+          "username": "ccch1mneyyy",
+          "name": "Chimney",
+          "url": "https://github.com/ccch1mneyyy",
+          "featuredRepo": {
+            "name": "ccch1mneyyy/dsh-Go",
+            "url": "https://github.com/ccch1mneyyy/dsh-Go",
+            "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "jxxghp",
+          "name": "jxxghp",
+          "url": "https://github.com/jxxghp",
+          "featuredRepo": {
+            "name": "jxxghp/MoviePilot",
+            "url": "https://github.com/jxxghp/MoviePilot",
+            "description": "NAS媒体库自动化管理工具"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "hiyouga",
+          "name": "Yaowei Zheng",
+          "url": "https://github.com/hiyouga",
+          "featuredRepo": {
+            "name": "hiyouga/LlamaFactory",
+            "url": "https://github.com/hiyouga/LlamaFactory",
+            "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "he-yufeng",
+          "name": "Yufeng He",
+          "url": "https://github.com/he-yufeng",
+          "featuredRepo": {
+            "name": "he-yufeng/CoreCoder",
+            "url": "https://github.com/he-yufeng/CoreCoder",
+            "description": "Minimal AI coding agent (~1,000 lines of Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly N…"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "cryppadotta",
+          "name": "Dotta",
+          "url": "https://github.com/cryppadotta",
+          "featuredRepo": null
+        },
+        {
+          "rank": 17,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "mattsse",
+          "name": "Matthias Seitz",
+          "url": "https://github.com/mattsse",
+          "featuredRepo": {
+            "name": "mattsse/chromiumoxide",
+            "url": "https://github.com/mattsse/chromiumoxide",
+            "description": "Chrome Devtools Protocol rust API"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "thc1006",
+          "name": "秀吉",
+          "url": "https://github.com/thc1006",
+          "featuredRepo": {
+            "name": "thc1006/NYCU-Campus-3D-Buildings",
+            "url": "https://github.com/thc1006/NYCU-Campus-3D-Buildings",
+            "description": "🏛️ Comprehensive 3D geospatial dataset of 7,836 buildings across 5 NYCU campuses in Taiwan | Combines NLSC 3D models + OpenStreetMap data…"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "jniebuhr",
+          "name": "Jochen Niebuhr",
+          "url": "https://github.com/jniebuhr",
+          "featuredRepo": {
+            "name": "jniebuhr/gaggimate",
+            "url": "https://github.com/jniebuhr/gaggimate",
+            "description": "This project upgrades a Gaggia espresso machine with smart controls to improve your coffee-making experience. By adding a display and cus…"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "alirezarezvani",
+          "name": "Alireza Rezvani",
+          "url": "https://github.com/alirezarezvani",
+          "featuredRepo": {
+            "name": "alirezarezvani/claude-skills",
+            "url": "https://github.com/alirezarezvani/claude-skills",
+            "description": "410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude C…"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "alexechoi",
+          "name": "Alex Choi",
+          "url": "https://github.com/alexechoi",
+          "featuredRepo": {
+            "name": "alexechoi/instinct-coder",
+            "url": "https://github.com/alexechoi/instinct-coder",
+            "description": "Use your Instinct account to complete coding tasks"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+          }
+        },
+        {
+          "rank": 24,
+          "username": "mogery",
+          "name": "Gergő Móricz",
+          "url": "https://github.com/mogery",
+          "featuredRepo": null
+        },
+        {
+          "rank": 25,
+          "username": "Gilbert09",
+          "name": "Tom Owers",
+          "url": "https://github.com/Gilbert09",
+          "featuredRepo": {
+            "name": "Gilbert09/talyn",
+            "url": "https://github.com/Gilbert09/talyn",
+            "description": "Give every task its own coding agent. Run Claude Code and Codex in parallel cloud sandboxes on your own subscription, each one opening a …"
+          }
+        }
+      ]
     }
   ],
   "best": []

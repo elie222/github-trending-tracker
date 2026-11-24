@@ -590,6 +590,201 @@
           "starsLabel": "today"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-24T18:24:15.982Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 19112,
+          "forks": 2065,
+          "starsToday": 359,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 2,
+          "name": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+          "language": "TypeScript",
+          "stars": 208699,
+          "forks": 10905,
+          "starsToday": 990,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 3,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "language": "TypeScript",
+          "stars": 12573,
+          "forks": 1523,
+          "starsToday": 401,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 4,
+          "name": "toeverything/AFFiNE",
+          "url": "https://github.com/toeverything/AFFiNE",
+          "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+          "language": "TypeScript",
+          "stars": 77839,
+          "forks": 5691,
+          "starsToday": 589,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 5,
+          "name": "bendlang/bend",
+          "url": "https://github.com/bendlang/bend",
+          "description": "Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh",
+          "language": "TypeScript",
+          "stars": 25846,
+          "forks": 828,
+          "starsToday": 35,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 6,
+          "name": "appwrite/appwrite",
+          "url": "https://github.com/appwrite/appwrite",
+          "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+          "language": "TypeScript",
+          "stars": 58567,
+          "forks": 5913,
+          "starsToday": 26,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 7,
+          "name": "mastra-ai/mastra",
+          "url": "https://github.com/mastra-ai/mastra",
+          "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+          "language": "TypeScript",
+          "stars": 29788,
+          "forks": 3133,
+          "starsToday": 24,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 8,
+          "name": "tianma-if/edgeever",
+          "url": "https://github.com/tianma-if/edgeever",
+          "description": "AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.",
+          "language": "TypeScript",
+          "stars": 3535,
+          "forks": 1843,
+          "starsToday": 17,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 9,
+          "name": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "description": "The open alternative to Salesforce, designed for AI.",
+          "language": "TypeScript",
+          "stars": 61420,
+          "forks": 10170,
+          "starsToday": 56,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 10,
+          "name": "hieunc229/mailflare",
+          "url": "https://github.com/hieunc229/mailflare",
+          "description": "Email for professionals and teams",
+          "language": "TypeScript",
+          "stars": 7573,
+          "forks": 1349,
+          "starsToday": 77,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 11,
+          "name": "colbymchenry/codegraph",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+          "language": "TypeScript",
+          "stars": 78604,
+          "forks": 5237,
+          "starsToday": 109,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 12,
+          "name": "visgl/deck.gl",
+          "url": "https://github.com/visgl/deck.gl",
+          "description": "WebGL2 powered visualization framework",
+          "language": "TypeScript",
+          "stars": 14815,
+          "forks": 2311,
+          "starsToday": 6,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 13,
+          "name": "Fission-AI/OpenSpec",
+          "url": "https://github.com/Fission-AI/OpenSpec",
+          "description": "Spec-driven development (SDD) for AI coding assistants.",
+          "language": "TypeScript",
+          "stars": 75630,
+          "forks": 5169,
+          "starsToday": 92,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 14,
+          "name": "solidjs/solid",
+          "url": "https://github.com/solidjs/solid",
+          "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+          "language": "TypeScript",
+          "stars": 36949,
+          "forks": 1205,
+          "starsToday": 19,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 15,
+          "name": "croffasia/itsaplan",
+          "url": "https://github.com/croffasia/itsaplan",
+          "description": "⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.",
+          "language": "TypeScript",
+          "stars": 2608,
+          "forks": 343,
+          "starsToday": 63,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 16,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 228958,
+          "forks": 31142,
+          "starsToday": 226,
+          "starsLabel": "today"
+        },
+        {
+          "rank": 17,
+          "name": "earendil-works/pi",
+          "url": "https://github.com/earendil-works/pi",
+          "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+          "language": "TypeScript",
+          "stars": 123703,
+          "forks": 15977,
+          "starsToday": 205,
+          "starsLabel": "today"
+        }
+      ]
     }
   ],
   "best": []
