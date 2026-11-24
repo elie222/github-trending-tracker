@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-24",
+  "list": "developers",
+  "language": "all",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/developers?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-11-24T00:38:10.149Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "tt-a1i",
+          "name": "tt-a1i",
+          "url": "https://github.com/tt-a1i",
+          "featuredRepo": {
+            "name": "tt-a1i/archify",
+            "url": "https://github.com/tt-a1i/archify",
+            "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "justrach",
+          "name": "Rach",
+          "url": "https://github.com/justrach",
+          "featuredRepo": {
+            "name": "justrach/nanoui",
+            "url": "https://github.com/justrach/nanoui",
+            "description": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "he-yufeng",
+          "name": "Yufeng He",
+          "url": "https://github.com/he-yufeng",
+          "featuredRepo": {
+            "name": "he-yufeng/CoreCoder",
+            "url": "https://github.com/he-yufeng/CoreCoder",
+            "description": "Minimal AI coding agent (~1,000 lines of Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly N…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "Wei-Shaw",
+          "name": "Wesley Liddick",
+          "url": "https://github.com/Wei-Shaw",
+          "featuredRepo": {
+            "name": "Wei-Shaw/sub2api",
+            "url": "https://github.com/Wei-Shaw/sub2api",
+            "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "nwparker",
+          "name": "Neil",
+          "url": "https://github.com/nwparker",
+          "featuredRepo": {
+            "name": "nwparker/orca-mirror",
+            "url": "https://github.com/nwparker/orca-mirror",
+            "description": "Mirror of stablyai/orca"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "ccch1mneyyy",
+          "name": "Chimney",
+          "url": "https://github.com/ccch1mneyyy",
+          "featuredRepo": {
+            "name": "ccch1mneyyy/dsh-Go",
+            "url": "https://github.com/ccch1mneyyy/dsh-Go",
+            "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "abrignoni",
+          "name": "Brigs",
+          "url": "https://github.com/abrignoni",
+          "featuredRepo": {
+            "name": "abrignoni/iLEAPP",
+            "url": "https://github.com/abrignoni/iLEAPP",
+            "description": "iOS Logs, Events, And Plist Parser"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "alirezarezvani",
+          "name": "Alireza Rezvani",
+          "url": "https://github.com/alirezarezvani",
+          "featuredRepo": {
+            "name": "alirezarezvani/claude-skills",
+            "url": "https://github.com/alirezarezvani/claude-skills",
+            "description": "410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude C…"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "jxxghp",
+          "name": "jxxghp",
+          "url": "https://github.com/jxxghp",
+          "featuredRepo": {
+            "name": "jxxghp/MoviePilot",
+            "url": "https://github.com/jxxghp/MoviePilot",
+            "description": "NAS媒体库自动化管理工具"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/vibestack",
+            "url": "https://github.com/lalalune/vibestack",
+            "description": "The ultimate starter template for building formally specified and verified Typescript projects, built on VibeLang"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "bdraco",
+          "name": "J. Nick Koston",
+          "url": "https://github.com/bdraco",
+          "featuredRepo": {
+            "name": "bdraco/aioshelly",
+            "url": "https://github.com/bdraco/aioshelly",
+            "description": "Python library to control Shelly"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "pbakaus",
+          "name": "Paul Bakaus",
+          "url": "https://github.com/pbakaus",
+          "featuredRepo": {
+            "name": "pbakaus/impeccable",
+            "url": "https://github.com/pbakaus/impeccable",
+            "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships."
+          }
+        },
+        {
+          "rank": 15,
+          "username": "Fei2411",
+          "name": "Fei2411",
+          "url": "https://github.com/Fei2411",
+          "featuredRepo": {
+            "name": "Fei-Craft/DS-Bot",
+            "url": "https://github.com/Fei-Craft/DS-Bot",
+            "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats."
+          }
+        },
+        {
+          "rank": 16,
+          "username": "jonathanong",
+          "name": "jongleberry",
+          "url": "https://github.com/jonathanong",
+          "featuredRepo": null
+        },
+        {
+          "rank": 17,
+          "username": "Gaurav-Gosain",
+          "name": "Gaurav Gosain",
+          "url": "https://github.com/Gaurav-Gosain",
+          "featuredRepo": {
+            "name": "Gaurav-Gosain/tuios",
+            "url": "https://github.com/Gaurav-Gosain/tuios",
+            "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox …"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/plannotator",
+            "url": "https://github.com/backnotprop/plannotator",
+            "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedba…"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "tiensonqin",
+          "name": "Tienson Qin",
+          "url": "https://github.com/tiensonqin",
+          "featuredRepo": null
+        },
+        {
+          "rank": 20,
+          "username": "abue-ammar",
+          "name": "Abue Ammar",
+          "url": "https://github.com/abue-ammar",
+          "featuredRepo": {
+            "name": "abue-ammar/tinycast",
+            "url": "https://github.com/abue-ammar/tinycast",
+            "description": "A native macOS launcher built for productivity. Fast, lightweight, and open source."
+          }
+        },
+        {
+          "rank": 21,
+          "username": "MakazhanAlpamys",
+          "name": "Alpamys Makazhan",
+          "url": "https://github.com/MakazhanAlpamys",
+          "featuredRepo": {
+            "name": "MakazhanAlpamys/Soup",
+            "url": "https://github.com/MakazhanAlpamys/Soup",
+            "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU."
+          }
+        },
+        {
+          "rank": 22,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "mdrxy",
+          "name": "Mason Daugherty",
+          "url": "https://github.com/mdrxy",
+          "featuredRepo": {
+            "name": "mdrxy/great-radio-sites",
+            "url": "https://github.com/mdrxy/great-radio-sites",
+            "description": "Radio stations websites that I think are great"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "RockChinQ",
+          "name": "🍪",
+          "url": "https://github.com/RockChinQ",
+          "featuredRepo": {
+            "name": "RockChinQ/free-one-api",
+            "url": "https://github.com/RockChinQ/free-one-api",
+            "description": "LLM 逆向工程接口管理 | 通过标准 OpenAI API 访问 ChatGPT / gpt4free / Bard / Claude / HuggingChat / 通义千问 等 AI 的破解版 || ChatGPT reverse engineering API ma…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "code-yeongyu",
+          "name": "YeonGyu-Kim",
+          "url": "https://github.com/code-yeongyu",
+          "featuredRepo": {
+            "name": "code-yeongyu/oh-my-openagent",
+            "url": "https://github.com/code-yeongyu/oh-my-openagent",
+            "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+          }
+        }
+      ]
+    }
+  ],
+  "best": []
+}
