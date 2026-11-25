@@ -284,6 +284,285 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-25T06:33:28.785Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "ccch1mneyyy",
+          "name": "Chimney",
+          "url": "https://github.com/ccch1mneyyy",
+          "featuredRepo": {
+            "name": "ccch1mneyyy/dsh-Go",
+            "url": "https://github.com/ccch1mneyyy/dsh-Go",
+            "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "SaladDay",
+          "name": "SaladDay",
+          "url": "https://github.com/SaladDay",
+          "featuredRepo": {
+            "name": "SaladDay/cc-switch-cli",
+            "url": "https://github.com/SaladDay/cc-switch-cli",
+            "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
+          }
+        },
+        {
+          "rank": 4,
+          "username": "aalises",
+          "name": "Albert Alises",
+          "url": "https://github.com/aalises",
+          "featuredRepo": {
+            "name": "aalises/claude-code-config",
+            "url": "https://github.com/aalises/claude-code-config",
+            "description": null
+          }
+        },
+        {
+          "rank": 5,
+          "username": "Gaurav-Gosain",
+          "name": "Gaurav Gosain",
+          "url": "https://github.com/Gaurav-Gosain",
+          "featuredRepo": {
+            "name": "Gaurav-Gosain/tuios",
+            "url": "https://github.com/Gaurav-Gosain/tuios",
+            "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox …"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "andrewnakas",
+          "name": "Andrew Nakas",
+          "url": "https://github.com/andrewnakas",
+          "featuredRepo": {
+            "name": "andrewnakas/gtav-recomp",
+            "url": "https://github.com/andrewnakas/gtav-recomp",
+            "description": "GTA V (Xbox 360, TU27) static recompilation with ReXGlue"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "davideast",
+          "name": "David East",
+          "url": "https://github.com/davideast",
+          "featuredRepo": {
+            "name": "davideast/stitch-mcp",
+            "url": "https://github.com/davideast/stitch-mcp",
+            "description": "A CLI for moving AI-generated UI designs from Google’s Stitch platform into your development workflow."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "poteto",
+          "name": "lauren",
+          "url": "https://github.com/poteto",
+          "featuredRepo": {
+            "name": "poteto/hiring-without-whiteboards",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "Lucas-blip-png",
+          "name": "Lucas Daniel Duarte Cabral",
+          "url": "https://github.com/Lucas-blip-png",
+          "featuredRepo": {
+            "name": "Lucas-blip-png/dkb-pc-recomp",
+            "url": "https://github.com/Lucas-blip-png/dkb-pc-recomp",
+            "description": "Static recompilation of Donkey Kong Bananza (Switch 2) to native Windows and Linux with Vulkan. 0.5.2 out: TOTK to DKB rename, Feast Laye…"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/estella",
+            "url": "https://github.com/esengine/estella",
+            "description": "A fast 2D and 3D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, p…"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "t8y2",
+          "name": "t8y2",
+          "url": "https://github.com/t8y2",
+          "featuredRepo": {
+            "name": "t8y2/dbx",
+            "url": "https://github.com/t8y2/dbx",
+            "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Ser…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "jxxghp",
+          "name": "jxxghp",
+          "url": "https://github.com/jxxghp",
+          "featuredRepo": {
+            "name": "jxxghp/MoviePilot",
+            "url": "https://github.com/jxxghp/MoviePilot",
+            "description": "NAS媒体库自动化管理工具"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "musistudio",
+          "name": "musi",
+          "url": "https://github.com/musistudio",
+          "featuredRepo": {
+            "name": "musistudio/claude-code-router",
+            "url": "https://github.com/musistudio/claude-code-router",
+            "description": "One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "Wei-Shaw",
+          "name": "Wesley Liddick",
+          "url": "https://github.com/Wei-Shaw",
+          "featuredRepo": {
+            "name": "Wei-Shaw/sub2api",
+            "url": "https://github.com/Wei-Shaw/sub2api",
+            "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "ryansolid",
+          "name": "Ryan Carniato",
+          "url": "https://github.com/ryansolid",
+          "featuredRepo": {
+            "name": "ryansolid/dom-expressions",
+            "url": "https://github.com/ryansolid/dom-expressions",
+            "description": "A Fine-Grained Runtime for Performant DOM Rendering"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "gakonst",
+          "name": "Georgios Konstantopoulos",
+          "url": "https://github.com/gakonst",
+          "featuredRepo": {
+            "name": "gakonst/tatami",
+            "url": "https://github.com/gakonst/tatami",
+            "description": "A tiling window manager for macOS, written from scratch in Zig"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "hiyouga",
+          "name": "Yaowei Zheng",
+          "url": "https://github.com/hiyouga",
+          "featuredRepo": {
+            "name": "hiyouga/LlamaFactory",
+            "url": "https://github.com/hiyouga/LlamaFactory",
+            "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "jmanico",
+          "name": "Jim Manico",
+          "url": "https://github.com/jmanico",
+          "featuredRepo": {
+            "name": "jmanico/grim-prompter",
+            "url": "https://github.com/jmanico/grim-prompter",
+            "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 arch…"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "abrignoni",
+          "name": "Brigs",
+          "url": "https://github.com/abrignoni",
+          "featuredRepo": {
+            "name": "abrignoni/iLEAPP",
+            "url": "https://github.com/abrignoni/iLEAPP",
+            "description": "iOS Logs, Events, And Plist Parser"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "78",
+          "name": "Xiaoxia",
+          "url": "https://github.com/78",
+          "featuredRepo": {
+            "name": "78/xiaozhi-esp32",
+            "url": "https://github.com/78/xiaozhi-esp32",
+            "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "alirezarezvani",
+          "name": "Alireza Rezvani",
+          "url": "https://github.com/alirezarezvani",
+          "featuredRepo": {
+            "name": "alirezarezvani/claude-skills",
+            "url": "https://github.com/alirezarezvani/claude-skills",
+            "description": "410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude C…"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "serhii-londar",
+          "name": "Serhii Londar",
+          "url": "https://github.com/serhii-londar",
+          "featuredRepo": {
+            "name": "serhii-londar/open-source-mac-os-apps",
+            "url": "https://github.com/serhii-londar/open-source-mac-os-apps",
+            "description": "🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "yuaanlin",
+          "name": "Yuanlin Lin",
+          "url": "https://github.com/yuaanlin",
+          "featuredRepo": null
+        },
+        {
+          "rank": 25,
+          "username": "marcusquinn",
+          "name": "Marcus Quinn",
+          "url": "https://github.com/marcusquinn",
+          "featuredRepo": {
+            "name": "marcusquinn/aidevops",
+            "url": "https://github.com/marcusquinn/aidevops",
+            "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development.…"
+          }
+        }
+      ]
     }
   ],
   "best": []
