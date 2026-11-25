@@ -849,7 +849,7 @@ These periods are scraped and stored, but they are not part of the daily totals,
 
 | List | Name | Date | Best rank |
 | --- | --- | --- | --- |
-| TypeScript developers (weekly) | elie222 | 2026-11-25 | #16 |
+| TypeScript developers (weekly) | elie222 | 2026-11-25 | #12 |
 | all languages developers (weekly) | elie222 | 2026-11-16 | #21 |
 | TypeScript repositories (weekly) | elie222/rakazo | 2026-11-19 | #14 |
 | all languages repositories (weekly) | elie222/rakazo | 2026-10-24 | #15 |
