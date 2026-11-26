@@ -818,6 +818,281 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-26T18:25:20.725Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/vibestack",
+            "url": "https://github.com/lalalune/vibestack",
+            "description": "Ship apps. Not slop."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "yairm210",
+          "name": "Yair Morgenstern",
+          "url": "https://github.com/yairm210",
+          "featuredRepo": {
+            "name": "yairm210/Unciv",
+            "url": "https://github.com/yairm210/Unciv",
+            "description": "Open-source Android/Desktop remake of Civ V"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "wey-gu",
+          "name": "Wey Gu",
+          "url": "https://github.com/wey-gu",
+          "featuredRepo": {
+            "name": "wey-gu/ducter",
+            "url": "https://github.com/wey-gu/ducter",
+            "description": "A personal AI for builders, on your own computers or servers. Talk to one partner from your phone, desk or chat app; it runs your AI agen…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "1337isnot1337",
+          "name": "Cinna Davis",
+          "url": "https://github.com/1337isnot1337",
+          "featuredRepo": {
+            "name": "1337isnot1337/solved-conjectures",
+            "url": "https://github.com/1337isnot1337/solved-conjectures",
+            "description": "math drop, curated by myself and 6.2-astra"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "cryppadotta",
+          "name": "Dotta",
+          "url": "https://github.com/cryppadotta",
+          "featuredRepo": {
+            "name": "cryppadotta/dotta-license",
+            "url": "https://github.com/cryppadotta/dotta-license",
+            "description": "ERC721-based Software Licensing Framework"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "DouweM",
+          "name": "Douwe Maan",
+          "url": "https://github.com/DouweM",
+          "featuredRepo": null
+        },
+        {
+          "rank": 7,
+          "username": "DeusData",
+          "name": "Martin Vogel",
+          "url": "https://github.com/DeusData",
+          "featuredRepo": {
+            "name": "DeusData/codebase-memory-mcp",
+            "url": "https://github.com/DeusData/codebase-memory-mcp",
+            "description": "Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP too…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "tmchow",
+          "name": "Trevin Chow",
+          "url": "https://github.com/tmchow",
+          "featuredRepo": {
+            "name": "tmchow/illo-skill",
+            "url": "https://github.com/tmchow/illo-skill",
+            "description": "illo skill — an AI agent skill that turns ideas and articles into original print-style editorial illustrations, starring a recurring masc…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "saiemgilani",
+          "name": "Saiem Gilani",
+          "url": "https://github.com/saiemgilani",
+          "featuredRepo": {
+            "name": "saiemgilani/game-on-paper-app",
+            "url": "https://github.com/saiemgilani/game-on-paper-app",
+            "description": "http://www.gameonpaper.com"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "igorlukanin",
+          "name": "Igor Lukanin",
+          "url": "https://github.com/igorlukanin",
+          "featuredRepo": {
+            "name": "igorlukanin/atrisk",
+            "url": "https://github.com/igorlukanin/atrisk",
+            "description": "A student project to create a POC of ISO 2700x-compliant ISRMS"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "koala73",
+          "name": "Elie Habib",
+          "url": "https://github.com/koala73",
+          "featuredRepo": {
+            "name": "koala73/worldmonitor",
+            "url": "https://github.com/koala73/worldmonitor",
+            "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified s…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "code-yeongyu",
+          "name": "YeonGyu-Kim",
+          "url": "https://github.com/code-yeongyu",
+          "featuredRepo": {
+            "name": "code-yeongyu/oh-my-openagent",
+            "url": "https://github.com/code-yeongyu/oh-my-openagent",
+            "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+          }
+        },
+        {
+          "rank": 13,
+          "username": "andimarafioti",
+          "name": "Andrés Marafioti",
+          "url": "https://github.com/andimarafioti",
+          "featuredRepo": {
+            "name": "andimarafioti/faster-qwen3-tts",
+            "url": "https://github.com/andimarafioti/faster-qwen3-tts",
+            "description": "Real-time text-to-speech with Qwen3-TTS"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "bdraco",
+          "name": "J. Nick Koston",
+          "url": "https://github.com/bdraco",
+          "featuredRepo": {
+            "name": "bdraco/discovery30303",
+            "url": "https://github.com/bdraco/discovery30303",
+            "description": "Python asyncio discovery for port 30303"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "mwbrooks",
+          "name": "Michael Brooks",
+          "url": "https://github.com/mwbrooks",
+          "featuredRepo": {
+            "name": "mwbrooks/claude-plugins-official",
+            "url": "https://github.com/mwbrooks/claude-plugins-official",
+            "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "mogery",
+          "name": "Gergő Móricz",
+          "url": "https://github.com/mogery",
+          "featuredRepo": null
+        },
+        {
+          "rank": 18,
+          "username": "punkpeye",
+          "name": "Frank Fiegel",
+          "url": "https://github.com/punkpeye",
+          "featuredRepo": {
+            "name": "punkpeye/awesome-remote-mcp-servers",
+            "url": "https://github.com/punkpeye/awesome-remote-mcp-servers",
+            "description": "A collection of remote MCP servers."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "jmanico",
+          "name": "Jim Manico",
+          "url": "https://github.com/jmanico",
+          "featuredRepo": {
+            "name": "jmanico/grim-prompter",
+            "url": "https://github.com/jmanico/grim-prompter",
+            "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 arch…"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/RuView",
+            "url": "https://github.com/ruvnet/RuView",
+            "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "chthollyphile",
+          "name": "冬霧",
+          "url": "https://github.com/chthollyphile",
+          "featuredRepo": {
+            "name": "chthollyphile/folia-major",
+            "url": "https://github.com/chthollyphile/folia-major",
+            "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器 A multi-platform music player for local files, Navidrome, and online streaming services, featur…"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "tt-a1i",
+          "name": "tt-a1i",
+          "url": "https://github.com/tt-a1i",
+          "featuredRepo": {
+            "name": "tt-a1i/archify",
+            "url": "https://github.com/tt-a1i/archify",
+            "description": "Turn any idea, plan, or codebase into an interactive diagram or one-page answer: 10 diagram types, Architecture Diagnosis, Story video an…"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "alexechoi",
+          "name": "Alex Choi",
+          "url": "https://github.com/alexechoi",
+          "featuredRepo": {
+            "name": "alexechoi/instinct-coder",
+            "url": "https://github.com/alexechoi/instinct-coder",
+            "description": "Use your Instinct account to complete coding tasks"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "cbcoutinho",
+          "name": "Chris Coutinho",
+          "url": "https://github.com/cbcoutinho",
+          "featuredRepo": {
+            "name": "cbcoutinho/nextcloud-mcp-server",
+            "url": "https://github.com/cbcoutinho/nextcloud-mcp-server",
+            "description": "Nextcloud MCP Server"
+          }
+        }
+      ]
     }
   ],
   "best": []
