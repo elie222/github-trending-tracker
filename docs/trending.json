@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T18:23:57.487Z",
+  "updatedAt": "2026-11-26T00:41:16.327Z",
   "since": "2024-11-17",
   "sinceLabel": "November 2024",
   "sinceShort": "Nov 2024",
@@ -6654,6 +6654,15 @@
     },
     {
       "date": "2026-11-25",
+      "ts": null,
+      "all": null,
+      "tsKnown": true,
+      "allKnown": true,
+      "tsRepo": null,
+      "allRepo": null
+    },
+    {
+      "date": "2026-11-26",
       "ts": null,
       "all": null,
       "tsKnown": true,

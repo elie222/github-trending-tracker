@@ -1,0 +1,294 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-26",
+  "list": "developers",
+  "language": "typescript",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/developers/typescript?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-11-26T00:41:16.327Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/vibestack",
+            "url": "https://github.com/lalalune/vibestack",
+            "description": "Ship apps. Not slop."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "ahmadrosid",
+          "name": "ahmadrosid",
+          "url": "https://github.com/ahmadrosid",
+          "featuredRepo": {
+            "name": "ahmadrosid/nakama",
+            "url": "https://github.com/ahmadrosid/nakama",
+            "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "wey-gu",
+          "name": "Wey Gu",
+          "url": "https://github.com/wey-gu",
+          "featuredRepo": {
+            "name": "wey-gu/ducter",
+            "url": "https://github.com/wey-gu/ducter",
+            "description": "A personal AI for builders, on your own computers or servers. Talk to one partner from your phone, desk or chat app; it runs your AI agen…"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "code-yeongyu",
+          "name": "YeonGyu-Kim",
+          "url": "https://github.com/code-yeongyu",
+          "featuredRepo": {
+            "name": "code-yeongyu/oh-my-openagent",
+            "url": "https://github.com/code-yeongyu/oh-my-openagent",
+            "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+          }
+        },
+        {
+          "rank": 6,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/plannotator",
+            "url": "https://github.com/backnotprop/plannotator",
+            "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedba…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 8,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/estella",
+            "url": "https://github.com/esengine/estella",
+            "description": "A fast 2D and 3D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, p…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "mohsen1",
+          "name": "Mohsen Azimi",
+          "url": "https://github.com/mohsen1",
+          "featuredRepo": {
+            "name": "mohsen1/llm-debugger-vscode-extension",
+            "url": "https://github.com/mohsen1/llm-debugger-vscode-extension",
+            "description": "VSCode extension that demonstrates the use of large language models (LLMs) for active debugging of programs"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "rogeriochaves",
+          "name": "Rogério Chaves",
+          "url": "https://github.com/rogeriochaves",
+          "featuredRepo": {
+            "name": "rogeriochaves/open-managed-agents",
+            "url": "https://github.com/rogeriochaves/open-managed-agents",
+            "description": "Self-hostable, open-source alternative to Claude Managed Agents. Multi-LLM support (Anthropic, OpenAI, Ollama), enterprise governance (or…"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "tobi",
+          "name": "Tobias Lütke",
+          "url": "https://github.com/tobi",
+          "featuredRepo": {
+            "name": "tobi/qmd",
+            "url": "https://github.com/tobi/qmd",
+            "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "dmmulroy",
+          "name": "Dillon Mulroy",
+          "url": "https://github.com/dmmulroy",
+          "featuredRepo": {
+            "name": "dmmulroy/anti-slop",
+            "url": "https://github.com/dmmulroy/anti-slop",
+            "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "dreamhunter2333",
+          "name": "Dream Hunter",
+          "url": "https://github.com/dreamhunter2333",
+          "featuredRepo": {
+            "name": "dreamhunter2333/cloudflare_temp_email",
+            "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+            "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "Kaos599",
+          "name": "Harsh",
+          "url": "https://github.com/Kaos599",
+          "featuredRepo": {
+            "name": "Kaos599/Maglev",
+            "url": "https://github.com/Kaos599/Maglev",
+            "description": "Download anything on Android: a free, open-source torrent client, download manager, video downloader and subtitle downloader in one app. …"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "lfnovo",
+          "name": "Luis Novo",
+          "url": "https://github.com/lfnovo",
+          "featuredRepo": {
+            "name": "lfnovo/open-notebook",
+            "url": "https://github.com/lfnovo/open-notebook",
+            "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "mlightcad",
+          "name": "mlightcad",
+          "url": "https://github.com/mlightcad",
+          "featuredRepo": {
+            "name": "mlightcad/cad-viewer",
+            "url": "https://github.com/mlightcad/cad-viewer",
+            "description": "The world’s first fully web-based DXF/DWG viewer and editor that runs entirely in the browser — no backend server required."
+          }
+        },
+        {
+          "rank": 18,
+          "username": "HamedMP",
+          "name": "hamed",
+          "url": "https://github.com/HamedMP",
+          "featuredRepo": {
+            "name": "HamedMP/matrix-os",
+            "url": "https://github.com/HamedMP/matrix-os",
+            "description": "The operating system that builds itself"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "Bre77",
+          "name": "Brett Adams",
+          "url": "https://github.com/Bre77",
+          "featuredRepo": {
+            "name": "Bre77/homebridge-tessie",
+            "url": "https://github.com/Bre77/homebridge-tessie",
+            "description": "Homebridge integration for Tessie"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "kgoedecke",
+          "name": "Kevin Goedecke",
+          "url": "https://github.com/kgoedecke",
+          "featuredRepo": {
+            "name": "kgoedecke/promptclip",
+            "url": "https://github.com/kgoedecke/promptclip",
+            "description": "🤖 A prompt manager for MacOS built with Tauri ♉️"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "dexhorthy",
+          "name": "Dex",
+          "url": "https://github.com/dexhorthy",
+          "featuredRepo": {
+            "name": "dexhorthy/humanlayer",
+            "url": "https://github.com/dexhorthy/humanlayer",
+            "description": null
+          }
+        },
+        {
+          "rank": 23,
+          "username": "thomasnordquist",
+          "name": "Thomas Nordquist",
+          "url": "https://github.com/thomasnordquist",
+          "featuredRepo": {
+            "name": "thomasnordquist/MQTT-Explorer",
+            "url": "https://github.com/thomasnordquist/MQTT-Explorer",
+            "description": "An all-round MQTT client that provides a structured topic overview"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "crynta",
+          "name": "Crynta",
+          "url": "https://github.com/crynta",
+          "featuredRepo": {
+            "name": "crynta/terax-ai",
+            "url": "https://github.com/crynta/terax-ai",
+            "description": "Lightweight (7MB) terminal-first AI-native development environment"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "charlesBochet",
+          "name": "Charles Bochet",
+          "url": "https://github.com/charlesBochet",
+          "featuredRepo": {
+            "name": "charlesBochet/twenty",
+            "url": "https://github.com/charlesBochet/twenty",
+            "description": "Building a modern alternative to Salesforce"
+          }
+        }
+      ]
+    }
+  ],
+  "best": []
+}
