@@ -571,6 +571,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-28T12:26:11.313Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "davideast",
+          "name": "David East",
+          "url": "https://github.com/davideast",
+          "featuredRepo": {
+            "name": "davideast/stitch-mcp",
+            "url": "https://github.com/davideast/stitch-mcp",
+            "description": "A CLI for moving AI-generated UI designs from Google’s Stitch platform into your development workflow."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "Hao0321",
+          "name": "Hao0321",
+          "url": "https://github.com/Hao0321",
+          "featuredRepo": {
+            "name": "Hao0321/Editkin",
+            "url": "https://github.com/Hao0321/Editkin",
+            "description": "Community source for Editkin, a local-first video editor with an editable timeline and structured AI commands"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "musistudio",
+          "name": "musi",
+          "url": "https://github.com/musistudio",
+          "featuredRepo": {
+            "name": "musistudio/claude-code-router",
+            "url": "https://github.com/musistudio/claude-code-router",
+            "description": "One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control."
+          }
+        },
+        {
+          "rank": 5,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "alexechoi",
+          "name": "Alex Choi",
+          "url": "https://github.com/alexechoi",
+          "featuredRepo": {
+            "name": "alexechoi/concord-mcp",
+            "url": "https://github.com/alexechoi/concord-mcp",
+            "description": "Shared work-state for coding agents: claim work, leave handoffs, and generate review packets before PRs, over MCP."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "jackulau",
+          "name": "Jack Lau",
+          "url": "https://github.com/jackulau",
+          "featuredRepo": {
+            "name": "jackulau/coding.sh",
+            "url": "https://github.com/jackulau/coding.sh",
+            "description": "Open-source, local-first observability and evals for AI agents: see what Claude Code, Codex, Cursor and others did and what it cost."
+          }
+        },
+        {
+          "rank": 9,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/vibestack",
+            "url": "https://github.com/lalalune/vibestack",
+            "description": "Ship apps. Not slop."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "wey-gu",
+          "name": "Wey Gu",
+          "url": "https://github.com/wey-gu",
+          "featuredRepo": {
+            "name": "wey-gu/ducter",
+            "url": "https://github.com/wey-gu/ducter",
+            "description": "A personal AI for builders. It runs your AI agents on your own computers or servers, and you hear only what matters."
+          }
+        },
+        {
+          "rank": 11,
+          "username": "Kaos599",
+          "name": "Harsh",
+          "url": "https://github.com/Kaos599",
+          "featuredRepo": {
+            "name": "Kaos599/Maglev",
+            "url": "https://github.com/Kaos599/Maglev",
+            "description": "Download anything on Android: a free, open-source torrent client, download manager and video downloader in one app. Save YouTube, Instagr…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "garrytan",
+          "name": "Garry Tan",
+          "url": "https://github.com/garrytan",
+          "featuredRepo": {
+            "name": "garrytan/gstack",
+            "url": "https://github.com/garrytan/gstack",
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, an…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "Kitenite",
+          "name": "Kiet",
+          "url": "https://github.com/Kitenite",
+          "featuredRepo": {
+            "name": "Kitenite/mastra",
+            "url": "https://github.com/Kitenite/mastra",
+            "description": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack."
+          }
+        },
+        {
+          "rank": 14,
+          "username": "nwparker",
+          "name": "Neil",
+          "url": "https://github.com/nwparker",
+          "featuredRepo": {
+            "name": "nwparker/orca-mirror",
+            "url": "https://github.com/nwparker/orca-mirror",
+            "description": "Mirror of stablyai/orca"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "elie222",
+          "name": "Elie Steinbock",
+          "url": "https://github.com/elie222",
+          "featuredRepo": {
+            "name": "elie222/rakazo",
+            "url": "https://github.com/elie222/rakazo",
+            "description": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+          }
+        },
+        {
+          "rank": 16,
+          "username": "backnotprop",
+          "name": "Michael Ramos",
+          "url": "https://github.com/backnotprop",
+          "featuredRepo": {
+            "name": "backnotprop/plannotator",
+            "url": "https://github.com/backnotprop/plannotator",
+            "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedba…"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "tobi",
+          "name": "Tobias Lütke",
+          "url": "https://github.com/tobi",
+          "featuredRepo": {
+            "name": "tobi/qmd",
+            "url": "https://github.com/tobi/qmd",
+            "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "morluto",
+          "name": "morluto",
+          "url": "https://github.com/morluto",
+          "featuredRepo": {
+            "name": "morluto/rea",
+            "url": "https://github.com/morluto/rea",
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "rank": 19,
+          "username": "esengine",
+          "name": "YHH",
+          "url": "https://github.com/esengine",
+          "featuredRepo": {
+            "name": "esengine/estella",
+            "url": "https://github.com/esengine/estella",
+            "description": "A fast 2D and 3D game engine — TypeScript SDK, C++/WebAssembly core, visual editor. Ship one project to web, desktop, WeChat MiniGames, p…"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "philschmid",
+          "name": "Philipp Schmid",
+          "url": "https://github.com/philschmid",
+          "featuredRepo": {
+            "name": "philschmid/mcp-cli",
+            "url": "https://github.com/philschmid/mcp-cli",
+            "description": "Lighweight CLI to interact with MCP servers"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "dmmulroy",
+          "name": "Dillon Mulroy",
+          "url": "https://github.com/dmmulroy",
+          "featuredRepo": {
+            "name": "dmmulroy/anti-slop",
+            "url": "https://github.com/dmmulroy/anti-slop",
+            "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 23,
+          "username": "forrestchang",
+          "name": "Jiayuan Zhang",
+          "url": "https://github.com/forrestchang",
+          "featuredRepo": {
+            "name": "forrestchang/youtube-reader",
+            "url": "https://github.com/forrestchang/youtube-reader",
+            "description": "CLI to turn YouTube transcripts into readable articles (supports API, yt-dlp subtitles, and Whisper transcription)"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "mohsen1",
+          "name": "Mohsen Azimi",
+          "url": "https://github.com/mohsen1",
+          "featuredRepo": {
+            "name": "mohsen1/nyx",
+            "url": "https://github.com/mohsen1/nyx",
+            "description": "Open-source dark mode for every website. A Safari Web Extension for iPhone, iPad and Mac that also runs in Chrome, Edge and Firefox."
+          }
+        },
+        {
+          "rank": 25,
+          "username": "vastsa",
+          "name": "Lan",
+          "url": "https://github.com/vastsa",
+          "featuredRepo": {
+            "name": "vastsa/PI-Desktop",
+            "url": "https://github.com/vastsa/PI-Desktop",
+            "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
+          }
+        }
+      ]
     }
   ],
   "best": [

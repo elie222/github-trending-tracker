@@ -439,6 +439,223 @@
           "starsLabel": "this week"
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-28T12:26:11.313Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/typescript?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+          "language": "TypeScript",
+          "stars": 15487,
+          "forks": 1480,
+          "starsToday": 1596,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 2,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "language": "TypeScript",
+          "stars": 13739,
+          "forks": 1655,
+          "starsToday": 2616,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 3,
+          "name": "GoogleChrome/modern-web-guidance-src",
+          "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+          "description": "Keep your coding agent up to date with the latest web best practices",
+          "language": "TypeScript",
+          "stars": 11543,
+          "forks": 850,
+          "starsToday": 2008,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 4,
+          "name": "n8n-io/nod",
+          "url": "https://github.com/n8n-io/nod",
+          "description": "Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n.",
+          "language": "TypeScript",
+          "stars": 4579,
+          "forks": 689,
+          "starsToday": 1424,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 5,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 59673,
+          "forks": 4850,
+          "starsToday": 1150,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 6,
+          "name": "ag-ui-protocol/ag-ui",
+          "url": "https://github.com/ag-ui-protocol/ag-ui",
+          "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+          "language": "TypeScript",
+          "stars": 22004,
+          "forks": 2194,
+          "starsToday": 1185,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 7,
+          "name": "meta/astryx",
+          "url": "https://github.com/meta/astryx",
+          "description": "An open source design system that's fully customizable and agent ready",
+          "language": "TypeScript",
+          "stars": 33596,
+          "forks": 2624,
+          "starsToday": 2306,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 8,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+          "language": "TypeScript",
+          "stars": 32040,
+          "forks": 2889,
+          "starsToday": 1280,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 9,
+          "name": "a2ui-project/a2ui",
+          "url": "https://github.com/a2ui-project/a2ui",
+          "description": "Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.",
+          "language": "TypeScript",
+          "stars": 18947,
+          "forks": 1509,
+          "starsToday": 1211,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 10,
+          "name": "QwenLM/qwen-code",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "description": "An open-source AI coding agent that lives in your terminal.",
+          "language": "TypeScript",
+          "stars": 31001,
+          "forks": 3591,
+          "starsToday": 193,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 11,
+          "name": "ardia-browser/ardia",
+          "url": "https://github.com/ardia-browser/ardia",
+          "description": "A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6",
+          "language": "TypeScript",
+          "stars": 3284,
+          "forks": 430,
+          "starsToday": 528,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 12,
+          "name": "openai/codex-security",
+          "url": "https://github.com/openai/codex-security",
+          "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "language": "TypeScript",
+          "stars": 14450,
+          "forks": 1154,
+          "starsToday": 235,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 13,
+          "name": "hieunc229/mailflare",
+          "url": "https://github.com/hieunc229/mailflare",
+          "description": "Email for professionals and teams",
+          "language": "TypeScript",
+          "stars": 7807,
+          "forks": 1409,
+          "starsToday": 428,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 14,
+          "name": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+          "language": "TypeScript",
+          "stars": 28686,
+          "forks": 4090,
+          "starsToday": 2457,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 15,
+          "name": "Viren070/AIOStreams",
+          "url": "https://github.com/Viren070/AIOStreams",
+          "description": "AIOStreams brings your Stremio addons, debrid services and Usenet together into one list, filtered, sorted and formatted your way, and plays it in Stremio or in its own apps for every screen.",
+          "language": "TypeScript",
+          "stars": 3355,
+          "forks": 976,
+          "starsToday": 65,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 16,
+          "name": "lobehub/lobehub",
+          "url": "https://github.com/lobehub/lobehub",
+          "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
+          "language": "TypeScript",
+          "stars": 86225,
+          "forks": 16367,
+          "starsToday": 344,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 17,
+          "name": "CopilotKit/OpenBot",
+          "url": "https://github.com/CopilotKit/OpenBot",
+          "description": "The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.",
+          "language": "TypeScript",
+          "stars": 13857,
+          "forks": 1740,
+          "starsToday": 754,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 18,
+          "name": "google-labs-code/design.md",
+          "url": "https://github.com/google-labs-code/design.md",
+          "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+          "language": "TypeScript",
+          "stars": 29193,
+          "forks": 2357,
+          "starsToday": 211,
+          "starsLabel": "this week"
+        },
+        {
+          "rank": 19,
+          "name": "tobi/qmd",
+          "url": "https://github.com/tobi/qmd",
+          "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+          "language": "TypeScript",
+          "stars": 31681,
+          "forks": 1995,
+          "starsToday": 361,
+          "starsLabel": "this week"
+        }
+      ]
     }
   ],
   "best": []
