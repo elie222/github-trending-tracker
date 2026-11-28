@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-28",
+  "list": "developers",
+  "language": "all",
+  "period": "daily",
+  "pageUrl": "https://github.com/trending/developers?since=daily",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-11-28T00:40:14.884Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=daily",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "wey-gu",
+          "name": "Wey Gu",
+          "url": "https://github.com/wey-gu",
+          "featuredRepo": {
+            "name": "wey-gu/ducter",
+            "url": "https://github.com/wey-gu/ducter",
+            "description": "A personal AI for builders. It runs your AI agents on your own computers or servers, and you hear only what matters."
+          }
+        },
+        {
+          "rank": 2,
+          "username": "lalalune",
+          "name": "Shaw",
+          "url": "https://github.com/lalalune",
+          "featuredRepo": {
+            "name": "lalalune/vibestack",
+            "url": "https://github.com/lalalune/vibestack",
+            "description": "Ship apps. Not slop."
+          }
+        },
+        {
+          "rank": 3,
+          "username": "1337isnot1337",
+          "name": "Cinna Davis",
+          "url": "https://github.com/1337isnot1337",
+          "featuredRepo": {
+            "name": "1337isnot1337/solved-conjectures",
+            "url": "https://github.com/1337isnot1337/solved-conjectures",
+            "description": "math drop, curated by myself and 6.2-astra"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "saiemgilani",
+          "name": "Saiem Gilani",
+          "url": "https://github.com/saiemgilani",
+          "featuredRepo": {
+            "name": "saiemgilani/game-on-paper-app",
+            "url": "https://github.com/saiemgilani/game-on-paper-app",
+            "description": "http://www.gameonpaper.com"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "runkids",
+          "name": "Willie",
+          "url": "https://github.com/runkids",
+          "featuredRepo": {
+            "name": "runkids/skillshare",
+            "url": "https://github.com/runkids/skillshare",
+            "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing."
+          }
+        },
+        {
+          "rank": 7,
+          "username": "SaladDay",
+          "name": "SaladDay",
+          "url": "https://github.com/SaladDay",
+          "featuredRepo": {
+            "name": "SaladDay/cc-switch-cli",
+            "url": "https://github.com/SaladDay/cc-switch-cli",
+            "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "chthollyphile",
+          "name": "冬霧",
+          "url": "https://github.com/chthollyphile",
+          "featuredRepo": {
+            "name": "chthollyphile/folia-major",
+            "url": "https://github.com/chthollyphile/folia-major",
+            "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器 A multi-platform music player for local files, Navidrome, and online streaming services, featur…"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "mwbrooks",
+          "name": "Michael Brooks",
+          "url": "https://github.com/mwbrooks",
+          "featuredRepo": {
+            "name": "mwbrooks/claude-plugins-official",
+            "url": "https://github.com/mwbrooks/claude-plugins-official",
+            "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+          }
+        },
+        {
+          "rank": 10,
+          "username": "DeusData",
+          "name": "Martin Vogel",
+          "url": "https://github.com/DeusData",
+          "featuredRepo": {
+            "name": "DeusData/codebase-memory-mcp",
+            "url": "https://github.com/DeusData/codebase-memory-mcp",
+            "description": "Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP too…"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "Git-on-my-level",
+          "name": "David Zhang",
+          "url": "https://github.com/Git-on-my-level",
+          "featuredRepo": {
+            "name": "Git-on-my-level/zk-relay",
+            "url": "https://github.com/Git-on-my-level/zk-relay",
+            "description": null
+          }
+        },
+        {
+          "rank": 12,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "unbraind",
+          "name": "Steve Preu",
+          "url": "https://github.com/unbraind",
+          "featuredRepo": null
+        },
+        {
+          "rank": 14,
+          "username": "DouweM",
+          "name": "Douwe Maan",
+          "url": "https://github.com/DouweM",
+          "featuredRepo": null
+        },
+        {
+          "rank": 15,
+          "username": "alexechoi",
+          "name": "Alex Choi",
+          "url": "https://github.com/alexechoi",
+          "featuredRepo": {
+            "name": "alexechoi/instinct-coder",
+            "url": "https://github.com/alexechoi/instinct-coder",
+            "description": "Use your Instinct account to complete coding tasks"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "yairm210",
+          "name": "Yair Morgenstern",
+          "url": "https://github.com/yairm210",
+          "featuredRepo": {
+            "name": "yairm210/Unciv",
+            "url": "https://github.com/yairm210/Unciv",
+            "description": "Open-source Android/Desktop remake of Civ V"
+          }
+        },
+        {
+          "rank": 17,
+          "username": "Pratham-Mishra04",
+          "name": "Pratham Mishra",
+          "url": "https://github.com/Pratham-Mishra04",
+          "featuredRepo": null
+        },
+        {
+          "rank": 18,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "sv",
+          "name": "Sergey Vidyuk",
+          "url": "https://github.com/sv",
+          "featuredRepo": null
+        },
+        {
+          "rank": 20,
+          "username": "tobi",
+          "name": "Tobias Lütke",
+          "url": "https://github.com/tobi",
+          "featuredRepo": {
+            "name": "tobi/qmd",
+            "url": "https://github.com/tobi/qmd",
+            "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "ruvnet",
+          "name": "rUv",
+          "url": "https://github.com/ruvnet",
+          "featuredRepo": {
+            "name": "ruvnet/RuView",
+            "url": "https://github.com/ruvnet/RuView",
+            "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a …"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "agalwood",
+          "name": "Dr_rOot",
+          "url": "https://github.com/agalwood",
+          "featuredRepo": {
+            "name": "agalwood/Motrix",
+            "url": "https://github.com/agalwood/Motrix",
+            "description": "A full-featured download manager."
+          }
+        },
+        {
+          "rank": 23,
+          "username": "vastsa",
+          "name": "Lan",
+          "url": "https://github.com/vastsa",
+          "featuredRepo": {
+            "name": "vastsa/PI-Desktop",
+            "url": "https://github.com/vastsa/PI-Desktop",
+            "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "tt-a1i",
+          "name": "tt-a1i",
+          "url": "https://github.com/tt-a1i",
+          "featuredRepo": {
+            "name": "tt-a1i/archify",
+            "url": "https://github.com/tt-a1i/archify",
+            "description": "Turn any idea, plan, or codebase into an interactive diagram or one-page answer: 10 diagram types, Architecture Diagnosis, Story video an…"
+          }
+        },
+        {
+          "rank": 25,
+          "username": "code-yeongyu",
+          "name": "YeonGyu-Kim",
+          "url": "https://github.com/code-yeongyu",
+          "featuredRepo": {
+            "name": "code-yeongyu/oh-my-openagent",
+            "url": "https://github.com/code-yeongyu/oh-my-openagent",
+            "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering."
+          }
+        }
+      ]
+    }
+  ],
+  "best": []
+}

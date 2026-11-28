@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-28",
+  "list": "repos",
+  "language": "all",
+  "period": "monthly",
+  "pageUrl": "https://github.com/trending?since=monthly",
+  "scrapes": [
+    {
+      "scrapedAt": "2026-11-28T00:40:14.884Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending?since=monthly",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "language": "CSS",
+          "stars": 62089,
+          "forks": 3413,
+          "starsToday": 24421,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 2,
+          "name": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+          "language": "JavaScript",
+          "stars": 79274,
+          "forks": 5374,
+          "starsToday": 30171,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 3,
+          "name": "milind-soni/OpenMausBot",
+          "url": "https://github.com/milind-soni/OpenMausBot",
+          "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+          "language": "TypeScript",
+          "stars": 28552,
+          "forks": 4061,
+          "starsToday": 22900,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 4,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+          "language": "TypeScript",
+          "stars": 82181,
+          "forks": 14477,
+          "starsToday": 51428,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 201516,
+          "forks": 23591,
+          "starsToday": 17791,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 6,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "language": "TypeScript",
+          "stars": 120215,
+          "forks": 10459,
+          "starsToday": 17228,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 7,
+          "name": "Jakeschincariol/instagram-agent-skill",
+          "url": "https://github.com/Jakeschincariol/instagram-agent-skill",
+          "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
+          "language": "Python",
+          "stars": 9874,
+          "forks": 1655,
+          "starsToday": 6548,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 8,
+          "name": "backnotprop/plannotator",
+          "url": "https://github.com/backnotprop/plannotator",
+          "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+          "language": "TypeScript",
+          "stars": 15425,
+          "forks": 1476,
+          "starsToday": 5746,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 9,
+          "name": "Ebony-Vinyl/dsh-our-free-model",
+          "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+          "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+          "language": "JavaScript",
+          "stars": 89114,
+          "forks": 2522,
+          "starsToday": 45874,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 10,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+          "language": "Python",
+          "stars": 63799,
+          "forks": 7689,
+          "starsToday": 19184,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 11,
+          "name": "yetone/magpie",
+          "url": "https://github.com/yetone/magpie",
+          "description": "Pool every plan you pay for — Claude, ChatGPT, Copilot, GLM Coding Plan, Kimi Code and more — and use them in any agent: Claude Code, Codex, Claude Desktop… When one runs out, the next takes over.",
+          "language": "Go",
+          "stars": 42529,
+          "forks": 3911,
+          "starsToday": 19543,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 12,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+          "language": "Rust",
+          "stars": 118058,
+          "forks": 7073,
+          "starsToday": 28497,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 13,
+          "name": "sherlock-project/sherlock",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "description": "Hunt down social media accounts by username across social networks",
+          "language": "Python",
+          "stars": 118559,
+          "forks": 13519,
+          "starsToday": 23807,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 14,
+          "name": "AgriciDaniel/claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+          "language": "Python",
+          "stars": 32879,
+          "forks": 3988,
+          "starsToday": 10462,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 15,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "language": "TypeScript",
+          "stars": 13592,
+          "forks": 1629,
+          "starsToday": 4912,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 16,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.",
+          "language": "TypeScript",
+          "stars": 91524,
+          "forks": 8541,
+          "starsToday": 18066,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 17,
+          "name": "elementalsouls/Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+          "language": "Python",
+          "stars": 26082,
+          "forks": 2685,
+          "starsToday": 20246,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 18,
+          "name": "kajisho5/ffmpeg-skill",
+          "url": "https://github.com/kajisho5/ffmpeg-skill",
+          "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+          "language": "Python",
+          "stars": 11894,
+          "forks": 985,
+          "starsToday": 8708,
+          "starsLabel": "this month"
+        },
+        {
+          "rank": 19,
+          "name": "vercel-labs/agent-browser",
+          "url": "https://github.com/vercel-labs/agent-browser",
+          "description": "Browser automation CLI for AI agents",
+          "language": "Rust",
+          "stars": 54332,
+          "forks": 3791,
+          "starsToday": 9765,
+          "starsLabel": "this month"
+        }
+      ]
+    }
+  ],
+  "best": []
+}
