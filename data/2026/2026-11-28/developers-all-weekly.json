@@ -288,6 +288,289 @@
           }
         }
       ]
+    },
+    {
+      "scrapedAt": "2026-11-28T06:30:05.528Z",
+      "scrapedAtPrecision": "instant",
+      "source": "live",
+      "sourceUrl": "https://github.com/trending/developers?since=weekly",
+      "entries": [
+        {
+          "rank": 1,
+          "username": "mvanhorn",
+          "name": "Matt Van Horn",
+          "url": "https://github.com/mvanhorn",
+          "featuredRepo": {
+            "name": "mvanhorn/last30days-skill",
+            "url": "https://github.com/mvanhorn/last30days-skill",
+            "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+          }
+        },
+        {
+          "rank": 2,
+          "username": "ccch1mneyyy",
+          "name": "Chimney",
+          "url": "https://github.com/ccch1mneyyy",
+          "featuredRepo": {
+            "name": "ccch1mneyyy/dsh-Go",
+            "url": "https://github.com/ccch1mneyyy/dsh-Go",
+            "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
+          }
+        },
+        {
+          "rank": 3,
+          "username": "andrewnakas",
+          "name": "Andrew Nakas",
+          "url": "https://github.com/andrewnakas",
+          "featuredRepo": {
+            "name": "andrewnakas/gtav-recomp",
+            "url": "https://github.com/andrewnakas/gtav-recomp",
+            "description": "GTA V (Xbox 360, TU27) static recompilation with ReXGlue"
+          }
+        },
+        {
+          "rank": 4,
+          "username": "t8y2",
+          "name": "t8y2",
+          "url": "https://github.com/t8y2",
+          "featuredRepo": {
+            "name": "t8y2/dbx",
+            "url": "https://github.com/t8y2/dbx",
+            "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Ser…"
+          }
+        },
+        {
+          "rank": 5,
+          "username": "cbcoutinho",
+          "name": "Chris Coutinho",
+          "url": "https://github.com/cbcoutinho",
+          "featuredRepo": {
+            "name": "cbcoutinho/nextcloud-mcp-server",
+            "url": "https://github.com/cbcoutinho/nextcloud-mcp-server",
+            "description": "Nextcloud MCP Server"
+          }
+        },
+        {
+          "rank": 6,
+          "username": "poteto",
+          "name": "lauren",
+          "url": "https://github.com/poteto",
+          "featuredRepo": {
+            "name": "poteto/hiring-without-whiteboards",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process"
+          }
+        },
+        {
+          "rank": 7,
+          "username": "davideast",
+          "name": "David East",
+          "url": "https://github.com/davideast",
+          "featuredRepo": {
+            "name": "davideast/stitch-mcp",
+            "url": "https://github.com/davideast/stitch-mcp",
+            "description": "A CLI for moving AI-generated UI designs from Google’s Stitch platform into your development workflow."
+          }
+        },
+        {
+          "rank": 8,
+          "username": "jxxghp",
+          "name": "jxxghp",
+          "url": "https://github.com/jxxghp",
+          "featuredRepo": {
+            "name": "jxxghp/MoviePilot",
+            "url": "https://github.com/jxxghp/MoviePilot",
+            "description": "NAS媒体库自动化管理工具"
+          }
+        },
+        {
+          "rank": 9,
+          "username": "Wei-Shaw",
+          "name": "Wesley Liddick",
+          "url": "https://github.com/Wei-Shaw",
+          "featuredRepo": {
+            "name": "Wei-Shaw/sub2api",
+            "url": "https://github.com/Wei-Shaw/sub2api",
+            "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。"
+          }
+        },
+        {
+          "rank": 10,
+          "username": "FlorianBruniaux",
+          "name": "Florian BRUNIAUX",
+          "url": "https://github.com/FlorianBruniaux",
+          "featuredRepo": {
+            "name": "FlorianBruniaux/claude-code-ultimate-guide",
+            "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide",
+            "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready templates. 430K+ l…"
+          }
+        },
+        {
+          "rank": 11,
+          "username": "danielmeppiel",
+          "name": "Daniel Meppiel",
+          "url": "https://github.com/danielmeppiel",
+          "featuredRepo": {
+            "name": "danielmeppiel/genesis",
+            "url": "https://github.com/danielmeppiel/genesis",
+            "description": "Markdown that steers an LLM is code. Genesis is the architectural layer for designing multi-agent, multi-skill systems -- with named patt…"
+          }
+        },
+        {
+          "rank": 12,
+          "username": "hiyouga",
+          "name": "Yaowei Zheng",
+          "url": "https://github.com/hiyouga",
+          "featuredRepo": {
+            "name": "hiyouga/LlamaFactory",
+            "url": "https://github.com/hiyouga/LlamaFactory",
+            "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
+          }
+        },
+        {
+          "rank": 13,
+          "username": "colbymchenry",
+          "name": "Colby Mchenry",
+          "url": "https://github.com/colbymchenry",
+          "featuredRepo": {
+            "name": "colbymchenry/codegraph",
+            "url": "https://github.com/colbymchenry/codegraph",
+            "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilo…"
+          }
+        },
+        {
+          "rank": 14,
+          "username": "alirezarezvani",
+          "name": "Alireza Rezvani",
+          "url": "https://github.com/alirezarezvani",
+          "featuredRepo": {
+            "name": "alirezarezvani/claude-skills",
+            "url": "https://github.com/alirezarezvani/claude-skills",
+            "description": "410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude C…"
+          }
+        },
+        {
+          "rank": 15,
+          "username": "Hao0321",
+          "name": "Hao0321",
+          "url": "https://github.com/Hao0321",
+          "featuredRepo": {
+            "name": "Hao0321/Editkin",
+            "url": "https://github.com/Hao0321/Editkin",
+            "description": "Community source for Editkin, a local-first video editor with an editable timeline and structured AI commands"
+          }
+        },
+        {
+          "rank": 16,
+          "username": "musistudio",
+          "name": "musi",
+          "url": "https://github.com/musistudio",
+          "featuredRepo": {
+            "name": "musistudio/claude-code-router",
+            "url": "https://github.com/musistudio/claude-code-router",
+            "description": "One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control."
+          }
+        },
+        {
+          "rank": 17,
+          "username": "777genius",
+          "name": "Илия",
+          "url": "https://github.com/777genius",
+          "featuredRepo": {
+            "name": "777genius/agent-teams-ai",
+            "url": "https://github.com/777genius/agent-teams-ai",
+            "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch t…"
+          }
+        },
+        {
+          "rank": 18,
+          "username": "jmanico",
+          "name": "Jim Manico",
+          "url": "https://github.com/jmanico",
+          "featuredRepo": {
+            "name": "jmanico/grim-prompter",
+            "url": "https://github.com/jmanico/grim-prompter",
+            "description": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 arch…"
+          }
+        },
+        {
+          "rank": 19,
+          "username": "deepcoldy",
+          "name": "DeepCold",
+          "url": "https://github.com/deepcoldy",
+          "featuredRepo": {
+            "name": "deepcoldy/botmux",
+            "url": "https://github.com/deepcoldy/botmux",
+            "description": "Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Antigravity, Grok, Pi, OpenCode… every DM, group or topic spawns its own live-…"
+          }
+        },
+        {
+          "rank": 20,
+          "username": "firsttris",
+          "name": "Tristan Teufel",
+          "url": "https://github.com/firsttris",
+          "featuredRepo": {
+            "name": "firsttris/esp32c6-thread-router",
+            "url": "https://github.com/firsttris/esp32c6-thread-router",
+            "description": "ESPHome config that turns an ESP32-C6 (Seeed XIAO) into a cheap Thread 1.4 router (FTD) to extend your Thread and Matter mesh in Home Ass…"
+          }
+        },
+        {
+          "rank": 21,
+          "username": "he-yufeng",
+          "name": "Yufeng He",
+          "url": "https://github.com/he-yufeng",
+          "featuredRepo": {
+            "name": "he-yufeng/CoreCoder",
+            "url": "https://github.com/he-yufeng/CoreCoder",
+            "description": "Minimal AI coding agent (~1,000 lines of Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly N…"
+          }
+        },
+        {
+          "rank": 22,
+          "username": "78",
+          "name": "Xiaoxia",
+          "url": "https://github.com/78",
+          "featuredRepo": {
+            "name": "78/xiaozhi-esp32",
+            "url": "https://github.com/78/xiaozhi-esp32",
+            "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人"
+          }
+        },
+        {
+          "rank": 23,
+          "username": "magnus919",
+          "name": "Magnus Hedemark",
+          "url": "https://github.com/magnus919",
+          "featuredRepo": {
+            "name": "magnus919/agent-skills",
+            "url": "https://github.com/magnus919/agent-skills",
+            "description": "Curated collection of AI agent skills for Hermes and other agent frameworks"
+          }
+        },
+        {
+          "rank": 24,
+          "username": "alexechoi",
+          "name": "Alex Choi",
+          "url": "https://github.com/alexechoi",
+          "featuredRepo": {
+            "name": "alexechoi/concord-mcp",
+            "url": "https://github.com/alexechoi/concord-mcp",
+            "description": "Shared work-state for coding agents: claim work, leave handoffs, and generate review packets before PRs, over MCP."
+          }
+        },
+        {
+          "rank": 25,
+          "username": "topjohnwu",
+          "name": "John Wu",
+          "url": "https://github.com/topjohnwu",
+          "featuredRepo": {
+            "name": "topjohnwu/Magisk",
+            "url": "https://github.com/topjohnwu/Magisk",
+            "description": "The Magic Mask for Android"
+          }
+        }
+      ]
     }
   ],
   "best": []
